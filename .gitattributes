@@ -1,0 +1,13 @@
+# Normalize line endings: LF stored in repo, platform-native on checkout.
+* text=auto
+
+# Markdown: always LF, even on Windows (keeps diffs and tooling clean).
+*.md text eol=lf
+
+# Binary-ish files that must never be touched by Git's line-ending handling.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.pdf binary
