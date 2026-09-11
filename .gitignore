@@ -2,3 +2,6 @@
 
 .reasonix/
 reasonix.toml
+
+node_modules/
+dist/
