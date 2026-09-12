@@ -1,0 +1,68 @@
+{
+  "schema": "Bernard gloss overrides. Keyed by the exact lexicon key (lowercase printed form). Each value is an `edited` card the reader shows on click: { lemma?, pos?, gloss, note? }. Where `lemma`/`pos` are omitted the entry keeps Whitaker's. The note carries a treatise reference (chapter = Latin heading, e.g. 'Ch. II').",
+  "entries": {
+    "humilitas": {"lemma": "humilitas, humilitatis", "pos": "N", "gloss": "humility — the way to truth; the virtue by which one is made low to oneself by truest self-knowledge.", "note": "Bernard's definition, Ch. II: 'humilitas est virtus, qua homo verissima sui cognitione sibi ipse vilescit.' It is Christ's way ('Ego sum via'); its twelve degrees are the ladder to truth."},
+    "humilitatis": {"lemma": "humilitas, humilitatis", "pos": "N", "gloss": "of humility; humility — the way to truth.", "note": "See 'humilitas'. 'duodecim gradus humilitatis' (Ch. III), the degrees to be ascended, per Benedict (Reg. 7)."},
+    "humilitatem": {"lemma": "humilitas, humilitatis", "pos": "N", "gloss": "humility (acc.) — the way to truth and the ladder's summit.", "note": "See 'humilitas'. 'ad culmen humilitatis perveniant' (Ch. II)."},
+    "humilitate": {"lemma": "humilitas, humilitatis", "pos": "N", "gloss": "by/through humility — the ascent to truth.", "note": "See 'humilitas'. Bernard speaks of the fruit of humility, the reward of its ascent."},
+
+    "superbia": {"lemma": "superbia, superbiae", "pos": "N", "gloss": "pride — love of one's own excellence; the descent opposed to humility.", "note": "Ch. IV: 'superbia … amor propriae excellentiae'. The proud man, like the Pharisaeus, exalts himself."},
+    "superbiae": {"lemma": "superbia, superbiae", "pos": "N", "gloss": "of pride — the descending degrees Bernard traces.", "note": "See 'superbia'. The work is titled 'de gradibus humilitatis et superbiae'."},
+    "superbiam": {"lemma": "superbia, superbiae", "pos": "N", "gloss": "pride (acc.) — inflated self-love.", "note": "See 'superbia'. 'propter superbiam' Satan fell from truth (Ch. VIII)."},
+
+    "charitas": {"lemma": "charitas, charitatis", "pos": "N", "gloss": "charity — the sweet food that rewards the fully-ascended ladder; the gift of the Holy Spirit.", "note": "Ch. III: 'Vere dulcis et suavis cibus charitas'; per Benedict it crowns the twelve grades (Reg. 7). 'Charitas Dei diffusa est in cordibus nostris per Spiritum Sanctum' (Ch. VII). The extract spells it 'charitas'."},
+    "charitatis": {"lemma": "charitas, charitatis", "pos": "N", "gloss": "of charity — the end of the humble ascent.", "note": "See 'charitas'. 'in cellaria charitatis' — the fellow-brethren's hearts (Ch. VII)."},
+    "charitatem": {"lemma": "charitas, charitatis", "pos": "N", "gloss": "charity (acc.) — the reward of climbed humility.", "note": "See 'charitas'. 'ad latitudinem transeam charitatis' (Ch. IX)."},
+    "charitate": {"lemma": "charitas, charitatis", "pos": "N", "gloss": "by/through charity.", "note": "See 'charitas'. 'igni charitatis succensam' (Ch. VII)."},
+
+    "curiositas": {"lemma": "curiositas, curiositatis", "pos": "N", "gloss": "curiosity — the first degree of pride; the eye that wanders outward instead of guarding the heart.", "note": "Ch. X: 'Primus itaque superbiae gradus est curiositas.' The curious monk feeds goats ('haedos'); the reprobate angel fell from truth through curiosity."},
+    "curiositatis": {"lemma": "curiositas, curiositatis", "pos": "N", "gloss": "of curiosity — the first step of pride.", "note": "See 'curiositas'. 'intentionem tuae curiositatis inquirere' (Ch. X)."},
+    "curiositatem": {"lemma": "curiositas, curiositatis", "pos": "N", "gloss": "curiosity (acc.) — the first proud turning outward.", "note": "See 'curiositas'. 'per curiositatem a veritate cecidit' (Ch. X)."},
+    "curiositate": {"lemma": "curiositas, curiositatis", "pos": "N", "gloss": "by curiosity.", "note": "See 'curiositas'. 'non simili quidem curiositate, sed mirabili charitate' (Ch. IX)."},
+    "curiositati": {"lemma": "curiositas, curiositatis", "pos": "N", "gloss": "to/for curiosity.", "note": "See 'curiositas'."},
+
+    "misericordia": {"lemma": "misericordia, misericordiae", "pos": "N", "gloss": "mercy — compassion rooted in shared misery; Christ became merciful through the flesh.", "note": "Ch. VI: Christ 'miser fieri ut misereri disceret'; 'Beati misericordes' (Mt 5:7)."},
+    "misericordiam": {"lemma": "misericordia, misericordiae", "pos": "N", "gloss": "mercy (acc.) — the pity learnt from suffering.", "note": "See 'misericordia'. 'didicisse misericordiam' of Christ (Ch. VII)."},
+    "misericordiae": {"lemma": "misericordia, misericordiae", "pos": "N", "gloss": "of mercy.", "note": "See 'misericordia'."},
+
+    "miser": {"lemma": "miser, misera, miserum", "pos": "ADJ", "gloss": "wretched, miserable — one aware of his own wretchedness, the root of mercy.", "note": "Ch. IV: 'vere miser es, et sic discas misereri'; Christ 'miser fieri ut misereri disceret' (Ch. VI)."},
+    "miseria": {"lemma": "miseria, miseriae", "pos": "N", "gloss": "misery, wretchedness — the shared condition out of which one learns compassion.", "note": "Ch. VI: 'de lacu miseriae et de luto faecis' (Ps 39:3); the brother's misery is felt by a 'misero corde'."},
+    "miseriam": {"lemma": "miseria, miseriae", "pos": "N", "gloss": "misery (acc.) — the common wretchedness of humanity.", "note": "See 'miseria'. Christ 'experiri … carnis miserias' (Ch. IX)."},
+    "miseriae": {"lemma": "miseria, miseriae", "pos": "N", "gloss": "of misery.", "note": "See 'miseria'."},
+    "miseriis": {"lemma": "miseria, miseriae", "pos": "N", "gloss": "with/because of miseries.", "note": "See 'miseria'."},
+
+    "gradus": {"lemma": "gradus, gradus", "pos": "N", "gloss": "degree, step — one rung of the twelve-degree ladder of humility.", "note": "Benedict's 'duodecim gradus' (Reg. 7; Ch. I, III): degrees to be ascended, not counted, leading to truth."},
+    "gradibus": {"lemma": "gradus, gradus", "pos": "N", "gloss": "degrees, steps — the rungs of the ladder of humility.", "note": "See 'gradus'. 'locuturus ergo de gradibus humilitatis' (Ch. I)."},
+    "gradum": {"lemma": "gradus, gradus", "pos": "N", "gloss": "degree, step (acc.) — a rung of the ascent.", "note": "See 'gradus'. 'de gradu in gradum proficiunt' (Ch. II)."},
+    "gradu": {"lemma": "gradus, gradus", "pos": "N", "gloss": "in degree/step.", "note": "See 'gradus'."},
+
+    "veritas": {"lemma": "veritas, veritatis", "pos": "N", "gloss": "truth — the reward of humility; sought in oneself, in one's neighbour, and in its own nature.", "note": "Christ: 'Ego sum via, veritas, et vita' (Ch. I); 'cognitio veritatis fructus esse humilitatis'. Its three grades: in se, in proximis, in sua natura (Ch. V–VI)."},
+    "veritatis": {"lemma": "veritas, veritatis", "pos": "N", "gloss": "of truth.", "note": "See 'veritas'. 'perducet ad veritatem', 'cognitionem veritatis' (Ch. II)."},
+    "veritatem": {"lemma": "veritas, veritatis", "pos": "N", "gloss": "truth (acc.) — the fruit of humble ascent.", "note": "See 'veritas'. 'quae ducit ad veritatem' (Ch. I)."},
+    "veritate": {"lemma": "veritas, veritatis", "pos": "N", "gloss": "in/by truth.", "note": "See 'veritas'. 'protinus in veritate …' Bernard urges the humble to stand in truth."},
+    "veritati": {"lemma": "veritas, veritatis", "pos": "N", "gloss": "to truth.", "note": "See 'veritas'. 'veritati adhaerens' (Ch. V)."},
+
+    "excessus": {"lemma": "excessus, excessus", "pos": "N", "gloss": "excess, rapture — a going out of oneself, toward God.", "note": "Ch. VI: the third grade of truth is reached 'per excessum contemplationis'; the prophet speaks 'in excessu suo: Omnis homo mendax' (Ch. V)."},
+    "excessu": {"lemma": "excessus, excessus", "pos": "N", "gloss": "in excess/rapture — in a going out of oneself.", "note": "See 'excessus'. 'dixit in excessu suo: Omnis homo mendax' (Ch. V)."},
+    "excessum": {"lemma": "excessus, excessus", "pos": "N", "gloss": "excess/rapture (acc.).", "note": "See 'excessus'. 'ad tertium per excessum contemplationis' (Ch. VI)."},
+
+    "abraham": {"pos": "N", "gloss": "Abraham — the patriarch; from whose seed Christ took flesh.", "note": "Ch. IX: 'Verbum caro factum est … caro de carne Abrahae'; 'semen Abrahae apprehendit' (Hebr. 2:16)."},
+    "pharisaeus": {"pos": "N", "gloss": "Pharisee — the proud man who thanks God he is not like other men.", "note": "Ch. V: the proud Pharisaeus speaks 'in excessu suo: Deus, gratias ago tibi' (Lk 18:11), the contrary of the humble prophet's 'Omnis homo mendax'."},
+    "bernardi": {"pos": "N", "gloss": "Bernard of Clairvaux — the author ('of Bernard', gen.).", "note": "Title and Ch. IX heading ('Gemitus et suspiria sancti Bernardi'): genitive of Bernardus."},
+    "godefride": {"pos": "N", "gloss": "Brother Godfrey — the Cistercian brother who asked Bernard to write this (vocative).", "note": "Praefatio & Admonitio: 'Rogasti me, frater Godefride …'."},
+    "mundicordes": {"lemma": "mundicors, -dis", "pos": "ADJ", "gloss": "pure in heart — 'Beati mundo corde, quoniam ipsi Deum videbunt' (Mt 5:8).", "note": "Pl. nom. of mundicors; Bernard: the third grade of truth is seen by a pure heart (Ch. II, VI)."},
+    "elias": {"pos": "N", "gloss": "Elijah (Elias) — caught up ('raptus') into heaven (2 Kgs 2).", "note": "Ch. VIII: 'Raptus est Paulus, raptus est Elias, translatus est Enoch' — unlike Christ, who was 'elevatus' by his own power."},
+    "heliu": {"pos": "N", "gloss": "Elihu (Heliu) — the speaker of Job 32, whose wine-like belly must vent.", "note": "Ch. XIII: the boaster bursts into 'Heliu verba': 'En venter meus quasi mustum absque spiraculo' (Job 32:19). NB: this is Elihu, not Elijah."},
+    "inculpabiliter": {"pos": "ADV", "gloss": "blamelessly, without blame.", "note": "Ch. X: David and the Lord raise their eyes to ask and to give aid — 'ambo inculpabiliter'."},
+    "sion": {"pos": "N", "gloss": "Zion (Sion) — 'speculatio' (watchtower), the summit from which truth is seen.", "note": "Ch. II: 'in culmine humilitatis … velut in Sion, id est in speculatione, … veritatem prospiciant.'"},
+    "oblivisicitur": {"pos": "V", "gloss": "he forgets (obliviscor, -i).", "note": "Ch. II: 'qui punire non oblivisicitur' — the source prints 'oblivisicitur' for 'obliviscitur'; a slip to correct in latin.md."},
+    "absalon": {"pos": "N", "gloss": "Absalom — David's son; 'spare the boy Absalom'.", "note": "Ch. IV: 'Parcite, inquit, puero Absalon' (2 Sam 18:5) — love's partial judgement, set against true judgement."},
+    "simon": {"pos": "N", "gloss": "Simon (Bar-Iona) — Simon Peter, blessed by the Father's revelation.", "note": "Ch. VII: 'Beatus es, Simon Bar Iona, quia caro et sanguis non revelavit tibi, sed Pater meus' (Mt 16:17)."},
+    "iona": {"pos": "N", "gloss": "Jonah (Iona) — 'Bar Iona' = son of Jonah; patronymic of Simon Peter.", "note": "Ch. VII (Simon Bar Iona, Mt 16:17)."},
+    "enoch": {"pos": "N", "gloss": "Enoch — translated ('translatus') into heaven (Gen 5:24; Ecclus 44:16).", "note": "Ch. VIII: 'Raptus est Paulus, raptus est Elias, translatus est Enoch'."},
+    "pedetentim": {"pos": "ADV", "gloss": "step by step, gradually.", "note": "Ch. IX: 'ardua scala tutius pedetentim ascenditur' — the steep ladder is climbed step by step, more safely."},
+    "penultimo": {"pos": "ADJ", "gloss": "in the penultimate (place/degree).", "note": "Ch. XI: 'in penultimo levitas cohibetur' — levity is checked in the penultimate degree, mirroring the highest humility."},
+    "grossescere": {"lemma": "grossesco, -ere", "pos": "V", "gloss": "to grow gross, swell (inchoative of grossus).", "note": "Ch. XIII: once vanity grows and 'vesica grossescere coeperit' the boaster must vent or burst."},
+    "martha": {"pos": "N", "gloss": "Martha — sister of Lazarus (Jn 11); praised for her faith.", "note": "Ch. XV: 'O Martha, magna nobis fidei tuae insignia tribuis'."}
+  }
+}

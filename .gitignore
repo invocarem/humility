@@ -5,3 +5,6 @@ reasonix.toml
 
 node_modules/
 dist/
+
+# Reproducible lexicon build artifact (regenerate with lexicon:analyze)
+content/lexicon/analyses.json

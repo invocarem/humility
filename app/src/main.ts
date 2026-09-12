@@ -1,5 +1,6 @@
 import { work, allChapters } from "@content/work";
 import type { Chapter, CruxNote, RenderingId, Segment } from "@content/schema";
+import { glossFor, lemmaFor, lookup, normalise, sensesFor } from "./dictionary";
 import "./styles.css";
 
 type Mode = "read" | "study";
@@ -24,6 +25,14 @@ function escapeHtml(value: string): string {
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;");
+}
+
+/** Word-token boundary regexp (Latin letters, incl. accented, plus apostrophes). */
+const WORD_RE = /([A-Za-z\u00C0-\u024F''\u2019]+)/g;
+
+/** Escape `text`, then wrap each Latin word in a clickable `<span class="w">`. */
+function latinTokenHtml(text: string): string {
+  return escapeHtml(text).replace(WORD_RE, `<span class="w" data-word="$1">$1</span>`);
 }
 
 function chapters(): Chapter[] {
@@ -54,7 +63,8 @@ function notesFor(id: string): CruxNote[] {
 function segmentHtml(segment: Segment, field: "latin" | "mills" | "close"): string {
   const selected = segment.id === state.selected ? " selected" : "";
   const flag = segment.notes?.length ? `<sup class="note-flag">n</sup>` : "";
-  return `<span class="segment${selected}" data-id="${escapeHtml(segment.id)}">${escapeHtml(segment[field])}${flag}</span> `;
+  const body = field === "latin" ? latinTokenHtml(segment[field]) : escapeHtml(segment[field]);
+  return `<span class="segment${selected}" data-id="${escapeHtml(segment.id)}">${body}${flag}</span> `;
 }
 
 function pane(label: string, field: "latin" | "mills" | "close", extraClass: string): string {
@@ -129,6 +139,66 @@ function drawerHtml(): string {
   return `<aside class="drawer">${items}</aside>`;
 }
 
+function dictCardHtml(wordRaw: string): string {
+  const key = normalise(wordRaw);
+  const entry = lookup(wordRaw);
+  if (!entry) {
+    return `<div class="dict-empty">No dictionary entry for <em>${escapeHtml(key)}</em>.</div>`;
+  }
+  const lemma = lemmaFor(entry);
+  const pos = entry.edited?.pos ?? entry.senses?.[0]?.pos ?? (entry.pos?.[0] ?? "");
+  const curated = entry.edited ? `<span class="curated-tag">curated</span>` : "";
+  const gloss = `<p class="dict-gloss">${escapeHtml(glossFor(entry))}</p>`;
+  const note = entry.edited?.note ? `<p class="dict-note">${escapeHtml(entry.edited.note)}</p>` : "";
+  const extra = sensesFor(entry);
+  const more =
+    extra.length > 1
+      ? `<details class="dict-more"><summary>${extra.length} Whitaker senses</summary>${extra
+          .map((s) => `<p>${escapeHtml(s)}</p>`)
+          .join("")}</details>`
+      : "";
+  const count = entry.count != null ? `<div class="dict-count">${escapeHtml(String(entry.count))}× in this text</div>` : "";
+  return `
+    <div class="dict-head">
+      <span class="dict-word">${escapeHtml(entry.key)}</span>
+      ${pos ? `<span class="dict-pos">${escapeHtml(pos)}</span>` : ""}
+      ${curated}
+    </div>
+    <div class="dict-lemma">${escapeHtml(lemma)}${count ? ` · ${count}` : ""}</div>
+    ${gloss}
+    ${note}
+    ${more}
+  `;
+}
+
+function showDict(wordRaw: string, anchor: HTMLElement): void {
+  const el = root.querySelector<HTMLElement>("#dict");
+  if (!el) {
+    return;
+  }
+  el.innerHTML = dictCardHtml(wordRaw);
+  el.hidden = false;
+  const margin = 10;
+  const rect = anchor.getBoundingClientRect();
+  const width = Math.min(360, window.innerWidth - margin * 2);
+  let left = Math.max(margin, Math.min(rect.left, window.innerWidth - width - margin));
+  let top = rect.bottom + margin;
+  const estHeight = el.offsetHeight || 220;
+  if (top + estHeight > window.innerHeight - margin) {
+    top = Math.max(margin, rect.top - estHeight - margin);
+  }
+  el.style.width = `${width}px`;
+  el.style.left = `${left}px`;
+  el.style.top = `${top}px`;
+}
+
+function hideDict(): void {
+  const el = root.querySelector<HTMLElement>("#dict");
+  if (el) {
+    el.hidden = true;
+  }
+}
+
 function readerPanes(): string {
   const englishLabel = state.english === "mills" ? "Mills, 1929" : "Close English";
   if (state.mode === "study") {
@@ -174,6 +244,7 @@ function render(): void {
         </main>
       </div>
       ${drawerHtml()}
+      <aside class="dict" id="dict" hidden></aside>
       <footer class="statusbar">
         Latin is the index. Click a sentence to align the English. Notes open only on a crux.
       </footer>
@@ -270,6 +341,14 @@ function bind(): void {
     });
   });
 
+  root.querySelectorAll<HTMLElement>(".w").forEach((node) => {
+    node.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const word = node.dataset.word ?? node.textContent ?? "";
+      showDict(word, node);
+    });
+  });
+
   const search = root.querySelector<HTMLInputElement>("input[type=search]");
   search?.addEventListener("input", () => {
     state.query = search.value;
@@ -312,6 +391,7 @@ document.addEventListener("keydown", (event) => {
   }
   if (event.key === "Escape") {
     applySelection(null);
+    hideDict();
   }
 });
 

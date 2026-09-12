@@ -315,3 +315,90 @@ button[aria-pressed="true"] {
     border-top: 1px solid var(--rule);
   }
 }
+
+/* --- clickable Latin words --- */
+.w {
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background 0.12s ease;
+}
+.w:hover {
+  background: color-mix(in srgb, var(--hi) 55%, transparent);
+}
+
+/* --- dictionary popup --- */
+.dict {
+  position: fixed;
+  z-index: 40;
+  background: var(--note);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: 0.85rem 1rem;
+  font-size: 0.92rem;
+}
+.dict-head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.dict-word {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+.dict-pos {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  background: var(--paper-2);
+  border-radius: 3px;
+  padding: 0.05rem 0.35rem;
+}
+.curated-tag {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #14532d;
+  background: #dcfce7;
+  border-radius: 3px;
+  padding: 0.05rem 0.35rem;
+}
+.dict-lemma {
+  margin-top: 0.15rem;
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+.dict-gloss {
+  margin: 0.5rem 0 0.2rem;
+  line-height: 1.45;
+}
+.dict-note {
+  margin: 0.3rem 0 0;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  border-top: 1px dashed var(--rule);
+  padding-top: 0.4rem;
+}
+.dict-more {
+  margin-top: 0.4rem;
+  font-size: 0.82rem;
+}
+.dict-more summary {
+  cursor: pointer;
+  color: var(--accent);
+}
+.dict-more p {
+  margin: 0.3rem 0;
+  color: var(--ink-soft);
+}
+.dict-count {
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
+.dict-empty {
+  color: var(--ink-soft);
+}

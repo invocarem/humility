@@ -12,7 +12,9 @@
     "electron:dev": "concurrently -k \"vite\" \"wait-on http://127.0.0.1:5173 && electron .\"",
     "start": "npm run build && electron .",
     "lexicon:extract": "python tools/extract_wordlist.py",
-    "lexicon:analyze": "bash tools/analyze-in-docker.sh"
+    "lexicon:analyze": "bash tools/analyze-in-docker.sh",
+    "lexicon:parse": "python tools/parse_analyses.py",
+    "lexicon:curate": "python tools/apply_overrides.py"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
