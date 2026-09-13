@@ -28,7 +28,7 @@ at a time.
 - **No code change until a step is started.** This file is the plan; it is not
   itself an implementation.
 
-**Current step:** **Step 2** — per-work active state + a work switcher (Step 1 is complete).
+**Current step:** **Step 6** — Work #2: Benedictine Psalter (Steps 1–5 are complete).
 
 ---
 
@@ -80,6 +80,8 @@ reader reads the active work from state — with zero visual/behavioral change. 
 
 ## Step 2 — Per-work active state + a work switcher
 
+**Status: DONE.** ✔ A `Work` dropdown in the top bar, populated from `works`.
+
 Goal: the reader can switch the active work, even while only *De gradibus* is
 registered. This proves the registry drives the UI.
 - Add a minimal work selector (e.g. a dropdown in the top bar) populated from
@@ -87,13 +89,19 @@ registered. This proves the registry drives the UI.
 - Switching resets chapter/selection to that work's first chapter and keeps
   search within the active work.
 
+Also done here: retitled the app **Lectio — patristic & biblical Latin reader**
+(top-bar brand + browser `<title>` in `index.html`).
+
 Verify:
-- [ ] `npm run build` green; *De gradibus* works exactly as before via the
+- [x] `npm run build` green; *De gradibus* works exactly as before via the
   default, and the selector lists (for now) one entry.
 
 ---
 
 ## Step 3 — Generalize translations (per-work rendering list)
+
+**Status: DONE.** ✔ `Segment` now stores `translations: Record<TranslationId, string>`;
+the reader renders one pane per entry in `Work.translations`.
 
 Goal: replace the fixed two-column assumption with a per-work translation
 catalogue, so later works can have their own named renderings (e.g. *Coverdale
@@ -107,13 +115,25 @@ catalogue, so later works can have their own named renderings (e.g. *Coverdale
 - This is a type-level refactor touching `schema.ts`, `content/gradibus/parts/*.ts` (the
   `segment()`/`one()` helpers), and the reader panes.
 
+How it was done: `RenderingId` was dropped; `TranslationId = string`. The
+`segment()`/`one()` builders keep their positional `(id, latin, mills, close,
+notes?)` signature and simply store a `translations: { mills, close }` map, so
+the ~58 part callsites needed **zero changes**. Panes and the read-mode picker
+are populated from `activeWork().translations` (order + label + id), so a new
+work that adds, say, `coverdale` under its own `translations` list renders it
+automatically. The read-mode picker buttons show each translation's `id`.
+
 Verify:
-- [ ] Study/Read modes render the same two English columns for *De gradibus*
+- [x] Study/Read modes render the same two English columns for *De gradibus*
       before and after.
 
 ---
 
 ## Step 4 — Generalize the analyses pipeline to per-work lexicon
+
+**Status: DONE.** ✔ All four pipeline scripts now take `--work` and resolve
+`content/<work>/lexicon/`; *De gradibus* lexicon lives under
+`content/gradibus/lexicon/`; the reader loads only the active work's lexicon.
 
 Goal: each work gets its own closed word list + glossary, so glosses and the
 dict popup stay per-work (e.g. *caritas* deserves a different note in the
@@ -128,9 +148,10 @@ psalter than in *De gradibus*).
   per work; `overrides.json` + `lexicon.json` remain tracked per work.
 
 Verify:
-- [ ] `bash tools/analyze-in-docker.sh 20 --work gradibus` reproduces the
-      current 20-word smoke test; `npm run lexicon:curate` still merges the 54
-      Bernard cards.
+- [x] `bash tools/analyze-in-docker.sh 20 --work gradibus` reproduces the
+      current 20-word smoke test (0 misses); `npm run lexicon:curate` still
+      merges the 54 Bernard cards (and `lexicon:extract` still yields 3,311
+      forms / 9,114 tokens).
 
 ---
 
@@ -144,9 +165,22 @@ Goal: stop hand-typing `parts/*.ts` for 150 psalms / 13 books / 86 sermons.
   renderings → add crux notes. Keep `latin.md` authoritative and untouched by
   the app, exactly as today.
 
+**Status: DONE.** ✔ `tools/ingest_latin.py` parses `content/<work>/latin.md`
+into the parts → chapters → numbered-paragraph skeleton and can emit a
+`scaffold.ts` starting point (Latin filled, translations + crux notes blank).
+Per-work `content/<work>/ingest.json` may override a chapter boundary (the
+De gradibus `## Caput III` marker sits two paragraphs early; `cap-4` is set to
+start at §11). Scripts: `npm run ingest:verify` / `npm run ingest:scaffold`.
+Authoring flow: scaffold Latin → fill renderings → add crux notes.
+
 Verify:
-- [ ] Harness regenerates the current *De gradibus* structure cleanly (a dry
-      re-scaffold that matches the existing `parts/`).
+- [x] Harness regenerates the current *De gradibus* structure cleanly (a dry
+      re-scaffold that matches the existing `parts/`). — `python
+      tools/ingest_latin.py --work gradibus` reports all 25 chapters /
+      62 paragraphs matching `content/gradibus/parts/` (chapters retractatio,
+      praefatio, cap-1…cap-22, admonitio; paragraphs r1–r4, pref, p1–p57). The
+      generated `scaffold.ts` also type-checks against the reader's `Chapter`
+      schema.
 
 ---
 

@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
-"""Build a unique-form list from content/latin.md. No morphology."""
+"""Build a unique-form list from a work's Latin source. No morphology.
+
+Usage:
+    python tools/extract_wordlist.py                 # default: content/gradibus/latin.md
+    python tools/extract_wordlist.py --work psalter
+"""
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "content" / "latin.md"
-OUT = ROOT / "content" / "lexicon" / "forms.json"
+CONTENT = ROOT / "content"
 
 SKIP_HEADING = re.compile(
     r"^(Retractatio|Praefatio|Caput|Admonitio)\b",
@@ -107,7 +112,7 @@ def extract(text: str) -> dict:
             }
         )
     return {
-        "source": "content/latin.md",
+        "source": "",
         "form_count": len(forms),
         "token_count": sum(counts.values()),
         "forms": forms,
@@ -115,10 +120,20 @@ def extract(text: str) -> dict:
 
 
 def main() -> None:
-    data = extract(SOURCE.read_text(encoding="utf-8"))
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {OUT.relative_to(ROOT)} ({data['form_count']} forms, {data['token_count']} tokens)")
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--work", default="gradibus", help="work id (default: gradibus)")
+    args = parser.parse_args()
+
+    source = CONTENT / args.work / "latin.md"
+    out = CONTENT / args.work / "lexicon" / "forms.json"
+    if not source.is_file():
+        raise SystemExit(f"Missing {source.relative_to(ROOT)}")
+
+    data = extract(source.read_text(encoding="utf-8"))
+    data["source"] = str(source.relative_to(ROOT))
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {out.relative_to(ROOT)} ({data['form_count']} forms, {data['token_count']} tokens)")
 
 
 if __name__ == "__main__":

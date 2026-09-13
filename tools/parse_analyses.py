@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Turn Whitaker's raw batch output into a structured, reader-ready lexicon.
 
-Reads content/lexicon/analyses.json (the raw `words` output, one block per
-unique form) and writes content/lexicon/lexicon.json with one structured
+Reads content/<work>/lexicon/analyses.json (the raw `words` output, one block per
+unique form) and writes content/<work>/lexicon/lexicon.json with one structured
 entry per form:
 
     {
@@ -25,8 +25,9 @@ so the fields are best-effort and are meant to be reviewed, especially the
 `no_gloss` entries and the Bernard stems.
 
 Usage:
-    python tools/parse_analyses.py          # parse
-    python tools/parse_analyses.py --show    # also print a per-entry summary
+    python tools/parse_analyses.py                    # parse (default --work gradibus)
+    python tools/parse_analyses.py --show             # also print a per-entry summary
+    python tools/parse_analyses.py --work psalter
 """
 
 from __future__ import annotations
@@ -37,8 +38,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "content" / "lexicon" / "analyses.json"
-OUT = ROOT / "content" / "lexicon" / "lexicon.json"
+CONTENT = ROOT / "content"
 
 # Whitaker part-of-speech abbreviations used in the output.
 POS_TOKENS = (
@@ -198,26 +198,29 @@ def parse_entry(entry: dict) -> dict:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--work", default="gradibus", help="work id (default: gradibus)")
     parser.add_argument("--show", action="store_true", help="print a compact summary")
     args = parser.parse_args()
 
-    if not SRC.is_file():
-        raise SystemExit(f"Missing {SRC.relative_to(ROOT)}. Run tools/analyze_wordlist.py first.")
+    src = CONTENT / args.work / "lexicon" / "analyses.json"
+    out = CONTENT / args.work / "lexicon" / "lexicon.json"
+    if not src.is_file():
+        raise SystemExit(f"Missing {src.relative_to(ROOT)}. Run tools/analyze_wordlist.py first.")
 
-    data = json.loads(SRC.read_text(encoding="utf-8"))
+    data = json.loads(src.read_text(encoding="utf-8"))
     entries = [parse_entry(e) for e in data["analyses"]]
     entries.sort(key=lambda e: e["count"], reverse=True)
     no_gloss = [e["key"] for e in entries if e["no_gloss"]]
 
     payload = {
-        "source": str(SRC.relative_to(ROOT)),
+        "source": str(src.relative_to(ROOT)),
         "engine": data.get("engine"),
         "form_count": len(entries),
         "no_gloss_count": len(no_gloss),
         "entries": entries,
     }
-    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {OUT.relative_to(ROOT)} ({len(entries)} entries, {len(no_gloss)} with no gloss)")
+    out.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {out.relative_to(ROOT)} ({len(entries)} entries, {len(no_gloss)} with no gloss)")
 
     if args.show:
         print("\n--- top 15 by frequency ---")

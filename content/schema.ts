@@ -1,4 +1,5 @@
-export type RenderingId = "mills" | "close";
+/** A translation/rendering id. Defined per work via that work's `translations` list. */
+export type TranslationId = string;
 
 /** A library work. The id must be unique across the whole repository. */
 export type WorkId = "gradibus" | "psalter" | "confessions" | "cantica";
@@ -14,8 +15,8 @@ export interface CruxNote {
 export interface Segment {
   id: string;
   latin: string;
-  mills: string;
-  close: string;
+  /** One rendering per translation. Keys are the work's TranslationId values. */
+  translations: Record<TranslationId, string>;
   notes?: CruxNote[];
 }
 
@@ -41,7 +42,7 @@ export interface Part {
 }
 
 export interface TranslationMeta {
-  id: RenderingId;
+  id: TranslationId;
   label: string;
   year?: number;
   note: string;
@@ -65,7 +66,7 @@ export function segment(
   close: string,
   notes?: CruxNote[],
 ): Segment {
-  return { id, latin, mills, close, ...(notes ? { notes } : {}) };
+  return { id, latin, translations: { mills, close }, ...(notes ? { notes } : {}) };
 }
 
 export function paragraph(

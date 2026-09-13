@@ -8,12 +8,12 @@ The root `README.md` is the reader bookmark. This file is only the vocabulary pi
 
 | File | Status |
 | --- | --- |
-| `forms.json` | Done. 3,311 forms / 9,114 tokens from `content/latin.md`. |
+| `forms.json` | Done. 3,311 forms / 9,114 tokens from `content/gradibus/latin.md`. |
 | `analyses.json` | Done (generated, gitignored). 3,311 forms, 0 misses. |
 | `lexicon.json` | Done. Parsed dictionary, 3,311 entries; 54 curated (Bernard) cards merged in. |
 | `overrides.json` | Done. Hand-authored Bernard glosses + the 18 `no_gloss` cards. |
 
-`01_steps_of_humility_and_pride.md` is not a source. Do not edit it. Re-extract from `content/latin.md` only.
+`01_steps_of_humility_and_pride.md` is not a source. Do not edit it. Re-extract from `content/gradibus/latin.md` only. Every script takes `--work <id>` (default `gradibus`) and resolves `content/<work>/lexicon/`; the reader loads only the active work's lexicon.
 
 ## 1. Extract (already run)
 
@@ -35,7 +35,7 @@ Each form keeps:
 - `count`
 - `first` — paragraph mark when first seen (`R.2`, `8`, …)
 
-Rebuild `forms.json` only after `content/latin.md` changes.
+Rebuild `forms.json` only after `content/gradibus/latin.md` changes.
 
 ## 2. Analyze (do this next)
 
@@ -103,7 +103,7 @@ npm run lexicon:curate
 
 or `python tools/apply_overrides.py`.
 
-`content/lexicon/overrides.json` maps a lexicon `key` to an `edited` card:
+`overrides.json` maps a lexicon `key` to an `edited` card:
 
 - `gloss` — short, treatise-faithful Bernard gloss (preferred over Whitaker’s)
 - `note` — optional reference, quoted Latin, and context
@@ -124,7 +124,7 @@ Curated coverage:
   *Godefride*, *Elias / Heliu*, *Sion*, *Absalon*, *Simon*, *Iona*, *Enoch*,
   *Martha*) and words (*mundicordes*, *inculpabiliter*, *pedetentim*,
   *penultimo*, *grossescere*). `oblivisicitur` is noted as a source slip for
-  *obliviscitur* (to fix in `content/latin.md`).
+  *obliviscitur* (to fix in `content/gradibus/latin.md`).
 
 ## 5. Reader (done)
 
@@ -133,7 +133,7 @@ Click-a-word is a second gesture so it does not fight sentence alignment:
 - clicking between words still aligns English (the existing `.segment` click);
 - clicking a Latin word opens a dictionary popup.
 
-`app/src/dictionary.ts` imports `lexicon.json` and exposes `lookup`,
+`app/src/dictionary.ts` imports the per-work `lexicon.json` (keyed by `WorkId`) and exposes `lookup`,
 `glossFor`, `lemmaFor`, `sensesFor`. `app/src/main.ts` tokenises each Latin
 segment into `<span class="w">` elements and shows a fixed popup on word click
 (shows `edited.gloss` when present, else Whitaker’s first sense).

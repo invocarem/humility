@@ -1,4 +1,5 @@
-import lexiconData from "@content/lexicon/lexicon.json";
+import gradibusLexicon from "@content/gradibus/lexicon/lexicon.json";
+import type { WorkId } from "@content/schema";
 
 export interface Edited {
   lemma?: string;
@@ -30,10 +31,28 @@ interface LexiconPayload {
   entries: Entry[];
 }
 
-const payload = lexiconData as unknown as LexiconPayload;
-const byKey = new Map<string, Entry>();
-for (const entry of payload.entries) {
-  byKey.set(entry.key, entry);
+function buildByKey(payload: LexiconPayload): Map<string, Entry> {
+  const byKey = new Map<string, Entry>();
+  for (const entry of payload.entries) {
+    byKey.set(entry.key, entry);
+  }
+  return byKey;
+}
+
+/**
+ * Per-work lexicon registry. Add a work here once content/<work>/lexicon/lexicon.json
+ * exists; the lookup below then resolves clicks against that work only, so glosses
+ * stay work-specific (e.g. caritas in the psalter vs De gradibus).
+ */
+const lexicons: Partial<Record<WorkId, LexiconPayload>> = {
+  gradibus: gradibusLexicon as unknown as LexiconPayload,
+};
+
+const byKeyByWork = new Map<WorkId, Map<string, Entry>>();
+for (const [workId, payload] of Object.entries(lexicons)) {
+  if (payload) {
+    byKeyByWork.set(workId as WorkId, buildByKey(payload));
+  }
 }
 
 /** Normalise a clicked token to a lexicon key (lowercase, punctuation stripped). */
@@ -44,12 +63,13 @@ export function normalise(word: string): string {
     .replace(/^[\W_]+|[\W_]+$/g, "");
 }
 
-export function lookup(raw: string): Entry | undefined {
+export function lookup(raw: string, workId: WorkId = "gradibus"): Entry | undefined {
   const key = normalise(raw);
-  return key ? byKey.get(key) : undefined;
+  const byKey = byKeyByWork.get(workId);
+  return key && byKey ? byKey.get(key) : undefined;
 }
 
-/** The preferred short gloss: the curated Bernard card first, else Whitaker's first sense. */
+/** The preferred short gloss: the curated card first, else Whitaker's first sense. */
 export function glossFor(entry: Entry): string {
   if (entry.edited?.gloss) {
     return entry.edited.gloss;
@@ -67,6 +87,5 @@ export function lemmaFor(entry: Entry): string {
 
 /** All distinct(ish) gloss senses as lines; curated note appended last. */
 export function sensesFor(entry: Entry): string[] {
-  const lines = entry.senses?.map((s) => s.gloss).filter(Boolean) ?? [];
-  return lines;
+  return entry.senses?.map((s) => s.gloss).filter(Boolean) ?? [];
 }

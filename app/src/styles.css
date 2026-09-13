@@ -77,6 +77,26 @@ body {
   margin-left: auto;
 }
 
+.work-pick {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.work-pick select {
+  font: inherit;
+  text-transform: none;
+  letter-spacing: 0;
+  border: 1px solid var(--rule);
+  background: #fff;
+  color: var(--ink);
+  padding: 0.25rem 0.4rem;
+}
+
 .search {
   display: flex;
   flex-direction: column;

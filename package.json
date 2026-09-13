@@ -14,7 +14,9 @@
     "lexicon:extract": "python tools/extract_wordlist.py",
     "lexicon:analyze": "bash tools/analyze-in-docker.sh",
     "lexicon:parse": "python tools/parse_analyses.py",
-    "lexicon:curate": "python tools/apply_overrides.py"
+    "lexicon:curate": "python tools/apply_overrides.py",
+    "ingest:verify": "python tools/ingest_latin.py",
+    "ingest:scaffold": "python tools/ingest_latin.py --scaffold"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",

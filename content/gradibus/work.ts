@@ -9,7 +9,7 @@ export const gradibus: Work = {
   title: "The Steps of Humility and Pride",
   latinTitle: "De gradibus humilitatis et superbiae",
   source:
-    "Working Latin in content/latin.md (PL 182 with SBO supplements). Author file 01_steps_of_humility_and_pride.md is left unchanged.",
+    "Working Latin in content/gradibus/latin.md (PL 182 with SBO supplements). Author file 01_steps_of_humility_and_pride.md is left unchanged.",
   edition: "PL 182, coll. 941–972, with lacunae supplied from SBO 3 (Leclercq–Rochais)",
   translations: [
     {

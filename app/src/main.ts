@@ -1,7 +1,9 @@
-import { allChapters, defaultWorkId, getWork } from "@content/works";
-import type { Chapter, CruxNote, RenderingId, Segment, WorkId } from "@content/schema";
+import { allChapters, defaultWorkId, getWork, works } from "@content/works";
+import type { Chapter, CruxNote, Segment, TranslationId, Work, WorkId } from "@content/schema";
 import { glossFor, lemmaFor, lookup, normalise, sensesFor } from "./dictionary";
 import "./styles.css";
+
+const APP_TITLE = "Lectio — patristic & biblical Latin reader";
 
 type Mode = "read" | "study";
 
@@ -14,7 +16,7 @@ const root: HTMLElement =
 const state = {
   workId: defaultWorkId as WorkId,
   mode: "study" as Mode,
-  english: "mills" as RenderingId,
+  english: "mills" as TranslationId,
   chapterId: allChapters(getWork(defaultWorkId))[0]?.id ?? "",
   selected: null as string | null,
   query: "",
@@ -38,6 +40,11 @@ function latinTokenHtml(text: string): string {
 
 function activeWork() {
   return getWork(state.workId);
+}
+
+/** Ordered translations for the active work. */
+function translations(): Work["translations"] {
+  return activeWork().translations;
 }
 
 function chapters(): Chapter[] {
@@ -65,14 +72,17 @@ function notesFor(id: string): CruxNote[] {
   return findSegment(id)?.notes ?? [];
 }
 
-function segmentHtml(segment: Segment, field: "latin" | "mills" | "close"): string {
+function segmentHtml(segment: Segment, field: "latin" | TranslationId): string {
   const selected = segment.id === state.selected ? " selected" : "";
   const flag = segment.notes?.length ? `<sup class="note-flag">n</sup>` : "";
-  const body = field === "latin" ? latinTokenHtml(segment[field]) : escapeHtml(segment[field]);
+  const body =
+    field === "latin"
+      ? latinTokenHtml(segment.latin)
+      : escapeHtml(segment.translations[field] ?? "");
   return `<span class="segment${selected}" data-id="${escapeHtml(segment.id)}">${body}${flag}</span> `;
 }
 
-function pane(label: string, field: "latin" | "mills" | "close", extraClass: string): string {
+function pane(label: string, field: "latin" | TranslationId, extraClass: string): string {
   const chapter = currentChapter();
   const blocks = chapter.paragraphs
     .map((paragraph) => {
@@ -146,7 +156,7 @@ function drawerHtml(): string {
 
 function dictCardHtml(wordRaw: string): string {
   const key = normalise(wordRaw);
-  const entry = lookup(wordRaw);
+  const entry = lookup(wordRaw, state.workId);
   if (!entry) {
     return `<div class="dict-empty">No dictionary entry for <em>${escapeHtml(key)}</em>.</div>`;
   }
@@ -205,11 +215,15 @@ function hideDict(): void {
 }
 
 function readerPanes(): string {
-  const englishLabel = state.english === "mills" ? "Mills, 1929" : "Close English";
+  const latin = pane("Latin", "latin", "latin");
   if (state.mode === "study") {
-    return `${pane("Latin", "latin", "latin")}${pane("Mills, 1929", "mills", "english mills")}${pane("Close English", "close", "english close")}`;
+    const trans = translations()
+      .map((meta) => pane(meta.label, meta.id, `english ${meta.id}`))
+      .join("");
+    return `${latin}${trans}`;
   }
-  return `${pane("Latin", "latin", "latin")}${pane(englishLabel, state.english, `english ${state.english}`)}`;
+  const meta = translations().find((entry) => entry.id === state.english) ?? translations()[0];
+  return `${latin}${pane(meta.label, meta.id, `english ${meta.id}`)}`;
 }
 
 function render(): void {
@@ -219,16 +233,26 @@ function render(): void {
     <div class="app">
       <header class="topbar">
         <div class="brand">
-          Bernard reader
+          ${APP_TITLE}
           <small>${escapeHtml(activeWork().latinTitle)}</small>
         </div>
+        <label class="work-pick">
+          <span>Work</span>
+          <select data-work>
+            ${works.map((w) => `<option value="${w.id}" ${w.id === state.workId ? "selected" : ""}>${escapeHtml(w.title)}</option>`).join("")}
+          </select>
+        </label>
         <div class="modes">
           <button data-mode="read" aria-pressed="${state.mode === "read"}">Read</button>
           <button data-mode="study" aria-pressed="${state.mode === "study"}">Study</button>
         </div>
         <div class="english-pick" ${state.mode === "study" ? "hidden" : ""}>
-          <button data-english="mills" aria-pressed="${state.english === "mills"}">Mills</button>
-          <button data-english="close" aria-pressed="${state.english === "close"}">Close</button>
+          ${translations()
+            .map(
+              (meta) =>
+                `<button data-english="${meta.id}" aria-pressed="${state.english === meta.id}">${escapeHtml(meta.id)}</button>`,
+            )
+            .join("")}
         </div>
         <label class="search">
           <span>Search Latin</span>
@@ -309,6 +333,18 @@ function jumpToQuery(): void {
 }
 
 function bind(): void {
+  root.querySelector<HTMLSelectElement>("[data-work]")?.addEventListener("change", (event) => {
+    const id = (event.target as HTMLSelectElement).value as WorkId;
+    if (id === state.workId) {
+      return;
+    }
+    state.workId = id;
+    state.chapterId = allChapters(getWork(id))[0]?.id ?? "";
+    state.selected = null;
+    state.query = "";
+    render();
+  });
+
   root.querySelectorAll<HTMLButtonElement>("[data-mode]").forEach((button) => {
     button.addEventListener("click", () => {
       state.mode = button.dataset.mode as Mode;
@@ -318,7 +354,7 @@ function bind(): void {
 
   root.querySelectorAll<HTMLButtonElement>("[data-english]").forEach((button) => {
     button.addEventListener("click", () => {
-      state.english = button.dataset.english as RenderingId;
+      state.english = button.dataset.english as TranslationId;
       render();
     });
   });

@@ -1,0 +1,6 @@
+{
+  "chapter_starts": {
+    "cap-4": "p11"
+  },
+  "note": "latin.md places its `## Caput III` marker two paragraphs early (§§3–12), but the editorial division ends Caput III at §10 (the twelve degrees) and begins Caput IV with the first-truth discussion at §11. The override moves the cap-4 boundary to §11 so the scaffold matches content/gradibus/parts/."
+}
