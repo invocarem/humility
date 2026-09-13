@@ -1,5 +1,8 @@
 export type RenderingId = "mills" | "close";
 
+/** A library work. The id must be unique across the whole repository. */
+export type WorkId = "gradibus" | "psalter" | "confessions" | "cantica";
+
 export type NoteKind = "word" | "syntax" | "theology" | "text";
 
 export interface CruxNote {
@@ -45,9 +48,12 @@ export interface TranslationMeta {
 }
 
 export interface Work {
+  id: WorkId;
   title: string;
   latinTitle: string;
   source: string;
+  /** Short provenance line for the edition the Latin is taken from. */
+  edition?: string;
   translations: TranslationMeta[];
   parts: Part[];
 }

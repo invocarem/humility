@@ -1,5 +1,5 @@
-import { work, allChapters } from "@content/work";
-import type { Chapter, CruxNote, RenderingId, Segment } from "@content/schema";
+import { allChapters, defaultWorkId, getWork } from "@content/works";
+import type { Chapter, CruxNote, RenderingId, Segment, WorkId } from "@content/schema";
 import { glossFor, lemmaFor, lookup, normalise, sensesFor } from "./dictionary";
 import "./styles.css";
 
@@ -12,9 +12,10 @@ const root: HTMLElement =
   })();
 
 const state = {
+  workId: defaultWorkId as WorkId,
   mode: "study" as Mode,
   english: "mills" as RenderingId,
-  chapterId: allChapters()[0]?.id ?? "",
+  chapterId: allChapters(getWork(defaultWorkId))[0]?.id ?? "",
   selected: null as string | null,
   query: "",
 };
@@ -35,8 +36,12 @@ function latinTokenHtml(text: string): string {
   return escapeHtml(text).replace(WORD_RE, `<span class="w" data-word="$1">$1</span>`);
 }
 
+function activeWork() {
+  return getWork(state.workId);
+}
+
 function chapters(): Chapter[] {
-  return allChapters();
+  return allChapters(activeWork());
 }
 
 function currentChapter(): Chapter {
@@ -91,8 +96,8 @@ function pane(label: string, field: "latin" | "mills" | "close", extraClass: str
 
 function tocHtml(): string {
   const needle = state.query.trim().toLowerCase();
-  return work.parts
-    .map((part) => {
+  return activeWork()
+    .parts.map((part) => {
       const links = part.chapters
         .map((chapter) => {
           const hit =
@@ -215,7 +220,7 @@ function render(): void {
       <header class="topbar">
         <div class="brand">
           Bernard reader
-          <small>${escapeHtml(work.latinTitle)}</small>
+          <small>${escapeHtml(activeWork().latinTitle)}</small>
         </div>
         <div class="modes">
           <button data-mode="read" aria-pressed="${state.mode === "read"}">Read</button>

@@ -4,6 +4,10 @@ A local TypeScript reader for Bernard of Clairvaux, *De gradibus humilitatis et 
 
 This file is also a bookmark for where the work stopped.
 
+> **Expanding to more works?** The plan to turn this into a multi-work library
+> (psalter, Augustine's *Confessions*, Bernard's *Sermones in Cantica*) lives
+> in [`docs/roadmap.md`](docs/roadmap.md) — one step at a time.
+
 ## Do not edit
 
 `01_steps_of_humility_and_pride.md` is the author’s PL extract. The app does not read it. Leave it unchanged.
@@ -16,8 +20,9 @@ App Latin lives in `content/latin.md` (same extract, plus retractatio, missing �
 | --- | --- |
 | `content/latin.md` | Working Latin for the reader |
 | `content/schema.ts` | Segment / paragraph / chapter types |
-| `content/parts/*.ts` | Aligned Latin, Mills 1929, close English, crux notes |
-| `content/work.ts` | Assembles the treatise |
+| `content/gradibus/parts/*.ts` | De gradibus chapters (Latin, Mills 1929, close English, crux notes) |
+| `content/gradibus/work.ts` | Assembles the De gradibus work |
+| `content/works.ts` | Library registry (`works`, `getWork`, `allChapters`) |
 | `content/lexicon/forms.json` | Unique-word list extracted from `latin.md` (**done**) |
 | `content/lexicon/analyses.json` | Whitaker output (**not generated yet**) |
 | `app/src/` | Web UI (Read / Study, click-to-align) |

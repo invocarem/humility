@@ -1,4 +1,4 @@
-import { one, paragraph, segment, type Chapter } from "../schema";
+import { one, paragraph, segment, type Chapter } from "../../schema";
 
 export const chaptersLater: Chapter[] = [
   {

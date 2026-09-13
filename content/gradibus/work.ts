@@ -1,14 +1,16 @@
-import type { Work } from "./schema";
+import type { Work } from "../schema";
 import { preface, retractatio } from "./parts/front";
 import { chaptersEarly } from "./parts/humility-early";
 import { chaptersLater } from "./parts/humility-later";
 import { prideChapters } from "./parts/pride";
 
-export const work: Work = {
+export const gradibus: Work = {
+  id: "gradibus",
   title: "The Steps of Humility and Pride",
   latinTitle: "De gradibus humilitatis et superbiae",
   source:
     "Working Latin in content/latin.md (PL 182 with SBO supplements). Author file 01_steps_of_humility_and_pride.md is left unchanged.",
+  edition: "PL 182, coll. 941–972, with lacunae supplied from SBO 3 (Leclercq–Rochais)",
   translations: [
     {
       id: "mills",
@@ -40,11 +42,3 @@ export const work: Work = {
     },
   ],
 };
-
-export function allChapters() {
-  return work.parts.flatMap((part) => part.chapters);
-}
-
-export function findChapter(id: string) {
-  return allChapters().find((chapter) => chapter.id === id);
-}

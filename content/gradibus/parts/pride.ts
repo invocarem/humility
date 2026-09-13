@@ -1,4 +1,4 @@
-import { one, type Chapter } from "../schema";
+import { one, type Chapter } from "../../schema";
 
 function ch(
   id: string,

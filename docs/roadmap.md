@@ -1,0 +1,222 @@
+# Roadmap — from one treatise to a multi-work library
+
+Working plan to turn this single-work reader (*De gradibus humilitatis et
+superbiae*) into a small library of Latin + translation + analyses works:
+
+1. **Bernard, De gradibus humilitatis et superbiae** — done, reused as the
+   reference implementation.
+2. **Benedictine Psalter** (Vulgate Gallican + Coverdale / close English) —
+   first new work; cheapest to prove the mechanics.
+3. **Augustine, Confessions** (PL 32 + a public-domain English + close).
+4. **Bernard, Sermones in Cantica** (a big editorial effort; mostly `close`
+   renderings).
+
+The existing machinery already generalizes: the analyses pipeline
+(`tools/analyze_wordlist.py` → `parse_analyses.py` → `apply_overrides.py`) and
+the reader's click-a-word + sentence-alignment are work-agnostic. Only a few
+things are hard-coded to one book, and this roadmap de-hardcodes them one step
+at a time.
+
+---
+
+## How to use this file
+
+- We work **one step at a time**, top to bottom. A step is only *done* when its
+  **Verify** bullet passes and the app shows **no regression** on *De gradibus*.
+- When a step is finished, set its checkbox to `[x]` and move the **Current**
+  line at the top to the next step. Commit after each step.
+- **No code change until a step is started.** This file is the plan; it is not
+  itself an implementation.
+
+**Current step:** **Step 2** — per-work active state + a work switcher (Step 1 is complete).
+
+---
+
+## Step 1 — Introduce `WorkId` + a works registry; clean up *De gradibus*
+
+**Status: DONE.** ✔ Reviewed below; the reader now resolves the active work from
+the registry with no behavior change.
+
+Goal: make "one work" an explicit, identified thing instead of global constants,
+so the code can later hold several works. No visible behavior change — the app
+must render *De gradibus* exactly as it does today.
+
+Changes:
+- `content/schema.ts`: add a `WorkId` union type (`"gradibus" | "psalter" |
+  "confessions" | "cantica"`, order by roadmap). Add `id: WorkId` and an
+  `edition` (provenance) field to `Work`.
+- Replace the single `content/work.ts` `export const work` with a **registry**,
+  e.g. `content/works.ts` exporting `works: Work[]`, `getWork(id)`,
+  `defaultWorkId`, and `allChapters(workId)` / `findChapter(workId, id)`. Keep
+  `work.ts` for now only as a thin re-export so tests/imports don't break, or
+  migrate importers in the same step.
+- `app/src/main.ts`: add `state.workId`; resolve the active work from the
+  registry instead of the global `work` (lines using `work.parts`,
+  `work.latinTitle`, `allChapters()`). Default to `defaultWorkId`.
+- **Id namespacing — DECISION (defer the rename).** Ids only need to be unique
+  *within* the active rendered work (selection/scroll/search/TOC resolve against
+  the single work), and with one work today there is no collision — so existing
+  *gradibus* ids are **left unchanged**. Going forward every new work MUST prefix
+  its chapter/segment ids with its `WorkId` (e.g. `psalter:1`, `confessions:15`)
+  so concatenated works can never collide. If a later step ever renders multiple
+  works together, prefix the *gradibus* ids in one sweep (callers are all via
+  `@content/works` + `findChapter`).
+
+Files: `content/schema.ts` (WorkId + `id`/`edition`), `content/works.ts` (new
+registry), `content/gradibus/work.ts` (assembles the work, was `content/work.ts`),
+`content/gradibus/parts/*.ts` (moved from `content/parts/`), `app/src/main.ts`
+(`state.workId` + registry reads).
+
+Verify (all green):
+- [x] `npm run build` (tsc + vite) is green.
+- [x] Launching the app targets the default work and shows *De gradibus*
+      identical to before (TOC, sentence alignment, crux drawer, click-a-word,
+      search, `j`/`k`).
+
+Done when: a work is identified by `WorkId`, lives in a registry, and the
+reader reads the active work from state — with zero visual/behavioral change. ✔
+
+---
+
+## Step 2 — Per-work active state + a work switcher
+
+Goal: the reader can switch the active work, even while only *De gradibus* is
+registered. This proves the registry drives the UI.
+- Add a minimal work selector (e.g. a dropdown in the top bar) populated from
+  `works`.
+- Switching resets chapter/selection to that work's first chapter and keeps
+  search within the active work.
+
+Verify:
+- [ ] `npm run build` green; *De gradibus* works exactly as before via the
+  default, and the selector lists (for now) one entry.
+
+---
+
+## Step 3 — Generalize translations (per-work rendering list)
+
+Goal: replace the fixed two-column assumption with a per-work translation
+catalogue, so later works can have their own named renderings (e.g. *Coverdale
+1540* + *close* for the psalter; *Pusey* + *close* for Augustine).
+- Today `RenderingId = "mills" | "close"` is baked into `Segment`
+  (`latin, mills, close`). Move toward `Segment { latin, translations:
+  Record<TranslationId,string>, notes? }` with `TranslationId`/`TranslationMeta`
+  defined per work.
+- Keep *De gradibus*'s two renderings (`mills`, `close`) working — same columns,
+  same behavior.
+- This is a type-level refactor touching `schema.ts`, `content/gradibus/parts/*.ts` (the
+  `segment()`/`one()` helpers), and the reader panes.
+
+Verify:
+- [ ] Study/Read modes render the same two English columns for *De gradibus*
+      before and after.
+
+---
+
+## Step 4 — Generalize the analyses pipeline to per-work lexicon
+
+Goal: each work gets its own closed word list + glossary, so glosses and the
+dict popup stay per-work (e.g. *caritas* deserves a different note in the
+psalter than in *De gradibus*).
+- Give the extract/analyze/parse/curate scripts a work argument
+  (`--work gradibus | psalter | …`) that resolves a per-work content + lexicon
+  path, e.g. `content/<work>/lexicon/`.
+- Keep the default (`--work gradibus`) producing the current
+  `content/lexicon/*` output (or move it to `content/gradibus/lexicon/` once,
+  and update the README + `.gitignore`).
+- The downloadable artifacts (`forms.json`/`analyses.json`) remain gitignored
+  per work; `overrides.json` + `lexicon.json` remain tracked per work.
+
+Verify:
+- [ ] `bash tools/analyze-in-docker.sh 20 --work gradibus` reproduces the
+      current 20-word smoke test; `npm run lexicon:curate` still merges the 54
+      Bernard cards.
+
+---
+
+## Step 5 — Ingestion / segmentation harness for large texts
+
+Goal: stop hand-typing `parts/*.ts` for 150 psalms / 13 books / 86 sermons.
+- Reuse/extend `tools/extract_wordlist.py`'s markdown-stripping and numbering
+  logic into a generic importer per work: read `content/<work>/latin.md`,
+  emit paragraphs, then scaffold `Segment` shells.
+- Establish the authoring workflow: scaffold Latin → fill translation
+  renderings → add crux notes. Keep `latin.md` authoritative and untouched by
+  the app, exactly as today.
+
+Verify:
+- [ ] Harness regenerates the current *De gradibus* structure cleanly (a dry
+      re-scaffold that matches the existing `parts/`).
+
+---
+
+## Step 6 — Work #2: Benedictine Psalter
+
+Recommended first new work (short, regular, PD source + PD close-faithful
+English).
+- Latin: the office is the **Vulgate Gallican (iuxta LXX)**. Ingest Psalms
+  1–150 (accent/antiphon matter can come later).
+- English: **Coverdale's 1540 Prayer Book psalter** (public domain, famously
+  close and rhythmic — a natural fit for the `close` ethos) as one rendering,
+  plus the reader's hand-written `close` for the stem-tracking column.
+- Per-work `overrides.json`: psalter-specific glosses (*misericordia*,
+  *sabaoth*, *alleluia*, etc.).
+
+Verify:
+- [ ] Every psalm opens in both renderings; click-a-word + sentence alignment
+      work end-to-end; a handful of psalter-stem cards are curated.
+
+---
+
+## Step 7 — Work #3: Augustine, Confessions
+
+- Latin: PL 32 (13 books); segment each book into its numbered paragraphs.
+- English: a public-domain version (**Pusey 1838** or **Pilkington 1876**) as
+  one rendering + the reader's `close`. Late/Christian Latin is already handled
+  by the dictionary (*caritas* etc.).
+
+Verify:
+- [ ] All 13 books render with both English columns and dictionary lookups.
+- [ ] Curate a first pass of Confessions-specific stems (*confessio*,
+      *inquietum cor*, *recolligere*, …).
+
+---
+
+## Step 8 — Work #4: Bernard, Sermones in Cantica
+
+- Latin: PL 183. The largest editorial task.
+- Translation: no widely-public-domain complete English exists (the classic
+  1952 *Sermons on the Song of Songs* is copyrighted), so this rests almost
+  entirely on the reader's own `close` renderings (plus any PD excerpts). Be
+  explicit about provenance per sermon.
+
+Verify:
+- [ ] A pilot run of a few sermons (e.g. 1, 7, 23 on *osculum/osculare me*) with
+      `close` renderings + curated Song keywords (*osculum*, *fides*, *sponsa*,
+      *sponsus*, *amor*, …).
+
+---
+
+## Later (optional)
+
+- Cross-work **global** search (currently search is within the active work).
+- Cross-references between works (e.g. a psalm Bernard quotes → the psalter
+  work; *De gradibus*'s *misericordia* → Confessions).
+- Progressive enhancement per work: different fonts/columns, psalm numbering
+  toggle (Hebrew vs LXX/Vulgate vs Septuagint), antiphon/office metadata.
+- Code-split the big inlined lexicon JSON in the bundle (currently ~1.25 MB raw
+  / 312 kB gzip) if it grows.
+
+---
+
+## Principles to keep
+
+- **`latin.md` per work is authoritative and never edited by the app.** All
+  segmentation lives in generated/scaffolded parts; the author's PL extract
+  files stay untouched.
+- **No general dictionary and no Whitaker on every click.** Analyze each work
+  once, closed list, look up locally; curate glosses per work.
+- **Batch Whitaker in Docker only**; the MCP server is for interactive use and
+  is not needed to build a dictionary.
+- **Backward compatibility of *De gradibus*** at every refactor step — it is the
+  spec for the whole mechanism.
