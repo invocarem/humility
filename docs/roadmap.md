@@ -230,6 +230,12 @@ ancestor of *De gradibus* — same register, same key stems.
 - Per-work `overrides.json`: RB-specific glosses (*obedientia*, *obbedire*,
   *abbas/abbatissa*, *regula*, *obsequium*, *disciplina*, *humilitas*…).
 
+Progress: Latin 74 chapters (Prologus + 1–73) are scaffolded from
+`content/rule/latin.md`; Verheyen is merged from `content/rule/renderings/`.
+Click-a-word uses `content/rule/lexicon/` (4,089 forms; starter
+`overrides.json` applied). A second English column is still to come. Working
+Latin is the Latin Library traditional text, not yet a critical edition.
+
 Verify:
 - [ ] All 73 chapters + prologue render in both English columns; click-a-word
       and sentence alignment work end-to-end; a first pass of RB-specific

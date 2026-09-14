@@ -4,6 +4,7 @@
 Usage:
     python tools/extract_wordlist.py                 # default: content/gradibus/latin.md
     python tools/extract_wordlist.py --work psalter
+    python tools/extract_wordlist.py --work rule
 """
 
 from __future__ import annotations
@@ -18,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
 
 SKIP_HEADING = re.compile(
-    r"^(Retractatio|Praefatio|Caput|Admonitio)\b",
+    r"^(Retractatio|Praefatio|Caput|Admonitio|Prologus|Capitulum)\b",
     re.IGNORECASE,
 )
 EDITORIAL = re.compile(r"^\*")

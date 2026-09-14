@@ -44,6 +44,7 @@ re-verify remains the no-regression spec.
 Usage:
     python tools/ingest_latin.py --work gradibus             # dry-run + verify
     python tools/ingest_latin.py --work psalter --scaffold   # write scaffold.ts
+    python tools/ingest_latin.py --work rule --scaffold      # Prologus + 73 chapters
 """
 
 from __future__ import annotations
@@ -135,9 +136,14 @@ def chapter_id(text: str, cfg: ParserCfg) -> tuple[str, int | None]:
         return f"{cfg.id_prefix}{cfg.id_sep}{n}", n
     first = text.strip().split()[0].lower()
     if first in MATTER_WORDS:
-        return first, None
-    word = re.sub(r"[^a-z0-9]+", "-", text.strip().lower()).strip("-")
-    return word or "untitled", None
+        cid = first
+    else:
+        cid = re.sub(r"[^a-z0-9]+", "-", text.strip().lower()).strip("-") or "untitled"
+    # New works namespace unnumbered chapters (e.g. Prologus → rule:prologus).
+    # Gradibus keeps grandfathered matter ids (id_sep "-").
+    if cfg.id_sep == ":" and cfg.id_prefix:
+        cid = f"{cfg.id_prefix}{cfg.id_sep}{cid}"
+    return cid, None
 
 
 def load_config(work: str) -> tuple[dict, ParserCfg, dict]:
@@ -407,7 +413,11 @@ def main() -> None:
         emit_scaffold(args.work, chapters, CONTENT / args.work / "scaffold.ts")
 
     if not args.skip_verify:
-        verify(args.work, chapters, parser, verify_cfg)
+        parts_dir = CONTENT / args.work / "parts"
+        if not parts_dir.is_dir() or not any(parts_dir.glob("*.ts")):
+            print(f"verify {args.work}: no parts/ yet, skip")
+        else:
+            verify(args.work, chapters, parser, verify_cfg)
 
 
 if __name__ == "__main__":

@@ -5,8 +5,8 @@ A local TypeScript reader for Bernard of Clairvaux, *De gradibus humilitatis et 
 This file is also a bookmark for where the work stopped.
 
 > **Expanding to more works?** The plan to turn this into a multi-work library
-> (psalter, Augustine's *Confessions*, Bernard's *Sermones in Cantica*) lives
-> in [`docs/roadmap.md`](docs/roadmap.md) — one step at a time.
+> (psalter, Rule of St Benedict, Augustine's *Confessions*, Bernard's *Sermones
+> in Cantica*) lives in [`docs/roadmap.md`](docs/roadmap.md) — one step at a time.
 
 ## Do not edit
 
@@ -24,6 +24,8 @@ App Latin lives in `content/gradibus/latin.md` (same extract, plus retractatio, 
 | `content/gradibus/work.ts` | Assembles the De gradibus work |
 | `content/gradibus/lexicon/*.json` | Per-work word list + glossary (`forms`, `analyses`, `lexicon`, `overrides`) |
 | `content/works.ts` | Library registry (`works`, `getWork`, `allChapters`) |
+| `content/psalter/` | Gallican psalter (`latin.md`, scaffold, Coverdale/Douay renderings) |
+| `content/rule/` | Rule of St Benedict (`latin.md`, scaffold, Verheyen rendering, lexicon) |
 | `app/src/` | Web UI (Read / Study, click-to-align) |
 | `electron/` | Thin desktop shell |
 | `tools/extract_wordlist.py` | Builds `forms.json` |
@@ -53,6 +55,8 @@ Desktop later: `npm run electron:dev`. After `npm run build`, `npm start` opens 
 - **Close English**: written for this tool, so Bernard’s clauses and stems stay visible. It is not a second literary version.
 
 Psalter columns (switch Work → The Psalms): Latin Gallican; Coverdale 1662 BCP (Hebrew numbering, loose verse alignment); Douay-Rheims Challoner as the 1:1 close column.
+
+Rule columns (switch Work → The Rule of St Benedict): Latin from `content/rule/latin.md`; Boniface Verheyen 1949 as the English column. A hand-written `close` column is still to come. Verheyen's paragraphs are finer than the working Latin, so several English paragraphs may sit in one numbered Latin block. Click a Latin word for the Rule lexicon (Whitaker + a starter set of RB glosses in `content/rule/lexicon/overrides.json`).
 
 Burch (1940) and Conway (Cistercian Fathers) are not ingested.
 
@@ -84,24 +88,26 @@ The MCP server (`python whitaker_server.py`) is for Cursor / an agent. The batch
 
 ## Ingesting a new work
 
-To add *Psalter*, *Confessions*, or *Sermones in Cantica*, you do not hand-type the
-`parts/*.ts` skeleton. The harness reads the work's authoritative
+To add *Psalter*, *Rule*, *Confessions*, or *Sermones in Cantica*, you do not
+hand-type the `parts/*.ts` skeleton. The harness reads the work's authoritative
 `content/<work>/latin.md` and derives the parts → chapters → paragraphs structure:
 
 ```bash
 npm run ingest:verify     # dry-run: does the derived skeleton match existing parts/?
 npm run ingest:scaffold   # write content/<work>/scaffold.ts, Latin filled
+# pass --work, e.g. python tools/ingest_latin.py --work rule --scaffold
 npm run ingest:psalter-english  # fill Coverdale + Douay onto the psalter scaffold
+npm run ingest:rule-english     # fill Verheyen onto the Rule scaffold
 ```
 
 The scaffold leaves each segment's `translations` (per work `TranslationId`) and
 `notes` blank; you then split it into `parts/*.ts` and fill renderings + crux
-notes, keeping `latin.md` untouched. The psalter is the exception: English is
-merged at load from `content/psalter/renderings/` so regenerating `scaffold.ts`
-does not wipe Coverdale / Douay. If a work's editorial division differs from
-the literal `## Caput N` markers (as in De gradibus, where Caput III's marker sits
-two paragraphs early), record the boundary in `content/<work>/ingest.json`, e.g.
-`{ "chapter_starts": { "cap-4": "p11" } }`.
+notes, keeping `latin.md` untouched. The psalter and the Rule are the exception:
+English is merged at load from `content/<work>/renderings/` so regenerating
+`scaffold.ts` does not wipe Coverdale / Douay / Verheyen. If a work's editorial
+division differs from the literal `## Caput N` markers (as in De gradibus, where
+Caput III's marker sits two paragraphs early), record the boundary in
+`content/<work>/ingest.json`, e.g. `{ "chapter_starts": { "cap-4": "p11" } }`.
 
 ## Still open
 

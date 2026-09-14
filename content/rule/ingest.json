@@ -1,0 +1,13 @@
+{
+  "parser": {
+    "chapter_match": "^Capitulum\\s+(\\d+)\\s*$",
+    "numeral": "decimal",
+    "id_prefix": "rule",
+    "id_sep": ":"
+  },
+  "verify": {
+    "chapter": "rule:(?:prologus|\\d+)",
+    "paragraph": "p\\d+"
+  },
+  "note": "latin.md marks the prologue `## Prologus` and each chapter `## Capitulum N` (decimal). Chapter ids follow the roadmap namespacing rule for new works: rule:prologus, rule:1..rule:73. Numbered blocks become p1..pN within each chapter (coarse: many chapters are a handful of long paragraphs)."
+}

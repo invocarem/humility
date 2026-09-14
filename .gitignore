@@ -6,6 +6,10 @@ reasonix.toml
 node_modules/
 dist/
 
+# Python bytecode
+__pycache__/
+*.py[cod]
+
 # Reproducible lexicon build artifact (regenerate with lexicon:analyze)
 content/*/lexicon/analyses.json
 
