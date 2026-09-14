@@ -7,8 +7,13 @@ superbiae*) into a small library of Latin + translation + analyses works:
    reference implementation.
 2. **Benedictine Psalter** (Vulgate Gallican + Coverdale / close English) —
    first new work; cheapest to prove the mechanics.
-3. **Augustine, Confessions** (PL 32 + a public-domain English + close).
-4. **Bernard, Sermones in Cantica** (a big editorial effort; mostly `close`
+3. **Rule of St Benedict** (Regula Benedicti; Latin + Verheyen / close English) —
+   single, regular 73-chapter rule; second-cheapest proof of the mechanics and
+   the natural companion to *De gradibus* (its ch. 7 degrees of humility are the
+   ancestor of Bernard's ladder).
+4. **Augustine, Confessions** (PL 32 + a public-domain English + close) —
+   the big editorial lift, attempted after the machinery is hardened.
+5. **Bernard, Sermones in Cantica** (a big editorial effort; mostly `close`
    renderings).
 
 The existing machinery already generalizes: the analyses pipeline
@@ -204,7 +209,35 @@ Verify:
 
 ---
 
-## Step 7 — Work #3: Augustine, Confessions
+## Step 7 — Work #3: Rule of St Benedict (Regula Benedicti)
+
+Recommended **Work #3** — placed before the *Confessions* because it is a
+single, regular, small work that re-proves the harness and the renderings flow
+for cheap before the 13-book lift of Augustine. Thematically it belongs right
+here too: this is a Benedictine family project (Bernard is a Cistercian), and
+RB ch. 7 (*De humilitate*, the degrees/ladder of humility) is the direct
+ancestor of *De gradibus* — same register, same key stems.
+
+- Latin: the Regula Benedicti (PL 66). Prologue + 73 short chapters; ingest
+  via `tools/ingest_latin.py`, where the `## Capitulum N` markers map cleanly
+  (the prologue may need a boundary override in `content/rule/ingest.json`).
+  For the app's working Latin, prefer a sound critical text (e.g. RB 1980 /
+  de Vogüé SC 181–186) rather than trusting PL 66 verbatim; note provenance in
+  the work's `edition` field.
+- English: **Boniface Verheyen (1949)** as one rendering (public domain, on
+  Project Gutenberg, close-faithful, chapter/verse aligned) + the reader's own
+  `close` for the stem-tracking column.
+- Per-work `overrides.json`: RB-specific glosses (*obedientia*, *obbedire*,
+  *abbas/abbatissa*, *regula*, *obsequium*, *disciplina*, *humilitas*…).
+
+Verify:
+- [ ] All 73 chapters + prologue render in both English columns; click-a-word
+      and sentence alignment work end-to-end; a first pass of RB-specific
+      stems is curated.
+
+---
+
+## Step 8 — Work #4: Augustine, Confessions
 
 - Latin: PL 32 (13 books); segment each book into its numbered paragraphs.
 - English: a public-domain version (**Pusey 1838** or **Pilkington 1876**) as
@@ -218,7 +251,7 @@ Verify:
 
 ---
 
-## Step 8 — Work #4: Bernard, Sermones in Cantica
+## Step 9 — Work #5: Bernard, Sermones in Cantica
 
 - Latin: PL 183. The largest editorial task.
 - Translation: no widely-public-domain complete English exists (the classic
