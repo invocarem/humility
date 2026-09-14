@@ -52,6 +52,8 @@ Desktop later: `npm run electron:dev`. After `npm run build`, `npm start` opens 
 - **Mills**: Barton R. V. Mills, *The Twelve Degrees of Humility and Pride* (SPCK / Macmillan, 1929). Public domain in the US. Mills used the Cambridge *Select Treatises* Latin, which sometimes differs from Migne.
 - **Close English**: written for this tool, so Bernard’s clauses and stems stay visible. It is not a second literary version.
 
+Psalter columns (switch Work → The Psalms): Latin Gallican; Coverdale 1662 BCP (Hebrew numbering, loose verse alignment); Douay-Rheims Challoner as the 1:1 close column.
+
 Burch (1940) and Conway (Cistercian Fathers) are not ingested.
 
 Later pride chapters sometimes use close English in the Mills slot. Check those against the 1929 book.
@@ -89,11 +91,14 @@ To add *Psalter*, *Confessions*, or *Sermones in Cantica*, you do not hand-type 
 ```bash
 npm run ingest:verify     # dry-run: does the derived skeleton match existing parts/?
 npm run ingest:scaffold   # write content/<work>/scaffold.ts, Latin filled
+npm run ingest:psalter-english  # fill Coverdale + Douay onto the psalter scaffold
 ```
 
 The scaffold leaves each segment's `translations` (per work `TranslationId`) and
 `notes` blank; you then split it into `parts/*.ts` and fill renderings + crux
-notes, keeping `latin.md` untouched. If a work's editorial division differs from
+notes, keeping `latin.md` untouched. The psalter is the exception: English is
+merged at load from `content/psalter/renderings/` so regenerating `scaffold.ts`
+does not wipe Coverdale / Douay. If a work's editorial division differs from
 the literal `## Caput N` markers (as in De gradibus, where Caput III's marker sits
 two paragraphs early), record the boundary in `content/<work>/ingest.json`, e.g.
 `{ "chapter_starts": { "cap-4": "p11" } }`.

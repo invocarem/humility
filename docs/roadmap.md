@@ -28,7 +28,7 @@ at a time.
 - **No code change until a step is started.** This file is the plan; it is not
   itself an implementation.
 
-**Current step:** **Step 6** — Work #2: Benedictine Psalter (Steps 1–5 are complete).
+**Current step:** **Step 6** — Work #2: Benedictine Psalter (Latin + Coverdale/Douay columns are in; lexicon cards still open).
 
 ---
 
@@ -199,6 +199,8 @@ English).
 Verify:
 - [ ] Every psalm opens in both renderings; click-a-word + sentence alignment
       work end-to-end; a handful of psalter-stem cards are curated.
+      Latin 1–150 + Douay (1:1) + Coverdale (loose, via `psalm_map.json`) are
+      merged from `content/psalter/renderings/`. Stem cards still to curate.
 
 ---
 

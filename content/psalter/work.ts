@@ -1,16 +1,47 @@
-import type { Chapter, Work } from "../schema";
+import type { Chapter, Segment, Work } from "../schema";
 import { scaffoldChapters } from "./scaffold";
+import coverdale from "./renderings/coverdale.json";
+import douay from "./renderings/douay.json";
 
 /**
- * The Psalter is wired directly to the auto-generated scaffold for now
- * (Latin filled, translations still blank). Book grouping follows the
- * traditional five-fold division of the Psalter; chapters are the scaffold's
- * `psalter:1`..`psalter:150`.
+ * The Psalter is wired to the auto-generated Latin scaffold. English columns
+ * are merged from content/psalter/renderings/ (Coverdale 1662 BCP + Douay-
+ * Rheims Challoner) so regenerating scaffold.ts does not wipe them.
  *
- * Next: fill the `coverdale` rendering from the PD 1540 Prayer-Book psalter
- * and the hand-written `close`, then (optionally) split `scaffoldChapters`
- * into per-book `parts/*.ts` files. Keep latin.md authoritative.
+ * Coverdale uses Hebrew numbering; psalm_map.json plus title-skipping give
+ * loose verse alignment. Douay follows Vulgate numbering and is 1:1 with
+ * the Gallican Latin. Keep latin.md authoritative.
  */
+
+type RenderingFile = {
+  source: string;
+  psalms: Record<string, Record<string, string>>;
+};
+
+function applyRenderings(chapters: Chapter[]): Chapter[] {
+  const cov = (coverdale as RenderingFile).psalms;
+  const dr = (douay as RenderingFile).psalms;
+  return chapters.map((chapter) => {
+    const psalm = String(chapter.number ?? "");
+    return {
+      ...chapter,
+      paragraphs: chapter.paragraphs.map((paragraph) => ({
+        ...paragraph,
+        segments: paragraph.segments.map(
+          (segment): Segment => ({
+            ...segment,
+            translations: {
+              coverdale: cov[psalm]?.[paragraph.n ?? ""] ?? "",
+              douay: dr[psalm]?.[paragraph.n ?? ""] ?? "",
+            },
+          }),
+        ),
+      })),
+    };
+  });
+}
+
+const renderedChapters = applyRenderings(scaffoldChapters);
 
 // Book boundaries by psalm (Gallican/Vulgate numbering).
 const BOOKS: Array<[string, string, [number, number]]> = [
@@ -22,7 +53,7 @@ const BOOKS: Array<[string, string, [number, number]]> = [
 ];
 
 function chaptersIn(lo: number, hi: number): Chapter[] {
-  return scaffoldChapters.filter(
+  return renderedChapters.filter(
     (chapter) => chapter.number !== undefined && chapter.number >= lo && chapter.number <= hi,
   );
 }
@@ -37,14 +68,15 @@ export const psalter: Work = {
   translations: [
     {
       id: "coverdale",
-      label: "Coverdale, 1540",
+      label: "Coverdale, 1662",
       year: 1540,
-      note: "Miles Coverdale's Great Bible psalter, public domain. Famous for being close, faithful and rhythmic — a natural fit for this reader.",
+      note: "Miles Coverdale's Great Bible psalter as printed in the 1662 Book of Common Prayer. Public domain. Translated from the Hebrew (Masoretic numbering), so it does not verse-align with the Gallican-Latin index wherever the Septuagint and Hebrew texts split or merge verses. psalm_map.json documents the psalm-level LXX↔Hebrew numbering splits. Treat this column as the literary/rhythmic voice with loose alignment.",
     },
     {
-      id: "close",
-      label: "Close English",
-      note: "A clause-tracking rendering written for this reader, so the Latin word-stems and psalm line order stay visible against Coverdale's smoother prose.",
+      id: "douay",
+      label: "Douay-Rheims (Challoner) — close",
+      year: 1750,
+      note: "Douay-Rheims, Challoner revision (1749–52), in Vulgate (= Gallican/Septuagint) numbering. Public domain (Project Gutenberg #8300). Because it translates the Vulgate it aligns 1:1 with the working Gallican Latin — same psalms, same verses — making it the aligned 'close' companion to Coverdale.",
     },
   ],
   parts: BOOKS.map(([id, title, [lo, hi]]) => ({

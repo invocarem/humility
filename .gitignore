@@ -8,3 +8,6 @@ dist/
 
 # Reproducible lexicon build artifact (regenerate with lexicon:analyze)
 content/*/lexicon/analyses.json
+
+# Raw fetch cache for psalter English ingest (rebuild renderings/ from these)
+content/psalter/sources/

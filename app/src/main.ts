@@ -340,6 +340,7 @@ function bind(): void {
     }
     state.workId = id;
     state.chapterId = allChapters(getWork(id))[0]?.id ?? "";
+    state.english = getWork(id).translations[0]?.id ?? state.english;
     state.selected = null;
     state.query = "";
     render();
