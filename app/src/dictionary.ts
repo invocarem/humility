@@ -1,4 +1,5 @@
 import gradibusLexicon from "@content/gradibus/lexicon/lexicon.json";
+import psalterLexicon from "@content/psalter/lexicon/lexicon.json";
 import type { WorkId } from "@content/schema";
 
 export interface Edited {
@@ -46,6 +47,7 @@ function buildByKey(payload: LexiconPayload): Map<string, Entry> {
  */
 const lexicons: Partial<Record<WorkId, LexiconPayload>> = {
   gradibus: gradibusLexicon as unknown as LexiconPayload,
+  psalter: psalterLexicon as unknown as LexiconPayload,
 };
 
 const byKeyByWork = new Map<WorkId, Map<string, Entry>>();

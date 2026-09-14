@@ -1,0 +1,13 @@
+{
+  "parser": {
+    "chapter_match": "^Psalmus\\s+(\\d+)\\s*$",
+    "numeral": "decimal",
+    "id_prefix": "psalter",
+    "id_sep": ":"
+  },
+  "verify": {
+    "chapter": "psalter:\\d+",
+    "paragraph": "p\\d+"
+  },
+  "note": "latin.md marks each psalm `## Psalmus N` (decimal, Gallican numbering). Chapter ids follow the roadmap namespacing rule for new works (gradibus ids are grandfathered as cap-N): psalter:1..psalter:150. Verses become p1..pN within each psalm."
+}
