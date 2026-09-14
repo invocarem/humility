@@ -1,126 +1,699 @@
 {
   "schema": "RB gloss overrides (Regula Benedicti). Keyed by the exact lexicon key (lowercase printed form). Each value is an `edited` card the reader shows on click: { lemma?, pos?, gloss, note? }. Where `lemma`/`pos` are omitted the entry keeps Whitaker's. Notes cite the Rule by chapter (Prologus, RB 1–73). This is a STARTER set — refine glosses against a critical text before treating them as final.",
   "entries": {
-    "humilitas": {"lemma": "humilitas, -tatis", "pos": "N", "gloss": "humility — the ladder of twelve degrees by which the monk ascends to charity.", "note": "RB 7 is the Rule's long chapter on humility; Bernard's De gradibus later rereads this same ladder."},
-    "humilitatis": {"lemma": "humilitas, -tatis", "pos": "N", "gloss": "of humility — the twelve-degree ladder (RB 7).", "note": "'Primus itaque humilitatis gradus' (RB 7). The degrees are to be climbed, not counted."},
-    "humilitatem": {"lemma": "humilitas, -tatis", "pos": "N", "gloss": "humility (acc.) — the height reached by the ladder.", "note": "RB 7: the monk who has climbed the degrees arrives at the love of God which casts out fear."},
-    "humilitate": {"lemma": "humilitas, -tatis", "pos": "N", "gloss": "by/in humility — the way of ascent (vs. pride's descent).", "note": "RB 7: 'exaltatione descendere et humilitate ascendere' — one goes down by pride and up by humility."},
-
-    "superbia": {"lemma": "superbia, -ae", "pos": "N", "gloss": "pride — exaltation of self; the descent opposed to humility.", "note": "RB 7 opens: every exaltation is a kind of pride. The abbot must watch for pride in office (RB 64–65)."},
-    "superbiae": {"lemma": "superbia, -ae", "pos": "N", "gloss": "of pride.", "note": "See 'superbia'."},
-    "superbiam": {"lemma": "superbia, -ae", "pos": "N", "gloss": "pride (acc.).", "note": "See 'superbia'."},
-
-    "oboedientia": {"lemma": "oboedientia, -ae", "pos": "N", "gloss": "obedience — the first degree of humility; without delay, as if commanded by God.", "note": "RB 5: 'Primus humilitatis gradus est oboedientia sine mora.' Late spelling with -oe- (classical obedientia)."},
-    "oboedientiae": {"lemma": "oboedientia, -ae", "pos": "N", "gloss": "of obedience — the labour by which one returns to God.", "note": "Prologus: 'per oboedientiae laborem redeas'; RB 71 extends it brother to brother."},
-    "oboedientiam": {"lemma": "oboedientia, -ae", "pos": "N", "gloss": "obedience (acc.).", "note": "See 'oboedientia'. Profession promises stabilitas, conversatio morum, and oboedientia (RB 58)."},
-    "oboedire": {"lemma": "oboedio, -ire", "pos": "V", "gloss": "to obey — to hear and do, as hearing the Lord in the superior.", "note": "RB 5 cites 'Qui vos audit me audit'. Late -oe- spelling."},
-    "oboediens": {"lemma": "oboedio, -ire", "pos": "V/ADJ", "gloss": "obedient — subject even unto death, after Christ.", "note": "RB 7, third degree: 'Factus oboediens usque ad mortem'."},
-    "oboedientes": {"lemma": "oboedio, -ire", "pos": "V/ADJ", "gloss": "the obedient (pl.).", "note": "See 'oboedire'."},
-    "inoboedientiae": {"lemma": "inoboedientia, -ae", "pos": "N", "gloss": "disobedience — the sloth by which one went away from God.", "note": "Prologus: 'per inoboedientiae desidiam recesseras'."},
-
-    "abbas": {"lemma": "abbas, abbatis", "pos": "N", "gloss": "abbot — holds the place of Christ in the monastery; more to serve than to rule.", "note": "RB 2: 'Christi enim agere vices in monasterio creditur'. RB 64: 'prodesse magis quam praeesse'."},
-    "abbate": {"lemma": "abbas, abbatis", "pos": "N", "gloss": "abbot (abl.) — under the abbot's rule.", "note": "See 'abbas'. Cenobites live 'sub regula vel abbate' (RB 1)."},
-    "abbatem": {"lemma": "abbas, abbatis", "pos": "N", "gloss": "abbot (acc.).", "note": "See 'abbas'."},
-    "abbati": {"lemma": "abbas, abbatis", "pos": "N", "gloss": "to/for the abbot (dat.).", "note": "See 'abbas'."},
-
-    "regula": {"lemma": "regula, -ae", "pos": "N", "gloss": "the Rule — this 'least rule for beginners', not a measuring-rod.", "note": "Whitaker lists the carpenter's ruler first. In RB, regula is the monastic rule (RB 3, 73)."},
-    "regulam": {"lemma": "regula, -ae", "pos": "N", "gloss": "the Rule (acc.).", "note": "RB 73: 'hanc minimam inchoationis regulam' — this least rule written for a beginning."},
-    "regulae": {"lemma": "regula, -ae", "pos": "N", "gloss": "of the Rule.", "note": "See 'regula'."},
-    "regulari": {"lemma": "regularis, -e", "pos": "ADJ", "gloss": "of the Rule — regular discipline, not 'bar-shaped'.", "note": "Whitaker's first sense is metal bars. In RB, 'disciplina regularis' is the Rule's correction (RB 23–30)."},
-
-    "disciplina": {"lemma": "disciplina, -ae", "pos": "N", "gloss": "discipline — the Rule's training and correction, not mere schooling.", "note": "RB 2: one measure of disciplina according to merit. The degrees of humility are also 'gradus … disciplinae' (RB 7)."},
-    "disciplinae": {"lemma": "disciplina, -ae", "pos": "N", "gloss": "of discipline.", "note": "See 'disciplina'."},
-    "disciplinam": {"lemma": "disciplina, -ae", "pos": "N", "gloss": "discipline (acc.).", "note": "See 'disciplina'."},
-
-    "monasterium": {"lemma": "monasterium, -ii", "pos": "N", "gloss": "monastery — the workshop of the spiritual art, with stability in the community.", "note": "RB 4: 'Officina vero … claustra sunt monasterii et stabilitas in congregatione'."},
-    "monasterio": {"lemma": "monasterium, -ii", "pos": "N", "gloss": "in/from the monastery.", "note": "See 'monasterium'."},
-    "monasterii": {"lemma": "monasterium, -ii", "pos": "N", "gloss": "of the monastery.", "note": "See 'monasterium'."},
-
-    "conversationis": {"lemma": "conversatio, -onis", "pos": "N", "gloss": "of (monastic) way of life — conversatio morum, not mere 'conversation'.", "note": "RB 58 profession: stabilitas, conversatio morum, oboedientia. In RB conversatio is the lived monastic manner."},
-    "conversatione": {"lemma": "conversatio, -onis", "pos": "N", "gloss": "by/in the monastic way of life.", "note": "See 'conversationis'."},
-    "conversationem": {"lemma": "conversatio, -onis", "pos": "N", "gloss": "monastic way of life (acc.).", "note": "See 'conversationis'."},
-
-    "stabilitas": {"lemma": "stabilitas, -tatis", "pos": "N", "gloss": "stability — remaining in the community; a vow of profession.", "note": "RB 4 workshop: 'stabilitas in congregatione'. Promised at profession (RB 58)."},
-    "stabilitate": {"lemma": "stabilitas, -tatis", "pos": "N", "gloss": "in/by stability.", "note": "See 'stabilitas'."},
-    "stabilitatem": {"lemma": "stabilitas, -tatis", "pos": "N", "gloss": "stability (acc.).", "note": "See 'stabilitas'."},
-
-    "caritas": {"lemma": "caritas, -tatis", "pos": "N", "gloss": "charity — the love of God that crowns the twelve degrees and casts out fear.", "note": "RB 7 close: 'ad caritatem Dei … quae perfecta foris mittit timorem' (1 Jn 4:18)."},
-    "caritatis": {"lemma": "caritas, -tatis", "pos": "N", "gloss": "of charity.", "note": "See 'caritas'."},
-    "caritatem": {"lemma": "caritas, -tatis", "pos": "N", "gloss": "charity (acc.).", "note": "See 'caritas'."},
-    "caritate": {"lemma": "caritas, -tatis", "pos": "N", "gloss": "by/in charity.", "note": "See 'caritas'. RB 72: 'caritatem fraternitatis caste inpendant'."},
-
-    "gradus": {"lemma": "gradus, -us", "pos": "N", "gloss": "degree, step — one rung of RB 7's twelve-degree ladder of humility.", "note": "Not a generic 'position'. RB 7 inserts 'diversos gradus humilitatis vel disciplinae' into Jacob's ladder."},
-    "gradibus": {"lemma": "gradus, -us", "pos": "N", "gloss": "degrees, steps — the rungs of the humility ladder.", "note": "See 'gradus'."},
-
-    "scala": {"lemma": "scala, -ae", "pos": "N", "gloss": "ladder — Jacob's ladder, the monk's life set up toward heaven.", "note": "RB 7: 'scala illa … quae in somnio Iacob apparuit'. Its two sides are body and soul."},
-    "scola": {"lemma": "scola / schola, -ae", "pos": "N", "gloss": "school — the 'school of the Lord's service' (dominici scola servitii).", "note": "Prologus. Late spelling without h (classical schola). Benedict's image for the monastery."},
-
-    "oratorium": {"lemma": "oratorium, -ii", "pos": "N", "gloss": "oratory — the monastic chapel, not an orator's hall.", "note": "Whitaker reads 'orator'. In RB the oratorium is the place of the Work of God (RB 7, 19, 52)."},
-    "oratorio": {"lemma": "oratorium, -ii", "pos": "N", "gloss": "in the oratory.", "note": "See 'oratorium'."},
-
-    "novicius": {"lemma": "novicius, -ii", "pos": "N", "gloss": "novice — one on trial before profession.", "note": "RB 58. Late spelling (classical novitius)."},
-    "coenobitarum": {"lemma": "coenobita, -ae", "pos": "N", "gloss": "cenobites — monks living under a rule and an abbot; the strongest kind.", "note": "RB 1: first of four kinds of monks. From κοινόβιον, common life."},
-    "anachoritarum": {"lemma": "anachorita, -ae", "pos": "N", "gloss": "anchorites, hermits — trained in community, then fighting alone.", "note": "RB 1: the second kind, not beginners but proven in the monastery."},
-    "sarabaitarum": {"lemma": "sarabaita, -ae", "pos": "N", "gloss": "Sarabaites — monks with no rule or shepherd; a most vile kind.", "note": "RB 1. Cassian's third kind; Whitaker has no card."},
-    "sarabaitis": {"lemma": "sarabaita, -ae", "pos": "N", "gloss": "than the Sarabaites.", "note": "RB 1: the gyrovagues are worse than the Sarabaites."},
-    "girovagum": {"lemma": "girovagus, -i", "pos": "N", "gloss": "gyrovague, landloper — the fourth kind: always wandering, never stable.", "note": "RB 1. Verheyen: 'Landlopers'. Whitaker has no card."},
-
-    "praepositus": {"lemma": "praepositus, -i", "pos": "N", "gloss": "prior / provost — an officer set over others, under the abbot.", "note": "Whitaker's verb 'place in front' first. In RB the praepositus is a dangerous second-in-command (RB 65)."},
-    "cellararius": {"lemma": "cellararius, -ii", "pos": "N", "gloss": "cellarer — steward of the monastery's goods, like a father to the community.", "note": "RB 31. Treat vessels as sacred altar vessels. Whitaker sometimes splits the compound."},
-    "cellarario": {"lemma": "cellararius, -ii", "pos": "N", "gloss": "to/for the cellarer.", "note": "See 'cellararius'."},
-
-    "silentium": {"lemma": "silentium, -ii", "pos": "N", "gloss": "silence — especially at night and at table; the Rule of taciturnitas.", "note": "RB 6, 38, 42. Whitaker's first sense is the verb 'be silent'."},
-    "silentio": {"lemma": "silentium, -ii", "pos": "N", "gloss": "in silence.", "note": "See 'silentium'."},
-    "taciturnitatem": {"lemma": "taciturnitas, -tatis", "pos": "N", "gloss": "restraint in speech — keeping silence until asked.", "note": "RB 6 and RB 7 ninth degree. Stronger than mere quiet: a discipline of the tongue."},
-    "taciturnitatis": {"lemma": "taciturnitas, -tatis", "pos": "N", "gloss": "of silence / taciturnity.", "note": "See 'taciturnitatem'."},
-
-    "excommunicationis": {"lemma": "excommunicatio, -onis", "pos": "N", "gloss": "excommunication — exclusion from the common table and oratory for faults.", "note": "RB 23–30. Graded: from meals, then from oratory; not the later canonical penalty only."},
-    "claustra": {"lemma": "claustra, -orum", "pos": "N", "gloss": "enclosure — the monastery precinct as workshop of the spiritual art.", "note": "RB 4: 'claustra sunt monasterii'. Not merely a door-bolt."},
-    "hospitum": {"lemma": "hospes, -itis", "pos": "N", "gloss": "of guests — strangers received as Christ.", "note": "RB 53: 'Omnes supervenientes hospites tamquam Christus suscipiantur'."},
-
-    "antefana": {"lemma": "antefana / antiphona, -ae", "pos": "N", "gloss": "antiphon — the refrain sung with a psalm (late spelling of antiphona).", "note": "RB 9–17. Whitaker parses 'ante-' as a prefix. Traditional monastic Latin writes antefana."},
-    "antefanas": {"lemma": "antefana / antiphona, -ae", "pos": "N", "gloss": "antiphons (acc. pl.).", "note": "See 'antefana'."},
-    "antefanam": {"lemma": "antefana / antiphona, -ae", "pos": "N", "gloss": "antiphon (acc.).", "note": "See 'antefana'."},
-    "antefanae": {"lemma": "antefana / antiphona, -ae", "pos": "N", "gloss": "of an antiphon / antiphons.", "note": "See 'antefana'."},
-
-    "diabulum": {"lemma": "diabulus / diabolus, -i", "pos": "N", "gloss": "the devil — late spelling with u (classical diabolus).", "note": "Prologus, RB 1. The traditional text keeps diabulum."},
-    "omnimo": {"lemma": "omnino", "pos": "ADV", "gloss": "altogether, entirely — late spelling of omnino.", "note": "Frequent in this text (RB 7, 43, …). Whitaker misses the form."},
-    "obsculta": {"lemma": "obsculto / ausculto, -are", "pos": "V", "gloss": "listen! — the Rule's first word; late for ausculta.", "note": "Prologus: 'Obsculta, o fili, praecepta magistri'. The traditional opening; some MSS ausculta."},
-    "conple": {"lemma": "conpleo / compleo, -ere", "pos": "V", "gloss": "fulfil, complete — late spelling without m (classical compleo).", "note": "Prologus: 'efficaciter conple'. Compline in this text is likewise conpletorios."},
-
-    "ebdomada": {"lemma": "ebdomada, -ae", "pos": "N", "gloss": "week — a week's turn of service (from ἑβδομάς).", "note": "RB 38: the weekly reader. Whitaker has no card for this form."},
-    "ebdomadarii": {"lemma": "ebdomadarius, -ii", "pos": "N", "gloss": "the weekly servers (nom. pl.).", "note": "RB 35, 38: kitchen and table servers of the week."},
-    "ebdomadarius": {"lemma": "ebdomadarius, -ii", "pos": "N", "gloss": "weekly server — the brother on this week's duty.", "note": "See 'ebdomadarii'."},
-    "ebdomadariis": {"lemma": "ebdomadarius, -ii", "pos": "N", "gloss": "to/for the weekly servers.", "note": "See 'ebdomadarii'."},
-
-    "quirie": {"lemma": "Kyrie", "pos": "INTJ", "gloss": "Kyrie (eleison) — 'Lord, have mercy', the litany of the hours.", "note": "RB 9, 17. Spelled Quirie in this text."},
-    "pedules": {"lemma": "pedules, -ium", "pos": "N", "gloss": "socks / foot-wrappings — part of the monk's clothing issue.", "note": "RB 55, with caligae (shoes). Whitaker has no card."},
-    "femolaria": {"lemma": "femoralia / femolaria, -ium", "pos": "N", "gloss": "drawers, breeches — extra garments issued for the road.", "note": "RB 55: taken from the wardrobe for a journey and returned washed. Late for femoralia."},
-    "hospis": {"lemma": "hospes, -itis", "pos": "N", "gloss": "guest / stranger — received as Christ ('I was a stranger').", "note": "RB 53 quotes Mt 25: 'Hospis fui et suscepistis me'. Form hospis for hospes."},
-    "guilae": {"lemma": "gula, -ae", "pos": "N", "gloss": "of the gullet / gluttony — late spelling of gulae.", "note": "RB 1: gyrovagues serve 'guilae inlecebris', the enticements of the throat."},
-    "inoboetientibus": {"lemma": "inoboediens, -entis", "pos": "ADJ", "gloss": "to the disobedient — source slip for inoboedientibus.", "note": "RB 2. A transcription error in latin.md (extra t)."},
-    "delinquentiump": {"lemma": "delinquens, -entis", "pos": "N/ADJ", "gloss": "of those who offend — source slip for delinquentium.", "note": "RB 2: 'peccata delinquentium'. Trailing p in latin.md."},
-    "humulitatis": {"lemma": "humilitas, -tatis", "pos": "N", "gloss": "of humility — source slip for humilitatis.", "note": "RB 7 §8 (fourth degree). u for i in this text."},
-    "angarizati": {"lemma": "angario, -are", "pos": "V", "gloss": "impressed, compelled (to go a mile) — of Mt 5:41.", "note": "RB 7, fourth degree. Greek ἀγγαρεύω via the Gospel."},
-    "multoloquio": {"lemma": "multiloquium, -ii", "pos": "N", "gloss": "in much speaking — late for multiloquio.", "note": "RB 7, ninth degree: 'in multoloquio non effugitur peccatum'."},
-    "centisemus": {"lemma": "centesimus, -a, -um", "pos": "ADJ", "gloss": "the hundredth — source slip for centesimus.", "note": "RB 12: 'centisemus septimus decimus' = Psalm 117."},
-    "benectiones": {"lemma": "benedictio, -onis", "pos": "N", "gloss": "Benedictions — the Canticle of the Three Children (Dan 3), not a slip for 'blessings' only.", "note": "RB 12, Sunday Lauds: Benectiones et Laudes. Traditional office name; spelling lacks di."},
-    "directanei": {"lemma": "directaneus, -a, -um", "pos": "ADJ", "gloss": "said straight through — psalms without antiphons.", "note": "RB 17: Compline psalms 'directanei sine antefana'."},
-    "ocatvo": {"lemma": "octavus, -a, -um", "pos": "ADJ", "gloss": "eighth — source slip for octavo.", "note": "RB 18: 'centesimo ocatvo decimo' = Psalm 118."},
-    "contagiet": {"lemma": "contagio, -are", "pos": "V", "gloss": "infect, spread contagion — lest one sick sheep infect the flock.", "note": "RB 28. Whitaker misses this form."},
-    "stirpator": {"lemma": "stirpator, -oris", "pos": "N", "gloss": "a waster, squanderer (of the monastery's substance).", "note": "RB 31: the cellarer must not be 'prodigus … et stirpator substantiae monasterii'."},
-    "tyfo": {"lemma": "tyfus / typhus, -i", "pos": "N", "gloss": "arrogant puff / conceit (τῦφος) — pride in giving out the ration.", "note": "RB 31: offer the appointed portion 'sine aliquo tyfo vel mora'."},
-    "petanda": {"lemma": "peto, -ere", "pos": "V", "gloss": "things to be asked for — gerundive, what may be requested.", "note": "RB 31: 'petantur quae petanda sunt' at the proper hours."},
-    "musitatio": {"lemma": "musitatio, -onis", "pos": "N", "gloss": "whispering, murmuring — no voice at table but the reader's.", "note": "RB 38: 'nullus musitatio vel vox nisi solius legentis'."},
-    "indigeries": {"lemma": "indigeries, -ei", "pos": "N", "gloss": "overloading, excess of food — what must never steal upon the monk.", "note": "RB 39, citing Lk 21:34 on crapula. Not classical; Whitaker misses it."},
-    "eptaticum": {"lemma": "Heptateuchus / Eptaticum", "pos": "N", "gloss": "the Heptateuch — Genesis–Judges; not to be read at night to weak minds.", "note": "RB 42. Spelled Eptaticum in this text."},
-    "signus": {"lemma": "signum, -i", "pos": "N", "gloss": "signal, bell — the sound that calls to the Work of God.", "note": "RB 43: 'mox auditus fuerit signus'. Form in -us for signum."},
-    "ingatur": {"lemma": "iungo, -ere", "pos": "V", "gloss": "be joined — source slip for iungatur ('let a brother not join another').", "note": "RB 48: 'Neque frater ad fratrem ingatur horis inconpetentibus'."},
-    "safirae": {"lemma": "Sapphira", "pos": "N", "gloss": "Sapphira — with Ananias, struck dead for fraud over property (Acts 5).", "note": "RB 57: craftsmen selling the monastery's work must remember Ananias and Sapphira."},
-    "inridit": {"lemma": "irrideo, -ere", "pos": "V", "gloss": "he mocks — the novice who later breaks his promise mocks the one he vowed to.", "note": "RB 58. Form inridit for irridet / inridet."},
-    "samuhel": {"lemma": "Samuel", "pos": "N", "gloss": "Samuel — the boy who judged elders; rank is not by age.", "note": "RB 63: 'Samuhel et Danihel pueri presbyteros iudicaverunt'."},
-    "gerges": {"lemma": "grex, gregis", "pos": "N", "gloss": "flocks — source slip for greges (Jacob: if I overdrive my flocks they will die).", "note": "RB 64, citing Gen 33:13 on the abbot's discretion."},
-    "sandala": {"lemma": "scandalum, -i", "pos": "N", "gloss": "scandals — source slip for scandala, grave scandals from appointing a prior.", "note": "RB 65: 'sandala gravia in monasteriis oriantur'."},
-    "inpossibilitatis": {"lemma": "impossibilitas, -tatis", "pos": "N", "gloss": "of impossibility — reasons why a command exceeds one's strength.", "note": "RB 68. Late in- for im-."}
+    "humilitas": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "humility — the ladder of twelve degrees by which the monk ascends to charity.",
+      "note": "RB 7 is the Rule's long chapter on humility; Bernard's De gradibus later rereads this same ladder."
+    },
+    "humilitatis": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "of humility — the twelve-degree ladder (RB 7).",
+      "note": "'Primus itaque humilitatis gradus' (RB 7). The degrees are to be climbed, not counted."
+    },
+    "humilitatem": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "humility (acc.) — the height reached by the ladder.",
+      "note": "RB 7: the monk who has climbed the degrees arrives at the love of God which casts out fear."
+    },
+    "humilitate": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "by/in humility — the way of ascent (vs. pride's descent).",
+      "note": "RB 7: 'exaltatione descendere et humilitate ascendere' — one goes down by pride and up by humility."
+    },
+    "superbia": {
+      "lemma": "superbia, -ae",
+      "pos": "N",
+      "gloss": "pride — exaltation of self; the descent opposed to humility.",
+      "note": "RB 7 opens: every exaltation is a kind of pride. The abbot must watch for pride in office (RB 64–65)."
+    },
+    "superbiae": {
+      "lemma": "superbia, -ae",
+      "pos": "N",
+      "gloss": "of pride.",
+      "note": "See 'superbia'."
+    },
+    "superbiam": {
+      "lemma": "superbia, -ae",
+      "pos": "N",
+      "gloss": "pride (acc.).",
+      "note": "See 'superbia'."
+    },
+    "oboedientia": {
+      "lemma": "oboedientia, -ae",
+      "pos": "N",
+      "gloss": "obedience — the first degree of humility; without delay, as if commanded by God.",
+      "note": "RB 5: 'Primus humilitatis gradus est oboedientia sine mora.' Late spelling with -oe- (classical obedientia)."
+    },
+    "oboedientiae": {
+      "lemma": "oboedientia, -ae",
+      "pos": "N",
+      "gloss": "of obedience — the labour by which one returns to God.",
+      "note": "Prologus: 'per oboedientiae laborem redeas'; RB 71 extends it brother to brother."
+    },
+    "oboedientiam": {
+      "lemma": "oboedientia, -ae",
+      "pos": "N",
+      "gloss": "obedience (acc.).",
+      "note": "See 'oboedientia'. Profession promises stabilitas, conversatio morum, and oboedientia (RB 58)."
+    },
+    "oboedire": {
+      "lemma": "oboedio, -ire",
+      "pos": "V",
+      "gloss": "to obey — to hear and do, as hearing the Lord in the superior.",
+      "note": "RB 5 cites 'Qui vos audit me audit'. Late -oe- spelling."
+    },
+    "oboediens": {
+      "lemma": "oboedio, -ire",
+      "pos": "V/ADJ",
+      "gloss": "obedient — subject even unto death, after Christ.",
+      "note": "RB 7, third degree: 'Factus oboediens usque ad mortem'."
+    },
+    "oboedientes": {
+      "lemma": "oboedio, -ire",
+      "pos": "V/ADJ",
+      "gloss": "the obedient (pl.).",
+      "note": "See 'oboedire'."
+    },
+    "inoboedientiae": {
+      "lemma": "inoboedientia, -ae",
+      "pos": "N",
+      "gloss": "disobedience — the sloth by which one went away from God.",
+      "note": "Prologus: 'per inoboedientiae desidiam recesseras'."
+    },
+    "abbas": {
+      "lemma": "abbas, abbatis",
+      "pos": "N",
+      "gloss": "abbot — holds the place of Christ in the monastery; more to serve than to rule.",
+      "note": "RB 2: 'Christi enim agere vices in monasterio creditur'. RB 64: 'prodesse magis quam praeesse'."
+    },
+    "abbate": {
+      "lemma": "abbas, abbatis",
+      "pos": "N",
+      "gloss": "abbot (abl.) — under the abbot's rule.",
+      "note": "See 'abbas'. Cenobites live 'sub regula vel abbate' (RB 1)."
+    },
+    "abbatem": {
+      "lemma": "abbas, abbatis",
+      "pos": "N",
+      "gloss": "abbot (acc.).",
+      "note": "See 'abbas'."
+    },
+    "abbati": {
+      "lemma": "abbas, abbatis",
+      "pos": "N",
+      "gloss": "to/for the abbot (dat.).",
+      "note": "See 'abbas'."
+    },
+    "regula": {
+      "lemma": "regula, -ae",
+      "pos": "N",
+      "gloss": "the Rule — this 'least rule for beginners', not a measuring-rod.",
+      "note": "Whitaker lists the carpenter's ruler first. In RB, regula is the monastic rule (RB 3, 73)."
+    },
+    "regulam": {
+      "lemma": "regula, -ae",
+      "pos": "N",
+      "gloss": "the Rule (acc.).",
+      "note": "RB 73: 'hanc minimam inchoationis regulam' — this least rule written for a beginning."
+    },
+    "regulae": {
+      "lemma": "regula, -ae",
+      "pos": "N",
+      "gloss": "of the Rule.",
+      "note": "See 'regula'."
+    },
+    "regulari": {
+      "lemma": "regularis, -e",
+      "pos": "ADJ",
+      "gloss": "of the Rule — regular discipline, not 'bar-shaped'.",
+      "note": "Whitaker's first sense is metal bars. In RB, 'disciplina regularis' is the Rule's correction (RB 23–30)."
+    },
+    "disciplina": {
+      "lemma": "disciplina, -ae",
+      "pos": "N",
+      "gloss": "discipline — the Rule's training and correction, not mere schooling.",
+      "note": "RB 2: one measure of disciplina according to merit. The degrees of humility are also 'gradus … disciplinae' (RB 7)."
+    },
+    "disciplinae": {
+      "lemma": "disciplina, -ae",
+      "pos": "N",
+      "gloss": "of discipline.",
+      "note": "See 'disciplina'."
+    },
+    "disciplinam": {
+      "lemma": "disciplina, -ae",
+      "pos": "N",
+      "gloss": "discipline (acc.).",
+      "note": "See 'disciplina'."
+    },
+    "monasterium": {
+      "lemma": "monasterium, -ii",
+      "pos": "N",
+      "gloss": "monastery — the workshop of the spiritual art, with stability in the community.",
+      "note": "RB 4: 'Officina vero … claustra sunt monasterii et stabilitas in congregatione'."
+    },
+    "monasterio": {
+      "lemma": "monasterium, -ii",
+      "pos": "N",
+      "gloss": "in/from the monastery.",
+      "note": "See 'monasterium'."
+    },
+    "monasterii": {
+      "lemma": "monasterium, -ii",
+      "pos": "N",
+      "gloss": "of the monastery.",
+      "note": "See 'monasterium'."
+    },
+    "conversationis": {
+      "lemma": "conversatio, -onis",
+      "pos": "N",
+      "gloss": "of (monastic) way of life — conversatio morum, not mere 'conversation'.",
+      "note": "RB 58 profession: stabilitas, conversatio morum, oboedientia. In RB conversatio is the lived monastic manner."
+    },
+    "conversatione": {
+      "lemma": "conversatio, -onis",
+      "pos": "N",
+      "gloss": "by/in the monastic way of life.",
+      "note": "See 'conversationis'."
+    },
+    "conversationem": {
+      "lemma": "conversatio, -onis",
+      "pos": "N",
+      "gloss": "monastic way of life (acc.).",
+      "note": "See 'conversationis'."
+    },
+    "stabilitas": {
+      "lemma": "stabilitas, -tatis",
+      "pos": "N",
+      "gloss": "stability — remaining in the community; a vow of profession.",
+      "note": "RB 4 workshop: 'stabilitas in congregatione'. Promised at profession (RB 58)."
+    },
+    "stabilitate": {
+      "lemma": "stabilitas, -tatis",
+      "pos": "N",
+      "gloss": "in/by stability.",
+      "note": "See 'stabilitas'."
+    },
+    "stabilitatem": {
+      "lemma": "stabilitas, -tatis",
+      "pos": "N",
+      "gloss": "stability (acc.).",
+      "note": "See 'stabilitas'."
+    },
+    "caritas": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "charity — the love of God that crowns the twelve degrees and casts out fear.",
+      "note": "RB 7 close: 'ad caritatem Dei … quae perfecta foris mittit timorem' (1 Jn 4:18)."
+    },
+    "caritatis": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "of charity.",
+      "note": "See 'caritas'."
+    },
+    "caritatem": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "charity (acc.).",
+      "note": "See 'caritas'."
+    },
+    "caritate": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "by/in charity.",
+      "note": "See 'caritas'. RB 72: 'caritatem fraternitatis caste inpendant'."
+    },
+    "gradus": {
+      "lemma": "gradus, -us",
+      "pos": "N",
+      "gloss": "degree, step — one rung of RB 7's twelve-degree ladder of humility.",
+      "note": "Not a generic 'position'. RB 7 inserts 'diversos gradus humilitatis vel disciplinae' into Jacob's ladder."
+    },
+    "gradibus": {
+      "lemma": "gradus, -us",
+      "pos": "N",
+      "gloss": "degrees, steps — the rungs of the humility ladder.",
+      "note": "See 'gradus'."
+    },
+    "scala": {
+      "lemma": "scala, -ae",
+      "pos": "N",
+      "gloss": "ladder — Jacob's ladder, the monk's life set up toward heaven.",
+      "note": "RB 7: 'scala illa … quae in somnio Iacob apparuit'. Its two sides are body and soul."
+    },
+    "scola": {
+      "lemma": "scola / schola, -ae",
+      "pos": "N",
+      "gloss": "school — the 'school of the Lord's service' (dominici scola servitii).",
+      "note": "Prologus. Late spelling without h (classical schola). Benedict's image for the monastery."
+    },
+    "oratorium": {
+      "lemma": "oratorium, -ii",
+      "pos": "N",
+      "gloss": "oratory — the monastic chapel, not an orator's hall.",
+      "note": "Whitaker reads 'orator'. In RB the oratorium is the place of the Work of God (RB 7, 19, 52)."
+    },
+    "oratorio": {
+      "lemma": "oratorium, -ii",
+      "pos": "N",
+      "gloss": "in the oratory.",
+      "note": "See 'oratorium'."
+    },
+    "novicius": {
+      "lemma": "novicius, -ii",
+      "pos": "N",
+      "gloss": "novice — one on trial before profession.",
+      "note": "RB 58. Late spelling (classical novitius)."
+    },
+    "coenobitarum": {
+      "lemma": "coenobita, -ae",
+      "pos": "N",
+      "gloss": "cenobites — monks living under a rule and an abbot; the strongest kind.",
+      "note": "RB 1: first of four kinds of monks. From κοινόβιον, common life."
+    },
+    "anachoritarum": {
+      "lemma": "anachorita, -ae",
+      "pos": "N",
+      "gloss": "anchorites, hermits — trained in community, then fighting alone.",
+      "note": "RB 1: the second kind, not beginners but proven in the monastery."
+    },
+    "sarabaitarum": {
+      "lemma": "sarabaita, -ae",
+      "pos": "N",
+      "gloss": "Sarabaites — monks with no rule or shepherd; a most vile kind.",
+      "note": "RB 1. Cassian's third kind; Whitaker has no card."
+    },
+    "sarabaitis": {
+      "lemma": "sarabaita, -ae",
+      "pos": "N",
+      "gloss": "than the Sarabaites.",
+      "note": "RB 1: the gyrovagues are worse than the Sarabaites."
+    },
+    "girovagum": {
+      "lemma": "girovagus, -i",
+      "pos": "N",
+      "gloss": "gyrovague, landloper — the fourth kind: always wandering, never stable.",
+      "note": "RB 1. Verheyen: 'Landlopers'. Whitaker has no card."
+    },
+    "praepositus": {
+      "lemma": "praepositus, -i",
+      "pos": "N",
+      "gloss": "prior / provost — an officer set over others, under the abbot.",
+      "note": "Whitaker's verb 'place in front' first. In RB the praepositus is a dangerous second-in-command (RB 65)."
+    },
+    "cellararius": {
+      "lemma": "cellararius, -ii",
+      "pos": "N",
+      "gloss": "cellarer — steward of the monastery's goods, like a father to the community.",
+      "note": "RB 31. Treat vessels as sacred altar vessels. Whitaker sometimes splits the compound."
+    },
+    "cellarario": {
+      "lemma": "cellararius, -ii",
+      "pos": "N",
+      "gloss": "to/for the cellarer.",
+      "note": "See 'cellararius'."
+    },
+    "silentium": {
+      "lemma": "silentium, -ii",
+      "pos": "N",
+      "gloss": "silence — especially at night and at table; the Rule of taciturnitas.",
+      "note": "RB 6, 38, 42. Whitaker's first sense is the verb 'be silent'."
+    },
+    "silentio": {
+      "lemma": "silentium, -ii",
+      "pos": "N",
+      "gloss": "in silence.",
+      "note": "See 'silentium'."
+    },
+    "taciturnitatem": {
+      "lemma": "taciturnitas, -tatis",
+      "pos": "N",
+      "gloss": "restraint in speech — keeping silence until asked.",
+      "note": "RB 6 and RB 7 ninth degree. Stronger than mere quiet: a discipline of the tongue."
+    },
+    "taciturnitatis": {
+      "lemma": "taciturnitas, -tatis",
+      "pos": "N",
+      "gloss": "of silence / taciturnity.",
+      "note": "See 'taciturnitatem'."
+    },
+    "excommunicationis": {
+      "lemma": "excommunicatio, -onis",
+      "pos": "N",
+      "gloss": "excommunication — exclusion from the common table and oratory for faults.",
+      "note": "RB 23–30. Graded: from meals, then from oratory; not the later canonical penalty only."
+    },
+    "claustra": {
+      "lemma": "claustra, -orum",
+      "pos": "N",
+      "gloss": "enclosure — the monastery precinct as workshop of the spiritual art.",
+      "note": "RB 4: 'claustra sunt monasterii'. Not merely a door-bolt."
+    },
+    "hospitum": {
+      "lemma": "hospes, -itis",
+      "pos": "N",
+      "gloss": "of guests — strangers received as Christ.",
+      "note": "RB 53: 'Omnes supervenientes hospites tamquam Christus suscipiantur'."
+    },
+    "antefana": {
+      "lemma": "antefana / antiphona, -ae",
+      "pos": "N",
+      "gloss": "antiphon — the refrain sung with a psalm (late spelling of antiphona).",
+      "note": "RB 9–17. Whitaker parses 'ante-' as a prefix. Traditional monastic Latin writes antefana."
+    },
+    "antefanas": {
+      "lemma": "antefana / antiphona, -ae",
+      "pos": "N",
+      "gloss": "antiphons (acc. pl.).",
+      "note": "See 'antefana'."
+    },
+    "antefanam": {
+      "lemma": "antefana / antiphona, -ae",
+      "pos": "N",
+      "gloss": "antiphon (acc.).",
+      "note": "See 'antefana'."
+    },
+    "antefanae": {
+      "lemma": "antefana / antiphona, -ae",
+      "pos": "N",
+      "gloss": "of an antiphon / antiphons.",
+      "note": "See 'antefana'."
+    },
+    "diabulum": {
+      "lemma": "diabulus / diabolus, -i",
+      "pos": "N",
+      "gloss": "the devil — late spelling with u (classical diabolus).",
+      "note": "Prologus, RB 1. The traditional text keeps diabulum."
+    },
+    "omnimo": {
+      "lemma": "omnino",
+      "pos": "ADV",
+      "gloss": "altogether, entirely — late spelling of omnino.",
+      "note": "Frequent in this text (RB 7, 43, …). Whitaker misses the form."
+    },
+    "obsculta": {
+      "lemma": "obsculto / ausculto, -are",
+      "pos": "V",
+      "gloss": "listen! — the Rule's first word; late for ausculta.",
+      "note": "Prologus: 'Obsculta, o fili, praecepta magistri'. The traditional opening; some MSS ausculta."
+    },
+    "conple": {
+      "lemma": "conpleo / compleo, -ere",
+      "pos": "V",
+      "gloss": "fulfil, complete — late spelling without m (classical compleo).",
+      "note": "Prologus: 'efficaciter conple'. Compline in this text is likewise conpletorios."
+    },
+    "ebdomada": {
+      "lemma": "ebdomada, -ae",
+      "pos": "N",
+      "gloss": "week — a week's turn of service (from ἑβδομάς).",
+      "note": "RB 38: the weekly reader. Whitaker has no card for this form."
+    },
+    "ebdomadarii": {
+      "lemma": "ebdomadarius, -ii",
+      "pos": "N",
+      "gloss": "the weekly servers (nom. pl.).",
+      "note": "RB 35, 38: kitchen and table servers of the week."
+    },
+    "ebdomadarius": {
+      "lemma": "ebdomadarius, -ii",
+      "pos": "N",
+      "gloss": "weekly server — the brother on this week's duty.",
+      "note": "See 'ebdomadarii'."
+    },
+    "ebdomadariis": {
+      "lemma": "ebdomadarius, -ii",
+      "pos": "N",
+      "gloss": "to/for the weekly servers.",
+      "note": "See 'ebdomadarii'."
+    },
+    "quirie": {
+      "lemma": "Kyrie",
+      "pos": "INTJ",
+      "gloss": "Kyrie (eleison) — 'Lord, have mercy', the litany of the hours.",
+      "note": "RB 9, 17. Spelled Quirie in this text."
+    },
+    "pedules": {
+      "lemma": "pedules, -ium",
+      "pos": "N",
+      "gloss": "socks / foot-wrappings — part of the monk's clothing issue.",
+      "note": "RB 55, with caligae (shoes). Whitaker has no card."
+    },
+    "femolaria": {
+      "lemma": "femoralia / femolaria, -ium",
+      "pos": "N",
+      "gloss": "drawers, breeches — extra garments issued for the road.",
+      "note": "RB 55: taken from the wardrobe for a journey and returned washed. Late for femoralia."
+    },
+    "hospis": {
+      "lemma": "hospes, -itis",
+      "pos": "N",
+      "gloss": "guest / stranger — received as Christ ('I was a stranger').",
+      "note": "RB 53 quotes Mt 25: 'Hospis fui et suscepistis me'. Form hospis for hospes."
+    },
+    "guilae": {
+      "lemma": "gula, -ae",
+      "pos": "N",
+      "gloss": "of the gullet / gluttony — late spelling of gulae.",
+      "note": "RB 1: gyrovagues serve 'guilae inlecebris', the enticements of the throat."
+    },
+    "inoboetientibus": {
+      "lemma": "inoboediens, -entis",
+      "pos": "ADJ",
+      "gloss": "to the disobedient — source slip for inoboedientibus.",
+      "note": "RB 2. A transcription error in latin.md (extra t)."
+    },
+    "delinquentiump": {
+      "lemma": "delinquens, -entis",
+      "pos": "N/ADJ",
+      "gloss": "of those who offend — source slip for delinquentium.",
+      "note": "RB 2: 'peccata delinquentium'. Trailing p in latin.md."
+    },
+    "humulitatis": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "of humility — source slip for humilitatis.",
+      "note": "RB 7 §8 (fourth degree). u for i in this text."
+    },
+    "angarizati": {
+      "lemma": "angario, -are",
+      "pos": "V",
+      "gloss": "impressed, compelled (to go a mile) — of Mt 5:41.",
+      "note": "RB 7, fourth degree. Greek ἀγγαρεύω via the Gospel."
+    },
+    "multoloquio": {
+      "lemma": "multiloquium, -ii",
+      "pos": "N",
+      "gloss": "in much speaking — late for multiloquio.",
+      "note": "RB 7, ninth degree: 'in multoloquio non effugitur peccatum'."
+    },
+    "centisemus": {
+      "lemma": "centesimus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "the hundredth — source slip for centesimus.",
+      "note": "RB 12: 'centisemus septimus decimus' = Psalm 117."
+    },
+    "benectiones": {
+      "lemma": "benedictio, -onis",
+      "pos": "N",
+      "gloss": "Benedictions — the Canticle of the Three Children (Dan 3), not a slip for 'blessings' only.",
+      "note": "RB 12, Sunday Lauds: Benectiones et Laudes. Traditional office name; spelling lacks di."
+    },
+    "directanei": {
+      "lemma": "directaneus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "said straight through — psalms without antiphons.",
+      "note": "RB 17: Compline psalms 'directanei sine antefana'."
+    },
+    "ocatvo": {
+      "lemma": "octavus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "eighth — source slip for octavo.",
+      "note": "RB 18: 'centesimo ocatvo decimo' = Psalm 118."
+    },
+    "contagiet": {
+      "lemma": "contagio, -are",
+      "pos": "V",
+      "gloss": "infect, spread contagion — lest one sick sheep infect the flock.",
+      "note": "RB 28. Whitaker misses this form."
+    },
+    "stirpator": {
+      "lemma": "stirpator, -oris",
+      "pos": "N",
+      "gloss": "a waster, squanderer (of the monastery's substance).",
+      "note": "RB 31: the cellarer must not be 'prodigus … et stirpator substantiae monasterii'."
+    },
+    "tyfo": {
+      "lemma": "tyfus / typhus, -i",
+      "pos": "N",
+      "gloss": "arrogant puff / conceit (τῦφος) — pride in giving out the ration.",
+      "note": "RB 31: offer the appointed portion 'sine aliquo tyfo vel mora'."
+    },
+    "petanda": {
+      "lemma": "peto, -ere",
+      "pos": "V",
+      "gloss": "things to be asked for — gerundive, what may be requested.",
+      "note": "RB 31: 'petantur quae petanda sunt' at the proper hours."
+    },
+    "musitatio": {
+      "lemma": "musitatio, -onis",
+      "pos": "N",
+      "gloss": "whispering, murmuring — no voice at table but the reader's.",
+      "note": "RB 38: 'nullus musitatio vel vox nisi solius legentis'."
+    },
+    "indigeries": {
+      "lemma": "indigeries, -ei",
+      "pos": "N",
+      "gloss": "overloading, excess of food — what must never steal upon the monk.",
+      "note": "RB 39, citing Lk 21:34 on crapula. Not classical; Whitaker misses it."
+    },
+    "eptaticum": {
+      "lemma": "Heptateuchus / Eptaticum",
+      "pos": "N",
+      "gloss": "the Heptateuch — Genesis–Judges; not to be read at night to weak minds.",
+      "note": "RB 42. Spelled Eptaticum in this text."
+    },
+    "signus": {
+      "lemma": "signum, -i",
+      "pos": "N",
+      "gloss": "signal, bell — the sound that calls to the Work of God.",
+      "note": "RB 43: 'mox auditus fuerit signus'. Form in -us for signum."
+    },
+    "ingatur": {
+      "lemma": "iungo, -ere",
+      "pos": "V",
+      "gloss": "be joined — source slip for iungatur ('let a brother not join another').",
+      "note": "RB 48: 'Neque frater ad fratrem ingatur horis inconpetentibus'."
+    },
+    "safirae": {
+      "lemma": "Sapphira",
+      "pos": "N",
+      "gloss": "Sapphira — with Ananias, struck dead for fraud over property (Acts 5).",
+      "note": "RB 57: craftsmen selling the monastery's work must remember Ananias and Sapphira."
+    },
+    "inridit": {
+      "lemma": "irrideo, -ere",
+      "pos": "V",
+      "gloss": "he mocks — the novice who later breaks his promise mocks the one he vowed to.",
+      "note": "RB 58. Form inridit for irridet / inridet."
+    },
+    "samuhel": {
+      "lemma": "Samuel",
+      "pos": "N",
+      "gloss": "Samuel — the boy who judged elders; rank is not by age.",
+      "note": "RB 63: 'Samuhel et Danihel pueri presbyteros iudicaverunt'."
+    },
+    "gerges": {
+      "lemma": "grex, gregis",
+      "pos": "N",
+      "gloss": "flocks — source slip for greges (Jacob: if I overdrive my flocks they will die).",
+      "note": "RB 64, citing Gen 33:13 on the abbot's discretion."
+    },
+    "sandala": {
+      "lemma": "scandalum, -i",
+      "pos": "N",
+      "gloss": "scandals — source slip for scandala, grave scandals from appointing a prior.",
+      "note": "RB 65: 'sandala gravia in monasteriis oriantur'."
+    },
+    "inpossibilitatis": {
+      "lemma": "impossibilitas, -tatis",
+      "pos": "N",
+      "gloss": "of impossibility — reasons why a command exceeds one's strength.",
+      "note": "RB 68. Late in- for im-."
+    },
+    "timor": {
+      "gloss": "fear — the 1st degree of humility: the fear of God ever before the eyes.",
+      "note": "RB 7: 'Primus ... humilitatis gradus est, si timorem Dei sibi ante oculos semper ponens'; the monk thinks God sees every thought."
+    },
+    "timorem": {
+      "gloss": "the fear of God (acc.) — 1st degree.",
+      "note": "See 'timor'."
+    },
+    "timore": {
+      "gloss": "by/in fear.",
+      "note": "See 'timor'."
+    },
+    "timoris": {
+      "gloss": "of fear.",
+      "note": "See 'timor'."
+    },
+    "voluntas": {
+      "gloss": "will — the 2nd degree of humility is not to love one's own will.",
+      "note": "RB 7: 'Secundus humilitatis gradus est, si propriam quis non amans voluntatem ...'; 'Voluntas habet poenam et necessitas parit coronam.'"
+    },
+    "voluntatem": {
+      "gloss": "one's own will (acc.) — 2nd degree.",
+      "note": "See 'voluntas'. 'Non veni facere voluntatem meam, sed eius qui me misit' (Jn 6:38)."
+    },
+    "voluntate": {
+      "gloss": "by one's (own) will.",
+      "note": "See 'voluntas'."
+    },
+    "voluntatibus": {
+      "gloss": "in/from (one's own) wills.",
+      "note": "See 'voluntas'. 'Corrupti sunt ... in voluntatibus suis' (Ps 13:1)."
+    },
+    "voluntatis": {
+      "gloss": "of the (own) will.",
+      "note": "See 'voluntas'."
+    },
+    "voluntates": {
+      "gloss": "wills (pl.).",
+      "note": "See 'voluntas'. 'Et a voluntatibus tuis avertere' (Sir 18:30)."
+    },
+    "patientia": {
+      "lemma": "patientia, patientiae",
+      "pos": "N",
+      "gloss": "patience — the 4th degree of humility: silently enduring injuries.",
+      "note": "RB 7: 'Quartus ... gradus est, si in ipsa oboedientia duris et contrariis rebus ... tacite conscientia patientiam amplectatur.' Whitaker parses the form as the verb patior."
+    },
+    "patientiam": {
+      "gloss": "patience (acc.) — 4th degree.",
+      "note": "See 'patientia'."
+    },
+    "confessionem": {
+      "gloss": "confession — the 5th degree: laying bare evil thoughts and secret sins to the abbot.",
+      "note": "RB 7: 'Quintus ... gradus est, si omnes cogitationes malas ... per humilem confessionem abbatem non celaverit suum.'"
+    },
+    "vilitate": {
+      "gloss": "in lowliness, abasement — the 6th degree: content with every lowliness.",
+      "note": "RB 7: 'Sextus ... gradus est, si omni vilitate vel extremitate contentus sit monachus.'"
+    },
+    "operarium": {
+      "gloss": "a lowly workman — the 6th degree: each counts himself a worthless labourer.",
+      "note": "RB 7: 'velut operarium malum se iudicet et indignum'."
+    },
+    "viliorem": {
+      "lemma": "vilis, vile",
+      "pos": "ADJ",
+      "gloss": "lower, more worthless — the 7th degree: counting oneself beneath all.",
+      "note": "RB 7: 'Septimus ... gradus est: si omnibus se inferiorem et viliorem ... pronuntiet'. Whitaker yields no lemma for this comparative."
+    },
+    "inferiorem": {
+      "gloss": "lower (acc.) — the 7th degree: deeming oneself the least.",
+      "note": "See 'viliorem'."
+    },
+    "risu": {
+      "lemma": "risus, risus",
+      "pos": "N",
+      "gloss": "laughter — the 10th degree of humility avoids readiness to laugh.",
+      "note": "RB 7: 'Decimus ... gradus est, si non sit facilis ac promptus in risu'; 'Stultus in risu exaltat vocem suam' (Sir 21:23). Whitaker parses the form as the verb rideo."
+    },
+    "risum": {
+      "lemma": "risus, risus",
+      "pos": "N",
+      "gloss": "laughter (acc.).",
+      "note": "See 'risus'."
+    },
+    "risui": {
+      "gloss": "for laughter (dat.).",
+      "note": "See 'risus'."
+    }
   }
 }

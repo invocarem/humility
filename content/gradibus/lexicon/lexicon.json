@@ -6663,7 +6663,12 @@
           "gloss": "joy/happiness; source of joy/delight; fertility; fruitfulness; floridity;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "mirth, joy — 'inepta laetitia', foolish mirth, the 3rd degree of pride.",
+        "note": "Caput XII: 'De tertio gradu superbiae, qui est inepta laetitia.' The heart that must always laugh, never mourn."
+      },
+      "curated": true
     },
     {
       "key": "credit",
@@ -8933,7 +8938,12 @@
           "gloss": "confession, creed, avowal of belief/faith; acknowledgement of Christ; suffering confession, acknowledgement; (act implying) admission (of guilt); proof, token; praise, thanksgiving; (Vulgate);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "confession — 'simulata confessio', feigned confession, the 9th degree of pride.",
+        "note": "Caput XVIII: 'De nono gradu superbiae, qui est simulata confessio'; 'fallax ac superba confessio' is more perilous than stubborn defence."
+      },
+      "curated": true
     },
     {
       "key": "contemptus",
@@ -8968,7 +8978,14 @@
           "gloss": "despised, despicable, paltry, mean; contemptible, vile;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "contemptus, contemptus",
+        "pos": "N",
+        "gloss": "contempt — of brothers, of the master, of God; the threefold fall of the proud.",
+        "note": "Caput XIX: the degrees collapse into 'contemptus fratrum' (1-6), 'contemptus magistri' (7-10), 'contemptus Dei' (11-12). Here a noun, not the participle of contemno."
+      },
+      "curated": true
     },
     {
       "key": "evangelio",
@@ -9791,7 +9808,12 @@
           "gloss": "joy, delight, gladness; source/cause of joy; physical/sensual delight; everlasting blessedness; gaud/gaudy, bead of rosary (Latham);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "joy — the gladness the proud always pursue.",
+        "note": "Caput XII: 'gaudium et tristitia' contend for the heart till 'inepta laetitia' alone possesses it."
+      },
+      "curated": true
     },
     {
       "key": "seu",
@@ -11585,7 +11607,14 @@
           "gloss": "despised, despicable, paltry, mean; contemptible, vile;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "contemptus, contemptus",
+        "pos": "N",
+        "gloss": "contempt (acc.).",
+        "note": "See 'contemptus'. 'demerget eum in profundum inferni, id est in contemptum Dei' (Caput XX)."
+      },
+      "curated": true
     },
     {
       "key": "curat",
@@ -12587,7 +12616,12 @@
           "gloss": "defense/protection; act of defending; argument/justification in defense, excuse legal maintenance of a right; legal prosecution, punishment;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "defence, excuse — 'defensio peccatorum', the 8th degree of pride.",
+        "note": "Caput XVII: 'De octavo gradu, qui est defensio peccatorum'; the soul pleads 'Non feci', 'Feci quidem, sed bene feci', or 'non mala intentione'."
+      },
+      "curated": true
     },
     {
       "key": "decimum",
@@ -12659,7 +12693,12 @@
           "gloss": "habit/custom/usage/way; normal/general/customary practice, tradition/convention experience; empirical knowledge; sexual/illicit intercourse, intimacy, affair;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "habit — 'consuetudo peccandi', the habit of sin, the 12th and last degree of pride.",
+        "note": "Caput XXI: 'duodecimus gradus appellari consuetudo peccandi'; custom binds the will till the sinner says in his heart, 'Non est Deus.'"
+      },
+      "curated": true
     },
     {
       "key": "orare",
@@ -13030,7 +13069,12 @@
           "gloss": "confession, creed, avowal of belief/faith; acknowledgement of Christ; suffering confession, acknowledgement; (act implying) admission (of guilt); proof, token; praise, thanksgiving; (Vulgate);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "of confession.",
+        "note": "See 'confessio'. 'verba respondentes dolosae confessionis' (Caput XVIII)."
+      },
+      "curated": true
     },
     {
       "key": "attendat",
@@ -20801,7 +20845,14 @@
           "gloss": "levity; lightness, mildness; fickleness; shallowness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "levitas, levitatis",
+        "pos": "N",
+        "gloss": "levity (acc.) — the mind's lightness.",
+        "note": "See 'levitas'. 'per curiositatem ad animi levitatem devenit' (Caput XII)."
+      },
+      "curated": true
     },
     {
       "key": "levitas",
@@ -20824,7 +20875,14 @@
           "gloss": "levity; lightness, mildness; fickleness; shallowness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "levitas, levitatis",
+        "pos": "N",
+        "gloss": "levity, lightness of mind — the 2nd degree of pride; the mind carried now up by pride, now down by envy.",
+        "note": "Caput XI: 'De secundo gradu superbiae, qui est levitas animi.' Whitaker reads this form as 'Levite'; here it is the noun levitas."
+      },
+      "curated": true
     },
     {
       "key": "quosdam",
@@ -20902,7 +20960,12 @@
           "gloss": "hate/hatred/dislike; envy/jealousy/spite/ill will; use of words/acts to arouse;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "envy (acc.) — the poison of the levity that looks sideways at others.",
+        "note": "Caput XI: 'modo per invidiam in ima demergat.'"
+      },
+      "curated": true
     },
     {
       "key": "nequiter",
@@ -21135,7 +21198,12 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "vanity, emptiness — the bloat that must vent in boasting.",
+        "note": "Caput XIII: 'vanitas crescere et vesica grossescere coeperit'."
+      },
+      "curated": true
     },
     {
       "key": "attendit",
@@ -21458,7 +21526,14 @@
           "gloss": "insolence, arrogance, conceit, haughtiness; presumption;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "arrogantia, arrogantiae",
+        "pos": "N",
+        "gloss": "arrogance, overweening self-assurance — the 6th degree of pride.",
+        "note": "Caput XV: 'De sexto gradu superbiae, id est arrogantia'; self-love ascribes all praise to one's own merits."
+      },
+      "curated": true
     },
     {
       "key": "quique",
@@ -21803,7 +21878,12 @@
           "gloss": "rebellion;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "rebellion — the 10th degree of pride; open contempt of the master.",
+        "note": "Caput XIX: 'De decimo gradu superbiae, qui est rebellio'; after it the monk no longer fears brother or master (Caput XX)."
+      },
+      "curated": true
     },
     {
       "key": "corruit",
@@ -21909,7 +21989,14 @@
           "gloss": "freedom, liberty; frankness of speech, outspokenness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "libertas, libertatis",
+        "pos": "N",
+        "gloss": "freedom, license — 'libertas peccandi', the 11th degree of pride.",
+        "note": "Caput XX: 'De undecimo gradu superbiae, qui est libertas peccandi'; freed from fear of master and brothers, the monk feeds his desires. Whitaker misreads the form as liberta."
+      },
+      "curated": true
     },
     {
       "key": "monasterio",
@@ -53713,7 +53800,12 @@
           "gloss": "presumption; anticipation of objection; stubbornness; enjoying anticipation;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "presumption (abl.).",
+        "note": "See 'praesumptio'."
+      },
+      "curated": true
     },
     {
       "key": "singulari",
@@ -57416,7 +57508,12 @@
           "gloss": "buffoonery; quality of a scurra, untimely/offensive humor;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "buffoonery, scurrility — the outward sign of inepta laetitia.",
+        "note": "Caput XII: 'in signis scurrilitas, in fronte hilaritas.'"
+      },
+      "curated": true
     },
     {
       "key": "fronte",
@@ -57738,7 +57835,12 @@
           "gloss": "joy/happiness; source of joy/delight; fertility; fruitfulness; floridity;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "mirth (acc.) — vain gladness.",
+        "note": "See 'laetitia'. 'sola possidere incipiat inepta laetitia' (Caput XII)."
+      },
+      "curated": true
     },
     {
       "key": "valet",
@@ -58134,7 +58236,12 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "of vanity.",
+        "note": "See 'vanitas'."
+      },
+      "curated": true
     },
     {
       "key": "plenius",
@@ -58236,7 +58343,12 @@
           "gloss": "loud/excessive/boisterous/derisive laugh, guffaw; jeer; (applied to waves);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "guffaws, loud laughter (acc. pl.).",
+        "note": "Caput XII: the swollen monk bursts forth 'per cachinnos' like a pricked bladder."
+      },
+      "curated": true
     },
     {
       "key": "excutitur",
@@ -58284,7 +58396,14 @@
           "gloss": "boasting, ostentation;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "iactantia, iactantiae",
+        "pos": "N",
+        "gloss": "boasting — the 4th degree of pride; pouring out one's own excellences.",
+        "note": "Caput XIII: 'quartus gradus ... qui est iactantia'; 'in multiloquio nota iactantiam. Fuge rem, et tene nomen.'"
+      },
+      "curated": true
     },
     {
       "key": "crescere",
@@ -58873,7 +58992,12 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "vanities.",
+        "note": "See 'vanitas'. 'quibus suas iactitet vanitates' (Caput XIII)."
+      },
+      "curated": true
     },
     {
       "key": "effundat",
@@ -59352,7 +59476,12 @@
           "gloss": "dream; dream of or see in a dream;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "dreams (acc. pl.).",
+        "note": "Caput XIII: the boaster tells 'visiones et somnia'."
+      },
+      "curated": true
     },
     {
       "key": "ieiunia",
@@ -59658,7 +59787,12 @@
           "gloss": "loquaciousness, excessive talking;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "in much speaking.",
+        "note": "Caput XIII: 'in multiloquio nota iactantiam'; cf. RB 7, ninth degree: 'in multiloquio non effugitur peccatum'."
+      },
+      "curated": true
     },
     {
       "key": "nota",
@@ -59872,7 +60006,12 @@
           "gloss": "singularity;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "singularity, self-willed distinctiveness — the 5th degree of pride.",
+        "note": "Caput XIV: 'De quinto gradu superbiae, qui dicitur singularitas'; the monk wants to be seen, not to be good."
+      },
+      "curated": true
     },
     {
       "key": "turpe",
@@ -61204,7 +61343,12 @@
           "gloss": "singularity;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "singularity (acc.) — the 5th degree.",
+        "note": "See 'singularitas'."
+      },
+      "curated": true
     },
     {
       "key": "sextum",
@@ -61282,7 +61426,12 @@
           "gloss": "presumption; anticipation of objection; stubbornness; enjoying anticipation;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "presumption — the 7th degree of pride; claiming the first place unbidden.",
+        "note": "Caput XVI: 'De septimo gradu superbiae, qui est praesumptio'; he sits first, speaks first, judges the judges."
+      },
+      "curated": true
     },
     {
       "key": "putat",
@@ -62732,7 +62881,12 @@
           "gloss": "defense/protection; act of defending; argument/justification in defense, excuse legal maintenance of a right; legal prosecution, punishment;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "of defence (of sins).",
+        "note": "See 'defensio'. 'pervicax et obstinata defensio' (Caput XVIII)."
+      },
+      "curated": true
     },
     {
       "key": "respondentes",
@@ -64046,7 +64200,12 @@
           "gloss": "rebellion;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "rebellion (acc.).",
+        "note": "See 'rebellio'. 'in decimum gradum per rebellionem corruit' (Caput XIX)."
+      },
+      "curated": true
     },
     {
       "key": "arrogans",
@@ -65957,7 +66116,12 @@
           "gloss": "habit/custom/usage/way; normal/general/customary practice, tradition/convention experience; empirical knowledge; sexual/illicit intercourse, intimacy, affair;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "by habit.",
+        "note": "See 'consuetudo'. 'pro bona consuetudine iustus currit ad vitam' (Caput XXI)."
+      },
+      "curated": true
     },
     {
       "key": "iustus",
@@ -67501,7 +67665,12 @@
           "gloss": "freedom, liberty; frankness of speech, outspokenness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "freedom, license (acc.).",
+        "note": "See 'libertas'. 'potest autem undecimus gradus appellari libertas peccandi' (Caput XX)."
+      },
+      "curated": true
     },
     {
       "key": "expellitur",
@@ -67642,7 +67811,12 @@
           "gloss": "habit/custom/usage/way; normal/general/customary practice, tradition/convention experience; empirical knowledge; sexual/illicit intercourse, intimacy, affair;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "gloss": "habit (acc.).",
+        "note": "See 'consuetudo'. 'ligat consuetudo' (Caput XXI)."
+      },
+      "curated": true
     },
     {
       "key": "sepelitur",
@@ -68730,5 +68904,5 @@
       "no_gloss": false
     }
   ],
-  "curated_count": 54
+  "curated_count": 86
 }
