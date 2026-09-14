@@ -2,7 +2,7 @@
 
 This folder is the closed word list for *De gradibus humilitatis et superbiae*. The study reader should look words up here. It should not call Whitaker on every click, and it should not ship a general dictionary.
 
-The root `README.md` is the reader bookmark. This file is only the vocabulary pipeline.
+The root `README.md` is the reader bookmark. This file is only the vocabulary pipeline for Bernard. The same scripts serve the psalter; see `content/psalter/lexicon/README.md`.
 
 ## Status
 
@@ -13,7 +13,9 @@ The root `README.md` is the reader bookmark. This file is only the vocabulary pi
 | `lexicon.json` | Done. Parsed dictionary, 3,311 entries; 54 curated (Bernard) cards merged in. |
 | `overrides.json` | Done. Hand-authored Bernard glosses + the 18 `no_gloss` cards. |
 
-`01_steps_of_humility_and_pride.md` is not a source. Do not edit it. Re-extract from `content/gradibus/latin.md` only. Every script takes `--work <id>` (default `gradibus`) and resolves `content/<work>/lexicon/`; the reader loads only the active work's lexicon.
+`01_steps_of_humility_and_pride.md` is not a source. Do not edit it. Re-extract from `content/gradibus/latin.md` only.
+
+Every lexicon script takes `--work <id>` and writes `content/<work>/lexicon/`. The default is `gradibus`, so the `npm run lexicon:*` commands in this file are safe here. For the psalter, pass `--work psalter` (the npm scripts do not). The reader loads only the active work's lexicon.
 
 ## 1. Extract (already run)
 
@@ -23,7 +25,7 @@ Host only. No Docker.
 npm run lexicon:extract
 ```
 
-or `python tools/extract_wordlist.py`.
+or `python tools/extract_wordlist.py` (same as `--work gradibus`).
 
 That script strips markdown, section numbers, and scripture citations. It does not guess lemma or case.
 
@@ -37,7 +39,7 @@ Each form keeps:
 
 Rebuild `forms.json` only after `content/gradibus/latin.md` changes.
 
-## 2. Analyze (do this next)
+## 2. Analyze (already run; gitignored)
 
 Needs Docker Desktop and the Whitaker image (Words binary at `/opt/whitakers-words/bin/words`).
 
@@ -53,6 +55,8 @@ If that looks sane, run the full list (a few minutes):
 ```bash
 bash tools/analyze-in-docker.sh
 ```
+
+Both default to `--work gradibus`. For another work: `bash tools/analyze-in-docker.sh --work psalter`.
 
 Another image name:
 
@@ -73,7 +77,7 @@ Do not leave `whitaker_server.py` running for this. MCP is for Cursor. The batch
 npm run lexicon:parse
 ```
 
-or `python tools/parse_analyses.py` (add `--show` for a frequency summary).
+or `python tools/parse_analyses.py` (add `--show` for a frequency summary; `--work psalter` for the psalms).
 
 `tools/parse_analyses.py` turns the raw `analyses.json` blocks into
 `lexicon.json`: one entry per form with
@@ -101,7 +105,7 @@ cards on top instead of editing the generated `lexicon.json` by hand.
 npm run lexicon:curate
 ```
 
-or `python tools/apply_overrides.py`.
+or `python tools/apply_overrides.py` (`--work psalter` for the psalms).
 
 `overrides.json` maps a lexicon `key` to an `edited` card:
 
@@ -149,9 +153,9 @@ npm run lexicon:curate  # re-apply Bernard cards
 
 | Script | Runs where |
 | --- | --- |
-| `tools/extract_wordlist.py` | Host |
-| `tools/analyze_wordlist.py` | Inside the Whitaker container |
-| `tools/analyze-in-docker.sh` | Host; mounts the repo at `/work` |
-| `tools/parse_analyses.py` | Host; `analyses.json` → `lexicon.json` |
-| `tools/apply_overrides.py` | Host; merges `overrides.json` into `lexicon.json` |
-| `app/src/dictionary.ts` | Reader; `lexicon.json` lookup + gloss helpers |
+| `tools/extract_wordlist.py [--work gradibus]` | Host |
+| `tools/analyze_wordlist.py [--work gradibus]` | Inside the Whitaker container |
+| `tools/analyze-in-docker.sh [--work gradibus]` | Host; mounts the repo at `/work` |
+| `tools/parse_analyses.py [--work gradibus]` | Host; `analyses.json` → `lexicon.json` |
+| `tools/apply_overrides.py [--work gradibus]` | Host; merges `overrides.json` into `lexicon.json` |
+| `app/src/dictionary.ts` | Reader; per-work `lexicon.json` lookup + gloss helpers |

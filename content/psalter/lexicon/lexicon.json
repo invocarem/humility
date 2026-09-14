@@ -985,7 +985,14 @@
           "gloss": "merciful, tenderhearted;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misericordia, -ae",
+        "pos": "N",
+        "gloss": "mercy — God's steadfast covenant love (Heb. ḥesed), the psalter's great theme.",
+        "note": "First occurs Ps 6: 'miserere mei, Domine'. The constant refrain 'misericordia tua in aeternum' — God's loyal love endures forever (e.g. Pss 102, 117)."
+      }
     },
     {
       "key": "nos",
@@ -1685,7 +1692,14 @@
           "gloss": "unfairness, inequality, unevenness (of terrain);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iniquitas, -tatis",
+        "pos": "N",
+        "gloss": "iniquity (acc.) — wrongdoing confessed and forgiven.",
+        "note": "First Ps 5: 'propter... iniquitatem odisti'. David's 'delictum meum cognitum tibi feci, et iniquitatem meam non abscondi' (Ps 31)."
+      }
     },
     {
       "key": "suam",
@@ -2298,7 +2312,14 @@
           "gloss": "justice; equality; righteousness (Plater);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iustitia, -ae",
+        "pos": "N",
+        "gloss": "righteousness/justice (acc.).",
+        "note": "First Ps 9: 'in iustitia tua' — pleads to be led 'in God's righteousness', for vindication and deliverance."
+      }
     },
     {
       "key": "ipse",
@@ -2618,7 +2639,14 @@
           "gloss": "pity, sympathy; compassion, mercy; pathos;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misericordia, -ae",
+        "pos": "N",
+        "gloss": "mercy (acc.) — the loving-kindness asked of God.",
+        "note": "First Ps 5: 'in multitudine misericordiae tuae introlbo in domum tuam'. Israel begs it ('fac nobiscum misericordiam') throughout."
+      }
     },
     {
       "key": "noster",
@@ -2983,7 +3011,14 @@
           "gloss": "recommend; praise, approve, extol; call upon, name; deliver eulogy on;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "laudo, -are",
+        "pos": "V",
+        "gloss": "praise (imperative pl.) — the psalter's summons.",
+        "note": "'Laudate Dominum' opens and closes the final hallel (Pss 145-150); Ps 148-150 call all creation to praise."
+      }
     },
     {
       "key": "mandata",
@@ -3043,7 +3078,14 @@
           "gloss": "glory, fame; ambition; renown; vainglory, boasting;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "gloria, -ae",
+        "pos": "N",
+        "gloss": "glory — God's splendor and honor, reflected on the righteous.",
+        "note": "First Ps 4: 'et gloria mea... exalta caput meum'; Ps 8: 'quam admirabile est nomen tuum... super omnem gloriam'."
+      }
     },
     {
       "key": "salvum",
@@ -3079,7 +3121,14 @@
           "gloss": "confess (w/ACC), admit, acknowledge, reveal, disclose; concede, allow; denote;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "confiteor, -eri, confessus sum",
+        "pos": "V",
+        "gloss": "I will give thanks / I praise — psalter sense of 'ἐξομολογοῦμαι'.",
+        "note": "'Confitebor tibi' opens many songs (Pss 9, 30, 41, 108...): the singer proclaims God's praise publicly."
+      }
     },
     {
       "key": "tuorum",
@@ -3192,7 +3241,14 @@
           "gloss": "cessation of judicial and all public business, due to national calamity;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iustitia, -ae",
+        "pos": "N",
+        "gloss": "righteousness, justice — God's saving order, not mere retribution.",
+        "note": "First Ps 9: 'iudicabit orbem terrae in iustitia'. In the psalter God's 'iustitia' is salvation breaking in (Pss 7, 35, 88)."
+      }
     },
     {
       "key": "memor",
@@ -3678,7 +3734,14 @@
           "gloss": "Halleluia, cry of joy and praise to God; (praise ye Jehovah);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "alleluia",
+        "pos": "INTJ",
+        "gloss": "Hallelujah — 'praise Yah' (Heb. halelu-yah), untranslated shout of praise.",
+        "note": "Vulgate keeps the Hebrew 'alleluia' in psalm titles and the closing hallels (Pss 104-106, 110-118, 134-150)."
+      }
     },
     {
       "key": "viam",
@@ -3993,7 +4056,14 @@
           "gloss": "truth, fact, accuracy; honesty, truthfulness, frankness; sincerity, uprightness reality, that which is real; real life, actuality; true nature; correctness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "veritas, -tatis",
+        "pos": "N",
+        "gloss": "truth, faithfulness — God's constancy (Heb. 'emeth), paired with mercy.",
+        "note": "First Ps 10: 'misericordia et veritas' — mercy and truth together (Pss 24, 56, 88); God's word is truth (Ps 118/119)."
+      }
     },
     {
       "key": "gloriam",
@@ -4011,7 +4081,14 @@
           "gloss": "glory, fame; ambition; renown; vainglory, boasting;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "gloria, -ae",
+        "pos": "N",
+        "gloss": "glory (acc.) — honor rendered to God.",
+        "note": "First Ps 6: 'ut cantem gloriam tuam' — singing God's glory; 'da gloriam Deo' (Ps 67)."
+      }
     },
     {
       "key": "suae",
@@ -4258,7 +4335,14 @@
           "gloss": "pity, feel pity; show/have mercy/compassion/pity for (w/GEN);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misereor, -eri, miseritus +DAT",
+        "pos": "V",
+        "gloss": "have mercy (on) — the imperative opening Israel's great cry.",
+        "note": "'Miserere mei, Deus' (Ps 50/51) and 'miserere nostri' (Pss 4, 6, 9...) — the psalm's most repeated plea; David's repentance psalm (50)."
+      }
     },
     {
       "key": "orationem",
@@ -5612,7 +5696,14 @@
           "gloss": "unfairness, inequality, unevenness (of terrain);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iniquitas, -tatis",
+        "pos": "N",
+        "gloss": "iniquity, guilt — injustice and wrong that separates from God.",
+        "note": "First Ps 4: 'usquequo... diligitis vanitatem, et quaeritis mendacium' pairs iniquity's fruit with vanity. God does not impute it where there is forgiveness (Ps 31)."
+      }
     },
     {
       "key": "simul",
@@ -5974,7 +6065,14 @@
           "gloss": "pity, sympathy; compassion, mercy; pathos;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misericordia, -ae",
+        "pos": "N",
+        "gloss": "of mercy — of steadfast covenant love.",
+        "note": "'In multitudine misericordiae tuae' (Ps 5), the plea for the abundance of God's mercy; 'memorare misericordiae tuae' (Ps 24)."
+      }
     },
     {
       "key": "illos",
@@ -6052,7 +6150,14 @@
           "gloss": "just, fair, equitable; right, lawful, justified; regular, proper;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iustus, -a, -um",
+        "pos": "ADJ/N",
+        "gloss": "righteous (one) — the just man, upright and God-fearing.",
+        "note": "First Ps 12: 'beati qui... iusti'; 'Dominus iustus' (Ps 10); the righteous flourish 'sicut palma' (Ps 91)."
+      }
     },
     {
       "key": "numquid",
@@ -6226,7 +6331,14 @@
           "gloss": "unfairness, inequality, unevenness (of terrain);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iniquitas, -tatis",
+        "pos": "N",
+        "gloss": "iniquities (pl.) — accumulated wrongs needing cleansing.",
+        "note": "First Ps 10: 'multiplicatae sunt iniquitates' — the many sins that 'prolapsed' the psalmist to mercy."
+      }
     },
     {
       "key": "confitemini",
@@ -6244,7 +6356,14 @@
           "gloss": "confess (w/ACC), admit, acknowledge, reveal, disclose; concede, allow; denote;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "confiteor, -eri, confessus sum",
+        "pos": "V",
+        "gloss": "give thanks, praise — the repeated imperative of the hallels.",
+        "note": "'Confitemini Domino quoniam bonus' (Pss 105, 106, 117, 135) — 'give thanks to the Lord, for he is good'."
+      }
     },
     {
       "key": "verumtamen",
@@ -6838,7 +6957,14 @@
           "gloss": "justice; equality; righteousness (Plater);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iustitia, -ae",
+        "pos": "N",
+        "gloss": "of righteousness/justice.",
+        "note": "Ps 2: 'iustitias Domini' — recounting the righteous deeds of the Lord in song."
+      }
     },
     {
       "key": "usquequo",
@@ -7468,7 +7594,14 @@
           "gloss": "health; prosperity; good wish; greeting; salvation, safety;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "salus, -utis",
+        "pos": "N",
+        "gloss": "salvation, deliverance, safety — God's rescue and health.",
+        "note": "First Ps 3: 'Domine, salus mea' — the psalter's constant hope; 'in Deo salutare vultus mei' (Pss 41, 42)."
+      }
     },
     {
       "key": "mane",
@@ -8007,7 +8140,14 @@
           "gloss": "cithara, lyre; lute, guitar (L+S);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "cithara, -ae",
+        "pos": "N",
+        "gloss": "harp, lyre — the instrument of psalm-song.",
+        "note": "Pairs with psalterium (Pss 32, 70, 107, 150); 'surgam diluculo, quia cithara tibi, Deus' (Ps 56)."
+      }
     },
     {
       "key": "cantate",
@@ -8448,7 +8588,14 @@
           "gloss": "hope/anticipation/expectation; prospect/hope/promise; (inheriting/succeeding); object/embodiment of hope; [optio ad ~ => junior hoping to make centurion];"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "spes, spei",
+        "pos": "N",
+        "gloss": "hope — confident expectation in God's deliverance.",
+        "note": "First Ps 6: 'spes mea in Deo'; Ps 38: 'quae est expectatio mea? nonne Dominus?' — my hope is in the Lord."
+      }
     },
     {
       "key": "intellectum",
@@ -8565,7 +8712,14 @@
           "gloss": "health; prosperity; good wish; greeting; salvation, safety;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "salus, -utis",
+        "pos": "N",
+        "gloss": "of salvation — of deliverance.",
+        "note": "First Ps 3: 'Deus salutis meae' — the God of my salvation, answering from his holy hill (Ps 3:9)."
+      }
     },
     {
       "key": "tabernaculum",
@@ -8996,7 +9150,14 @@
           "gloss": "fear; dread;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "timor, -oris",
+        "pos": "N",
+        "gloss": "with/in fear — reverence before God.",
+        "note": "First Ps 11: 'servite Domino in timore' (Ps 2:11) — serve the Lord with fear and rejoice with trembling."
+      }
     },
     {
       "key": "sine",
@@ -9362,7 +9523,14 @@
           "gloss": "sinner; transgressor;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "peccator, -oris",
+        "pos": "N",
+        "gloss": "sinner — the ungodly, set against the righteous.",
+        "note": "First Ps 17: 'misit de excelso et accepit me' — David delivered from the hand of the peccator; 'peccatores peribunt' (Ps 36)."
+      }
     },
     {
       "key": "irae",
@@ -9493,7 +9661,14 @@
           "gloss": "fear; dread;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "timor, -oris",
+        "pos": "N",
+        "gloss": "fear — reverent awe of the Lord, beginning of wisdom.",
+        "note": "First Ps 3: 'in timore tuo' (Ps 5); 'initium sapientiae timor Domini' (Ps 110/111); the blessed fear the Lord (Ps 1, 111)."
+      }
     },
     {
       "key": "nonne",
@@ -9613,7 +9788,14 @@
           "gloss": "unfairness, inequality, unevenness (of terrain);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iniquitas, -tatis",
+        "pos": "N",
+        "gloss": "of iniquity.",
+        "note": "First Ps 5: 'virum sanguinum et dolosum abominabitur Dominus' — the way of iniquity's children."
+      }
     },
     {
       "key": "aqua",
@@ -10105,7 +10287,14 @@
           "gloss": "merciful, tenderhearted;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misericors, -cordis",
+        "pos": "ADJ",
+        "gloss": "merciful, compassionate — an attribute of God.",
+        "note": "God is 'misericors et miserator' (Pss 102, 110) — merciful and compassionate, slow to anger."
+      }
     },
     {
       "key": "habent",
@@ -11803,7 +11992,14 @@
           "gloss": "desire/longing/want/requirement; desire/grief/regret for dead/absent/loss; favorite, object of desire; pleasure, that desired/needed; petition, request;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "desiderium, -ii",
+        "pos": "N",
+        "gloss": "desire, longing — the reaching of the soul toward God.",
+        "note": "First Ps 38: 'desiderium animae tuae... tribues eis' — God grants the heart's desire granted to those who wait (Pss 20, 37)."
+      }
     },
     {
       "key": "sedes",
@@ -12528,7 +12724,14 @@
           "gloss": "glory, fame; ambition; renown; vainglory, boasting;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "gloria, -ae",
+        "pos": "N",
+        "gloss": "of glory.",
+        "note": "First Ps 7: 'rex gloriae' (Ps 23/24) — 'the Lord strong and mighty, the King of glory' at the gates."
+      }
     },
     {
       "key": "saeculo",
@@ -12700,7 +12903,14 @@
           "gloss": "greet; wish well; visit; hail, salute;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "salus, -utis",
+        "pos": "N",
+        "gloss": "salvation (acc.) — the deliverance requested.",
+        "note": "First Ps 17: 'proclamavi... salutem' (Ps 17/18) — David, saved, lifts 'the cup of salvation' (Ps 115)."
+      }
     },
     {
       "key": "exquisivi",
@@ -13138,7 +13348,14 @@
           "gloss": "rejoice; boast; exalt; jump about, let oneself go;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "exsulto, -are",
+        "pos": "V",
+        "gloss": "rejoice, exult (imperative pl.) — burst into glad song.",
+        "note": "First Ps 11: 'exsultate, iusti, in Domino' (Ps 32) — rejoice in the Lord, you righteous; the deliverance song of the just."
+      }
     },
     {
       "key": "dicunt",
@@ -13418,7 +13635,14 @@
           "gloss": "sin; moral offense; error, mistake; lapse, misdemeanor; transgression; wrong;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "peccatum, -i",
+        "pos": "N",
+        "gloss": "sin — the offense against God confessed for forgiveness.",
+        "note": "First Ps 36: 'peccatum meum cognitum tibi feci' (Ps 31) — the confessed sin is not imputed by God; the faithful who confide in the Lord do not stumble."
+      }
     },
     {
       "key": "quomodo",
@@ -13603,7 +13827,14 @@
           "gloss": "pity, sympathy; compassion, mercy; pathos;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "misericordia, -ae",
+        "pos": "N",
+        "gloss": "mercies — God's multiple deeds of steadfast love.",
+        "note": "Ps 7 ends 'et cantabo... misericordias Domini'; the plural gathers God's many saving acts into remembered song."
+      }
     },
     {
       "key": "fortitudo",
@@ -14228,7 +14459,14 @@
           "gloss": "stringed instrument;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "psalterium, -ii",
+        "pos": "N",
+        "gloss": "on/with the psaltery.",
+        "note": "Ps 2: 'psallite Deo in cithara, in psalterio et voce psalmi' (Pss 32, 70) — worship with strings."
+      }
     },
     {
       "key": "novum",
@@ -14569,7 +14807,14 @@
           "gloss": "shout/sing out/joyfully, rejoice; invoke with/let out shouts/whoops, halloo;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iubilo, -are",
+        "pos": "V",
+        "gloss": "shout for joy (imperative pl.) — jubilant, wordless praise.",
+        "note": "'Iubilate Deo omnis terra' (Pss 65, 97/100) — make a joyful noise to the Lord, all the earth. The Gallican uses v-/u- plainly."
+      }
     },
     {
       "key": "sedem",
@@ -16275,7 +16520,14 @@
           "gloss": "goodness, integrity, moral excellence; kindness, benevolence, tenderness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "bonitas, -tatis",
+        "pos": "N",
+        "gloss": "goodness (acc.) — God's kindness tasted and proclaimed.",
+        "note": "First Ps 7: 'gustate et videte quoniam suavis est Dominus' (Ps 33) — taste that the Lord is good."
+      }
     },
     {
       "key": "odio",
@@ -18284,7 +18536,14 @@
           "gloss": "stringed instrument;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "psalterium, -ii",
+        "pos": "N",
+        "gloss": "psaltery — a plucked stringed instrument; also 'the psalter' as the book.",
+        "note": "Ps 150: 'laudate eum in psalterio et cithara' — with psaltery and harp; the psalter's own title-name."
+      }
     },
     {
       "key": "consilio",
@@ -18466,7 +18725,14 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "vanitas, -tatis",
+        "pos": "N",
+        "gloss": "vanity (acc.) — empty, fleeting things chased by the foolish.",
+        "note": "First Ps 3: 'ut quid diligitis vanitatem, et quaeritis mendacium' (Ps 4) — why love what is vain and seek a lie?"
+      }
     },
     {
       "key": "cordibus",
@@ -21101,7 +21367,14 @@
           "gloss": "sin; moral offense; error, mistake; lapse, misdemeanor; transgression; wrong;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "peccatum, -i",
+        "pos": "N",
+        "gloss": "sins (pl.) — wrongs to be pardoned.",
+        "note": "Ps 1: 'in tota lege Domini voluntas eius' contrasted with the 'via peccatorum' the blessed do not walk."
+      }
     },
     {
       "key": "cui",
@@ -26915,7 +27188,14 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "vanitas, -tatis",
+        "pos": "N",
+        "gloss": "vanities — empty follies and false idols.",
+        "note": "First Ps 7: 'nemo... qui sequitur vanitates' (Ps 30) — false gods and empty pursuits are vanitates that miss God's mercy."
+      }
     },
     {
       "key": "tribulor",
@@ -28082,7 +28362,14 @@
           "gloss": "pity, compassion;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "miseratio, -onis",
+        "pos": "N",
+        "gloss": "compassions, tender mercies — the pity of God toward the weak.",
+        "note": "First Ps 12: 'propter miserationes...' — closer to 'pity' than 'mercy', of God's readiness to bend toward the lowly."
+      }
     },
     {
       "key": "loquebatur",
@@ -30940,7 +31227,14 @@
           "gloss": "confession, creed, avowal of belief/faith; acknowledgement of Christ; suffering confession, acknowledgement; (act implying) admission (of guilt); proof, token; praise, thanksgiving; (Vulgate);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "confessio, -onis",
+        "pos": "N",
+        "gloss": "praise, thanksgiving — in the psalter chiefly of God, NOT guilt-confession.",
+        "note": "First Ps 6: 'confitebimur tibi Deus' — 'confessio' here means giving God thanks/praise. A key psalter usage to set apart from modern 'confession'."
+      }
     },
     {
       "key": "introite",
@@ -31145,7 +31439,14 @@
           "gloss": "goodness, integrity, moral excellence; kindness, benevolence, tenderness;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "bonitas, -tatis",
+        "pos": "N",
+        "gloss": "goodness of God — his benevolence, the ground of thanks.",
+        "note": "'Confitemini Domino quoniam bonus... quoniam in aeternum misericordia eius' (Pss 105-106, 117) — because he is good, his mercy endures forever."
+      },
+      "curated": true
     },
     {
       "key": "respicit",
@@ -31389,7 +31690,14 @@
           "gloss": "commendation, praising; eulogy;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "laudatio, -onis",
+        "pos": "N",
+        "gloss": "praise — the act/utterance of praising God.",
+        "note": "Ps 9: 'pro admirabilibus tuis laudabo te' (Ps 9:2); Psalm titles use it of the song itself."
+      }
     },
     {
       "key": "audient",
@@ -37429,7 +37737,14 @@
           "gloss": "exultation, joy;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "exsultatio, -onis",
+        "pos": "N",
+        "gloss": "rejoicing, exultation — the gladness of the delivered.",
+        "note": "First Ps 7: 'voces exultationis et salutis in tabernaculis iustorum' (Ps 117) — sounds of joy and salvation in the tents of the righteous."
+      }
     },
     {
       "key": "equus",
@@ -40703,7 +41018,14 @@
           "gloss": "kindness, courtesy; friendliness, benevolence; liberality, favor; bounty; mercy"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "benignitas, -tatis",
+        "pos": "N",
+        "gloss": "kindness (acc.), graciousness — mild favor near to mercy.",
+        "note": "First Ps 5: 'miserere mei' answered by 'in multitudine misericordiae tuae'; God's benignitas is his gentle goodness (Ps 30)."
+      },
+      "curated": true
     },
     {
       "key": "magis",
@@ -51118,7 +51440,14 @@
           "gloss": "unjust, unfair; disadvantageous, uneven; unkind, hostile;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "iniquus, -a, -um",
+        "pos": "ADJ",
+        "gloss": "unjust, iniquitous — the wicked opposed to the righteous.",
+        "note": "Ps 23/24: 'quis ascendet in montem Domini? innocens manibus et mundo corde' — the just are set against the iniquus."
+      }
     },
     {
       "key": "benedicitur",
@@ -61320,7 +61649,14 @@
           "gloss": "fear; dread;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "timor, -oris",
+        "pos": "N",
+        "gloss": "fear (acc.) — the holy awe of God.",
+        "note": "Ps 12: 'domine... imple timore' — 'the fear of the Lord is clean, enduring forever' (Ps 18/19)."
+      }
     },
     {
       "key": "bonos",
@@ -65072,7 +65408,14 @@
           "gloss": "emptiness, untruthfulness; futility, foolishness, empty pride;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "vanitas, -tatis",
+        "pos": "N",
+        "gloss": "vanity — breath, vapor (Heb. hēbel); all that is fleeting and empty.",
+        "note": "First Ps 6 (printed 'uanitas'); 'universa vanitas omnis homo vivens' (Ps 38) — every living one is vanity. 'Vanitas vanitatum' is Ecclesiastes, but the psalmist applies 'hēbel' to human life founded on self."
+      }
     },
     {
       "key": "imagine",
@@ -66484,7 +66827,14 @@
           "gloss": "confession, creed, avowal of belief/faith; acknowledgement of Christ; suffering confession, acknowledgement; (act implying) admission (of guilt); proof, token; praise, thanksgiving; (Vulgate);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "confessio, -onis",
+        "pos": "N",
+        "gloss": "of praise — of thanksgiving.",
+        "note": "First Ps 5: 'introibo in domum tuam in multitudine misericordiae tuae' — worship entered with confession of praise."
+      }
     },
     {
       "key": "epulantis",
@@ -75889,7 +76239,14 @@
           "gloss": "kindness, courtesy; friendliness, benevolence; liberality, favor; bounty; mercy"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "edited": {
+        "lemma": "benignitas, -tatis",
+        "pos": "N",
+        "gloss": "of kindness/graciousness.",
+        "note": "First Ps 12: recalled with mercy — 'quoniam in aeternum misericordia eius' (Ps 117) shows the constancy behind God's benignitas."
+      },
+      "curated": true
     },
     {
       "key": "replebuntur",
@@ -86871,7 +87228,14 @@
           "gloss": "desire/longing/want/requirement; desire/grief/regret for dead/absent/loss; favorite, object of desire; pleasure, that desired/needed; petition, request;"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "desiderium, -ii",
+        "pos": "N",
+        "gloss": "desires — inclinations of the heart, for good or ill.",
+        "note": "First Ps 13: 'Dominus... desideria pauperum exaudivit' — God hears the desires of the poor."
+      }
     },
     {
       "key": "audisset",
@@ -95840,7 +96204,14 @@
           "gloss": "confession, creed, avowal of belief/faith; acknowledgement of Christ; suffering confession, acknowledgement; (act implying) admission (of guilt); proof, token; praise, thanksgiving; (Vulgate);"
         }
       ],
-      "no_gloss": false
+      "no_gloss": false,
+      "curated": true,
+      "edited": {
+        "lemma": "confessio, -onis",
+        "pos": "N",
+        "gloss": "praise, thanksgiving (acc.) — an offering of thanks.",
+        "note": "Ps 1: 'in laetitia' / 'vox exultationis et salutis in tabernaculis iustorum' (Ps 117) frames confessio as joyful public thanks."
+      }
     },
     {
       "key": "induisti",
@@ -114441,5 +114812,6 @@
       ],
       "no_gloss": false
     }
-  ]
+  ],
+  "curated_count": 53
 }
