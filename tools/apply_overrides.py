@@ -37,6 +37,7 @@ def main() -> None:
     applied = 0
     for e in entries:
         e.pop("edited", None)
+        e.pop("curated", None)
         card = overrides.get(e["key"])
         if card:
             e["edited"] = dict(card)

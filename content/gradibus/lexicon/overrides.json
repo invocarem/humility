@@ -365,13 +365,11 @@
       "gloss": "of defence (of sins).",
       "note": "See 'defensio'. 'pervicax et obstinata defensio' (Caput XVIII)."
     },
-    "confessio": {
-      "gloss": "confession — 'simulata confessio', feigned confession, the 9th degree of pride.",
-      "note": "Caput XVIII: 'De nono gradu superbiae, qui est simulata confessio'; 'fallax ac superba confessio' is more perilous than stubborn defence."
-    },
-    "confessionis": {
-      "gloss": "of confession.",
-      "note": "See 'confessio'. 'verba respondentes dolosae confessionis' (Caput XVIII)."
+    "simulata": {
+      "lemma": "simulo, simulare, simulavi, simulatus",
+      "pos": "VPAR",
+      "gloss": "feigned, pretended — 'simulata confessio', the 9th degree of pride.",
+      "note": "Caput XVIII: 'De nono gradu superbiae, qui est simulata confessio'. The participle, not confessio, names the step: a false confession more perilous than stubborn defence."
     },
     "rebellio": {
       "gloss": "rebellion — the 10th degree of pride; open contempt of the master.",

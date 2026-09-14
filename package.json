@@ -18,7 +18,8 @@
     "ingest:verify": "python tools/ingest_latin.py",
     "ingest:scaffold": "python tools/ingest_latin.py --scaffold",
     "ingest:psalter-english": "python tools/ingest_psalter_english.py",
-    "ingest:rule-english": "python tools/ingest_rule_english.py"
+    "ingest:rule-english": "python tools/ingest_rule_english.py",
+    "ingest:confessions": "python tools/ingest_confessions.py"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",

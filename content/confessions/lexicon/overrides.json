@@ -1,0 +1,377 @@
+{
+  "schema": "Confessiones gloss overrides. Keyed by the exact lexicon key (lowercase printed form). Each value is an `edited` card the reader shows on click: { lemma?, pos?, gloss, note? }. Where `lemma`/`pos` are omitted the entry keeps Whitaker's. Notes cite book.chapter (Conf. 1.1 = Liber I Caput 1). This is a STARTER set — refine glosses against latin.md before treating them as final.",
+  "entries": {
+    "confessio": {
+      "lemma": "confessio, -onis",
+      "pos": "N",
+      "gloss": "confession — both praise of God and admission of sin; the double work of this book.",
+      "note": "Conf. 1.1: Augustine confesses God's greatness and his own unlikeness. Unlike the psalter's 'confessio' as thanksgiving, here both senses run together."
+    },
+    "confessiones": {
+      "lemma": "confessio, -onis",
+      "pos": "N",
+      "gloss": "confessions (pl.) — the title: praises and self-disclosures before God.",
+      "note": "The work's own name. Book 10 asks what he is doing in these confessiones before many witnesses."
+    },
+    "confessionem": {
+      "lemma": "confessio, -onis",
+      "pos": "N",
+      "gloss": "confession (acc.) — the act of speaking before God.",
+      "note": "See 'confessio'."
+    },
+    "confessionis": {
+      "lemma": "confessio, -onis",
+      "pos": "N",
+      "gloss": "of confession.",
+      "note": "See 'confessio'."
+    },
+    "confessione": {
+      "lemma": "confessio, -onis",
+      "pos": "N",
+      "gloss": "by/in confession (abl.).",
+      "note": "Conf. 10.1: he wants to do the truth 'in confessione'."
+    },
+    "confiteor": {
+      "lemma": "confiteor, -eri, confessus sum",
+      "pos": "V",
+      "gloss": "I confess — I praise Thee, and I tell what I have been.",
+      "note": "The book's governing verb. Conf. 1.6: 'confiteor tibi, domine caeli et terrae'."
+    },
+    "confitear": {
+      "lemma": "confiteor, -eri, confessus sum",
+      "pos": "V",
+      "gloss": "let me confess / I may confess (subj.).",
+      "note": "See 'confiteor'."
+    },
+    "confitebor": {
+      "lemma": "confiteor, -eri, confessus sum",
+      "pos": "V",
+      "gloss": "I will confess / I will praise.",
+      "note": "See 'confiteor'."
+    },
+    "confiteri": {
+      "lemma": "confiteor, -eri, confessus sum",
+      "pos": "V",
+      "gloss": "to confess — to speak the truth of oneself before God.",
+      "note": "See 'confiteor'."
+    },
+    "confitens": {
+      "lemma": "confiteor, -eri, confessus sum",
+      "pos": "V",
+      "gloss": "confessing.",
+      "note": "See 'confiteor'."
+    },
+    "inquietum": {
+      "lemma": "inquietus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "restless — the heart that cannot rest until it rests in God.",
+      "note": "Conf. 1.1: 'inquietum est cor nostrum donec requiescat in te' — the book's first and most famous sentence."
+    },
+    "requiescat": {
+      "lemma": "requiesco, -ere, requievi",
+      "pos": "V",
+      "gloss": "it may rest — rest as the end of the restless heart.",
+      "note": "Conf. 1.1, paired with inquietum cor. Not mere sleep: repose in God."
+    },
+    "cor": {
+      "lemma": "cor, cordis",
+      "pos": "N",
+      "gloss": "heart — the inner self that is restless, remembers, and confesses.",
+      "note": "Conf. 1.1 'cor nostrum'; throughout, cor is where God is sought (not the chest as organ)."
+    },
+    "cordis": {
+      "lemma": "cor, cordis",
+      "pos": "N",
+      "gloss": "of the heart.",
+      "note": "See 'cor'."
+    },
+    "corde": {
+      "lemma": "cor, cordis",
+      "pos": "N",
+      "gloss": "in/from the heart (abl.).",
+      "note": "See 'cor'."
+    },
+    "cordi": {
+      "lemma": "cor, cordis",
+      "pos": "N",
+      "gloss": "to/for the heart (dat.).",
+      "note": "See 'cor'."
+    },
+    "memoria": {
+      "lemma": "memoria, -ae",
+      "pos": "N",
+      "gloss": "memory — the vast inner hall where Augustine searches for God (Book 10).",
+      "note": "Conf. 10.8–25: memoria is not a storehouse of facts but the place of the self. 'ecce quantum spatiatus sum in memoria mea' (10.24)."
+    },
+    "memoriae": {
+      "lemma": "memoria, -ae",
+      "pos": "N",
+      "gloss": "of/to memory.",
+      "note": "See 'memoria'."
+    },
+    "memoriam": {
+      "lemma": "memoria, -ae",
+      "pos": "N",
+      "gloss": "memory (acc.).",
+      "note": "See 'memoria'."
+    },
+    "caritas": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "charity, love — God's love, and the love that orders other loves.",
+      "note": "Not classical 'dearness/costliness' first. Conf. 13 and the pear theft (2.4) turn on disordered love vs caritas."
+    },
+    "caritatis": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "of charity/love.",
+      "note": "See 'caritas'."
+    },
+    "caritatem": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "charity/love (acc.).",
+      "note": "See 'caritas'."
+    },
+    "caritate": {
+      "lemma": "caritas, -tatis",
+      "pos": "N",
+      "gloss": "by/in charity (abl.).",
+      "note": "See 'caritas'."
+    },
+    "consuetudo": {
+      "lemma": "consuetudo, -dinis",
+      "pos": "N",
+      "gloss": "habit, custom — the chain of old loves that holds the will (Book 8).",
+      "note": "Conf. 8.5: consuetudo is the enemy of the new will. Not mere 'custom' in the social sense."
+    },
+    "consuetudinis": {
+      "lemma": "consuetudo, -dinis",
+      "pos": "N",
+      "gloss": "of habit.",
+      "note": "See 'consuetudo'."
+    },
+    "consuetudinem": {
+      "lemma": "consuetudo, -dinis",
+      "pos": "N",
+      "gloss": "habit (acc.).",
+      "note": "See 'consuetudo'."
+    },
+    "concupiscentia": {
+      "lemma": "concupiscentia, -ae",
+      "pos": "N",
+      "gloss": "concupiscence — disordered desire (1 John 2:16's three lusts in Book 10).",
+      "note": "Conf. 10.30–41: lust of the flesh, lust of the eyes, pride of life. Not a mild 'desire'."
+    },
+    "concupiscentiae": {
+      "lemma": "concupiscentia, -ae",
+      "pos": "N",
+      "gloss": "of concupiscence.",
+      "note": "See 'concupiscentia'."
+    },
+    "concupiscentiam": {
+      "lemma": "concupiscentia, -ae",
+      "pos": "N",
+      "gloss": "concupiscence (acc.).",
+      "note": "See 'concupiscentia'."
+    },
+    "continentia": {
+      "lemma": "continentia, -ae",
+      "pos": "N",
+      "gloss": "continence — the gift of a gathered will; 'Give what Thou commandest'.",
+      "note": "Conf. 8.11 and 10.29: 'da quod iubes et iube quod vis.' Continentia is God gathering the scattered self, not mere sexual abstinence."
+    },
+    "continentiae": {
+      "lemma": "continentia, -ae",
+      "pos": "N",
+      "gloss": "of continence.",
+      "note": "See 'continentia'."
+    },
+    "continentiam": {
+      "lemma": "continentia, -ae",
+      "pos": "N",
+      "gloss": "continence (acc.).",
+      "note": "See 'continentia'."
+    },
+    "temptatio": {
+      "lemma": "temptatio, -onis",
+      "pos": "N",
+      "gloss": "trial, temptation — the proving of the restless heart.",
+      "note": "O'Donnell writes temptatio (not tentatio). Conf. 10's long trial of the three concupiscences."
+    },
+    "temptatione": {
+      "lemma": "temptatio, -onis",
+      "pos": "N",
+      "gloss": "in/from temptation (abl.).",
+      "note": "See 'temptatio'."
+    },
+    "temptationes": {
+      "lemma": "temptatio, -onis",
+      "pos": "N",
+      "gloss": "temptations (pl.).",
+      "note": "See 'temptatio'."
+    },
+    "inluminatio": {
+      "lemma": "inluminatio, -onis",
+      "pos": "N",
+      "gloss": "illumination — God as the light by which the mind sees.",
+      "note": "Late spelling in- (classical ill-). Conf. 7's intellectual vision and 10: God is 'inluminatio mea'."
+    },
+    "veritas": {
+      "lemma": "veritas, -tatis",
+      "pos": "N",
+      "gloss": "Truth — God himself, not a property of sentences.",
+      "note": "Conf. 10.23–24: the happy life is joy in the truth; he finds God where he finds veritas."
+    },
+    "veritatis": {
+      "lemma": "veritas, -tatis",
+      "pos": "N",
+      "gloss": "of Truth.",
+      "note": "See 'veritas'."
+    },
+    "veritatem": {
+      "lemma": "veritas, -tatis",
+      "pos": "N",
+      "gloss": "Truth (acc.).",
+      "note": "See 'veritas'."
+    },
+    "pulchritudo": {
+      "lemma": "pulchritudo, -dinis",
+      "pos": "N",
+      "gloss": "beauty — God as Beauty ever old and ever new.",
+      "note": "Conf. 10.27: 'sero te amavi, pulchritudo tam antiqua et tam nova'."
+    },
+    "pulchritudinem": {
+      "lemma": "pulchritudo, -dinis",
+      "pos": "N",
+      "gloss": "beauty (acc.).",
+      "note": "See 'pulchritudo'."
+    },
+    "fornicatio": {
+      "lemma": "fornicatio, -onis",
+      "pos": "N",
+      "gloss": "fornication — turning from God to creatures; not only the sexual sense.",
+      "note": "Conf. 1.13: 'fornicabar abs te' — to love the creature without the Creator is fornication (cf. Ps 72)."
+    },
+    "fornicationes": {
+      "lemma": "fornicatio, -onis",
+      "pos": "N",
+      "gloss": "fornications (pl.).",
+      "note": "See 'fornicatio'."
+    },
+    "sero": {
+      "lemma": "sero",
+      "pos": "ADV",
+      "gloss": "late, too late — the cry of Book 10.",
+      "note": "Conf. 10.27: 'sero te amavi' — 'too late loved I Thee' (Pusey)."
+    },
+    "amavi": {
+      "lemma": "amo, amare, amavi",
+      "pos": "V",
+      "gloss": "I loved — of God, or of the wrong things.",
+      "note": "Conf. 10.27 'sero te amavi'; Conf. 2.4 he loved the theft itself."
+    },
+    "tolle": {
+      "lemma": "tollo, tollere",
+      "pos": "V",
+      "gloss": "take up — the child's cry in the garden.",
+      "note": "Conf. 8.12: 'tolle lege, tolle lege' — take up and read. The conversion of Book 8."
+    },
+    "lege": {
+      "lemma": "lego, legere",
+      "pos": "V",
+      "gloss": "read! (imperative) — paired with tolle in the garden.",
+      "note": "Conf. 8.12 'tolle lege'. Whitaker may also list lex, legis; here it is the verb."
+    },
+    "recolens": {
+      "lemma": "recolo, -ere, -ui",
+      "pos": "V",
+      "gloss": "recalling, going back over — memory's work in confession.",
+      "note": "Conf. 2.1: 'recolens vias meas nequissimas'. Near the planned 'recolligere' (gathering the scattered self)."
+    },
+    "recordari": {
+      "lemma": "recordor, -ari",
+      "pos": "V",
+      "gloss": "to remember — to call back into the heart.",
+      "note": "See 'memoria'. Book 10 remembers in order to find God in memory."
+    },
+    "recordatio": {
+      "lemma": "recordatio, -onis",
+      "pos": "N",
+      "gloss": "remembrance, recollection.",
+      "note": "See 'memoria'."
+    },
+    "magnus": {
+      "lemma": "magnus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "great — first word of the Confessions, said of God.",
+      "note": "Conf. 1.1: 'magnus es, domine, et laudabilis valde'."
+    },
+    "laudabilis": {
+      "lemma": "laudabilis, -e",
+      "pos": "ADJ",
+      "gloss": "praiseworthy — God is greatly to be praised.",
+      "note": "Conf. 1.1, with magnus. The book begins in praise, not in narrative."
+    },
+    "beata": {
+      "lemma": "beatus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "happy, blessed — the beata vita, joy in the Truth.",
+      "note": "Conf. 10.20–23: everyone wants a happy life; it is gaudium de veritate."
+    },
+    "beatae": {
+      "lemma": "beatus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "of the happy/blessed (life).",
+      "note": "See 'beata'."
+    },
+    "beatam": {
+      "lemma": "beatus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "happy/blessed (acc.).",
+      "note": "See 'beata'."
+    },
+    "voluntas": {
+      "lemma": "voluntas, -tatis",
+      "pos": "N",
+      "gloss": "will — one man, two wills, in the garden of Book 8.",
+      "note": "Conf. 8.9–10: the monstrousness of a will that commands itself and is not obeyed."
+    },
+    "voluntatem": {
+      "lemma": "voluntas, -tatis",
+      "pos": "N",
+      "gloss": "will (acc.).",
+      "note": "See 'voluntas'."
+    },
+    "superbia": {
+      "lemma": "superbia, -ae",
+      "pos": "N",
+      "gloss": "pride — God resists the proud; the third concupiscence.",
+      "note": "Conf. 1.1 cites 'superbis resistis'. Book 10's pride of life (ambitio saeculi)."
+    },
+    "superbis": {
+      "lemma": "superbus, -a, -um",
+      "pos": "ADJ",
+      "gloss": "to the proud (dat. pl.).",
+      "note": "Conf. 1.1 'superbis resistis' (James 4:6 / 1 Pet 5:5)."
+    },
+    "humilitas": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "humility — the way of the Word who descended.",
+      "note": "Conf. 7.18: he could not return until he took the way of humilitas, Christ the mediator."
+    },
+    "humilitatem": {
+      "lemma": "humilitas, -tatis",
+      "pos": "N",
+      "gloss": "humility (acc.).",
+      "note": "See 'humilitas'."
+    },
+    "converte": {
+      "lemma": "converto, -ere",
+      "pos": "V",
+      "gloss": "turn (us) — conversion as being turned by God.",
+      "note": "Not only a moral U-turn: God turns the self. Cf. 'deus virtutum, converte nos'."
+    }
+  }
+}

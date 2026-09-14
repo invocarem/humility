@@ -33,7 +33,7 @@ at a time.
 - **No code change until a step is started.** This file is the plan; it is not
   itself an implementation.
 
-**Current step:** **Step 6** — Work #2: Benedictine Psalter (Latin + Coverdale/Douay columns are in; lexicon cards still open).
+**Current step:** **Step 8** — Work #4: Augustine, Confessions (Latin + Pusey are in; close column and further stem cards still open).
 
 ---
 
@@ -250,10 +250,19 @@ Verify:
   one rendering + the reader's `close`. Late/Christian Latin is already handled
   by the dictionary (*caritas* etc.).
 
+Progress: Latin 13 books / 278 capita / 453 PL paragraphs are scaffolded from
+`content/confessions/latin.md` (The Latin Library, O'Donnell electronic text,
+not PL 32 verbatim). Pusey 1838 is merged from
+`content/confessions/renderings/`. Click-a-word uses
+`content/confessions/lexicon/` (15,757 forms; starter `overrides.json` applied).
+A second English column is still to come.
+
 Verify:
 - [ ] All 13 books render with both English columns and dictionary lookups.
-- [ ] Curate a first pass of Confessions-specific stems (*confessio*,
-      *inquietum cor*, *recolligere*, …).
+      Latin + Pusey are in; a `close` column is still to come.
+- [x] Curate a first pass of Confessions-specific stems (*confessio*,
+      *inquietum cor*, *memoria*, *tolle lege*, *sero te amavi*, …).
+      Starter set in `overrides.json`; refine against latin.md.
 
 ---
 

@@ -2,13 +2,14 @@ import type { Chapter, Work, WorkId } from "./schema";
 import { gradibus } from "./gradibus/work";
 import { psalter } from "./psalter/work";
 import { rule } from "./rule/work";
+import { confessions } from "./confessions/work";
 
 /**
  * The library registry. Add a new work by giving it an `id` in
  * `content/<work>/work.ts` and appending it here. Keep it sorted by roadmap
  * order (gradibus — psalter — rule — confessions — cantica).
  */
-export const works: Work[] = [gradibus, psalter, rule];
+export const works: Work[] = [gradibus, psalter, rule, confessions];
 
 export const defaultWorkId: WorkId = "gradibus";
 

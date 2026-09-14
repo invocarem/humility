@@ -3,7 +3,7 @@ import type { Chapter, CruxNote, Segment, TranslationId, Work, WorkId } from "@c
 import { glossFor, lemmaFor, lookup, normalise, sensesFor } from "./dictionary";
 import "./styles.css";
 
-const APP_TITLE = "Lectio — patristic & biblical Latin reader";
+const APP_TITLE = "Lectio — Latin reader";
 
 type Mode = "read" | "study";
 

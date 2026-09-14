@@ -1,0 +1,13 @@
+{
+  "parser": {
+    "chapter_match": "^Liber\\s+(\\d+)\\s+Caput\\s+(\\d+)\\s*$",
+    "numeral": "decimal",
+    "id_prefix": "confessions",
+    "id_sep": ":"
+  },
+  "verify": {
+    "chapter": "confessions:\\d+\\.\\d+",
+    "paragraph": "p\\d+"
+  },
+  "note": "latin.md marks each caput `## Liber N Caput M` (decimal). Chapter ids follow the roadmap namespacing rule for new works: confessions:1.1 .. confessions:13.38. Numbered blocks are the PL paragraph numbers (the third figure in book.chapter.paragraph), p1..pN within each book."
+}

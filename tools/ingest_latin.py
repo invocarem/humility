@@ -28,7 +28,7 @@ Per-work `ingest.json` shape (all keys optional; absent = gradibus defaults):
         "chapter_match": "^Psalmus\\s+(\\d+)\\s*$",  # regex vs heading (group 1 = number)
         "numeral": "decimal",                         # "roman" | "decimal"
         "id_prefix": "psalter",                       # chapter id prefix
-        "id_sep": ":"                                 # "cap-1" style vs "psalter:1"
+        "id_sep": ":"                                 # "cap-1" vs "psalter:1"; two groups → N.M
       },
       "verify": {
         "chapter": "psalter:\\d+",                    # id grammar in parts/*.ts
@@ -45,6 +45,7 @@ Usage:
     python tools/ingest_latin.py --work gradibus             # dry-run + verify
     python tools/ingest_latin.py --work psalter --scaffold   # write scaffold.ts
     python tools/ingest_latin.py --work rule --scaffold      # Prologus + 73 chapters
+    python tools/ingest_latin.py --work confessions --scaffold  # 13 books, Liber N Caput M
 """
 
 from __future__ import annotations
@@ -116,23 +117,34 @@ class ParserCfg:
     id_sep: str
 
 
+def _parse_numeral(tok: str, numeral: str) -> int | None:
+    if numeral == "roman":
+        return ROMAN.get(tok.upper())
+    if tok.isdigit():
+        return int(tok)
+    return None
+
+
 def chapter_id(text: str, cfg: ParserCfg) -> tuple[str, int | None]:
     """Chapter id (and optional number) for a `## Heading` line.
 
     Numbered chapters become `<prefix><sep><number>` (or `cap-N` / `psalter:1`).
+    Two capturing groups (e.g. `Liber 1 Caput 5`) become `<prefix><sep>1.5`.
     Matter headings keep their own word id; anything else falls back to a slug.
     """
     m = cfg.chapter_match.match(text.strip())
     if m:
-        tok = m.group(1)
-        if cfg.numeral == "roman":
-            n = ROMAN.get(tok.upper())
-            if n is None:
+        groups = [g for g in m.groups() if g is not None]
+        if len(groups) >= 2:
+            book = _parse_numeral(groups[0], cfg.numeral)
+            cap = _parse_numeral(groups[1], cfg.numeral)
+            if book is None or cap is None:
                 return "untitled", None
-        else:
-            if not tok.isdigit():
-                return "untitled", None
-            n = int(tok)
+            return f"{cfg.id_prefix}{cfg.id_sep}{book}.{cap}", cap
+        tok = groups[0]
+        n = _parse_numeral(tok, cfg.numeral)
+        if n is None:
+            return "untitled", None
         return f"{cfg.id_prefix}{cfg.id_sep}{n}", n
     first = text.strip().split()[0].lower()
     if first in MATTER_WORDS:
