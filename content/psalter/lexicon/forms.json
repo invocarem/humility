@@ -1,6 +1,6 @@
 {
   "source": "content/psalter/latin.md",
-  "form_count": 5707,
+  "form_count": 5706,
   "token_count": 30495,
   "forms": [
     {
@@ -25,8 +25,8 @@
       "first": "7"
     },
     {
-      "form": "ejus",
-      "key": "ejus",
+      "form": "eius",
+      "key": "eius",
       "query": "eius",
       "count": 448,
       "first": "2"
@@ -739,8 +739,8 @@
       "first": "11"
     },
     {
-      "form": "justitiam",
-      "key": "justitiam",
+      "form": "iustitiam",
+      "key": "iustitiam",
       "query": "iustitiam",
       "count": 34,
       "first": "9"
@@ -760,8 +760,8 @@
       "first": "10"
     },
     {
-      "form": "Jacob",
-      "key": "jacob",
+      "form": "Iacob",
+      "key": "iacob",
       "query": "iacob",
       "count": 34,
       "first": "7"
@@ -865,8 +865,8 @@
       "first": "2"
     },
     {
-      "form": "judicium",
-      "key": "judicium",
+      "form": "iudicium",
+      "key": "iudicium",
       "query": "iudicium",
       "count": 30,
       "first": "5"
@@ -1019,8 +1019,8 @@
       "first": "5"
     },
     {
-      "form": "justitia",
-      "key": "justitia",
+      "form": "iustitia",
+      "key": "iustitia",
       "query": "iustitia",
       "count": 26,
       "first": "9"
@@ -1033,8 +1033,8 @@
       "first": "6"
     },
     {
-      "form": "adjutor",
-      "key": "adjutor",
+      "form": "adiutor",
+      "key": "adiutor",
       "query": "adiutor",
       "count": 26,
       "first": "10"
@@ -1173,8 +1173,8 @@
       "first": "12"
     },
     {
-      "form": "Alleluja",
-      "key": "alleluja",
+      "form": "Alleluia",
+      "key": "alleluia",
       "query": "alleluia",
       "count": 24,
       "first": "1"
@@ -1236,8 +1236,8 @@
       "first": "3"
     },
     {
-      "form": "judicia",
-      "key": "judicia",
+      "form": "iudicia",
+      "key": "iudicia",
       "query": "iudicia",
       "count": 22,
       "first": "17"
@@ -1271,8 +1271,8 @@
       "first": "7"
     },
     {
-      "form": "justificationes",
-      "key": "justificationes",
+      "form": "iustificationes",
+      "key": "iustificationes",
       "query": "iustificationes",
       "count": 22,
       "first": "45"
@@ -1488,8 +1488,8 @@
       "first": "18"
     },
     {
-      "form": "Jerusalem",
-      "key": "jerusalem",
+      "form": "Ierusalem",
+      "key": "ierusalem",
       "query": "ierusalem",
       "count": 18,
       "first": "20"
@@ -1866,8 +1866,8 @@
       "first": "18"
     },
     {
-      "form": "justi",
-      "key": "justi",
+      "form": "iusti",
+      "key": "iusti",
       "query": "iusti",
       "count": 15,
       "first": "11"
@@ -1950,8 +1950,8 @@
       "first": "2"
     },
     {
-      "form": "justus",
-      "key": "justus",
+      "form": "iustus",
+      "key": "iustus",
       "query": "iustus",
       "count": 14,
       "first": "12"
@@ -2216,8 +2216,8 @@
       "first": "3"
     },
     {
-      "form": "justitiae",
-      "key": "justitiae",
+      "form": "iustitiae",
+      "key": "iustitiae",
       "query": "iustitiae",
       "count": 12,
       "first": "2"
@@ -2664,8 +2664,8 @@
       "first": "2"
     },
     {
-      "form": "judica",
-      "key": "judica",
+      "form": "iudica",
+      "key": "iudica",
       "query": "iudica",
       "count": 10,
       "first": "11"
@@ -3000,8 +3000,8 @@
       "first": "10"
     },
     {
-      "form": "adjutorium",
-      "key": "adjutorium",
+      "form": "adiutorium",
+      "key": "adiutorium",
       "query": "adiutorium",
       "count": 9,
       "first": "11"
@@ -3315,6 +3315,13 @@
       "first": "13"
     },
     {
+      "form": "iuxta",
+      "key": "iuxta",
+      "query": "iuxta",
+      "count": 8,
+      "first": null
+    },
+    {
       "form": "Ideo",
       "key": "ideo",
       "query": "ideo",
@@ -3392,8 +3399,8 @@
       "first": "10"
     },
     {
-      "form": "justum",
-      "key": "justum",
+      "form": "iustum",
+      "key": "iustum",
       "query": "iustum",
       "count": 8,
       "first": "10"
@@ -3406,8 +3413,8 @@
       "first": "4"
     },
     {
-      "form": "judicabit",
-      "key": "judicabit",
+      "form": "iudicabit",
+      "key": "iudicabit",
       "query": "iudicabit",
       "count": 8,
       "first": "9"
@@ -3434,8 +3441,8 @@
       "first": "17"
     },
     {
-      "form": "Cujus",
-      "key": "cujus",
+      "form": "Cuius",
+      "key": "cuius",
       "query": "cuius",
       "count": 8,
       "first": "28"
@@ -3686,15 +3693,15 @@
       "first": "6"
     },
     {
-      "form": "judicio",
-      "key": "judicio",
+      "form": "iudicio",
+      "key": "iudicio",
       "query": "iudicio",
       "count": 7,
       "first": "5"
     },
     {
-      "form": "justorum",
-      "key": "justorum",
+      "form": "iustorum",
+      "key": "iustorum",
       "query": "iustorum",
       "count": 7,
       "first": "5"
@@ -3740,13 +3747,6 @@
       "query": "percipe",
       "count": 7,
       "first": "2"
-    },
-    {
-      "form": "juxta",
-      "key": "juxta",
-      "query": "iuxta",
-      "count": 7,
-      "first": "6"
     },
     {
       "form": "templum",
@@ -4407,8 +4407,8 @@
       "first": "2"
     },
     {
-      "form": "justitias",
-      "key": "justitias",
+      "form": "iustitias",
+      "key": "iustitias",
       "query": "iustitias",
       "count": 6,
       "first": "8"
@@ -4785,8 +4785,8 @@
       "first": "18"
     },
     {
-      "form": "adjuva",
-      "key": "adjuva",
+      "form": "adiuva",
+      "key": "adiuva",
       "query": "adiuua",
       "count": 6,
       "first": "26"
@@ -4799,8 +4799,8 @@
       "first": "6"
     },
     {
-      "form": "jubilate",
-      "key": "jubilate",
+      "form": "iubilate",
+      "key": "iubilate",
       "query": "iubilate",
       "count": 6,
       "first": "2"
@@ -4876,8 +4876,8 @@
       "first": "26"
     },
     {
-      "form": "juventute",
-      "key": "juventute",
+      "form": "iuventute",
+      "key": "iuventute",
       "query": "iuuentute",
       "count": 6,
       "first": "5"
@@ -4995,8 +4995,8 @@
       "first": "8"
     },
     {
-      "form": "justo",
-      "key": "justo",
+      "form": "iusto",
+      "key": "iusto",
       "query": "iusto",
       "count": 5,
       "first": "13"
@@ -5044,8 +5044,8 @@
       "first": "10"
     },
     {
-      "form": "injustitiam",
-      "key": "injustitiam",
+      "form": "iniustitiam",
+      "key": "iniustitiam",
       "query": "iniustitiam",
       "count": 5,
       "first": "15"
@@ -5625,8 +5625,8 @@
       "first": "27"
     },
     {
-      "form": "jumenta",
-      "key": "jumenta",
+      "form": "iumenta",
+      "key": "iumenta",
       "query": "iumenta",
       "count": 5,
       "first": "7"
@@ -5856,8 +5856,8 @@
       "first": "2"
     },
     {
-      "form": "Juda",
-      "key": "juda",
+      "form": "Iuda",
+      "key": "iuda",
       "query": "iuda",
       "count": 5,
       "first": "9"
@@ -5954,8 +5954,8 @@
       "first": "15"
     },
     {
-      "form": "Joseph",
-      "key": "joseph",
+      "form": "Ioseph",
+      "key": "ioseph",
       "query": "ioseph",
       "count": 5,
       "first": "16"
@@ -6017,8 +6017,8 @@
       "first": "15"
     },
     {
-      "form": "judiciis",
-      "key": "judiciis",
+      "form": "iudiciis",
+      "key": "iudiciis",
       "query": "iudiciis",
       "count": 5,
       "first": "31"
@@ -6045,8 +6045,8 @@
       "first": "19"
     },
     {
-      "form": "justificationibus",
-      "key": "justificationibus",
+      "form": "iustificationibus",
+      "key": "iustificationibus",
       "query": "iustificationibus",
       "count": 5,
       "first": "16"
@@ -6416,8 +6416,8 @@
       "first": "35"
     },
     {
-      "form": "judicare",
-      "key": "judicare",
+      "form": "iudicare",
+      "key": "iudicare",
       "query": "iudicare",
       "count": 4,
       "first": "39"
@@ -6878,8 +6878,8 @@
       "first": "2"
     },
     {
-      "form": "juravit",
-      "key": "juravit",
+      "form": "iuravit",
+      "key": "iuravit",
       "query": "iurauit",
       "count": 4,
       "first": "4"
@@ -7354,8 +7354,8 @@
       "first": "13"
     },
     {
-      "form": "jumentis",
-      "key": "jumentis",
+      "form": "iumentis",
+      "key": "iumentis",
       "query": "iumentis",
       "count": 4,
       "first": "13"
@@ -7718,8 +7718,8 @@
       "first": "5"
     },
     {
-      "form": "juravi",
-      "key": "juravi",
+      "form": "iuravi",
+      "key": "iuravi",
       "query": "iuraui",
       "count": 4,
       "first": "4"
@@ -7956,8 +7956,8 @@
       "first": "4"
     },
     {
-      "form": "injusti",
-      "key": "injusti",
+      "form": "iniusti",
+      "key": "iniusti",
       "query": "iniusti",
       "count": 3,
       "first": "6"
@@ -8047,8 +8047,8 @@
       "first": "9"
     },
     {
-      "form": "judex",
-      "key": "judex",
+      "form": "iudex",
+      "key": "iudex",
       "query": "iudex",
       "count": 3,
       "first": "12"
@@ -8124,8 +8124,8 @@
       "first": "5"
     },
     {
-      "form": "judicas",
-      "key": "judicas",
+      "form": "iudicas",
+      "key": "iudicas",
       "query": "iudicas",
       "count": 3,
       "first": "5"
@@ -9125,8 +9125,8 @@
       "first": "12"
     },
     {
-      "form": "justos",
-      "key": "justos",
+      "form": "iustos",
+      "key": "iustos",
       "query": "iustos",
       "count": 3,
       "first": "16"
@@ -9167,8 +9167,8 @@
       "first": "10"
     },
     {
-      "form": "jejunio",
-      "key": "jejunio",
+      "form": "ieiunio",
+      "key": "ieiunio",
       "query": "ieiunio",
       "count": 3,
       "first": "13"
@@ -9258,8 +9258,8 @@
       "first": "2"
     },
     {
-      "form": "injustitias",
-      "key": "injustitias",
+      "form": "iniustitias",
+      "key": "iniustitias",
       "query": "iniustitias",
       "count": 3,
       "first": "7"
@@ -9433,8 +9433,8 @@
       "first": "10"
     },
     {
-      "form": "Jordanis",
-      "key": "jordanis",
+      "form": "Iordanis",
+      "key": "iordanis",
       "query": "iordanis",
       "count": 3,
       "first": "7"
@@ -9979,8 +9979,8 @@
       "first": "36"
     },
     {
-      "form": "injuste",
-      "key": "injuste",
+      "form": "iniuste",
+      "key": "iniuste",
       "query": "iniuste",
       "count": 3,
       "first": "5"
@@ -10301,8 +10301,8 @@
       "first": "16"
     },
     {
-      "form": "jucundum",
-      "key": "jucundum",
+      "form": "iucundum",
+      "key": "iucundum",
       "query": "iucundum",
       "count": 3,
       "first": "3"
@@ -10756,8 +10756,8 @@
       "first": "9"
     },
     {
-      "form": "judicatis",
-      "key": "judicatis",
+      "form": "iudicatis",
+      "key": "iudicatis",
       "query": "iudicatis",
       "count": 2,
       "first": "10"
@@ -10770,8 +10770,8 @@
       "first": "11"
     },
     {
-      "form": "justa",
-      "key": "justa",
+      "form": "iusta",
+      "key": "iusta",
       "query": "iusta",
       "count": 2,
       "first": "12"
@@ -11638,8 +11638,8 @@
       "first": "15"
     },
     {
-      "form": "hujus",
-      "key": "hujus",
+      "form": "huius",
+      "key": "huius",
       "query": "huius",
       "count": 2,
       "first": "1"
@@ -12107,8 +12107,8 @@
       "first": "9"
     },
     {
-      "form": "projectus",
-      "key": "projectus",
+      "form": "proiectus",
+      "key": "proiectus",
       "query": "proiectus",
       "count": 2,
       "first": "11"
@@ -12527,8 +12527,8 @@
       "first": "2"
     },
     {
-      "form": "majestatis",
-      "key": "majestatis",
+      "form": "maiestatis",
+      "key": "maiestatis",
       "query": "maiestatis",
       "count": 2,
       "first": "3"
@@ -13024,8 +13024,8 @@
       "first": "36"
     },
     {
-      "form": "adjuvabit",
-      "key": "adjuvabit",
+      "form": "adiuvabit",
+      "key": "adiuvabit",
       "query": "adiuuabit",
       "count": 2,
       "first": "40"
@@ -13213,8 +13213,8 @@
       "first": "13"
     },
     {
-      "form": "adjuvandum",
-      "key": "adjuvandum",
+      "form": "adiuvandum",
+      "key": "adiuvandum",
       "query": "adiuuandum",
       "count": 2,
       "first": "14"
@@ -13570,8 +13570,8 @@
       "first": "10"
     },
     {
-      "form": "Judae",
-      "key": "judae",
+      "form": "Iudae",
+      "key": "iudae",
       "query": "iudae",
       "count": 2,
       "first": "12"
@@ -13822,8 +13822,8 @@
       "first": "9"
     },
     {
-      "form": "projicias",
-      "key": "projicias",
+      "form": "proiicias",
+      "key": "proiicias",
       "query": "proiicias",
       "count": 2,
       "first": "13"
@@ -13941,8 +13941,8 @@
       "first": "10"
     },
     {
-      "form": "injustitia",
-      "key": "injustitia",
+      "form": "iniustitia",
+      "key": "iniustitia",
       "query": "iniustitia",
       "count": 2,
       "first": "12"
@@ -14018,8 +14018,8 @@
       "first": "3"
     },
     {
-      "form": "judicate",
-      "key": "judicate",
+      "form": "iudicate",
+      "key": "iudicate",
       "query": "iudicate",
       "count": 2,
       "first": "2"
@@ -14235,8 +14235,8 @@
       "first": "7"
     },
     {
-      "form": "subjecta",
-      "key": "subjecta",
+      "form": "subiecta",
+      "key": "subiecta",
       "query": "subiecta",
       "count": 2,
       "first": "2"
@@ -14361,8 +14361,8 @@
       "first": "7"
     },
     {
-      "form": "Jeremiae",
-      "key": "jeremiae",
+      "form": "Ieremiae",
+      "key": "ieremiae",
       "query": "ieremiae",
       "count": 2,
       "first": "1"
@@ -14571,8 +14571,8 @@
       "first": "21"
     },
     {
-      "form": "Benjamin",
-      "key": "benjamin",
+      "form": "Beniamin",
+      "key": "beniamin",
       "query": "beniamin",
       "count": 2,
       "first": "28"
@@ -14886,8 +14886,8 @@
       "first": "5"
     },
     {
-      "form": "januas",
-      "key": "januas",
+      "form": "ianuas",
+      "key": "ianuas",
       "query": "ianuas",
       "count": 2,
       "first": "6"
@@ -14956,8 +14956,8 @@
       "first": "11"
     },
     {
-      "form": "Judaea",
-      "key": "judaea",
+      "form": "Iudaea",
+      "key": "iudaea",
       "query": "iudaea",
       "count": 2,
       "first": "2"
@@ -15264,8 +15264,8 @@
       "first": "60"
     },
     {
-      "form": "Juvenes",
-      "key": "juvenes",
+      "form": "Iuvenes",
+      "key": "iuvenes",
       "query": "iuuenes",
       "count": 2,
       "first": "63"
@@ -15495,8 +15495,8 @@
       "first": "1"
     },
     {
-      "form": "adjutorio",
-      "key": "adjutorio",
+      "form": "adiutorio",
+      "key": "adiutorio",
       "query": "adiutorio",
       "count": 2,
       "first": "5"
@@ -15726,8 +15726,8 @@
       "first": "16"
     },
     {
-      "form": "adjuvit",
-      "key": "adjuvit",
+      "form": "adiuvit",
+      "key": "adiuvit",
       "query": "adiuuit",
       "count": 2,
       "first": "17"
@@ -15740,8 +15740,8 @@
       "first": "1"
     },
     {
-      "form": "jubilemus",
-      "key": "jubilemus",
+      "form": "iubilemus",
+      "key": "iubilemus",
       "query": "iubilemus",
       "count": 2,
       "first": "1"
@@ -15852,8 +15852,8 @@
       "first": "3"
     },
     {
-      "form": "injuriam",
-      "key": "injuriam",
+      "form": "iniuriam",
+      "key": "iniuriam",
       "query": "iniuriam",
       "count": 2,
       "first": "6"
@@ -16286,15 +16286,15 @@
       "first": "23"
     },
     {
-      "form": "justificationum",
-      "key": "justificationum",
+      "form": "iustificationum",
+      "key": "iustificationum",
       "query": "iustificationum",
       "count": 2,
       "first": "27"
     },
     {
-      "form": "jucunda",
-      "key": "jucunda",
+      "form": "iucunda",
+      "key": "iucunda",
       "query": "iucunda",
       "count": 2,
       "first": "39"
@@ -16573,8 +16573,8 @@
       "first": "21"
     },
     {
-      "form": "judices",
-      "key": "judices",
+      "form": "iudices",
+      "key": "iudices",
       "query": "iudices",
       "count": 2,
       "first": "6"
@@ -16650,13 +16650,6 @@
       "first": null
     },
     {
-      "form": "iuxta",
-      "key": "iuxta",
-      "query": "iuxta",
-      "count": 1,
-      "first": null
-    },
-    {
       "form": "LXX",
       "key": "lxx",
       "query": "lxx",
@@ -16720,8 +16713,8 @@
       "first": "3"
     },
     {
-      "form": "projicit",
-      "key": "projicit",
+      "form": "proiicit",
+      "key": "proiicit",
       "query": "proiicit",
       "count": 1,
       "first": "4"
@@ -16776,15 +16769,15 @@
       "first": "3"
     },
     {
-      "form": "projiciamus",
-      "key": "projiciamus",
+      "form": "proiiciamus",
+      "key": "proiiciamus",
       "query": "proiiciamus",
       "count": 1,
       "first": "3"
     },
     {
-      "form": "jugum",
-      "key": "jugum",
+      "form": "iugum",
+      "key": "iugum",
       "query": "iugum",
       "count": 1,
       "first": "3"
@@ -17105,8 +17098,8 @@
       "first": "1"
     },
     {
-      "form": "Jemini",
-      "key": "jemini",
+      "form": "Iemini",
+      "key": "iemini",
       "query": "iemini",
       "count": 1,
       "first": "1"
@@ -17182,8 +17175,8 @@
       "first": "8"
     },
     {
-      "form": "judicat",
-      "key": "judicat",
+      "form": "iudicat",
+      "key": "iudicat",
       "query": "iudicat",
       "count": 1,
       "first": "9"
@@ -17350,8 +17343,8 @@
       "first": "6"
     },
     {
-      "form": "subjecisti",
-      "key": "subjecisti",
+      "form": "subiecisti",
+      "key": "subiecisti",
       "query": "subiecisti",
       "count": 1,
       "first": "8"
@@ -17448,8 +17441,8 @@
       "first": "19"
     },
     {
-      "form": "judicentur",
-      "key": "judicentur",
+      "form": "iudicentur",
+      "key": "iudicentur",
       "query": "iudicentur",
       "count": 1,
       "first": "20"
@@ -18001,8 +17994,8 @@
       "first": "4"
     },
     {
-      "form": "jurat",
-      "key": "jurat",
+      "form": "iurat",
+      "key": "iurat",
       "query": "iurat",
       "count": 1,
       "first": "4"
@@ -18260,8 +18253,8 @@
       "first": "10"
     },
     {
-      "form": "Projicientes",
-      "key": "projicientes",
+      "form": "Proiicientes",
+      "key": "proiicientes",
       "query": "proiicientes",
       "count": 1,
       "first": "11"
@@ -18960,8 +18953,8 @@
       "first": "10"
     },
     {
-      "form": "justificata",
-      "key": "justificata",
+      "form": "iustificata",
+      "key": "iustificata",
       "query": "iustificata",
       "count": 1,
       "first": "10"
@@ -19296,8 +19289,8 @@
       "first": "7"
     },
     {
-      "form": "abjectio",
-      "key": "abjectio",
+      "form": "abiectio",
+      "key": "abiectio",
       "query": "abiectio",
       "count": 1,
       "first": "7"
@@ -19331,8 +19324,8 @@
       "first": "12"
     },
     {
-      "form": "adjuvet",
-      "key": "adjuvet",
+      "form": "adiuvet",
+      "key": "adiuvet",
       "query": "adiuuet",
       "count": 1,
       "first": "12"
@@ -19751,8 +19744,8 @@
       "first": "6"
     },
     {
-      "form": "juventutis",
-      "key": "juventutis",
+      "form": "iuventutis",
+      "key": "iuventutis",
       "query": "iuuentutis",
       "count": 1,
       "first": "7"
@@ -20136,8 +20129,8 @@
       "first": "5"
     },
     {
-      "form": "adjutus",
-      "key": "adjutus",
+      "form": "adiutus",
+      "key": "adiutus",
       "query": "adiutus",
       "count": 1,
       "first": "7"
@@ -21550,8 +21543,8 @@
       "first": "26"
     },
     {
-      "form": "injustus",
-      "key": "injustus",
+      "form": "iniustus",
+      "key": "iniustus",
       "query": "iniustus",
       "count": 1,
       "first": "2"
@@ -21879,8 +21872,8 @@
       "first": "14"
     },
     {
-      "form": "dejiciant",
-      "key": "dejiciant",
+      "form": "deiiciant",
+      "key": "deiiciant",
       "query": "deiiciant",
       "count": 1,
       "first": "14"
@@ -22019,8 +22012,8 @@
       "first": "24"
     },
     {
-      "form": "Junior",
-      "key": "junior",
+      "form": "Iunior",
+      "key": "iunior",
       "query": "iunior",
       "count": 1,
       "first": "25"
@@ -22096,8 +22089,8 @@
       "first": "33"
     },
     {
-      "form": "judicabitur",
-      "key": "judicabitur",
+      "form": "iudicabitur",
+      "key": "iudicabitur",
       "query": "iudicabitur",
       "count": 1,
       "first": "33"
@@ -22859,8 +22852,8 @@
       "first": "9"
     },
     {
-      "form": "adjiciet",
-      "key": "adjiciet",
+      "form": "adiiciet",
+      "key": "adiiciet",
       "query": "adiiciet",
       "count": 1,
       "first": "9"
@@ -23048,8 +23041,8 @@
       "first": "3"
     },
     {
-      "form": "juventutem",
-      "key": "juventutem",
+      "form": "iuventutem",
+      "key": "iuventutem",
       "query": "iuuentutem",
       "count": 1,
       "first": "4"
@@ -23678,8 +23671,8 @@
       "first": "2"
     },
     {
-      "form": "Subjecit",
-      "key": "subjecit",
+      "form": "Subiecit",
+      "key": "subiecit",
       "query": "subiecit",
       "count": 1,
       "first": "4"
@@ -23692,8 +23685,8 @@
       "first": "5"
     },
     {
-      "form": "jubilo",
-      "key": "jubilo",
+      "form": "iubilo",
+      "key": "iubilo",
       "query": "iubilo",
       "count": 1,
       "first": "6"
@@ -24224,8 +24217,8 @@
       "first": "16"
     },
     {
-      "form": "projecisti",
-      "key": "projecisti",
+      "form": "proiecisti",
+      "key": "proiecisti",
       "query": "proiecisti",
       "count": 1,
       "first": "17"
@@ -24357,8 +24350,8 @@
       "first": "6"
     },
     {
-      "form": "justificeris",
-      "key": "justificeris",
+      "form": "iustificeris",
+      "key": "iustificeris",
       "query": "iustificeris",
       "count": 1,
       "first": "6"
@@ -24371,8 +24364,8 @@
       "first": "6"
     },
     {
-      "form": "judicaris",
-      "key": "judicaris",
+      "form": "iudicaris",
+      "key": "iudicaris",
       "query": "iudicaris",
       "count": 1,
       "first": "6"
@@ -24665,8 +24658,8 @@
       "first": "8"
     },
     {
-      "form": "adjutorem",
-      "key": "adjutorem",
+      "form": "adiutorem",
+      "key": "adiutorem",
       "query": "adiutorem",
       "count": 1,
       "first": "9"
@@ -24756,8 +24749,8 @@
       "first": "5"
     },
     {
-      "form": "adjuvat",
-      "key": "adjuvat",
+      "form": "adiuvat",
+      "key": "adiuvat",
       "query": "adiuuat",
       "count": 1,
       "first": "6"
@@ -25029,15 +25022,15 @@
       "first": "22"
     },
     {
-      "form": "jacula",
-      "key": "jacula",
+      "form": "iacula",
+      "key": "iacula",
       "query": "iacula",
       "count": 1,
       "first": "22"
     },
     {
-      "form": "Jacta",
-      "key": "jacta",
+      "form": "Iacta",
+      "key": "iacta",
       "query": "iacta",
       "count": 1,
       "first": "23"
@@ -25407,8 +25400,8 @@
       "first": "11"
     },
     {
-      "form": "judicans",
-      "key": "judicans",
+      "form": "iudicans",
+      "key": "iudicans",
       "query": "iudicans",
       "count": 1,
       "first": "12"
@@ -25575,8 +25568,8 @@
       "first": "2"
     },
     {
-      "form": "Joab",
-      "key": "joab",
+      "form": "Ioab",
+      "key": "ioab",
       "query": "ioab",
       "count": 1,
       "first": "2"
@@ -25715,8 +25708,8 @@
       "first": "5"
     },
     {
-      "form": "adjicies",
-      "key": "adjicies",
+      "form": "adiicies",
+      "key": "adiicies",
       "query": "adiicies",
       "count": 1,
       "first": "7"
@@ -25974,8 +25967,8 @@
       "first": "11"
     },
     {
-      "form": "jurant",
-      "key": "jurant",
+      "form": "iurant",
+      "key": "iurant",
       "query": "iurant",
       "count": 1,
       "first": "12"
@@ -26583,8 +26576,8 @@
       "first": "6"
     },
     {
-      "form": "judicis",
-      "key": "judicis",
+      "form": "iudicis",
+      "key": "iudicis",
       "query": "iudicis",
       "count": 1,
       "first": "6"
@@ -26905,8 +26898,8 @@
       "first": "24"
     },
     {
-      "form": "conjuncti",
-      "key": "conjuncti",
+      "form": "coniuncti",
+      "key": "coniuncti",
       "query": "coniuncti",
       "count": 1,
       "first": "26"
@@ -26919,8 +26912,8 @@
       "first": "26"
     },
     {
-      "form": "juvencularum",
-      "key": "juvencularum",
+      "form": "iuvencularum",
+      "key": "iuvencularum",
       "query": "iuuencularum",
       "count": 1,
       "first": "26"
@@ -27339,8 +27332,8 @@
       "first": "29"
     },
     {
-      "form": "justis",
-      "key": "justis",
+      "form": "iustis",
+      "key": "iustis",
       "query": "iustis",
       "count": 1,
       "first": "29"
@@ -27444,8 +27437,8 @@
       "first": "6"
     },
     {
-      "form": "Jonadab",
-      "key": "jonadab",
+      "form": "Ionadab",
+      "key": "ionadab",
       "query": "ionadab",
       "count": 1,
       "first": "1"
@@ -27542,8 +27535,8 @@
       "first": "13"
     },
     {
-      "form": "adjiciam",
-      "key": "adjiciam",
+      "form": "adiiciam",
+      "key": "adiiciam",
       "query": "adiiciam",
       "count": 1,
       "first": "14"
@@ -27871,15 +27864,15 @@
       "first": "19"
     },
     {
-      "form": "majestate",
-      "key": "majestate",
+      "form": "maiestate",
+      "key": "maiestate",
       "query": "maiestate",
       "count": 1,
       "first": "19"
     },
     {
-      "form": "Jesse",
-      "key": "jesse",
+      "form": "Iesse",
+      "key": "iesse",
       "query": "iesse",
       "count": 1,
       "first": "20"
@@ -27997,8 +27990,8 @@
       "first": "13"
     },
     {
-      "form": "justificavi",
-      "key": "justificavi",
+      "form": "iustificavi",
+      "key": "iustificavi",
       "query": "iustificaui",
       "count": 1,
       "first": "13"
@@ -28067,8 +28060,8 @@
       "first": "17"
     },
     {
-      "form": "dejecisti",
-      "key": "dejecisti",
+      "form": "deiecisti",
+      "key": "deiecisti",
       "query": "deiecisti",
       "count": 1,
       "first": "18"
@@ -28151,8 +28144,8 @@
       "first": "22"
     },
     {
-      "form": "jumentum",
-      "key": "jumentum",
+      "form": "iumentum",
+      "key": "iumentum",
       "query": "iumentum",
       "count": 1,
       "first": "23"
@@ -28284,8 +28277,8 @@
       "first": "6"
     },
     {
-      "form": "dejecerunt",
-      "key": "dejecerunt",
+      "form": "deiecerunt",
+      "key": "deiecerunt",
       "query": "deiecerunt",
       "count": 1,
       "first": "6"
@@ -28326,8 +28319,8 @@
       "first": "8"
     },
     {
-      "form": "jam",
-      "key": "jam",
+      "form": "iam",
+      "key": "iam",
       "query": "iam",
       "count": 1,
       "first": "9"
@@ -28515,8 +28508,8 @@
       "first": "3"
     },
     {
-      "form": "judicabo",
-      "key": "judicabo",
+      "form": "iudicabo",
+      "key": "iudicabo",
       "query": "iudicabo",
       "count": 1,
       "first": "3"
@@ -28844,8 +28837,8 @@
       "first": "7"
     },
     {
-      "form": "projiciet",
-      "key": "projiciet",
+      "form": "proiiciet",
+      "key": "proiiciet",
       "query": "proiiciet",
       "count": 1,
       "first": "8"
@@ -29481,8 +29474,8 @@
       "first": "54"
     },
     {
-      "form": "ejecit",
-      "key": "ejecit",
+      "form": "eiecit",
+      "key": "eiecit",
       "query": "eiecit",
       "count": 1,
       "first": "54"
@@ -29852,8 +29845,8 @@
       "first": "9"
     },
     {
-      "form": "ejecisti",
-      "key": "ejecisti",
+      "form": "eiecisti",
+      "key": "eiecisti",
       "query": "eiecisti",
       "count": 1,
       "first": "9"
@@ -29978,8 +29971,8 @@
       "first": "19"
     },
     {
-      "form": "adjutori",
-      "key": "adjutori",
+      "form": "adiutori",
+      "key": "adiutori",
       "query": "adiutori",
       "count": 1,
       "first": "2"
@@ -30202,8 +30195,8 @@
       "first": "17"
     },
     {
-      "form": "dijudicat",
-      "key": "dijudicat",
+      "form": "diiudicat",
+      "key": "diiudicat",
       "query": "diiudicat",
       "count": 1,
       "first": "1"
@@ -30223,8 +30216,8 @@
       "first": "3"
     },
     {
-      "form": "justificate",
-      "key": "justificate",
+      "form": "iustificate",
+      "key": "iustificate",
       "query": "iustificate",
       "count": 1,
       "first": "3"
@@ -30412,8 +30405,8 @@
       "first": "10"
     },
     {
-      "form": "Jabin",
-      "key": "jabin",
+      "form": "Iabin",
+      "key": "iabin",
       "query": "iabin",
       "count": 1,
       "first": "10"
@@ -30622,8 +30615,8 @@
       "first": "8"
     },
     {
-      "form": "abjectus",
-      "key": "abjectus",
+      "form": "abiectus",
+      "key": "abiectus",
       "query": "abiectus",
       "count": 1,
       "first": "11"
@@ -30790,8 +30783,8 @@
       "first": "17"
     },
     {
-      "form": "adjuvisti",
-      "key": "adjuvisti",
+      "form": "adiuvisti",
+      "key": "adiuvisti",
       "query": "adiuuisti",
       "count": 1,
       "first": "17"
@@ -31147,8 +31140,8 @@
       "first": "15"
     },
     {
-      "form": "jubilationem",
-      "key": "jubilationem",
+      "form": "iubilationem",
+      "key": "iubilationem",
       "query": "iubilationem",
       "count": 1,
       "first": "16"
@@ -31497,8 +31490,8 @@
       "first": "50"
     },
     {
-      "form": "jurasti",
-      "key": "jurasti",
+      "form": "iurasti",
+      "key": "iurasti",
       "query": "iurasti",
       "count": 1,
       "first": "50"
@@ -32288,8 +32281,8 @@
       "first": "17"
     },
     {
-      "form": "adjuvabat",
-      "key": "adjuvabat",
+      "form": "adiuvabat",
+      "key": "adiuvabat",
       "query": "adiuuabat",
       "count": 1,
       "first": "18"
@@ -32764,8 +32757,8 @@
       "first": "3"
     },
     {
-      "form": "injustam",
-      "key": "injustam",
+      "form": "iniustam",
+      "key": "iniustam",
       "query": "iniustam",
       "count": 1,
       "first": "3"
@@ -32988,8 +32981,8 @@
       "first": "9"
     },
     {
-      "form": "jurabant",
-      "key": "jurabant",
+      "form": "iurabant",
+      "key": "iurabant",
       "query": "iurabant",
       "count": 1,
       "first": "9"
@@ -33254,8 +33247,8 @@
       "first": "5"
     },
     {
-      "form": "juventus",
-      "key": "juventus",
+      "form": "iuventus",
+      "key": "iuventus",
       "query": "iuuentus",
       "count": 1,
       "first": "5"
@@ -33905,8 +33898,8 @@
       "first": "8"
     },
     {
-      "form": "juramenti",
-      "key": "juramenti",
+      "form": "iuramenti",
+      "key": "iuramenti",
       "query": "iuramenti",
       "count": 1,
       "first": "9"
@@ -34598,8 +34591,8 @@
       "first": "26"
     },
     {
-      "form": "dejiceret",
-      "key": "dejiceret",
+      "form": "deiiceret",
+      "key": "deiiceret",
       "query": "deiiceret",
       "count": 1,
       "first": "27"
@@ -34892,8 +34885,8 @@
       "first": "10"
     },
     {
-      "form": "adjuvaret",
-      "key": "adjuvaret",
+      "form": "adiuvaret",
+      "key": "adiuvaret",
       "query": "adiuuaret",
       "count": 1,
       "first": "12"
@@ -35249,8 +35242,8 @@
       "first": "6"
     },
     {
-      "form": "judicatur",
-      "key": "judicatur",
+      "form": "iudicatur",
+      "key": "iudicatur",
       "query": "iudicatur",
       "count": 1,
       "first": "7"
@@ -35326,8 +35319,8 @@
       "first": "10"
     },
     {
-      "form": "ejiciantur",
-      "key": "ejiciantur",
+      "form": "eiiciantur",
+      "key": "eiiciantur",
       "query": "eiiciantur",
       "count": 1,
       "first": "10"
@@ -35634,8 +35627,8 @@
       "first": "4"
     },
     {
-      "form": "Jucundus",
-      "key": "jucundus",
+      "form": "Iucundus",
+      "key": "iucundus",
       "query": "iucundus",
       "count": 1,
       "first": "5"
@@ -35823,15 +35816,15 @@
       "first": "21"
     },
     {
-      "form": "majoribus",
-      "key": "majoribus",
+      "form": "maioribus",
+      "key": "maioribus",
       "query": "maioribus",
       "count": 1,
       "first": "21"
     },
     {
-      "form": "Adjiciat",
-      "key": "adjiciat",
+      "form": "Adiiciat",
+      "key": "adiiciat",
       "query": "adiiciat",
       "count": 1,
       "first": "22"
@@ -36460,8 +36453,8 @@
       "first": "50"
     },
     {
-      "form": "judiciorum",
-      "key": "judiciorum",
+      "form": "iudiciorum",
+      "key": "iudiciorum",
       "query": "iudiciorum",
       "count": 1,
       "first": "52"
@@ -36530,8 +36523,8 @@
       "first": "62"
     },
     {
-      "form": "justificationis",
-      "key": "justificationis",
+      "form": "iustificationis",
+      "key": "iustificationis",
       "query": "iustificationis",
       "count": 1,
       "first": "62"
@@ -36593,8 +36586,8 @@
       "first": "72"
     },
     {
-      "form": "Jod",
-      "key": "jod",
+      "form": "Iod",
+      "key": "iod",
       "query": "iod",
       "count": 1,
       "first": "73"
@@ -36866,8 +36859,8 @@
       "first": "118"
     },
     {
-      "form": "injusta",
-      "key": "injusta",
+      "form": "iniusta",
+      "key": "iniusta",
       "query": "iniusta",
       "count": 1,
       "first": "118"
@@ -37153,8 +37146,8 @@
       "first": "173"
     },
     {
-      "form": "adjuvabunt",
-      "key": "adjuvabunt",
+      "form": "adiuvabunt",
+      "key": "adiuvabunt",
       "query": "adiuuabunt",
       "count": 1,
       "first": "175"
@@ -38791,8 +38784,8 @@
       "first": "10"
     },
     {
-      "form": "dejicies",
-      "key": "dejicies",
+      "form": "deiicies",
+      "key": "deiicies",
       "query": "deiicies",
       "count": 1,
       "first": "11"
@@ -38819,8 +38812,8 @@
       "first": "12"
     },
     {
-      "form": "injustum",
-      "key": "injustum",
+      "form": "iniustum",
+      "key": "iniustum",
       "query": "iniustum",
       "count": 1,
       "first": "12"
@@ -38938,8 +38931,8 @@
       "first": "6"
     },
     {
-      "form": "juncti",
-      "key": "juncti",
+      "form": "iuncti",
+      "key": "iuncti",
       "query": "iuncti",
       "count": 1,
       "first": "6"
@@ -39085,8 +39078,8 @@
       "first": "2"
     },
     {
-      "form": "justificabitur",
-      "key": "justificabitur",
+      "form": "iustificabitur",
+      "key": "iustificabitur",
       "query": "iustificabitur",
       "count": 1,
       "first": "2"
@@ -39820,8 +39813,8 @@
       "first": "10"
     },
     {
-      "form": "junioribus",
-      "key": "junioribus",
+      "form": "iunioribus",
+      "key": "iunioribus",
       "query": "iunioribus",
       "count": 1,
       "first": "12"
@@ -39939,8 +39932,8 @@
       "first": "5"
     },
     {
-      "form": "jubilationis",
-      "key": "jubilationis",
+      "form": "iubilationis",
+      "key": "iubilationis",
       "query": "iubilationis",
       "count": 1,
       "first": "5"

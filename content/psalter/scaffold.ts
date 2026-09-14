@@ -18,19 +18,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit ;") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("sed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac nocte.") },
+        { id: "p2.1", ...tl("sed in lege Domini voluntas eius, et in lege eius meditabitur die ac nocte.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium ejus non defluet ; et omnia quaecumque faciet prosperabuntur.") },
+        { id: "p3.1", ...tl("Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium eius non defluet ; et omnia quaecumque faciet prosperabuntur.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Non sic impii, non sic ; sed tamquam pulvis quem projicit ventus a facie terrae.") },
+        { id: "p4.1", ...tl("Non sic impii, non sic ; sed tamquam pulvis quem proiicit ventus a facie terrae.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Ideo non resurgent impii in judicio, neque peccatores in concilio justorum :") },
+        { id: "p5.1", ...tl("Ideo non resurgent impii in iudicio, neque peccatores in concilio iustorum :") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("quoniam novit Dominus viam justorum, et iter impiorum peribit.") },
+        { id: "p6.1", ...tl("quoniam novit Dominus viam iustorum, et iter impiorum peribit.") },
       ]),
     ],
   },
@@ -44,10 +44,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Quare fremuerunt gentes, et populi meditati sunt inania ?") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus christum ejus.") },
+        { id: "p2.1", ...tl("Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus christum eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Dirumpamus vincula eorum, et projiciamus a nobis jugum ipsorum.") },
+        { id: "p3.1", ...tl("Dirumpamus vincula eorum, et proiiciamus a nobis iugum ipsorum.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Qui habitat in caelis irridebit eos, et Dominus subsannabit eos.") },
@@ -56,7 +56,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Ego autem constitutus sum rex ab eo super Sion, montem sanctum ejus, praedicans praeceptum ejus.") },
+        { id: "p6.1", ...tl("Ego autem constitutus sum rex ab eo super Sion, montem sanctum eius, praedicans praeceptum eius.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Dominus dixit ad me : Filius meus es tu ; ego hodie genui te.") },
@@ -68,16 +68,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Reges eos in virga ferrea, et tamquam vas figuli confringes eos.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Et nunc, reges, intelligite ; erudimini, qui judicatis terram.") },
+        { id: "p10.1", ...tl("Et nunc, reges, intelligite ; erudimini, qui iudicatis terram.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Servite Domino in timore, et exsultate ei cum tremore.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa.") },
+        { id: "p12.1", ...tl("Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via iusta.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo.") },
+        { id: "p13.1", ...tl("Cum exarserit in brevi ira eius, beati omnes qui confidunt in eo.") },
       ]),
     ],
   },
@@ -94,7 +94,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Domine, quid multiplicati sunt qui tribulant me ? Multi insurgunt adversum me ;") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("multi dicunt animae meae : Non est salus ipsi in Deo ejus.") },
+        { id: "p3.1", ...tl("multi dicunt animae meae : Non est salus ipsi in Deo eius.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Tu autem Domine, susceptor meus es, gloria mea, et exaltans caput meum.") },
@@ -126,7 +126,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, in carminibus. Psalmus David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Cum invocarem exaudivit me Deus justitiae meae, in tribulatione dilatasti mihi. Miserere mei, et exaudi orationem meam.") },
+        { id: "p2.1", ...tl("Cum invocarem exaudivit me Deus iustitiae meae, in tribulatione dilatasti mihi. Miserere mei, et exaudi orationem meam.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Filii hominum, usquequo gravi corde ? ut quid diligitis vanitatem, et quaeritis mendacium ?") },
@@ -138,7 +138,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Irascimini, et nolite peccare ; quae dicitis in cordibus vestris, in cubilibus vestris compungimini.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Sacrificate sacrificium justitiae, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona ?") },
+        { id: "p6.1", ...tl("Sacrificate sacrificium iustitiae, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona ?") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Signatum est super nos lumen vultus tui, Domine : dedisti laetitiam in corde meo.") },
@@ -176,7 +176,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Mane astabo tibi, et videbo quoniam non Deus volens iniquitatem tu es.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Neque habitabit juxta te malignus, neque permanebunt injusti ante oculos tuos.") },
+        { id: "p6.1", ...tl("Neque habitabit iuxta te malignus, neque permanebunt iniusti ante oculos tuos.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Odisti omnes qui operantur iniquitatem ; perdes omnes qui loquuntur mendacium. Virum sanguinum et dolosum abominabitur Dominus.") },
@@ -185,19 +185,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Ego autem in multitudine misericordiae tuae introibo in domum tuam ; adorabo ad templum sanctum tuum in timore tuo.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Domine, deduc me in justitia tua : propter inimicos meos dirige in conspectu tuo viam meam.") },
+        { id: "p9.1", ...tl("Domine, deduc me in iustitia tua : propter inimicos meos dirige in conspectu tuo viam meam.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Quoniam non est in ore eorum veritas ; cor eorum vanum est.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Sepulchrum patens est guttur eorum ; linguis suis dolose agebant : judica illos, Deus. Decidant a cogitationibus suis ; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine.") },
+        { id: "p11.1", ...tl("Sepulchrum patens est guttur eorum ; linguis suis dolose agebant : iudica illos, Deus. Decidant a cogitationibus suis ; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Et laetentur omnes qui sperant in te ; in aeternum exsultabunt, et habitabis in eis. Et gloriabuntur in te omnes qui diligunt nomen tuum,") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("quoniam tu benedices justo. Domine, ut scuto bonae voluntatis tuae coronasti nos.") },
+        { id: "p13.1", ...tl("quoniam tu benedices iusto. Domine, ut scuto bonae voluntatis tuae coronasti nos.") },
       ]),
     ],
   },
@@ -249,7 +249,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini.") },
+        { id: "p1.1", ...tl("Psalmus David, quem cantavit Domino pro verbis Chusi, filii Iemini.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Domine Deus meus, in te speravi ; salvum me fac ex omnibus persequentibus me, et libera me :") },
@@ -273,16 +273,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("et synagoga populorum circumdabit te : et propter hanc in altum regredere :") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me.") },
+        { id: "p9.1", ...tl("Dominus iudicat populos. Iudica me, Domine, secundum iustitiam meam, et secundum innocentiam meam super me.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Consumetur nequitia peccatorum, et diriges justum, scrutans corda et renes, Deus.") },
+        { id: "p10.1", ...tl("Consumetur nequitia peccatorum, et diriges iustum, scrutans corda et renes, Deus.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Justum adjutorium meum a Domino, qui salvos facit rectos corde.") },
+        { id: "p11.1", ...tl("Iustum adiutorium meum a Domino, qui salvos facit rectos corde.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Deus judex justus, fortis, et patiens ; numquid irascitur per singulos dies ?") },
+        { id: "p12.1", ...tl("Deus iudex iustus, fortis, et patiens ; numquid irascitur per singulos dies ?") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Nisi conversi fueritis, gladium suum vibrabit ; arcum suum tetendit, et paravit illum.") },
@@ -291,16 +291,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Et in eo paravit vasa mortis, sagittas suas ardentibus effecit.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Ecce parturiit injustitiam ; concepit dolorem, et peperit iniquitatem.") },
+        { id: "p15.1", ...tl("Ecce parturiit iniustitiam ; concepit dolorem, et peperit iniquitatem.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Lacum aperuit, et effodit eum ; et incidit in foveam quam fecit.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet.") },
+        { id: "p17.1", ...tl("Convertetur dolor eius in caput eius, et in verticem ipsius iniquitas eius descendet.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Confitebor Domino secundum justitiam ejus, et psallam nomini Domini altissimi.") },
+        { id: "p18.1", ...tl("Confitebor Domino secundum iustitiam eius, et psallam nomini Domini altissimi.") },
       ]),
     ],
   },
@@ -323,7 +323,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Quoniam videbo caelos tuos, opera digitorum tuorum, lunam et stellas quae tu fundasti.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Quid est homo, quod memor es ejus ? aut filius hominis, quoniam visitas eum ?") },
+        { id: "p5.1", ...tl("Quid est homo, quod memor es eius ? aut filius hominis, quoniam visitas eum ?") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Minuisti eum paulominus ab angelis ; gloria et honore coronasti eum ;") },
@@ -332,7 +332,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("et constituisti eum super opera manuum tuarum.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Omnia subjecisti sub pedibus ejus, oves et boves universas, insuper et pecora campi,") },
+        { id: "p8.1", ...tl("Omnia subiecisti sub pedibus eius, oves et boves universas, insuper et pecora campi,") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("volucres caeli, et pisces maris qui perambulant semitas maris.") },
@@ -361,7 +361,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("In convertendo inimicum meum retrorsum ; infirmabuntur, et peribunt a facie tua.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Quoniam fecisti judicium meum et causam meam ; sedisti super thronum, qui judicas justitiam.") },
+        { id: "p5.1", ...tl("Quoniam fecisti iudicium meum et causam meam ; sedisti super thronum, qui iudicas iustitiam.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Increpasti gentes, et periit impius : nomen eorum delesti in aeternum, et in saeculum saeculi.") },
@@ -370,19 +370,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Inimici defecerunt frameae in finem, et civitates eorum destruxisti. Periit memoria eorum cum sonitu ;") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("et Dominus in aeternum permanet. Paravit in judicio thronum suum,") },
+        { id: "p8.1", ...tl("et Dominus in aeternum permanet. Paravit in iudicio thronum suum,") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("et ipse judicabit orbem terrae in aequitate : judicabit populos in justitia.") },
+        { id: "p9.1", ...tl("et ipse iudicabit orbem terrae in aequitate : iudicabit populos in iustitia.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Et factus est Dominus refugium pauperi ; adjutor in opportunitatibus, in tribulatione.") },
+        { id: "p10.1", ...tl("Et factus est Dominus refugium pauperi ; adiutor in opportunitatibus, in tribulatione.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Et sperent in te qui noverunt nomen tuum, quoniam non dereliquisti quaerentes te, Domine.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Psallite Domino qui habitat in Sion ; annuntiate inter gentes studia ejus :") },
+        { id: "p12.1", ...tl("Psallite Domino qui habitat in Sion ; annuntiate inter gentes studia eius :") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("quoniam requirens sanguinem eorum recordatus est ; non est oblitus clamorem pauperum.") },
@@ -397,7 +397,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p16.1", ...tl("exsultabo in salutari tuo. Infixae sunt gentes in interitu quem fecerunt ; in laqueo isto quem absconderunt comprehensus est pes eorum.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Cognoscetur Dominus judicia faciens ; in operibus manuum suarum comprehensus est peccator.") },
+        { id: "p17.1", ...tl("Cognoscetur Dominus iudicia faciens ; in operibus manuum suarum comprehensus est peccator.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Convertantur peccatores in infernum, omnes gentes quae obliviscuntur Deum.") },
@@ -406,7 +406,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p19.1", ...tl("Quoniam non in finem oblivio erit pauperis ; patientia pauperum non peribit in finem.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Exsurge, Domine ; non confortetur homo : judicentur gentes in conspectu tuo.") },
+        { id: "p20.1", ...tl("Exsurge, Domine ; non confortetur homo : iudicentur gentes in conspectu tuo.") },
       ]),
       paragraph("p21", "21", [
         { id: "p21.1", ...tl("Constitue, Domine, legislatorem super eos, ut sciant gentes quoniam homines sunt.") },
@@ -424,19 +424,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p25.1", ...tl("Exacerbavit Dominum peccator : secundum multitudinem irae suae, non quaeret.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Non est Deus in conspectu ejus ; inquinatae sunt viae illius in omni tempore. Auferuntur judicia tua a facie ejus ; omnium inimicorum suorum dominabitur.") },
+        { id: "p26.1", ...tl("Non est Deus in conspectu eius ; inquinatae sunt viae illius in omni tempore. Auferuntur iudicia tua a facie eius ; omnium inimicorum suorum dominabitur.") },
       ]),
       paragraph("p27", "27", [
         { id: "p27.1", ...tl("Dixit enim in corde suo : Non movebor a generatione in generationem, sine malo.") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("Cujus maledictione os plenum est, et amaritudine, et dolo ; sub lingua ejus labor et dolor.") },
+        { id: "p28.1", ...tl("Cuius maledictione os plenum est, et amaritudine, et dolo ; sub lingua eius labor et dolor.") },
       ]),
       paragraph("p29", "29", [
         { id: "p29.1", ...tl("Sedet in insidiis cum divitibus in occultis, ut interficiat innocentem.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("Oculi ejus in pauperem respiciunt ; insidiatur in abscondito, quasi leo in spelunca sua. Insidiatur ut rapiat pauperem ; rapere pauperem dum attrahit eum.") },
+        { id: "p30.1", ...tl("Oculi eius in pauperem respiciunt ; insidiatur in abscondito, quasi leo in spelunca sua. Insidiatur ut rapiat pauperem ; rapere pauperem dum attrahit eum.") },
       ]),
       paragraph("p31", "31", [
         { id: "p31.1", ...tl("In laqueo suo humiliabit eum ; inclinabit se, et cadet cum dominatus fuerit pauperum.") },
@@ -451,7 +451,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p34.1", ...tl("Propter quid irritavit impius Deum ? dixit enim in corde suo : Non requiret.") },
       ]),
       paragraph("p35", "35", [
-        { id: "p35.1", ...tl("Vides, quoniam tu laborem et dolorem consideras, ut tradas eos in manus tuas. Tibi derelictus est pauper ; orphano tu eris adjutor.") },
+        { id: "p35.1", ...tl("Vides, quoniam tu laborem et dolorem consideras, ut tradas eos in manus tuas. Tibi derelictus est pauper ; orphano tu eris adiutor.") },
       ]),
       paragraph("p36", "36", [
         { id: "p36.1", ...tl("Contere brachium peccatoris et maligni ; quaeretur peccatum illius, et non invenietur.") },
@@ -463,7 +463,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p38.1", ...tl("Desiderium pauperum exaudivit Dominus ; praeparationem cordis eorum audivit auris tua :") },
       ]),
       paragraph("p39", "39", [
-        { id: "p39.1", ...tl("judicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.") },
+        { id: "p39.1", ...tl("iudicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.") },
       ]),
     ],
   },
@@ -483,19 +483,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Quoniam ecce peccatores intenderunt arcum ; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde :") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("quoniam quae perfecisti destruxerunt ; justus autem, quid fecit ?") },
+        { id: "p4.1", ...tl("quoniam quae perfecisti destruxerunt ; iustus autem, quid fecit ?") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Dominus in templo sancto suo ; Dominus in caelo sedes ejus. Oculi ejus in pauperem respiciunt ; palpebrae ejus interrogant filios hominum.") },
+        { id: "p5.1", ...tl("Dominus in templo sancto suo ; Dominus in caelo sedes eius. Oculi eius in pauperem respiciunt ; palpebrae eius interrogant filios hominum.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Dominus interrogat justum et impium ; qui autem diligit iniquitatem, odit animam suam.") },
+        { id: "p6.1", ...tl("Dominus interrogat iustum et impium ; qui autem diligit iniquitatem, odit animam suam.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Pluet super peccatores laqueos ; ignis et sulphur, et spiritus procellarum, pars calicis eorum.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Quoniam justus Dominus, et justitias dilexit : aequitatem vidit vultus ejus.") },
+        { id: "p8.1", ...tl("Quoniam iustus Dominus, et iustitias dilexit : aequitatem vidit vultus eius.") },
       ]),
     ],
   },
@@ -582,10 +582,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Dominum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Quoniam Dominus in generatione justa est : consilium inopis confudistis, quoniam Dominus spes ejus est.") },
+        { id: "p6.1", ...tl("Quoniam Dominus in generatione iusta est : consilium inopis confudistis, quoniam Dominus spes eius est.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Quis dabit ex Sion salutare Israël ? Cum averterit Dominus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israël.") },
+        { id: "p7.1", ...tl("Quis dabit ex Sion salutare Israël ? Cum averterit Dominus captivitatem plebis suae, exsultabit Iacob, et laetabitur Israël.") },
       ]),
     ],
   },
@@ -599,13 +599,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus David. Domine, quis habitabit in tabernaculo tuo ? aut quis requiescet in monte sancto tuo ?") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Qui ingreditur sine macula, et operatur justitiam ;") },
+        { id: "p2.1", ...tl("Qui ingreditur sine macula, et operatur iustitiam ;") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("qui loquitur veritatem in corde suo : qui non egit dolum in lingua sua, nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Ad nihilum deductus est in conspectu ejus malignus ; timentes autem Dominum glorificat. Qui jurat proximo suo, et non decipit ;") },
+        { id: "p4.1", ...tl("Ad nihilum deductus est in conspectu eius malignus ; timentes autem Dominum glorificat. Qui iurat proximo suo, et non decipit ;") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit : qui facit haec non movebitur in aeternum.") },
@@ -625,7 +625,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Dixi Domino : Deus meus es tu, quoniam bonorum meorum non eges.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Sanctis qui sunt in terra ejus, mirificavit omnes voluntates meas in eis.") },
+        { id: "p3.1", ...tl("Sanctis qui sunt in terra eius, mirificavit omnes voluntates meas in eis.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Multiplicatae sunt infirmitates eorum : postea acceleraverunt. Non congregabo conventicula eorum de sanguinibus, nec memor ero nominum eorum per labia mea.") },
@@ -657,10 +657,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Oratio David. Exaudi, Domine, justitiam meam ; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.") },
+        { id: "p1.1", ...tl("Oratio David. Exaudi, Domine, iustitiam meam ; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("De vultu tuo judicium meum prodeat ; oculi tui videant aequitates.") },
+        { id: "p2.1", ...tl("De vultu tuo iudicium meum prodeat ; oculi tui videant aequitates.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Probasti cor meum, et visitasti nocte ; igne me examinasti, et non est inventa in me iniquitas.") },
@@ -687,7 +687,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("adipem suum concluserunt : os eorum locutum est superbiam.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Projicientes me nunc circumdederunt me ; oculos suos statuerunt declinare in terram.") },
+        { id: "p11.1", ...tl("Proiicientes me nunc circumdederunt me ; oculos suos statuerunt declinare in terram.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Susceperunt me sicut leo paratus ad praedam, et sicut catulus leonis habitans in abditis.") },
@@ -699,7 +699,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("ab inimicis manus tuae. Domine, a paucis de terra divide eos in vita eorum ; de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis, et dimiserunt reliquias suas parvulis suis.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Ego autem in justitia apparebo conspectui tuo ; satiabor cum apparuerit gloria tua.") },
+        { id: "p15.1", ...tl("Ego autem in iustitia apparebo conspectui tuo ; satiabor cum apparuerit gloria tua.") },
       ]),
     ],
   },
@@ -710,13 +710,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("In finem. Puero Domini David, qui locutus est Domino verba cantici hujus, in die qua eripuit eum Dominus de manu omnium inimicorum ejus, et de manu Saul, et dixit :") },
+        { id: "p1.1", ...tl("In finem. Puero Domini David, qui locutus est Domino verba cantici huius, in die qua eripuit eum Dominus de manu omnium inimicorum eius, et de manu Saul, et dixit :") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Diligam te, Domine, fortitudo mea.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Dominus firmamentum meum, et refugium meum, et liberator meus. Deus meus adjutor meus, et sperabo in eum ; protector meus, et cornu salutis meae, et susceptor meus.") },
+        { id: "p3.1", ...tl("Dominus firmamentum meum, et refugium meum, et liberator meus. Deus meus adiutor meus, et sperabo in eum ; protector meus, et cornu salutis meae, et susceptor meus.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Laudans invocabo Dominum, et ab inimicis meis salvus ero.") },
@@ -728,25 +728,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Dolores inferni circumdederunt me ; praeoccupaverunt me laquei mortis.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("In tribulatione mea invocavi Dominum, et ad Deum meum clamavi : et exaudivit de templo sancto suo vocem meam ; et clamor meus in conspectu ejus introivit in aures ejus.") },
+        { id: "p7.1", ...tl("In tribulatione mea invocavi Dominum, et ad Deum meum clamavi : et exaudivit de templo sancto suo vocem meam ; et clamor meus in conspectu eius introivit in aures eius.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Commota est, et contremuit terra ; fundamenta montium conturbata sunt, et commota sunt : quoniam iratus est eis.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Ascendit fumus in ira ejus, et ignis a facie ejus exarsit ; carbones succensi sunt ab eo.") },
+        { id: "p9.1", ...tl("Ascendit fumus in ira eius, et ignis a facie eius exarsit ; carbones succensi sunt ab eo.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Inclinavit caelos, et descendit, et caligo sub pedibus ejus.") },
+        { id: "p10.1", ...tl("Inclinavit caelos, et descendit, et caligo sub pedibus eius.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Et ascendit super cherubim, et volavit ; volavit super pennas ventorum.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Et posuit tenebras latibulum suum ; in circuitu ejus tabernaculum ejus, tenebrosa aqua in nubibus aëris.") },
+        { id: "p12.1", ...tl("Et posuit tenebras latibulum suum ; in circuitu eius tabernaculum eius, tenebrosa aqua in nubibus aëris.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Prae fulgore in conspectu ejus nubes transierunt ; grando et carbones ignis.") },
+        { id: "p13.1", ...tl("Prae fulgore in conspectu eius nubes transierunt ; grando et carbones ignis.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Et intonuit de caelo Dominus, et Altissimus dedit vocem suam : grando et carbones ignis.") },
@@ -770,19 +770,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Et eduxit me in latitudinem ; salvum me fecit, quoniam voluit me,") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("et retribuet mihi Dominus secundum justitiam meam, et secundum puritatem manuum mearum retribuet mihi :") },
+        { id: "p21.1", ...tl("et retribuet mihi Dominus secundum iustitiam meam, et secundum puritatem manuum mearum retribuet mihi :") },
       ]),
       paragraph("p22", "22", [
         { id: "p22.1", ...tl("quia custodivi vias Domini, nec impie gessi a Deo meo ;") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("quoniam omnia judicia ejus in conspectu meo, et justitias ejus non repuli a me.") },
+        { id: "p23.1", ...tl("quoniam omnia iudicia eius in conspectu meo, et iustitias eius non repuli a me.") },
       ]),
       paragraph("p24", "24", [
         { id: "p24.1", ...tl("Et ero immaculatus cum eo ; et observabo me ab iniquitate mea.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Et retribuet mihi Dominus secundum justitiam meam, et secundum puritatem manuum mearum in conspectu oculorum ejus.") },
+        { id: "p25.1", ...tl("Et retribuet mihi Dominus secundum iustitiam meam, et secundum puritatem manuum mearum in conspectu oculorum eius.") },
       ]),
       paragraph("p26", "26", [
         { id: "p26.1", ...tl("Cum sancto sanctus eris, et cum viro innocente innocens eris,") },
@@ -800,7 +800,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p30.1", ...tl("Quoniam in te eripiar a tentatione ; et in Deo meo transgrediar murum.") },
       ]),
       paragraph("p31", "31", [
-        { id: "p31.1", ...tl("Deus meus, impolluta via ejus ; eloquia Domini igne examinata : protector est omnium sperantium in se.") },
+        { id: "p31.1", ...tl("Deus meus, impolluta via eius ; eloquia Domini igne examinata : protector est omnium sperantium in se.") },
       ]),
       paragraph("p32", "32", [
         { id: "p32.1", ...tl("Quoniam quis deus praeter Dominum ? aut quis deus praeter Deum nostrum ?") },
@@ -860,7 +860,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p50.1", ...tl("Propterea confitebor tibi in nationibus, Domine, et nomini tuo psalmum dicam ;") },
       ]),
       paragraph("p51", "51", [
-        { id: "p51.1", ...tl("magnificans salutes regis ejus, et faciens misericordiam christo suo David, et semini ejus usque in saeculum.") },
+        { id: "p51.1", ...tl("magnificans salutes regis eius, et faciens misericordiam christo suo David, et semini eius usque in saeculum.") },
       ]),
     ],
   },
@@ -874,7 +874,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Psalmus David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Caeli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum.") },
+        { id: "p2.1", ...tl("Caeli enarrant gloriam Dei, et opera manuum eius annuntiat firmamentum.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Dies diei eructat verbum, et nox nocti indicat scientiam.") },
@@ -889,16 +889,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("In sole posuit tabernaculum suum ; et ipse tamquam sponsus procedens de thalamo suo. Exsultavit ut gigas ad currendam viam ;") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("a summo caelo egressio ejus. Et occursus ejus usque ad summum ejus ; nec est qui se abscondat a calore ejus.") },
+        { id: "p7.1", ...tl("a summo caelo egressio eius. Et occursus eius usque ad summum eius ; nec est qui se abscondat a calore eius.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Lex Domini immaculata, convertens animas ; testimonium Domini fidele, sapientiam praestans parvulis.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Justitiae Domini rectae, laetificantes corda ; praeceptum Domini lucidum, illuminans oculos.") },
+        { id: "p9.1", ...tl("Iustitiae Domini rectae, laetificantes corda ; praeceptum Domini lucidum, illuminans oculos.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Timor Domini sanctus, permanens in saeculum saeculi ; judicia Domini vera, justificata in semetipsa,") },
+        { id: "p10.1", ...tl("Timor Domini sanctus, permanens in saeculum saeculi ; iudicia Domini vera, iustificata in semetipsa,") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("desiderabilia super aurum et lapidem pretiosum multum, et dulciora super mel et favum.") },
@@ -913,7 +913,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero, et emundabor a delicto maximo.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper. Domine, adjutor meus, et redemptor meus.") },
+        { id: "p15.1", ...tl("Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper. Domine, adiutor meus, et redemptor meus.") },
       ]),
     ],
   },
@@ -927,7 +927,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Psalmus David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Exaudiat te Dominus in die tribulationis ; protegat te nomen Dei Jacob.") },
+        { id: "p2.1", ...tl("Exaudiat te Dominus in die tribulationis ; protegat te nomen Dei Iacob.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Mittat tibi auxilium de sancto, et de Sion tueatur te.") },
@@ -942,7 +942,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Laetabimur in salutari tuo ; et in nomine Dei nostri magnificabimur.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Impleat Dominus omnes petitiones tuas ; nunc cognovi quoniam salvum fecit Dominus christum suum. Exaudiet illum de caelo sancto suo, in potentatibus salus dexterae ejus.") },
+        { id: "p7.1", ...tl("Impleat Dominus omnes petitiones tuas ; nunc cognovi quoniam salvum fecit Dominus christum suum. Exaudiet illum de caelo sancto suo, in potentatibus salus dexterae eius.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Hi in curribus, et hi in equis ; nos autem in nomine Domini Dei nostri invocabimus.") },
@@ -968,16 +968,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Domine, in virtute tua laetabitur rex, et super salutare tuum exsultabit vehementer.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Desiderium cordis ejus tribuisti ei, et voluntate labiorum ejus non fraudasti eum.") },
+        { id: "p3.1", ...tl("Desiderium cordis eius tribuisti ei, et voluntate labiorum eius non fraudasti eum.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quoniam praevenisti eum in benedictionibus dulcedinis ; posuisti in capite ejus coronam de lapide pretioso.") },
+        { id: "p4.1", ...tl("Quoniam praevenisti eum in benedictionibus dulcedinis ; posuisti in capite eius coronam de lapide pretioso.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Vitam petiit a te, et tribuisti ei longitudinem dierum, in saeculum, et in saeculum saeculi.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Magna est gloria ejus in salutari tuo ; gloriam et magnum decorem impones super eum.") },
+        { id: "p6.1", ...tl("Magna est gloria eius in salutari tuo ; gloriam et magnum decorem impones super eum.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Quoniam dabis eum in benedictionem in saeculum saeculi ; laetificabis eum in gaudio cum vultu tuo.") },
@@ -1030,7 +1030,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Ad te clamaverunt, et salvi facti sunt ; in te speraverunt, et non sunt confusi.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Ego autem sum vermis, et non homo ; opprobrium hominum, et abjectio plebis.") },
+        { id: "p7.1", ...tl("Ego autem sum vermis, et non homo ; opprobrium hominum, et abiectio plebis.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Omnes videntes me deriserunt me ; locuti sunt labiis, et moverunt caput.") },
@@ -1042,10 +1042,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Quoniam tu es qui extraxisti me de ventre, spes mea ab uberibus matris meae.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("In te projectus sum ex utero ; de ventre matris meae Deus meus es tu :") },
+        { id: "p11.1", ...tl("In te proiectus sum ex utero ; de ventre matris meae Deus meus es tu :") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adjuvet.") },
+        { id: "p12.1", ...tl("ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adiuvet.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Circumdederunt me vituli multi ; tauri pingues obsederunt me.") },
@@ -1081,7 +1081,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p23.1", ...tl("Narrabo nomen tuum fratribus meis ; in medio ecclesiae laudabo te.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Qui timetis Dominum, laudate eum ; universum semen Jacob, glorificate eum.") },
+        { id: "p24.1", ...tl("Qui timetis Dominum, laudate eum ; universum semen Iacob, glorificate eum.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("Timeat eum omne semen Israël, quoniam non sprevit, neque despexit deprecationem pauperis, nec avertit faciem suam a me : et cum clamarem ad eum, exaudivit me.") },
@@ -1093,19 +1093,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p27.1", ...tl("Edent pauperes, et saturabuntur, et laudabunt Dominum qui requirunt eum : vivent corda eorum in saeculum saeculi.") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("Reminiscentur et convertentur ad Dominum universi fines terrae ; et adorabunt in conspectu ejus universae familiae gentium :") },
+        { id: "p28.1", ...tl("Reminiscentur et convertentur ad Dominum universi fines terrae ; et adorabunt in conspectu eius universae familiae gentium :") },
       ]),
       paragraph("p29", "29", [
         { id: "p29.1", ...tl("quoniam Domini est regnum, et ipse dominabitur gentium.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("Manducaverunt et adoraverunt omnes pingues terrae ; in conspectu ejus cadent omnes qui descendunt in terram.") },
+        { id: "p30.1", ...tl("Manducaverunt et adoraverunt omnes pingues terrae ; in conspectu eius cadent omnes qui descendunt in terram.") },
       ]),
       paragraph("p31", "31", [
         { id: "p31.1", ...tl("Et anima mea illi vivet ; et semen meum serviet ipsi.") },
       ]),
       paragraph("p32", "32", [
-        { id: "p32.1", ...tl("Annuntiabitur Domino generatio ventura ; et annuntiabunt caeli justitiam ejus populo qui nascetur, quem fecit Dominus.") },
+        { id: "p32.1", ...tl("Annuntiabitur Domino generatio ventura ; et annuntiabunt caeli iustitiam eius populo qui nascetur, quem fecit Dominus.") },
       ]),
     ],
   },
@@ -1122,7 +1122,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("in loco pascuae, ibi me collocavit. Super aquam refectionis educavit me ;") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("animam meam convertit. Deduxit me super semitas justitiae propter nomen suum.") },
+        { id: "p3.1", ...tl("animam meam convertit. Deduxit me super semitas iustitiae propter nomen suum.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Nam etsi ambulavero in medio umbrae mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt.") },
@@ -1142,22 +1142,22 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus ; orbis terrarum, et universi qui habitant in eo.") },
+        { id: "p1.1", ...tl("Prima sabbati. Psalmus David. Domini est terra, et plenitudo eius ; orbis terrarum, et universi qui habitant in eo.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Quia ipse super maria fundavit eum, et super flumina praeparavit eum.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Quis ascendet in montem Domini ? aut quis stabit in loco sancto ejus ?") },
+        { id: "p3.1", ...tl("Quis ascendet in montem Domini ? aut quis stabit in loco sancto eius ?") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo :") },
+        { id: "p4.1", ...tl("Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec iuravit in dolo proximo suo :") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Haec est generatio quaerentium eum, quaerentium faciem Dei Jacob.") },
+        { id: "p6.1", ...tl("Haec est generatio quaerentium eum, quaerentium faciem Dei Iacob.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae.") },
@@ -1198,16 +1198,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Reminiscere miserationum tuarum, Domine, et misericordiarum tuarum quae a saeculo sunt.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Delicta juventutis meae, et ignorantias meas, ne memineris. Secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine.") },
+        { id: "p7.1", ...tl("Delicta iuventutis meae, et ignorantias meas, ne memineris. Secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Dulcis et rectus Dominus ; propter hoc legem dabit delinquentibus in via.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Diriget mansuetos in judicio ; docebit mites vias suas.") },
+        { id: "p9.1", ...tl("Diriget mansuetos in iudicio ; docebit mites vias suas.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Universae viae Domini, misericordia et veritas, requirentibus testamentum ejus et testimonia ejus.") },
+        { id: "p10.1", ...tl("Universae viae Domini, misericordia et veritas, requirentibus testamentum eius et testimonia eius.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Propter nomen tuum, Domine, propitiaberis peccato meo ; multum est enim.") },
@@ -1216,7 +1216,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Quis est homo qui timet Dominum ? legem statuit ei in via quam elegit.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Anima ejus in bonis demorabitur, et semen ejus haereditabit terram.") },
+        { id: "p13.1", ...tl("Anima eius in bonis demorabitur, et semen eius haereditabit terram.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Firmamentum est Dominus timentibus eum ; et testamentum ipsius ut manifestetur illis.") },
@@ -1254,7 +1254,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("In finem. Psalmus David. Judica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor.") },
+        { id: "p1.1", ...tl("In finem. Psalmus David. Iudica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Proba me, Domine, et tenta me ; ure renes meos et cor meum.") },
@@ -1307,13 +1307,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Si consistant adversum me castra, non timebit cor meum ; si exsurgat adversum me praelium, in hoc ego sperabo.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitae meae ; ut videam voluptatem Domini, et visitem templum ejus.") },
+        { id: "p4.1", ...tl("Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitae meae ; ut videam voluptatem Domini, et visitem templum eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Quoniam abscondit me in tabernaculo suo ; in die malorum protexit me in abscondito tabernaculi sui.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("In petra exaltavit me, et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo ejus hostiam vociferationis ; cantabo, et psalmum dicam Domino.") },
+        { id: "p6.1", ...tl("In petra exaltavit me, et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo eius hostiam vociferationis ; cantabo, et psalmum dicam Domino.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Exaudi, Domine, vocem meam, qua clamavi ad te ; miserere mei, et exaudi me.") },
@@ -1322,7 +1322,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Tibi dixit cor meum : Exquisivit te facies mea ; faciem tuam, Domine, requiram.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adjutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus.") },
+        { id: "p9.1", ...tl("Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adiutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Quoniam pater meus et mater mea dereliquerunt me ; Dominus autem assumpsit me.") },
@@ -1360,13 +1360,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Da illis secundum opera eorum, et secundum nequitiam adinventionum ipsorum. Secundum opera manuum eorum tribue illis ; redde retributionem eorum ipsis.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Quoniam non intellexerunt opera Domini, et in opera manuum ejus destrues illos, et non aedificabis eos.") },
+        { id: "p5.1", ...tl("Quoniam non intellexerunt opera Domini, et in opera manuum eius destrues illos, et non aedificabis eos.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Benedictus Dominus, quoniam exaudivit vocem deprecationis meae.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Dominus adjutor meus et protector meus ; in ipso speravit cor meum, et adjutus sum : et refloruit caro mea, et ex voluntate mea confitebor ei.") },
+        { id: "p7.1", ...tl("Dominus adiutor meus et protector meus ; in ipso speravit cor meum, et adiutus sum : et refloruit caro mea, et ex voluntate mea confitebor ei.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Dominus fortitudo plebis suae, et protector salvationum christi sui est.") },
@@ -1386,10 +1386,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus David, in consummatione tabernaculi. Afferte Domino, filii Dei, afferte Domino filios arietum.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Afferte Domino gloriam et honorem ; afferte Domino gloriam nomini ejus ; adorate Dominum in atrio sancto ejus.") },
+        { id: "p2.1", ...tl("Afferte Domino gloriam et honorem ; afferte Domino gloriam nomini eius ; adorate Dominum in atrio sancto eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Vox Domini super aquas ; Deus majestatis intonuit : Dominus super aquas multas.") },
+        { id: "p3.1", ...tl("Vox Domini super aquas ; Deus maiestatis intonuit : Dominus super aquas multas.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Vox Domini in virtute ; vox Domini in magnificentia.") },
@@ -1407,7 +1407,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("vox Domini concutientis desertum : et commovebit Dominus desertum Cades.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Vox Domini praeparantis cervos : et revelabit condensa, et in templo ejus omnes dicent gloriam.") },
+        { id: "p9.1", ...tl("Vox Domini praeparantis cervos : et revelabit condensa, et in templo eius omnes dicent gloriam.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Dominus diluvium inhabitare facit, et sedebit Dominus rex in aeternum.") },
@@ -1436,10 +1436,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Domine, eduxisti ab inferno animam meam ; salvasti me a descendentibus in lacum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Psallite Domino, sancti ejus ; et confitemini memoriae sanctitatis ejus.") },
+        { id: "p5.1", ...tl("Psallite Domino, sancti eius ; et confitemini memoriae sanctitatis eius.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Quoniam ira in indignatione ejus, et vita in voluntate ejus : ad vesperum demorabitur fletus, et ad matutinum laetitia.") },
+        { id: "p6.1", ...tl("Quoniam ira in indignatione eius, et vita in voluntate eius : ad vesperum demorabitur fletus, et ad matutinum laetitia.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Ego autem dixi in abundantia mea : Non movebor in aeternum.") },
@@ -1454,7 +1454,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Quae utilitas in sanguine meo, dum descendo in corruptionem ? numquid confitebitur tibi pulvis, aut annuntiabit veritatem tuam ?") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Audivit Dominus, et misertus est mei ; Dominus factus est adjutor meus.") },
+        { id: "p11.1", ...tl("Audivit Dominus, et misertus est mei ; Dominus factus est adiutor meus.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Convertisti planctum meum in gaudium mihi ; conscidisti saccum meum, et circumdedisti me laetitia :") },
@@ -1474,7 +1474,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Psalmus David, pro extasi.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("In te, Domine, speravi ; non confundar in aeternum : in justitia tua libera me.") },
+        { id: "p2.1", ...tl("In te, Domine, speravi ; non confundar in aeternum : in iustitia tua libera me.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Inclina ad me aurem tuam ; accelera ut eruas me. Esto mihi in Deum protectorem, et in domum refugii, ut salvum me facias :") },
@@ -1525,7 +1525,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p18.1", ...tl("Domine, non confundar, quoniam invocavi te. Erubescant impii, et deducantur in infernum ;") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("muta fiant labia dolosa, quae loquuntur adversus justum iniquitatem, in superbia, et in abusione.") },
+        { id: "p19.1", ...tl("muta fiant labia dolosa, quae loquuntur adversus iustum iniquitatem, in superbia, et in abusione.") },
       ]),
       paragraph("p20", "20", [
         { id: "p20.1", ...tl("Quam magna multitudo dulcedinis tuae, Domine, quam abscondisti timentibus te ; perfecisti eis qui sperant in te in conspectu filiorum hominum !") },
@@ -1537,10 +1537,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("Benedictus Dominus, quoniam mirificavit misericordiam suam mihi in civitate munita.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Ego autem dixi in excessu mentis meae : Projectus sum a facie oculorum tuorum : ideo exaudisti vocem orationis meae, dum clamarem ad te.") },
+        { id: "p23.1", ...tl("Ego autem dixi in excessu mentis meae : Proiectus sum a facie oculorum tuorum : ideo exaudisti vocem orationis meae, dum clamarem ad te.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Diligite Dominum, omnes sancti ejus, quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.") },
+        { id: "p24.1", ...tl("Diligite Dominum, omnes sancti eius, quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("Viriliter agite, et confortetur cor vestrum, omnes qui speratis in Domino.") },
@@ -1557,7 +1557,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Ipsi David intellectus. Beati quorum remissae sunt iniquitates, et quorum tecta sunt peccata.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.") },
+        { id: "p2.1", ...tl("Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu eius dolus.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.") },
@@ -1566,7 +1566,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Quoniam die ac nocte gravata est super me manus tua, conversus sum in aerumna mea, dum configitur spina.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi : Confitebor adversum me injustitiam meam Domino ; et tu remisisti impietatem peccati mei.") },
+        { id: "p5.1", ...tl("Delictum meum cognitum tibi feci, et iniustitiam meam non abscondi. Dixi : Confitebor adversum me iniustitiam meam Domino ; et tu remisisti impietatem peccati mei.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.") },
@@ -1584,7 +1584,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Multa flagella peccatoris ; sperantem autem in Domino misericordia circumdabit.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Laetamini in Domino, et exsultate, justi ; et gloriamini, omnes recti corde.") },
+        { id: "p11.1", ...tl("Laetamini in Domino, et exsultate, iusti ; et gloriamini, omnes recti corde.") },
       ]),
     ],
   },
@@ -1595,7 +1595,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David. Exsultate, justi, in Domino ; rectos decet collaudatio.") },
+        { id: "p1.1", ...tl("Psalmus David. Exsultate, iusti, in Domino ; rectos decet collaudatio.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Confitemini Domino in cithara ; in psalterio decem chordarum psallite illi.") },
@@ -1604,13 +1604,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Cantate ei canticum novum ; bene psallite ei in vociferatione.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quia rectum est verbum Domini, et omnia opera ejus in fide.") },
+        { id: "p4.1", ...tl("Quia rectum est verbum Domini, et omnia opera eius in fide.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Diligit misericordiam et judicium ; misericordia Domini plena est terra.") },
+        { id: "p5.1", ...tl("Diligit misericordiam et iudicium ; misericordia Domini plena est terra.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Verbo Domini caeli firmati sunt, et spiritu oris ejus omnis virtus eorum.") },
+        { id: "p6.1", ...tl("Verbo Domini caeli firmati sunt, et spiritu oris eius omnis virtus eorum.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Congregans sicut in utre aquas maris ; ponens in thesauris abyssos.") },
@@ -1625,10 +1625,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Dominus dissipat consilia gentium ; reprobat autem cogitationes populorum, et reprobat consilia principum.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Consilium autem Domini in aeternum manet ; cogitationes cordis ejus in generatione et generationem.") },
+        { id: "p11.1", ...tl("Consilium autem Domini in aeternum manet ; cogitationes cordis eius in generatione et generationem.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Beata gens cujus est Dominus Deus ejus ; populus quem elegit in haereditatem sibi.") },
+        { id: "p12.1", ...tl("Beata gens cuius est Dominus Deus eius ; populus quem elegit in haereditatem sibi.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("De caelo respexit Dominus ; vidit omnes filios hominum.") },
@@ -1646,16 +1646,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("Fallax equus ad salutem ; in abundantia autem virtutis suae non salvabitur.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Ecce oculi Domini super metuentes eum, et in eis qui sperant super misericordia ejus :") },
+        { id: "p18.1", ...tl("Ecce oculi Domini super metuentes eum, et in eis qui sperant super misericordia eius :") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("ut eruat a morte animas eorum, et alat eos in fame.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Anima nostra sustinet Dominum, quoniam adjutor et protector noster est.") },
+        { id: "p20.1", ...tl("Anima nostra sustinet Dominum, quoniam adiutor et protector noster est.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Quia in eo laetabitur cor nostrum, et in nomine sancto ejus speravimus.") },
+        { id: "p21.1", ...tl("Quia in eo laetabitur cor nostrum, et in nomine sancto eius speravimus.") },
       ]),
       paragraph("p22", "22", [
         { id: "p22.1", ...tl("Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te.") },
@@ -1672,13 +1672,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Davidi, cum immutavit vultum suum coram Achimelech, et dimisit eum, et abiit.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Benedicam Dominum in omni tempore ; semper laus ejus in ore meo.") },
+        { id: "p2.1", ...tl("Benedicam Dominum in omni tempore ; semper laus eius in ore meo.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("In Domino laudabitur anima mea : audiant mansueti, et laetentur.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Magnificate Dominum mecum, et exaltemus nomen ejus in idipsum.") },
+        { id: "p4.1", ...tl("Magnificate Dominum mecum, et exaltemus nomen eius in idipsum.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Exquisivi Dominum, et exaudivit me ; et ex omnibus tribulationibus meis eripuit me.") },
@@ -1687,7 +1687,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Accedite ad eum, et illuminamini ; et facies vestrae non confundentur.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus ejus salvavit eum.") },
+        { id: "p7.1", ...tl("Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus eius salvavit eum.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Immittet angelus Domini in circuitu timentium eum, et eripiet eos.") },
@@ -1696,7 +1696,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Gustate et videte quoniam suavis est Dominus ; beatus vir qui sperat in eo.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Timete Dominum, omnes sancti ejus, quoniam non est inopia timentibus eum.") },
+        { id: "p10.1", ...tl("Timete Dominum, omnes sancti eius, quoniam non est inopia timentibus eum.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Divites eguerunt, et esurierunt ; inquirentes autem Dominum non minuentur omni bono.") },
@@ -1714,25 +1714,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Diverte a malo, et fac bonum ; inquire pacem, et persequere eam.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Oculi Domini super justos, et aures ejus in preces eorum.") },
+        { id: "p16.1", ...tl("Oculi Domini super iustos, et aures eius in preces eorum.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("Vultus autem Domini super facientes mala, ut perdat de terra memoriam eorum.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Clamaverunt justi, et Dominus exaudivit eos ; et ex omnibus tribulationibus eorum liberavit eos.") },
+        { id: "p18.1", ...tl("Clamaverunt iusti, et Dominus exaudivit eos ; et ex omnibus tribulationibus eorum liberavit eos.") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Juxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit.") },
+        { id: "p19.1", ...tl("Iuxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Multae tribulationes justorum ; et de omnibus his liberabit eos Dominus.") },
+        { id: "p20.1", ...tl("Multae tribulationes iustorum ; et de omnibus his liberabit eos Dominus.") },
       ]),
       paragraph("p21", "21", [
         { id: "p21.1", ...tl("Custodit Dominus omnia ossa eorum : unum ex his non conteretur.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Mors peccatorum pessima ; et qui oderunt justum delinquent.") },
+        { id: "p22.1", ...tl("Mors peccatorum pessima ; et qui oderunt iustum delinquent.") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("Redimet Dominus animas servorum suorum, et non delinquent omnes qui sperant in eo.") },
@@ -1746,10 +1746,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Ipsi David. Judica, Domine, nocentes me ; expugna impugnantes me.") },
+        { id: "p1.1", ...tl("Ipsi David. Iudica, Domine, nocentes me ; expugna impugnantes me.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Apprehende arma et scutum, et exsurge in adjutorium mihi.") },
+        { id: "p2.1", ...tl("Apprehende arma et scutum, et exsurge in adiutorium mihi.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Effunde frameam, et conclude adversus eos qui persequuntur me ; dic animae meae : Salus tua ego sum.") },
@@ -1773,7 +1773,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Anima autem mea exsultabit in Domino, et delectabitur super salutari suo.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Omnia ossa mea dicent : Domine, quis similis tibi ? eripiens inopem de manu fortiorum ejus ; egenum et pauperem a diripientibus eum.") },
+        { id: "p10.1", ...tl("Omnia ossa mea dicent : Domine, quis similis tibi ? eripiens inopem de manu fortiorum eius ; egenum et pauperem a diripientibus eum.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Surgentes testes iniqui, quae ignorabam interrogabant me.") },
@@ -1782,7 +1782,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Retribuebant mihi mala pro bonis, sterilitatem animae meae.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Ego autem, cum mihi molesti essent, induebar cilicio ; humiliabam in jejunio animam meam, et oratio mea in sinu meo convertetur.") },
+        { id: "p13.1", ...tl("Ego autem, cum mihi molesti essent, induebar cilicio ; humiliabam in ieiunio animam meam, et oratio mea in sinu meo convertetur.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Quasi proximum et quasi fratrem nostrum sic complacebam ; quasi lugens et contristatus sic humiliabar.") },
@@ -1812,10 +1812,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("Vidisti, Domine : ne sileas ; Domine, ne discedas a me.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Exsurge et intende judicio meo, Deus meus ; et Dominus meus, in causam meam.") },
+        { id: "p23.1", ...tl("Exsurge et intende iudicio meo, Deus meus ; et Dominus meus, in causam meam.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Judica me secundum justitiam tuam, Domine Deus meus, et non supergaudeant mihi.") },
+        { id: "p24.1", ...tl("Iudica me secundum iustitiam tuam, Domine Deus meus, et non supergaudeant mihi.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("Non dicant in cordibus suis : Euge, euge, animae nostrae ; nec dicant : Devoravimus eum.") },
@@ -1824,10 +1824,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p26.1", ...tl("Erubescant et revereantur simul qui gratulantur malis meis ; induantur confusione et reverentia qui magna loquuntur super me.") },
       ]),
       paragraph("p27", "27", [
-        { id: "p27.1", ...tl("Exsultent et laetentur qui volunt justitiam meam ; et dicant semper : Magnificetur Dominus, qui volunt pacem servi ejus.") },
+        { id: "p27.1", ...tl("Exsultent et laetentur qui volunt iustitiam meam ; et dicant semper : Magnificetur Dominus, qui volunt pacem servi eius.") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("Et lingua mea meditabitur justitiam tuam ; tota die laudem tuam.") },
+        { id: "p28.1", ...tl("Et lingua mea meditabitur iustitiam tuam ; tota die laudem tuam.") },
       ]),
     ],
   },
@@ -1841,13 +1841,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Servo Domini ipsi David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Dixit injustus ut delinquat in semetipso : non est timor Dei ante oculos ejus.") },
+        { id: "p2.1", ...tl("Dixit iniustus ut delinquat in semetipso : non est timor Dei ante oculos eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Quoniam dolose egit in conspectu ejus, ut inveniatur iniquitas ejus ad odium.") },
+        { id: "p3.1", ...tl("Quoniam dolose egit in conspectu eius, ut inveniatur iniquitas eius ad odium.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Verba oris ejus iniquitas, et dolus ; noluit intelligere ut bene ageret.") },
+        { id: "p4.1", ...tl("Verba oris eius iniquitas, et dolus ; noluit intelligere ut bene ageret.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Iniquitatem meditatus est in cubili suo ; astitit omni viae non bonae : malitiam autem non odivit.") },
@@ -1856,7 +1856,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Domine, in caelo misericordia tua, et veritas tua usque ad nubes.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Justitia tua sicut montes Dei ; judicia tua abyssus multa. Homines et jumenta salvabis, Domine,") },
+        { id: "p7.1", ...tl("Iustitia tua sicut montes Dei ; iudicia tua abyssus multa. Homines et iumenta salvabis, Domine,") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("quemadmodum multiplicasti misericordiam tuam, Deus. Filii autem hominum in tegmine alarum tuarum sperabunt.") },
@@ -1868,7 +1868,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("quoniam apud te est fons vitae, et in lumine tuo videbimus lumen.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Praetende misericordiam tuam scientibus te, et justitiam tuam his qui recto sunt corde.") },
+        { id: "p11.1", ...tl("Praetende misericordiam tuam scientibus te, et iustitiam tuam his qui recto sunt corde.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Non veniat mihi pes superbiae, et manus peccatoris non moveat me.") },
@@ -1891,7 +1891,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("quoniam tamquam foenum velociter arescent, et quemadmodum olera herbarum cito decident.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Spera in Domino, et fac bonitatem ; et inhabita terram, et pasceris in divitiis ejus.") },
+        { id: "p3.1", ...tl("Spera in Domino, et fac bonitatem ; et inhabita terram, et pasceris in divitiis eius.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Delectare in Domino, et dabit tibi petitiones cordis tui.") },
@@ -1900,10 +1900,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Revela Domino viam tuam, et spera in eo, et ipse faciet.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.") },
+        { id: "p6.1", ...tl("Et educet quasi lumen iustitiam tuam, et iudicium tuum tamquam meridiem.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Subditus esto Domino, et ora eum. Noli aemulari in eo qui prosperatur in via sua ; in homine faciente injustitias.") },
+        { id: "p7.1", ...tl("Subditus esto Domino, et ora eum. Noli aemulari in eo qui prosperatur in via sua ; in homine faciente iniustitias.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Desine ab ira, et derelinque furorem ; noli aemulari ut maligneris.") },
@@ -1912,28 +1912,28 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Quoniam qui malignantur exterminabuntur ; sustinentes autem Dominum, ipsi haereditabunt terram.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Et adhuc pusillum, et non erit peccator ; et quaeres locum ejus, et non invenies.") },
+        { id: "p10.1", ...tl("Et adhuc pusillum, et non erit peccator ; et quaeres locum eius, et non invenies.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Mansueti autem haereditabunt terram, et delectabuntur in multitudine pacis.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Observabit peccator justum, et stridebit super eum dentibus suis.") },
+        { id: "p12.1", ...tl("Observabit peccator iustum, et stridebit super eum dentibus suis.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus.") },
+        { id: "p13.1", ...tl("Dominus autem irridebit eum, quoniam prospicit quod veniet dies eius.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Gladium evaginaverunt peccatores ; intenderunt arcum suum : ut dejiciant pauperem et inopem, ut trucident rectos corde.") },
+        { id: "p14.1", ...tl("Gladium evaginaverunt peccatores ; intenderunt arcum suum : ut deiiciant pauperem et inopem, ut trucident rectos corde.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Melius est modicum justo, super divitias peccatorum multas :") },
+        { id: "p16.1", ...tl("Melius est modicum iusto, super divitias peccatorum multas :") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("quoniam brachia peccatorum conterentur : confirmat autem justos Dominus.") },
+        { id: "p17.1", ...tl("quoniam brachia peccatorum conterentur : confirmat autem iustos Dominus.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Novit Dominus dies immaculatorum, et haereditas eorum in aeternum erit.") },
@@ -1945,19 +1945,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Mutuabitur peccator, et non solvet ; justus autem miseretur et tribuet :") },
+        { id: "p21.1", ...tl("Mutuabitur peccator, et non solvet ; iustus autem miseretur et tribuet :") },
       ]),
       paragraph("p22", "22", [
         { id: "p22.1", ...tl("quia benedicentes ei haereditabunt terram ; maledicentes autem ei disperibunt.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Apud Dominum gressus hominis dirigentur, et viam ejus volet.") },
+        { id: "p23.1", ...tl("Apud Dominum gressus hominis dirigentur, et viam eius volet.") },
       ]),
       paragraph("p24", "24", [
         { id: "p24.1", ...tl("Cum ceciderit, non collidetur, quia Dominus supponit manum suam.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Junior fui, etenim senui ; et non vidi justum derelictum, nec semen ejus quaerens panem.") },
+        { id: "p25.1", ...tl("Iunior fui, etenim senui ; et non vidi iustum derelictum, nec semen eius quaerens panem.") },
       ]),
       paragraph("p26", "26", [
         { id: "p26.1", ...tl("Tota die miseretur et commodat ; et semen illius in benedictione erit.") },
@@ -1966,43 +1966,43 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p27.1", ...tl("Declina a malo, et fac bonum, et inhabita in saeculum saeculi :") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("quia Dominus amat judicium, et non derelinquet sanctos suos : in aeternum conservabuntur. Injusti punientur, et semen impiorum peribit.") },
+        { id: "p28.1", ...tl("quia Dominus amat iudicium, et non derelinquet sanctos suos : in aeternum conservabuntur. Iniusti punientur, et semen impiorum peribit.") },
       ]),
       paragraph("p29", "29", [
-        { id: "p29.1", ...tl("Justi autem haereditabunt terram, et inhabitabunt in saeculum saeculi super eam.") },
+        { id: "p29.1", ...tl("Iusti autem haereditabunt terram, et inhabitabunt in saeculum saeculi super eam.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.") },
+        { id: "p30.1", ...tl("Os iusti meditabitur sapientiam, et lingua eius loquetur iudicium.") },
       ]),
       paragraph("p31", "31", [
-        { id: "p31.1", ...tl("Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus.") },
+        { id: "p31.1", ...tl("Lex Dei eius in corde ipsius, et non supplantabuntur gressus eius.") },
       ]),
       paragraph("p32", "32", [
-        { id: "p32.1", ...tl("Considerat peccator justum, et quaerit mortificare eum.") },
+        { id: "p32.1", ...tl("Considerat peccator iustum, et quaerit mortificare eum.") },
       ]),
       paragraph("p33", "33", [
-        { id: "p33.1", ...tl("Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi.") },
+        { id: "p33.1", ...tl("Dominus autem non derelinquet eum in manibus eius, nec damnabit eum cum iudicabitur illi.") },
       ]),
       paragraph("p34", "34", [
-        { id: "p34.1", ...tl("Expecta Dominum, et custodi viam ejus, et exaltabit te ut haereditate capias terram : cum perierint peccatores, videbis.") },
+        { id: "p34.1", ...tl("Expecta Dominum, et custodi viam eius, et exaltabit te ut haereditate capias terram : cum perierint peccatores, videbis.") },
       ]),
       paragraph("p35", "35", [
         { id: "p35.1", ...tl("Vidi impium superexaltatum, et elevatum sicut cedros Libani :") },
       ]),
       paragraph("p36", "36", [
-        { id: "p36.1", ...tl("et transivi, et ecce non erat ; et quaesivi eum, et non est inventus locus ejus.") },
+        { id: "p36.1", ...tl("et transivi, et ecce non erat ; et quaesivi eum, et non est inventus locus eius.") },
       ]),
       paragraph("p37", "37", [
         { id: "p37.1", ...tl("Custodi innocentiam, et vide aequitatem, quoniam sunt reliquiae homini pacifico.") },
       ]),
       paragraph("p38", "38", [
-        { id: "p38.1", ...tl("Injusti autem disperibunt simul ; reliquiae impiorum interibunt.") },
+        { id: "p38.1", ...tl("Iniusti autem disperibunt simul ; reliquiae impiorum interibunt.") },
       ]),
       paragraph("p39", "39", [
-        { id: "p39.1", ...tl("Salus autem justorum a Domino ; et protector eorum in tempore tribulationis.") },
+        { id: "p39.1", ...tl("Salus autem iustorum a Domino ; et protector eorum in tempore tribulationis.") },
       ]),
       paragraph("p40", "40", [
-        { id: "p40.1", ...tl("Et adjuvabit eos Dominus, et liberabit eos ; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.") },
+        { id: "p40.1", ...tl("Et adiuvabit eos Dominus, et liberabit eos ; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.") },
       ]),
     ],
   },
@@ -2046,7 +2046,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("Cor meum conturbatum est ; dereliquit me virtus mea, et lumen oculorum meorum, et ipsum non est mecum.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Amici mei et proximi mei adversum me appropinquaverunt, et steterunt ; et qui juxta me erant, de longe steterunt : et vim faciebant qui quaerebant animam meam.") },
+        { id: "p12.1", ...tl("Amici mei et proximi mei adversum me appropinquaverunt, et steterunt ; et qui iuxta me erant, de longe steterunt : et vim faciebant qui quaerebant animam meam.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Et qui inquirebant mala mihi, locuti sunt vanitates, et dolos tota die meditabantur.") },
@@ -2079,7 +2079,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("Ne derelinquas me, Domine Deus meus ; ne discesseris a me.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Intende in adjutorium meum, Domine Deus salutis meae.") },
+        { id: "p23.1", ...tl("Intende in adiutorium meum, Domine Deus salutis meae.") },
       ]),
     ],
   },
@@ -2123,7 +2123,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("amove a me plagas tuas.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("A fortitudine manus tuae ego defeci in increpationibus : propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam ejus : verumtamen vane conturbatur omnis homo.") },
+        { id: "p12.1", ...tl("A fortitudine manus tuae ego defeci in increpationibus : propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam eius : verumtamen vane conturbatur omnis homo.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Exaudi orationem meam, Domine, et deprecationem meam ; auribus percipe lacrimas meas. Ne sileas, quoniam advena ego sum apud te, et peregrinus sicut omnes patres mei.") },
@@ -2152,7 +2152,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Et immisit in os meum canticum novum, carmen Deo nostro. Videbunt multi, et timebunt, et sperabunt in Domino.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Beatus vir cujus est nomen Domini spes ejus, et non respexit in vanitates et insanias falsas.") },
+        { id: "p5.1", ...tl("Beatus vir cuius est nomen Domini spes eius, et non respexit in vanitates et insanias falsas.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Multa fecisti tu, Domine Deus meus, mirabilia tua ; et cogitationibus tuis non est qui similis sit tibi. Annuntiavi et locutus sum : multiplicati sunt super numerum.") },
@@ -2167,10 +2167,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("ut facerem voluntatem tuam. Deus meus, volui, et legem tuam in medio cordis mei.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Annuntiavi justitiam tuam in ecclesia magna ; ecce labia mea non prohibebo : Domine, tu scisti.") },
+        { id: "p10.1", ...tl("Annuntiavi iustitiam tuam in ecclesia magna ; ecce labia mea non prohibebo : Domine, tu scisti.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Justitiam tuam non abscondi in corde meo ; veritatem tuam et salutare tuum dixi ; non abscondi misericordiam tuam et veritatem tuam a concilio multo.") },
+        { id: "p11.1", ...tl("Iustitiam tuam non abscondi in corde meo ; veritatem tuam et salutare tuum dixi ; non abscondi misericordiam tuam et veritatem tuam a concilio multo.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Tu autem, Domine, ne longe facias miserationes tuas a me ; misericordia tua et veritas tua semper susceperunt me.") },
@@ -2179,7 +2179,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Quoniam circumdederunt me mala quorum non est numerus ; comprehenderunt me iniquitates meae, et non potui ut viderem. Multiplicatae sunt super capillos capitis mei, et cor meum dereliquit me.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Complaceat tibi, Domine, ut eruas me ; Domine, ad adjuvandum me respice.") },
+        { id: "p14.1", ...tl("Complaceat tibi, Domine, ut eruas me ; Domine, ad adiuvandum me respice.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Confundantur et revereantur simul, qui quaerunt animam meam ut auferant eam ; convertantur retrorsum et revereantur, qui volunt mihi mala.") },
@@ -2191,7 +2191,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("Exsultent et laetentur super te omnes quaerentes te ; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Ego autem mendicus sum et pauper ; Dominus sollicitus est mei. Adjutor meus et protector meus tu es ; Deus meus, ne tardaveris.") },
+        { id: "p18.1", ...tl("Ego autem mendicus sum et pauper ; Dominus sollicitus est mei. Adiutor meus et protector meus tu es ; Deus meus, ne tardaveris.") },
       ]),
     ],
   },
@@ -2208,25 +2208,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Beatus qui intelligit super egenum et pauperem : in die mala liberabit eum Dominus.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum ejus.") },
+        { id: "p3.1", ...tl("Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum eius.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Dominus opem ferat illi super lectum doloris ejus ; universum stratum ejus versasti in infirmitate ejus.") },
+        { id: "p4.1", ...tl("Dominus opem ferat illi super lectum doloris eius ; universum stratum eius versasti in infirmitate eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Ego dixi : Domine, miserere mei ; sana animam meam, quia peccavi tibi.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Inimici mei dixerunt mala mihi : Quando morietur, et peribit nomen ejus ?") },
+        { id: "p6.1", ...tl("Inimici mei dixerunt mala mihi : Quando morietur, et peribit nomen eius ?") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Et si ingrediebatur ut videret, vana loquebatur ; cor ejus congregavit iniquitatem sibi. Egrediebatur foras et loquebatur.") },
+        { id: "p7.1", ...tl("Et si ingrediebatur ut videret, vana loquebatur ; cor eius congregavit iniquitatem sibi. Egrediebatur foras et loquebatur.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("In idipsum adversum me susurrabant omnes inimici mei ; adversum me cogitabant mala mihi.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Verbum iniquum constituerunt adversum me : Numquid qui dormit non adjiciet ut resurgat ?") },
+        { id: "p9.1", ...tl("Verbum iniquum constituerunt adversum me : Numquid qui dormit non adiiciet ut resurgat ?") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Etenim homo pacis meae in quo speravi, qui edebat panes meos, magnificavit super me supplantationem.") },
@@ -2270,13 +2270,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Quare tristis es, anima mea ? et quare conturbas me ? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei,") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("et Deus meus. Ad meipsum anima mea conturbata est : propterea memor ero tui de terra Jordanis et Hermoniim a monte modico.") },
+        { id: "p7.1", ...tl("et Deus meus. Ad meipsum anima mea conturbata est : propterea memor ero tui de terra Iordanis et Hermoniim a monte modico.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Abyssus abyssum invocat, in voce cataractarum tuarum ; omnia excelsa tua, et fluctus tui super me transierunt.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("In die mandavit Dominus misericordiam suam, et nocte canticum ejus ; apud me oratio Deo vitae meae.") },
+        { id: "p9.1", ...tl("In die mandavit Dominus misericordiam suam, et nocte canticum eius ; apud me oratio Deo vitae meae.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Dicam Deo : Susceptor meus es ; quare oblitus es mei ? et quare contristatus incedo, dum affligit me inimicus ?") },
@@ -2296,7 +2296,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David. Judica me, Deus, et discerne causam meam de gente non sancta : ab homine iniquo et doloso erue me.") },
+        { id: "p1.1", ...tl("Psalmus David. Iudica me, Deus, et discerne causam meam de gente non sancta : ab homine iniquo et doloso erue me.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Quia tu es, Deus, fortitudo mea : quare me repulisti ? et quare tristis incedo, dum affligit me inimicus ?") },
@@ -2305,7 +2305,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Emitte lucem tuam et veritatem tuam : ipsa me deduxerunt, et adduxerunt in montem sanctum tuum, et in tabernacula tua.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Et introibo ad altare Dei, ad Deum qui laetificat juventutem meam. Confitebor tibi in cithara, Deus, Deus meus.") },
+        { id: "p4.1", ...tl("Et introibo ad altare Dei, ad Deum qui laetificat iuventutem meam. Confitebor tibi in cithara, Deus, Deus meus.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Quare tristis es, anima mea ? et quare conturbas me ? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei, et Deus meus.") },
@@ -2331,7 +2331,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Nec enim in gladio suo possederunt terram, et brachium eorum non salvavit eos : sed dextera tua et brachium tuum, et illuminatio vultus tui, quoniam complacuisti in eis.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Tu es ipse rex meus et Deus meus, qui mandas salutes Jacob.") },
+        { id: "p5.1", ...tl("Tu es ipse rex meus et Deus meus, qui mandas salutes Iacob.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("In te inimicos nostros ventilabimus cornu, et in nomine tuo spernemus insurgentes in nobis.") },
@@ -2394,7 +2394,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p25.1", ...tl("Quoniam humiliata est in pulvere anima nostra ; conglutinatus est in terra venter noster.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Exsurge, Domine, adjuva nos, et redime nos propter nomen tuum.") },
+        { id: "p26.1", ...tl("Exsurge, Domine, adiuva nos, et redime nos propter nomen tuum.") },
       ]),
     ],
   },
@@ -2417,7 +2417,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Accingere gladio tuo super femur tuum, potentissime.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et justitiam ; et deducet te mirabiliter dextera tua.") },
+        { id: "p5.1", ...tl("Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et iustitiam ; et deducet te mirabiliter dextera tua.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Sagittae tuae acutae : populi sub te cadent, in corda inimicorum regis.") },
@@ -2426,7 +2426,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Sedes tua, Deus, in saeculum saeculi ; virga directionis virga regni tui.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Dilexisti justitiam, et odisti iniquitatem ; propterea unxit te Deus, Deus tuus, oleo laetitiae, prae consortibus tuis.") },
+        { id: "p8.1", ...tl("Dilexisti iustitiam, et odisti iniquitatem ; propterea unxit te Deus, Deus tuus, oleo laetitiae, prae consortibus tuis.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis ; ex quibus delectaverunt te") },
@@ -2444,10 +2444,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Et filiae Tyri in muneribus vultum tuum deprecabuntur ; omnes divites plebis.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Omnis gloria ejus filiae regis ab intus, in fimbriis aureis,") },
+        { id: "p14.1", ...tl("Omnis gloria eius filiae regis ab intus, in fimbriis aureis,") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("circumamicta varietatibus. Adducentur regi virgines post eam ; proximae ejus afferentur tibi.") },
+        { id: "p15.1", ...tl("circumamicta varietatibus. Adducentur regi virgines post eam ; proximae eius afferentur tibi.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Afferentur in laetitia et exsultatione ; adducentur in templum regis.") },
@@ -2470,25 +2470,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, filiis Core, pro arcanis. Psalmus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Deus noster refugium et virtus ; adjutor in tribulationibus quae invenerunt nos nimis.") },
+        { id: "p2.1", ...tl("Deus noster refugium et virtus ; adiutor in tribulationibus quae invenerunt nos nimis.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Propterea non timebimus dum turbabitur terra, et transferentur montes in cor maris.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Sonuerunt, et turbatae sunt aquae eorum ; conturbati sunt montes in fortitudine ejus.") },
+        { id: "p4.1", ...tl("Sonuerunt, et turbatae sunt aquae eorum ; conturbati sunt montes in fortitudine eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Fluminis impetus laetificat civitatem Dei : sanctificavit tabernaculum suum Altissimus.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Deus in medio ejus, non commovebitur ; adjuvabit eam Deus mane diluculo.") },
+        { id: "p6.1", ...tl("Deus in medio eius, non commovebitur ; adiuvabit eam Deus mane diluculo.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Conturbatae sunt gentes, et inclinata sunt regna : dedit vocem suam, mota est terra.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Dominus virtutum nobiscum ; susceptor noster Deus Jacob.") },
+        { id: "p8.1", ...tl("Dominus virtutum nobiscum ; susceptor noster Deus Iacob.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Venite, et videte opera Domini, quae posuit prodigia super terram,") },
@@ -2500,7 +2500,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("Vacate, et videte quoniam ego sum Deus ; exaltabor in gentibus, et exaltabor in terra.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Dominus virtutum nobiscum ; susceptor noster Deus Jacob.") },
+        { id: "p12.1", ...tl("Dominus virtutum nobiscum ; susceptor noster Deus Iacob.") },
       ]),
     ],
   },
@@ -2514,19 +2514,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, pro filiis Core. Psalmus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Omnes gentes, plaudite manibus ; jubilate Deo in voce exsultationis :") },
+        { id: "p2.1", ...tl("Omnes gentes, plaudite manibus ; iubilate Deo in voce exsultationis :") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("quoniam Dominus excelsus, terribilis, rex magnus super omnem terram.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Subjecit populos nobis, et gentes sub pedibus nostris.") },
+        { id: "p4.1", ...tl("Subiecit populos nobis, et gentes sub pedibus nostris.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Elegit nobis haereditatem suam ; speciem Jacob quam dilexit.") },
+        { id: "p5.1", ...tl("Elegit nobis haereditatem suam ; speciem Iacob quam dilexit.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Ascendit Deus in jubilo, et Dominus in voce tubae.") },
+        { id: "p6.1", ...tl("Ascendit Deus in iubilo, et Dominus in voce tubae.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Psallite Deo nostro, psallite ; psallite regi nostro, psallite :") },
@@ -2552,13 +2552,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus cantici. Filiis Core, secunda sabbati.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Magnus Dominus et laudabilis nimis, in civitate Dei nostri, in monte sancto ejus.") },
+        { id: "p2.1", ...tl("Magnus Dominus et laudabilis nimis, in civitate Dei nostri, in monte sancto eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Fundatur exsultatione universae terrae mons Sion ; latera aquilonis, civitas regis magni.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Deus in domibus ejus cognoscetur cum suscipiet eam.") },
+        { id: "p4.1", ...tl("Deus in domibus eius cognoscetur cum suscipiet eam.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Quoniam ecce reges terrae congregati sunt ; convenerunt in unum.") },
@@ -2579,16 +2579,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Suscepimus, Deus, misericordiam tuam in medio templi tui.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Secundum nomen tuum, Deus, sic et laus tua in fines terrae ; justitia plena est dextera tua.") },
+        { id: "p11.1", ...tl("Secundum nomen tuum, Deus, sic et laus tua in fines terrae ; iustitia plena est dextera tua.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Laetetur mons Sion, et exsultent filiae Judae, propter judicia tua, Domine.") },
+        { id: "p12.1", ...tl("Laetetur mons Sion, et exsultent filiae Iudae, propter iudicia tua, Domine.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Circumdate Sion, et complectimini eam ; narrate in turribus ejus.") },
+        { id: "p13.1", ...tl("Circumdate Sion, et complectimini eam ; narrate in turribus eius.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Ponite corda vestra in virtute ejus, et distribuite domos ejus, ut enarretis in progenie altera.") },
+        { id: "p14.1", ...tl("Ponite corda vestra in virtute eius, et distribuite domos eius, ut enarretis in progenie altera.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Quoniam hic est Deus, Deus noster in aeternum, et in saeculum saeculi : ipse reget nos in saecula.") },
@@ -2638,31 +2638,31 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("et sepulchra eorum domus illorum in aeternum ; tabernacula eorum in progenie et progenie : vocaverunt nomina sua in terris suis.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Et homo, cum in honore esset, non intellexit. Comparatus est jumentis insipientibus, et similis factus est illis.") },
+        { id: "p13.1", ...tl("Et homo, cum in honore esset, non intellexit. Comparatus est iumentis insipientibus, et similis factus est illis.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Haec via illorum scandalum ipsis ; et postea in ore suo complacebunt.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Sicut oves in inferno positi sunt : mors depascet eos. Et dominabuntur eorum justi in matutino ; et auxilium eorum veterascet in inferno a gloria eorum.") },
+        { id: "p15.1", ...tl("Sicut oves in inferno positi sunt : mors depascet eos. Et dominabuntur eorum iusti in matutino ; et auxilium eorum veterascet in inferno a gloria eorum.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Verumtamen Deus redimet animam meam de manu inferi, cum acceperit me.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Ne timueris cum dives factus fuerit homo, et cum multiplicata fuerit gloria domus ejus :") },
+        { id: "p17.1", ...tl("Ne timueris cum dives factus fuerit homo, et cum multiplicata fuerit gloria domus eius :") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("quoniam, cum interierit, non sumet omnia, neque descendet cum eo gloria ejus.") },
+        { id: "p18.1", ...tl("quoniam, cum interierit, non sumet omnia, neque descendet cum eo gloria eius.") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Quia anima ejus in vita ipsius benedicetur ; confitebitur tibi cum benefeceris ei.") },
+        { id: "p19.1", ...tl("Quia anima eius in vita ipsius benedicetur ; confitebitur tibi cum benefeceris ei.") },
       ]),
       paragraph("p20", "20", [
         { id: "p20.1", ...tl("Introibit usque in progenies patrum suorum ; et usque in aeternum non videbit lumen.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Homo, cum in honore esset, non intellexit. Comparatus est jumentis insipientibus, et similis factus est illis.") },
+        { id: "p21.1", ...tl("Homo, cum in honore esset, non intellexit. Comparatus est iumentis insipientibus, et similis factus est illis.") },
       ]),
     ],
   },
@@ -2676,19 +2676,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus Asaph. Deus deorum Dominus locutus est, et vocavit terram a solis ortu usque ad occasum.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Ex Sion species decoris ejus :") },
+        { id: "p2.1", ...tl("Ex Sion species decoris eius :") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Deus manifeste veniet ; Deus noster, et non silebit. Ignis in conspectu ejus exardescet ; et in circuitu ejus tempestas valida.") },
+        { id: "p3.1", ...tl("Deus manifeste veniet ; Deus noster, et non silebit. Ignis in conspectu eius exardescet ; et in circuitu eius tempestas valida.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Advocabit caelum desursum, et terram, discernere populum suum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Congregate illi sanctos ejus, qui ordinant testamentum ejus super sacrificia.") },
+        { id: "p5.1", ...tl("Congregate illi sanctos eius, qui ordinant testamentum eius super sacrificia.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Et annuntiabunt caeli justitiam ejus, quoniam Deus judex est.") },
+        { id: "p6.1", ...tl("Et annuntiabunt caeli iustitiam eius, quoniam Deus iudex est.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Audi, populus meus, et loquar ; Israël, et testificabor tibi : Deus, Deus tuus ego sum.") },
@@ -2700,13 +2700,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Non accipiam de domo tua vitulos, neque de gregibus tuis hircos :") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("quoniam meae sunt omnes ferae silvarum, jumenta in montibus, et boves.") },
+        { id: "p10.1", ...tl("quoniam meae sunt omnes ferae silvarum, iumenta in montibus, et boves.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Cognovi omnia volatilia caeli, et pulchritudo agri mecum est.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Si esuriero, non dicam tibi : meus est enim orbis terrae et plenitudo ejus.") },
+        { id: "p12.1", ...tl("Si esuriero, non dicam tibi : meus est enim orbis terrae et plenitudo eius.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Numquid manducabo carnes taurorum ? aut sanguinem hircorum potabo ?") },
@@ -2718,10 +2718,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Et invoca me in die tribulationis : eruam te, et honorificabis me.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Peccatori autem dixit Deus : Quare tu enarras justitias meas ? et assumis testamentum meum per os tuum ?") },
+        { id: "p16.1", ...tl("Peccatori autem dixit Deus : Quare tu enarras iustitias meas ? et assumis testamentum meum per os tuum ?") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Tu vero odisti disciplinam, et projecisti sermones meos retrorsum.") },
+        { id: "p17.1", ...tl("Tu vero odisti disciplinam, et proiecisti sermones meos retrorsum.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Si videbas furem, currebas cum eo ; et cum adulteris portionem tuam ponebas.") },
@@ -2765,7 +2765,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me est semper.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Tibi soli peccavi, et malum coram te feci ; ut justificeris in sermonibus tuis, et vincas cum judicaris.") },
+        { id: "p6.1", ...tl("Tibi soli peccavi, et malum coram te feci ; ut iustificeris in sermonibus tuis, et vincas cum iudicaris.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.") },
@@ -2786,7 +2786,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Cor mundum crea in me, Deus, et spiritum rectum innova in visceribus meis.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Ne projicias me a facie tua, et spiritum sanctum tuum ne auferas a me.") },
+        { id: "p13.1", ...tl("Ne proiicias me a facie tua, et spiritum sanctum tuum ne auferas a me.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Redde mihi laetitiam salutaris tui, et spiritu principali confirma me.") },
@@ -2795,7 +2795,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Docebo iniquos vias tuas, et impii ad te convertentur.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea justitiam tuam.") },
+        { id: "p16.1", ...tl("Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea iustitiam tuam.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("Domine, labia mea aperies, et os meum annuntiabit laudem tuam.") },
@@ -2807,10 +2807,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p19.1", ...tl("Sacrificium Deo spiritus contribulatus ; cor contritum et humiliatum, Deus, non despicies.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem.") },
+        { id: "p20.1", ...tl("Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Ierusalem.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Tunc acceptabis sacrificium justitiae, oblationes et holocausta ; tunc imponent super altare tuum vitulos.") },
+        { id: "p21.1", ...tl("Tunc acceptabis sacrificium iustitiae, oblationes et holocausta ; tunc imponent super altare tuum vitulos.") },
       ]),
     ],
   },
@@ -2830,7 +2830,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Quid gloriaris in malitia, qui potens es in iniquitate ?") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Tota die injustitiam cogitavit lingua tua ; sicut novacula acuta fecisti dolum.") },
+        { id: "p4.1", ...tl("Tota die iniustitiam cogitavit lingua tua ; sicut novacula acuta fecisti dolum.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Dilexisti malitiam super benignitatem ; iniquitatem magis quam loqui aequitatem.") },
@@ -2842,10 +2842,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Propterea Deus destruet te in finem ; evellet te, et emigrabit te de tabernaculo tuo, et radicem tuam de terra viventium.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Videbunt justi, et timebunt ; et super eum ridebunt, et dicent :") },
+        { id: "p8.1", ...tl("Videbunt iusti, et timebunt ; et super eum ridebunt, et dicent :") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Ecce homo qui non posuit Deum adjutorem suum ; sed speravit in multitudine divitiarum suarum, et praevaluit in vanitate sua.") },
+        { id: "p9.1", ...tl("Ecce homo qui non posuit Deum adiutorem suum ; sed speravit in multitudine divitiarum suarum, et praevaluit in vanitate sua.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Ego autem, sicut oliva fructifera in domo Dei ; speravi in misericordia Dei, in aeternum et in saeculum saeculi.") },
@@ -2880,7 +2880,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Deum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent : confusi sunt, quoniam Deus sprevit eos.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Quis dabit ex Sion salutare Israël ? cum converterit Deus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israël.") },
+        { id: "p7.1", ...tl("Quis dabit ex Sion salutare Israël ? cum converterit Deus captivitatem plebis suae, exsultabit Iacob, et laetabitur Israël.") },
       ]),
     ],
   },
@@ -2897,7 +2897,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("cum venissent Ziphaei, et dixissent ad Saul : Nonne David absconditus est apud nos ?") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Deus, in nomine tuo salvum me fac, et in virtute tua judica me.") },
+        { id: "p3.1", ...tl("Deus, in nomine tuo salvum me fac, et in virtute tua iudica me.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Deus, exaudi orationem meam ; auribus percipe verba oris mei.") },
@@ -2906,7 +2906,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Quoniam alieni insurrexerunt adversum me, et fortes quaesierunt animam meam, et non proposuerunt Deum ante conspectum suum.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Ecce enim Deus adjuvat me, et Dominus susceptor est animae meae.") },
+        { id: "p6.1", ...tl("Ecce enim Deus adiuvat me, et Dominus susceptor est animae meae.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Averte mala inimicis meis ; et in veritate tua disperde illos.") },
@@ -2956,10 +2956,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Praecipita, Domine ; divide linguas eorum : quoniam vidi iniquitatem et contradictionem in civitate.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Die ac nocte circumdabit eam super muros ejus iniquitas ; et labor in medio ejus,") },
+        { id: "p11.1", ...tl("Die ac nocte circumdabit eam super muros eius iniquitas ; et labor in medio eius,") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("et injustitia : et non defecit de plateis ejus usura et dolus.") },
+        { id: "p12.1", ...tl("et iniustitia : et non defecit de plateis eius usura et dolus.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is qui oderat me super me magna locutus fuisset, abscondissem me forsitan ab eo.") },
@@ -2986,13 +2986,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Exaudiet Deus, et humiliabit illos, qui est ante saecula. Non enim est illis commutatio, et non timuerunt Deum.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Extendit manum suam in retribuendo ; contaminaverunt testamentum ejus :") },
+        { id: "p21.1", ...tl("Extendit manum suam in retribuendo ; contaminaverunt testamentum eius :") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("divisi sunt ab ira vultus ejus, et appropinquavit cor illius. Molliti sunt sermones ejus super oleum ; et ipsi sunt jacula.") },
+        { id: "p22.1", ...tl("divisi sunt ab ira vultus eius, et appropinquavit cor illius. Molliti sunt sermones eius super oleum ; et ipsi sunt iacula.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Jacta super Dominum curam tuam, et ipse te enutriet ; non dabit in aeternum fluctuationem justo.") },
+        { id: "p23.1", ...tl("Iacta super Dominum curam tuam, et ipse te enutriet ; non dabit in aeternum fluctuationem iusto.") },
       ]),
       paragraph("p24", "24", [
         { id: "p24.1", ...tl("Tu vero, Deus, deduces eos in puteum interitus. Viri sanguinum et dolosi non dimidiabunt dies suos ; ego autem sperabo in te, Domine.") },
@@ -3100,10 +3100,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, ne disperdas. David in tituli inscriptionem.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Si vere utique justitiam loquimini, recta judicate, filii hominum.") },
+        { id: "p2.1", ...tl("Si vere utique iustitiam loquimini, recta iudicate, filii hominum.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Etenim in corde iniquitates operamini ; in terra injustitias manus vestrae concinnant.") },
+        { id: "p3.1", ...tl("Etenim in corde iniquitates operamini ; in terra iniustitias manus vestrae concinnant.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Alienati sunt peccatores a vulva ; erraverunt ab utero : locuti sunt falsa.") },
@@ -3127,10 +3127,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Priusquam intelligerent spinae vestrae rhamnum, sicut viventes sic in ira absorbet eos.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Laetabitur justus cum viderit vindictam ; manus suas lavabit in sanguine peccatoris.") },
+        { id: "p11.1", ...tl("Laetabitur iustus cum viderit vindictam ; manus suas lavabit in sanguine peccatoris.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Et dicet homo : Si utique est fructus justo, utique est Deus judicans eos in terra.") },
+        { id: "p12.1", ...tl("Et dicet homo : Si utique est fructus iusto, utique est Deus iudicans eos in terra.") },
       ]),
     ],
   },
@@ -3141,7 +3141,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul et custodivit domum ejus ut eum interficeret.") },
+        { id: "p1.1", ...tl("In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul et custodivit domum eius ut eum interficeret.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Eripe me de inimicis meis, Deus meus, et ab insurgentibus in me libera me.") },
@@ -3171,7 +3171,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Fortitudinem meam ad te custodiam, quia, Deus, susceptor meus es :") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Deus meus misericordia ejus praeveniet me.") },
+        { id: "p11.1", ...tl("Deus meus misericordia eius praeveniet me.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Deus ostendet mihi super inimicos meos : ne occidas eos, nequando obliviscantur populi mei. Disperge illos in virtute tua, et depone eos, protector meus, Domine :") },
@@ -3180,7 +3180,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("delictum oris eorum, sermonem labiorum ipsorum ; et comprehendantur in superbia sua. Et de execratione et mendacio annuntiabuntur") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("in consummatione : in ira consummationis, et non erunt. Et scient quia Deus dominabitur Jacob, et finium terrae.") },
+        { id: "p14.1", ...tl("in consummatione : in ira consummationis, et non erunt. Et scient quia Deus dominabitur Iacob, et finium terrae.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Convertentur ad vesperam, et famem patientur ut canes : et circuibunt civitatem.") },
@@ -3192,7 +3192,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("Ego autem cantabo fortitudinem tuam, et exsultabo mane misericordiam tuam : quia factus es susceptor meus, et refugium meum in die tribulationis meae.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Adjutor meus, tibi psallam, quia Deus susceptor meus es ; Deus meus, misericordia mea.") },
+        { id: "p18.1", ...tl("Adiutor meus, tibi psallam, quia Deus susceptor meus es ; Deus meus, misericordia mea.") },
       ]),
     ],
   },
@@ -3206,13 +3206,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam,") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("cum succendit Mesopotamiam Syriae et Sobal, et convertit Joab, et percussit Idumaeam in valle Salinarum duodecim millia.") },
+        { id: "p2.1", ...tl("cum succendit Mesopotamiam Syriae et Sobal, et convertit Ioab, et percussit Idumaeam in valle Salinarum duodecim millia.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Deus, repulisti nos, et destruxisti nos ; iratus es, et misertus es nobis.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Commovisti terram, et conturbasti eam ; sana contritiones ejus, quia commota est.") },
+        { id: "p4.1", ...tl("Commovisti terram, et conturbasti eam ; sana contritiones eius, quia commota est.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Ostendisti populo tuo dura ; potasti nos vino compunctionis.") },
@@ -3227,7 +3227,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Deus locutus est in sancto suo : laetabor, et partibor Sichimam ; et convallem tabernaculorum metibor.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Meus est Galaad, et meus est Manasses ; et Ephraim fortitudo capitis mei. Juda rex meus ;") },
+        { id: "p9.1", ...tl("Meus est Galaad, et meus est Manasses ; et Ephraim fortitudo capitis mei. Iuda rex meus ;") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Moab olla spei meae. In Idumaeam extendam calceamentum meum : mihi alienigenae subditi sunt.") },
@@ -3271,10 +3271,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Quoniam tu, Deus meus, exaudisti orationem meam ; dedisti haereditatem timentibus nomen tuum.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Dies super dies regis adjicies ; annos ejus usque in diem generationis et generationis.") },
+        { id: "p7.1", ...tl("Dies super dies regis adiicies ; annos eius usque in diem generationis et generationis.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Permanet in aeternum in conspectu Dei : misericordiam et veritatem ejus quis requiret ?") },
+        { id: "p8.1", ...tl("Permanet in aeternum in conspectu Dei : misericordiam et veritatem eius quis requiret ?") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Sic psalmum dicam nomini tuo in saeculum saeculi, ut reddam vota mea de die in diem.") },
@@ -3291,7 +3291,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, pro Idithun. Psalmus David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Nonne Deo subjecta erit anima mea ? ab ipso enim salutare meum.") },
+        { id: "p2.1", ...tl("Nonne Deo subiecta erit anima mea ? ab ipso enim salutare meum.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Nam et ipse Deus meus et salutaris meus ; susceptor meus, non movebor amplius.") },
@@ -3303,16 +3303,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Verumtamen pretium meum cogitaverunt repellere ; cucurri in siti : ore suo benedicebant, et corde suo maledicebant.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Verumtamen Deo subjecta esto, anima mea, quoniam ab ipso patientia mea :") },
+        { id: "p6.1", ...tl("Verumtamen Deo subiecta esto, anima mea, quoniam ab ipso patientia mea :") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("quia ipse Deus meus et salvator meus, adjutor meus, non emigrabo.") },
+        { id: "p7.1", ...tl("quia ipse Deus meus et salvator meus, adiutor meus, non emigrabo.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("In Deo salutare meum et gloria mea ; Deus auxilii mei, et spes mea in Deo est.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Sperate in eo, omnis congregatio populi ; effundite coram illo corda vestra : Deus adjutor noster in aeternum.") },
+        { id: "p9.1", ...tl("Sperate in eo, omnis congregatio populi ; effundite coram illo corda vestra : Deus adiutor noster in aeternum.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Verumtamen vani filii hominum, mendaces filii hominum in stateris, ut decipiant ipsi de vanitate in idipsum.") },
@@ -3324,7 +3324,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Semel locutus est Deus ; duo haec audivi : quia potestas Dei est,") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("et tibi, Domine, misericordia : quia tu reddes unicuique juxta opera sua.") },
+        { id: "p13.1", ...tl("et tibi, Domine, misericordia : quia tu reddes unicuique iuxta opera sua.") },
       ]),
     ],
   },
@@ -3356,7 +3356,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Si memor fui tui super stratum meum, in matutinis meditabor in te.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Quia fuisti adjutor meus, et in velamento alarum tuarum exsultabo.") },
+        { id: "p8.1", ...tl("Quia fuisti adiutor meus, et in velamento alarum tuarum exsultabo.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Adhaesit anima mea post te ; me suscepit dextera tua.") },
@@ -3368,7 +3368,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("tradentur in manus gladii : partes vulpium erunt.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Rex vero laetabitur in Deo ; laudabuntur omnes qui jurant in eo : quia obstructum est os loquentium iniqua.") },
+        { id: "p12.1", ...tl("Rex vero laetabitur in Deo ; laudabuntur omnes qui iurant in eo : quia obstructum est os loquentium iniqua.") },
       ]),
     ],
   },
@@ -3406,10 +3406,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("et infirmatae sunt contra eos linguae eorum. Conturbati sunt omnes qui videbant eos,") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("et timuit omnis homo. Et annuntiaverunt opera Dei, et facta ejus intellexerunt.") },
+        { id: "p10.1", ...tl("et timuit omnis homo. Et annuntiaverunt opera Dei, et facta eius intellexerunt.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Laetabitur justus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.") },
+        { id: "p11.1", ...tl("Laetabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.") },
       ]),
     ],
   },
@@ -3420,10 +3420,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("In finem. Psalmus David, canticum Jeremiae et Ezechielis populo transmigrationis, cum inciperent exire.") },
+        { id: "p1.1", ...tl("In finem. Psalmus David, canticum Ieremiae et Ezechielis populo transmigrationis, cum inciperent exire.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Jerusalem.") },
+        { id: "p2.1", ...tl("Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Ierusalem.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Exaudi orationem meam ; ad te omnis caro veniet.") },
@@ -3441,16 +3441,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Praeparans montes in virtute tua, accinctus potentia ;") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("qui conturbas profundum maris, sonum fluctuum ejus. Turbabuntur gentes,") },
+        { id: "p8.1", ...tl("qui conturbas profundum maris, sonum fluctuum eius. Turbabuntur gentes,") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("et timebunt qui habitant terminos a signis tuis ; exitus matutini et vespere delectabis.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Visitasti terram, et inebriasti eam ; multiplicasti locupletare eam. Flumen Dei repletum est aquis ; parasti cibum illorum : quoniam ita est praeparatio ejus.") },
+        { id: "p10.1", ...tl("Visitasti terram, et inebriasti eam ; multiplicasti locupletare eam. Flumen Dei repletum est aquis ; parasti cibum illorum : quoniam ita est praeparatio eius.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Rivos ejus inebria ; multiplica genimina ejus : in stillicidiis ejus laetabitur germinans.") },
+        { id: "p11.1", ...tl("Rivos eius inebria ; multiplica genimina eius : in stillicidiis eius laetabitur germinans.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Benedices coronae anni benignitatis tuae, et campi tui replebuntur ubertate.") },
@@ -3470,10 +3470,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("In finem. Canticum psalmi resurrectionis. Jubilate Deo, omnis terra ;") },
+        { id: "p1.1", ...tl("In finem. Canticum psalmi resurrectionis. Iubilate Deo, omnis terra ;") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("psalmum dicite nomini ejus ; date gloriam laudi ejus.") },
+        { id: "p2.1", ...tl("psalmum dicite nomini eius ; date gloriam laudi eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Dicite Deo : Quam terribilia sunt opera tua, Domine ! in multitudine virtutis tuae mentientur tibi inimici tui.") },
@@ -3488,10 +3488,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Qui convertit mare in aridam ; in flumine pertransibunt pede : ibi laetabimur in ipso.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Qui dominatur in virtute sua in aeternum ; oculi ejus super gentes respiciunt : qui exasperant non exaltentur in semetipsis.") },
+        { id: "p7.1", ...tl("Qui dominatur in virtute sua in aeternum ; oculi eius super gentes respiciunt : qui exasperant non exaltentur in semetipsis.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis ejus :") },
+        { id: "p8.1", ...tl("Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis eius :") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("qui posuit animam meam ad vitam, et non dedit in commotionem pedes meos.") },
@@ -3550,7 +3550,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Confiteantur tibi populi, Deus : confiteantur tibi populi omnes.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Laetentur et exsultent gentes, quoniam judicas populos in aequitate, et gentes in terra dirigis.") },
+        { id: "p5.1", ...tl("Laetentur et exsultent gentes, quoniam iudicas populos in aequitate, et gentes in terra dirigis.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Confiteantur tibi populi, Deus : confiteantur tibi populi omnes.") },
@@ -3573,19 +3573,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Psalmus cantici ipsi David.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Exsurgat Deus, et dissipentur inimici ejus ; et fugiant qui oderunt eum a facie ejus.") },
+        { id: "p2.1", ...tl("Exsurgat Deus, et dissipentur inimici eius ; et fugiant qui oderunt eum a facie eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Sicut deficit fumus, deficiant ; sicut fluit cera a facie ignis, sic pereant peccatores a facie Dei.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Et justi epulentur, et exsultent in conspectu Dei, et delectentur in laetitia.") },
+        { id: "p4.1", ...tl("Et iusti epulentur, et exsultent in conspectu Dei, et delectentur in laetitia.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Cantate Deo ; psalmum dicite nomini ejus : iter facite ei qui ascendit super occasum. Dominus nomen illi ; exsultate in conspectu ejus. Turbabuntur a facie ejus,") },
+        { id: "p5.1", ...tl("Cantate Deo ; psalmum dicite nomini eius : iter facite ei qui ascendit super occasum. Dominus nomen illi ; exsultate in conspectu eius. Turbabuntur a facie eius,") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("patris orphanorum, et judicis viduarum ; Deus in loco sancto suo.") },
+        { id: "p6.1", ...tl("patris orphanorum, et iudicis viduarum ; Deus in loco sancto suo.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Deus qui inhabitare facit unius moris in domo ; qui educit vinctos in fortitudine, similiter eos qui exasperant, qui habitant in sepulchris.") },
@@ -3609,7 +3609,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Rex virtutum dilecti, dilecti ; et speciei domus dividere spolia.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Si dormiatis inter medios cleros, pennae columbae deargentatae, et posteriora dorsi ejus in pallore auri.") },
+        { id: "p14.1", ...tl("Si dormiatis inter medios cleros, pennae columbae deargentatae, et posteriora dorsi eius in pallore auri.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Dum discernit caelestis reges super eam, nive dealbabuntur in Selmon.") },
@@ -3645,25 +3645,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p25.1", ...tl("Viderunt ingressus tuos, Deus, ingressus Dei mei, regis mei, qui est in sancto.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Praevenerunt principes conjuncti psallentibus, in medio juvencularum tympanistriarum.") },
+        { id: "p26.1", ...tl("Praevenerunt principes coniuncti psallentibus, in medio iuvencularum tympanistriarum.") },
       ]),
       paragraph("p27", "27", [
         { id: "p27.1", ...tl("In ecclesiis benedicite Deo Domino de fontibus Israël.") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("Ibi Benjamin adolescentulus, in mentis excessu ; principes Juda, duces eorum ; principes Zabulon, principes Nephthali.") },
+        { id: "p28.1", ...tl("Ibi Beniamin adolescentulus, in mentis excessu ; principes Iuda, duces eorum ; principes Zabulon, principes Nephthali.") },
       ]),
       paragraph("p29", "29", [
         { id: "p29.1", ...tl("Manda, Deus, virtuti tuae ; confirma hoc, Deus, quod operatus es in nobis.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("A templo tuo in Jerusalem, tibi offerent reges munera.") },
+        { id: "p30.1", ...tl("A templo tuo in Ierusalem, tibi offerent reges munera.") },
       ]),
       paragraph("p31", "31", [
         { id: "p31.1", ...tl("Increpa feras arundinis ; congregatio taurorum in vaccis populorum : ut excludant eos qui probati sunt argento. Dissipa gentes quae bella volunt.") },
       ]),
       paragraph("p32", "32", [
-        { id: "p32.1", ...tl("Venient legati ex Aegypto ; Aethiopia praeveniet manus ejus Deo.") },
+        { id: "p32.1", ...tl("Venient legati ex Aegypto ; Aethiopia praeveniet manus eius Deo.") },
       ]),
       paragraph("p33", "33", [
         { id: "p33.1", ...tl("Regna terrae, cantate Deo ; psallite Domino ; psallite Deo.") },
@@ -3672,7 +3672,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p34.1", ...tl("Qui ascendit super caelum caeli, ad orientem : ecce dabit voci suae vocem virtutis.") },
       ]),
       paragraph("p35", "35", [
-        { id: "p35.1", ...tl("Date gloriam Deo super Israël ; magnificentia ejus et virtus ejus in nubibus.") },
+        { id: "p35.1", ...tl("Date gloriam Deo super Israël ; magnificentia eius et virtus eius in nubibus.") },
       ]),
       paragraph("p36", "36", [
         { id: "p36.1", ...tl("Mirabilis Deus in sanctis suis ; Deus Israël ipse dabit virtutem et fortitudinem plebi suae. Benedictus Deus !") },
@@ -3698,7 +3698,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Laboravi clamans, raucae factae sunt fauces meae ; defecerunt oculi mei, dum spero in Deum meum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Multiplicati sunt super capillos capitis mei qui oderunt me gratis. Confortati sunt qui persecuti sunt me inimici mei injuste ; quae non rapui, tunc exsolvebam.") },
+        { id: "p5.1", ...tl("Multiplicati sunt super capillos capitis mei qui oderunt me gratis. Confortati sunt qui persecuti sunt me inimici mei iniuste ; quae non rapui, tunc exsolvebam.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Deus, tu scis insipientiam meam ; et delicta mea a te non sunt abscondita.") },
@@ -3716,7 +3716,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Quoniam zelus domus tuae comedit me, et opprobria exprobrantium tibi ceciderunt super me.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Et operui in jejunio animam meam, et factum est in opprobrium mihi.") },
+        { id: "p11.1", ...tl("Et operui in ieiunio animam meam, et factum est in opprobrium mihi.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Et posui vestimentum meum cilicium ; et factus sum illis in parabolam.") },
@@ -3767,10 +3767,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p27.1", ...tl("Quoniam quem tu percussisti persecuti sunt, et super dolorem vulnerum meorum addiderunt.") },
       ]),
       paragraph("p28", "28", [
-        { id: "p28.1", ...tl("Appone iniquitatem super iniquitatem eorum, et non intrent in justitiam tuam.") },
+        { id: "p28.1", ...tl("Appone iniquitatem super iniquitatem eorum, et non intrent in iustitiam tuam.") },
       ]),
       paragraph("p29", "29", [
-        { id: "p29.1", ...tl("Deleantur de libro viventium, et cum justis non scribantur.") },
+        { id: "p29.1", ...tl("Deleantur de libro viventium, et cum iustis non scribantur.") },
       ]),
       paragraph("p30", "30", [
         { id: "p30.1", ...tl("Ego sum pauper et dolens ; salus tua, Deus, suscepit me.") },
@@ -3791,10 +3791,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p35.1", ...tl("Laudent illum caeli et terra ; mare, et omnia reptilia in eis.") },
       ]),
       paragraph("p36", "36", [
-        { id: "p36.1", ...tl("Quoniam Deus salvam faciet Sion, et aedificabuntur civitates Juda, et inhabitabunt ibi, et haereditate acquirent eam.") },
+        { id: "p36.1", ...tl("Quoniam Deus salvam faciet Sion, et aedificabuntur civitates Iuda, et inhabitabunt ibi, et haereditate acquirent eam.") },
       ]),
       paragraph("p37", "37", [
-        { id: "p37.1", ...tl("Et semen servorum ejus possidebit eam ; et qui diligunt nomen ejus habitabunt in ea.") },
+        { id: "p37.1", ...tl("Et semen servorum eius possidebit eam ; et qui diligunt nomen eius habitabunt in ea.") },
       ]),
     ],
   },
@@ -3808,7 +3808,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Deus, in adjutorium meum intende ; Domine, ad adjuvandum me festina.") },
+        { id: "p2.1", ...tl("Deus, in adiutorium meum intende ; Domine, ad adiuvandum me festina.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Confundantur, et revereantur, qui quaerunt animam meam.") },
@@ -3820,7 +3820,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Exsultent et laetentur in te omnes qui quaerunt te ; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Ego vero egenus et pauper sum ; Deus, adjuva me. Adjutor meus et liberator meus es tu ; Domine, ne moreris.") },
+        { id: "p6.1", ...tl("Ego vero egenus et pauper sum ; Deus, adiuva me. Adiutor meus et liberator meus es tu ; Domine, ne moreris.") },
       ]),
     ],
   },
@@ -3831,10 +3831,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David, filiorum Jonadab, et priorum captivorum. In te, Domine, speravi ; non confundar in aeternum.") },
+        { id: "p1.1", ...tl("Psalmus David, filiorum Ionadab, et priorum captivorum. In te, Domine, speravi ; non confundar in aeternum.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("In justitia tua libera me, et eripe me : inclina ad me aurem tuam, et salva me.") },
+        { id: "p2.1", ...tl("In iustitia tua libera me, et eripe me : inclina ad me aurem tuam, et salva me.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Esto mihi in Deum protectorem, et in locum munitum, ut salvum me facias : quoniam firmamentum meum et refugium meum es tu.") },
@@ -3843,19 +3843,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Deus meus, eripe me de manu peccatoris, et de manu contra legem agentis, et iniqui :") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("quoniam tu es patientia mea, Domine ; Domine, spes mea a juventute mea.") },
+        { id: "p5.1", ...tl("quoniam tu es patientia mea, Domine ; Domine, spes mea a iuventute mea.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("In te confirmatus sum ex utero ; de ventre matris meae tu es protector meus ; in te cantatio mea semper.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Tamquam prodigium factus sum multis ; et tu adjutor fortis.") },
+        { id: "p7.1", ...tl("Tamquam prodigium factus sum multis ; et tu adiutor fortis.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Repleatur os meum laude, ut cantem gloriam tuam, tota die magnitudinem tuam.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Ne projicias me in tempore senectutis ; cum defecerit virtus mea, ne derelinquas me.") },
+        { id: "p9.1", ...tl("Ne proiicias me in tempore senectutis ; cum defecerit virtus mea, ne derelinquas me.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Quia dixerunt inimici mei mihi, et qui custodiebant animam meam consilium fecerunt in unum,") },
@@ -3870,22 +3870,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Confundantur et deficiant detrahentes animae meae ; operiantur confusione et pudore qui quaerunt mala mihi.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Ego autem semper sperabo, et adjiciam super omnem laudem tuam.") },
+        { id: "p14.1", ...tl("Ego autem semper sperabo, et adiiciam super omnem laudem tuam.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Os meum annuntiabit justitiam tuam, tota die salutare tuum. Quoniam non cognovi litteraturam,") },
+        { id: "p15.1", ...tl("Os meum annuntiabit iustitiam tuam, tota die salutare tuum. Quoniam non cognovi litteraturam,") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("introibo in potentias Domini ; Domine, memorabor justitiae tuae solius.") },
+        { id: "p16.1", ...tl("introibo in potentias Domini ; Domine, memorabor iustitiae tuae solius.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Deus, docuisti me a juventute mea ; et usque nunc pronuntiabo mirabilia tua.") },
+        { id: "p17.1", ...tl("Deus, docuisti me a iuventute mea ; et usque nunc pronuntiabo mirabilia tua.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Et usque in senectam et senium, Deus, ne derelinquas me, donec annuntiem brachium tuum generationi omni quae ventura est, potentiam tuam,") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("et justitiam tuam, Deus, usque in altissima ; quae fecisti magnalia, Deus : quis similis tibi ?") },
+        { id: "p19.1", ...tl("et iustitiam tuam, Deus, usque in altissima ; quae fecisti magnalia, Deus : quis similis tibi ?") },
       ]),
       paragraph("p20", "20", [
         { id: "p20.1", ...tl("Quantas ostendisti mihi tribulationes multas et malas ! et conversus vivificasti me, et de abyssis terrae iterum reduxisti me.") },
@@ -3900,7 +3900,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p23.1", ...tl("Exsultabunt labia mea cum cantavero tibi ; et anima mea quam redemisti.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Sed et lingua mea tota die meditabitur justitiam tuam, cum confusi et reveriti fuerint qui quaerunt mala mihi.") },
+        { id: "p24.1", ...tl("Sed et lingua mea tota die meditabitur iustitiam tuam, cum confusi et reveriti fuerint qui quaerunt mala mihi.") },
       ]),
     ],
   },
@@ -3914,13 +3914,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus, in Salomonem.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Deus, judicium tuum regi da, et justitiam tuam filio regis ; judicare populum tuum in justitia, et pauperes tuos in judicio.") },
+        { id: "p2.1", ...tl("Deus, iudicium tuum regi da, et iustitiam tuam filio regis ; iudicare populum tuum in iustitia, et pauperes tuos in iudicio.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Suscipiant montes pacem populo, et colles justitiam.") },
+        { id: "p3.1", ...tl("Suscipiant montes pacem populo, et colles iustitiam.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Judicabit pauperes populi, et salvos faciet filios pauperum, et humiliabit calumniatorem.") },
+        { id: "p4.1", ...tl("Iudicabit pauperes populi, et salvos faciet filios pauperum, et humiliabit calumniatorem.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Et permanebit cum sole, et ante lunam, in generatione et generationem.") },
@@ -3929,13 +3929,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Descendet sicut pluvia in vellus, et sicut stillicidia stillantia super terram.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Orietur in diebus ejus justitia, et abundantia pacis, donec auferatur luna.") },
+        { id: "p7.1", ...tl("Orietur in diebus eius iustitia, et abundantia pacis, donec auferatur luna.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis terrarum.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Coram illo procident Aethiopes, et inimici ejus terram lingent.") },
+        { id: "p9.1", ...tl("Coram illo procident Aethiopes, et inimici eius terram lingent.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Reges Tharsis et insulae munera offerent ; reges Arabum et Saba dona adducent :") },
@@ -3944,7 +3944,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("et adorabunt eum omnes reges terrae ; omnes gentes servient ei.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Quia liberabit pauperem a potente, et pauperem cui non erat adjutor.") },
+        { id: "p12.1", ...tl("Quia liberabit pauperem a potente, et pauperem cui non erat adiutor.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Parcet pauperi et inopi, et animas pauperum salvas faciet.") },
@@ -3956,19 +3956,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Et vivet, et dabitur ei de auro Arabiae ; et adorabunt de ipso semper, tota die benedicent ei.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Et erit firmamentum in terra in summis montium ; superextolletur super Libanum fructus ejus, et florebunt de civitate sicut foenum terrae.") },
+        { id: "p16.1", ...tl("Et erit firmamentum in terra in summis montium ; superextolletur super Libanum fructus eius, et florebunt de civitate sicut foenum terrae.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Sit nomen ejus benedictum in saecula ; ante solem permanet nomen ejus. Et benedicentur in ipso omnes tribus terrae ; omnes gentes magnificabunt eum.") },
+        { id: "p17.1", ...tl("Sit nomen eius benedictum in saecula ; ante solem permanet nomen eius. Et benedicentur in ipso omnes tribus terrae ; omnes gentes magnificabunt eum.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Benedictus Dominus Deus Israël, qui facit mirabilia solus.") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Et benedictum nomen majestatis ejus in aeternum, et replebitur majestate ejus omnis terra. Fiat, fiat.") },
+        { id: "p19.1", ...tl("Et benedictum nomen maiestatis eius in aeternum, et replebitur maiestate eius omnis terra. Fiat, fiat.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Defecerunt laudes David, filii Jesse.") },
+        { id: "p20.1", ...tl("Defecerunt laudes David, filii Iesse.") },
       ]),
     ],
   },
@@ -4015,7 +4015,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Ecce ipsi peccatores, et abundantes in saeculo obtinuerunt divitias.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Et dixi : Ergo sine causa justificavi cor meum, et lavi inter innocentes manus meas,") },
+        { id: "p13.1", ...tl("Et dixi : Ergo sine causa iustificavi cor meum, et lavi inter innocentes manus meas,") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("et fui flagellatus tota die, et castigatio mea in matutinis.") },
@@ -4030,7 +4030,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("donec intrem in sanctuarium Dei, et intelligam in novissimis eorum.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Verumtamen propter dolos posuisti eis ; dejecisti eos dum allevarentur.") },
+        { id: "p18.1", ...tl("Verumtamen propter dolos posuisti eis ; deiecisti eos dum allevarentur.") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("Quomodo facti sunt in desolationem ? subito defecerunt : perierunt propter iniquitatem suam.") },
@@ -4045,7 +4045,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("et ego ad nihilum redactus sum, et nescivi :") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("ut jumentum factus sum apud te, et ego semper tecum.") },
+        { id: "p23.1", ...tl("ut iumentum factus sum apud te, et ego semper tecum.") },
       ]),
       paragraph("p24", "24", [
         { id: "p24.1", ...tl("Tenuisti manum dexteram meam, et in voluntate tua deduxisti me, et cum gloria suscepisti me.") },
@@ -4086,7 +4086,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("et non cognoverunt sicut in exitu super summum. Quasi in silva lignorum securibus") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("exciderunt januas ejus in idipsum ; in securi et ascia dejecerunt eam.") },
+        { id: "p6.1", ...tl("exciderunt ianuas eius in idipsum ; in securi et ascia deiecerunt eam.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Incenderunt igni sanctuarium tuum ; in terra polluerunt tabernaculum nominis tui.") },
@@ -4095,7 +4095,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Dixerunt in corde suo cognatio eorum simul : Quiescere faciamus omnes dies festos Dei a terra.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Signa nostra non vidimus ; jam non est propheta ; et nos non cognoscet amplius.") },
+        { id: "p9.1", ...tl("Signa nostra non vidimus ; iam non est propheta ; et nos non cognoscet amplius.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Usquequo, Deus, improperabit inimicus ? irritat adversarius nomen tuum in finem ?") },
@@ -4122,7 +4122,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("Tu fecisti omnes terminos terrae ; aestatem et ver tu plasmasti ea.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Memor esto hujus : inimicus improperavit Domino, et populus insipiens incitavit nomen tuum.") },
+        { id: "p18.1", ...tl("Memor esto huius : inimicus improperavit Domino, et populus insipiens incitavit nomen tuum.") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("Ne tradas bestiis animas confitentes tibi, et animas pauperum tuorum ne obliviscaris in finem.") },
@@ -4134,7 +4134,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p21.1", ...tl("Ne avertatur humilis factus confusus ; pauper et inops laudabunt nomen tuum.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Exsurge, Deus, judica causam tuam ; memor esto improperiorum tuorum, eorum quae ab insipiente sunt tota die.") },
+        { id: "p22.1", ...tl("Exsurge, Deus, iudica causam tuam ; memor esto improperiorum tuorum, eorum quae ab insipiente sunt tota die.") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("Ne obliviscaris voces inimicorum tuorum : superbia eorum qui te oderunt ascendit semper.") },
@@ -4154,10 +4154,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Confitebimur tibi, Deus, confitebimur, et invocabimus nomen tuum ; narrabimus mirabilia tua.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Cum accepero tempus, ego justitias judicabo.") },
+        { id: "p3.1", ...tl("Cum accepero tempus, ego iustitias iudicabo.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Liquefacta est terra et omnes qui habitant in ea : ego confirmavi columnas ejus.") },
+        { id: "p4.1", ...tl("Liquefacta est terra et omnes qui habitant in ea : ego confirmavi columnas eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Dixi iniquis : Nolite inique agere : et delinquentibus : Nolite exaltare cornu :") },
@@ -4169,16 +4169,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Quia neque ab oriente, neque ab occidente, neque a desertis montibus :") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("quoniam Deus judex est. Hunc humiliat, et hunc exaltat :") },
+        { id: "p8.1", ...tl("quoniam Deus iudex est. Hunc humiliat, et hunc exaltat :") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc ; verumtamen faex ejus non est exinanita : bibent omnes peccatores terrae.") },
+        { id: "p9.1", ...tl("quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc ; verumtamen faex eius non est exinanita : bibent omnes peccatores terrae.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Ego autem annuntiabo in saeculum ; cantabo Deo Jacob :") },
+        { id: "p10.1", ...tl("Ego autem annuntiabo in saeculum ; cantabo Deo Iacob :") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("et omnia cornua peccatorum confringam, et exaltabuntur cornua justi.") },
+        { id: "p11.1", ...tl("et omnia cornua peccatorum confringam, et exaltabuntur cornua iusti.") },
       ]),
     ],
   },
@@ -4192,10 +4192,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Notus in Judaea Deus ; in Israël magnum nomen ejus.") },
+        { id: "p2.1", ...tl("Notus in Iudaea Deus ; in Israël magnum nomen eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Et factus est in pace locus ejus, et habitatio ejus in Sion.") },
+        { id: "p3.1", ...tl("Et factus est in pace locus eius, et habitatio eius in Sion.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Ibi confregit potentias arcuum, scutum, gladium, et bellum.") },
@@ -4207,22 +4207,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("turbati sunt omnes insipientes corde. Dormierunt somnum suum, et nihil invenerunt omnes viri divitiarum in manibus suis.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Ab increpatione tua, Deus Jacob, dormitaverunt qui ascenderunt equos.") },
+        { id: "p7.1", ...tl("Ab increpatione tua, Deus Iacob, dormitaverunt qui ascenderunt equos.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Tu terribilis es ; et quis resistet tibi ? ex tunc ira tua.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("De caelo auditum fecisti judicium : terra tremuit et quievit") },
+        { id: "p9.1", ...tl("De caelo auditum fecisti iudicium : terra tremuit et quievit") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("cum exsurgeret in judicium Deus, ut salvos faceret omnes mansuetos terrae.") },
+        { id: "p10.1", ...tl("cum exsurgeret in iudicium Deus, ut salvos faceret omnes mansuetos terrae.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Quoniam cogitatio hominis confitebitur tibi, et reliquiae cogitationis diem festum agent tibi.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Vovete et reddite Domino Deo vestro, omnes qui in circuitu ejus affertis munera : terribili,") },
+        { id: "p12.1", ...tl("Vovete et reddite Domino Deo vestro, omnes qui in circuitu eius affertis munera : terribili,") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("et ei qui aufert spiritum principum : terribili apud reges terrae.") },
@@ -4257,7 +4257,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Et meditatus sum nocte cum corde meo, et exercitabar, et scopebam spiritum meum.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Numquid in aeternum projiciet Deus ? aut non apponet ut complacitior sit adhuc ?") },
+        { id: "p8.1", ...tl("Numquid in aeternum proiiciet Deus ? aut non apponet ut complacitior sit adhuc ?") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("aut in finem misericordiam suam abscindet, a generatione in generationem ?") },
@@ -4281,7 +4281,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Tu es Deus qui facis mirabilia : notam fecisti in populis virtutem tuam.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Redemisti in brachio tuo populum tuum, filios Jacob et Joseph.") },
+        { id: "p16.1", ...tl("Redemisti in brachio tuo populum tuum, filios Iacob et Ioseph.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("Viderunt te aquae, Deus ; viderunt te aquae, et timuerunt : et turbatae sunt abyssi.") },
@@ -4316,28 +4316,28 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Quanta audivimus, et cognovimus ea, et patres nostri narraverunt nobis.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Non sunt occultata a filiis eorum in generatione altera, narrantes laudes Domini et virtutes ejus, et mirabilia ejus quae fecit.") },
+        { id: "p4.1", ...tl("Non sunt occultata a filiis eorum in generatione altera, narrantes laudes Domini et virtutes eius, et mirabilia eius quae fecit.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Et suscitavit testimonium in Jacob, et legem posuit in Israël, quanta mandavit patribus nostris nota facere ea filiis suis :") },
+        { id: "p5.1", ...tl("Et suscitavit testimonium in Iacob, et legem posuit in Israël, quanta mandavit patribus nostris nota facere ea filiis suis :") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("ut cognoscat generatio altera : filii qui nascentur et exsurgent, et narrabunt filiis suis,") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("ut ponant in Deo spem suam, et non obliviscantur operum Dei, et mandata ejus exquirant :") },
+        { id: "p7.1", ...tl("ut ponant in Deo spem suam, et non obliviscantur operum Dei, et mandata eius exquirant :") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("ne fiant, sicut patres eorum, generatio prava et exasperans ; generatio quae non direxit cor suum, et non est creditus cum Deo spiritus ejus.") },
+        { id: "p8.1", ...tl("ne fiant, sicut patres eorum, generatio prava et exasperans ; generatio quae non direxit cor suum, et non est creditus cum Deo spiritus eius.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Filii Ephrem, intendentes et mittentes arcum, conversi sunt in die belli.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Non custodierunt testamentum Dei, et in lege ejus noluerunt ambulare.") },
+        { id: "p10.1", ...tl("Non custodierunt testamentum Dei, et in lege eius noluerunt ambulare.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Et obliti sunt benefactorum ejus, et mirabilium ejus quae ostendit eis.") },
+        { id: "p11.1", ...tl("Et obliti sunt benefactorum eius, et mirabilium eius quae ostendit eis.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Coram patribus eorum fecit mirabilia in terra Aegypti, in campo Taneos.") },
@@ -4367,13 +4367,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("quoniam percussit petram, et fluxerunt aquae, et torrentes inundaverunt. Numquid et panem poterit dare, aut parare mensam populo suo ?") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Ideo audivit Dominus et distulit ; et ignis accensus est in Jacob, et ira ascendit in Israël :") },
+        { id: "p21.1", ...tl("Ideo audivit Dominus et distulit ; et ignis accensus est in Iacob, et ira ascendit in Israël :") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("quia non crediderunt in Deo, nec speraverunt in salutari ejus.") },
+        { id: "p22.1", ...tl("quia non crediderunt in Deo, nec speraverunt in salutari eius.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Et mandavit nubibus desuper, et januas caeli aperuit.") },
+        { id: "p23.1", ...tl("Et mandavit nubibus desuper, et ianuas caeli aperuit.") },
       ]),
       paragraph("p24", "24", [
         { id: "p24.1", ...tl("Et pluit illis manna ad manducandum, et panem caeli dedit eis.") },
@@ -4400,7 +4400,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p31.1", ...tl("et ira Dei ascendit super eos : et occidit pingues eorum, et electos Israël impedivit.") },
       ]),
       paragraph("p32", "32", [
-        { id: "p32.1", ...tl("In omnibus his peccaverunt adhuc, et non crediderunt in mirabilibus ejus.") },
+        { id: "p32.1", ...tl("In omnibus his peccaverunt adhuc, et non crediderunt in mirabilibus eius.") },
       ]),
       paragraph("p33", "33", [
         { id: "p33.1", ...tl("Et defecerunt in vanitate dies eorum, et anni eorum cum festinatione.") },
@@ -4409,13 +4409,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p34.1", ...tl("Cum occideret eos, quaerebant eum et revertebantur, et diluculo veniebant ad eum.") },
       ]),
       paragraph("p35", "35", [
-        { id: "p35.1", ...tl("Et rememorati sunt quia Deus adjutor est eorum, et Deus excelsus redemptor eorum est.") },
+        { id: "p35.1", ...tl("Et rememorati sunt quia Deus adiutor est eorum, et Deus excelsus redemptor eorum est.") },
       ]),
       paragraph("p36", "36", [
         { id: "p36.1", ...tl("Et dilexerunt eum in ore suo, et lingua sua mentiti sunt ei ;") },
       ]),
       paragraph("p37", "37", [
-        { id: "p37.1", ...tl("cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento ejus.") },
+        { id: "p37.1", ...tl("cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento eius.") },
       ]),
       paragraph("p38", "38", [
         { id: "p38.1", ...tl("Ipse autem est misericors, et propitius fiet peccatis eorum, et non disperdet eos. Et abundavit ut averteret iram suam, et non accendit omnem iram suam.") },
@@ -4430,7 +4430,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p41.1", ...tl("Et conversi sunt, et tentaverunt Deum, et sanctum Israël exacerbaverunt.") },
       ]),
       paragraph("p42", "42", [
-        { id: "p42.1", ...tl("Non sunt recordati manus ejus, die qua redemit eos de manu tribulantis :") },
+        { id: "p42.1", ...tl("Non sunt recordati manus eius, die qua redemit eos de manu tribulantis :") },
       ]),
       paragraph("p43", "43", [
         { id: "p43.1", ...tl("sicut posuit in Aegypto signa sua, et prodigia sua in campo Taneos ;") },
@@ -4448,13 +4448,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p47.1", ...tl("et occidit in grandine vineas eorum, et moros eorum in pruina ;") },
       ]),
       paragraph("p48", "48", [
-        { id: "p48.1", ...tl("et tradidit grandini jumenta eorum, et possessionem eorum igni ;") },
+        { id: "p48.1", ...tl("et tradidit grandini iumenta eorum, et possessionem eorum igni ;") },
       ]),
       paragraph("p49", "49", [
         { id: "p49.1", ...tl("misit in eos iram indignationis suae, indignationem, et iram, et tribulationem, immissiones per angelos malos.") },
       ]),
       paragraph("p50", "50", [
-        { id: "p50.1", ...tl("Viam fecit semitae irae suae : non pepercit a morte animabus eorum, et jumenta eorum in morte conclusit :") },
+        { id: "p50.1", ...tl("Viam fecit semitae irae suae : non pepercit a morte animabus eorum, et iumenta eorum in morte conclusit :") },
       ]),
       paragraph("p51", "51", [
         { id: "p51.1", ...tl("et percussit omne primogenitum in terra Aegypti ; primitias omnis laboris eorum in tabernaculis Cham :") },
@@ -4466,13 +4466,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p53.1", ...tl("et deduxit eos in spe, et non timuerunt, et inimicos eorum operuit mare.") },
       ]),
       paragraph("p54", "54", [
-        { id: "p54.1", ...tl("Et induxit eos in montem sanctificationis suae, montem quem acquisivit dextera ejus ; et ejecit a facie eorum gentes, et sorte divisit eis terram in funiculo distributionis ;") },
+        { id: "p54.1", ...tl("Et induxit eos in montem sanctificationis suae, montem quem acquisivit dextera eius ; et eiecit a facie eorum gentes, et sorte divisit eis terram in funiculo distributionis ;") },
       ]),
       paragraph("p55", "55", [
         { id: "p55.1", ...tl("et habitare fecit in tabernaculis eorum tribus Israël.") },
       ]),
       paragraph("p56", "56", [
-        { id: "p56.1", ...tl("Et tentaverunt, et exacerbaverunt Deum excelsum, et testimonia ejus non custodierunt.") },
+        { id: "p56.1", ...tl("Et tentaverunt, et exacerbaverunt Deum excelsum, et testimonia eius non custodierunt.") },
       ]),
       paragraph("p57", "57", [
         { id: "p57.1", ...tl("Et averterunt se, et non servaverunt pactum : quemadmodum patres eorum, conversi sunt in arcum pravum.") },
@@ -4493,7 +4493,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p62.1", ...tl("Et conclusit in gladio populum suum, et haereditatem suam sprevit.") },
       ]),
       paragraph("p63", "63", [
-        { id: "p63.1", ...tl("Juvenes eorum comedit ignis, et virgines eorum non sunt lamentatae.") },
+        { id: "p63.1", ...tl("Iuvenes eorum comedit ignis, et virgines eorum non sunt lamentatae.") },
       ]),
       paragraph("p64", "64", [
         { id: "p64.1", ...tl("Sacerdotes eorum in gladio ceciderunt, et viduae eorum non plorabantur.") },
@@ -4505,10 +4505,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p66.1", ...tl("Et percussit inimicos suos in posteriora ; opprobrium sempiternum dedit illis.") },
       ]),
       paragraph("p67", "67", [
-        { id: "p67.1", ...tl("Et repulit tabernaculum Joseph, et tribum Ephraim non elegit :") },
+        { id: "p67.1", ...tl("Et repulit tabernaculum Ioseph, et tribum Ephraim non elegit :") },
       ]),
       paragraph("p68", "68", [
-        { id: "p68.1", ...tl("sed elegit tribum Juda, montem Sion, quem dilexit.") },
+        { id: "p68.1", ...tl("sed elegit tribum Iuda, montem Sion, quem dilexit.") },
       ]),
       paragraph("p69", "69", [
         { id: "p69.1", ...tl("Et aedificavit sicut unicornium sanctificium suum, in terra quam fundavit in saecula.") },
@@ -4517,7 +4517,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p70.1", ...tl("Et elegit David, servum suum, et sustulit eum de gregibus ovium ; de post foetantes accepit eum :") },
       ]),
       paragraph("p71", "71", [
-        { id: "p71.1", ...tl("pascere Jacob servum suum, et Israël haereditatem suam.") },
+        { id: "p71.1", ...tl("pascere Iacob servum suum, et Israël haereditatem suam.") },
       ]),
       paragraph("p72", "72", [
         { id: "p72.1", ...tl("Et pavit eos in innocentia cordis sui, et in intellectibus manuum suarum deduxit eos.") },
@@ -4531,13 +4531,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus Asaph. Deus, venerunt gentes in haereditatem tuam ; polluerunt templum sanctum tuum ; posuerunt Jerusalem in pomorum custodiam.") },
+        { id: "p1.1", ...tl("Psalmus Asaph. Deus, venerunt gentes in haereditatem tuam ; polluerunt templum sanctum tuum ; posuerunt Ierusalem in pomorum custodiam.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Posuerunt morticina servorum tuorum escas volatilibus caeli ; carnes sanctorum tuorum bestiis terrae.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Effuderunt sanguinem eorum tamquam aquam in circuitu Jerusalem, et non erat qui sepeliret.") },
+        { id: "p3.1", ...tl("Effuderunt sanguinem eorum tamquam aquam in circuitu Ierusalem, et non erat qui sepeliret.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Facti sumus opprobrium vicinis nostris ; subsannatio et illusio his qui in circuitu nostro sunt.") },
@@ -4549,13 +4549,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Effunde iram tuam in gentes quae te non noverunt, et in regna quae nomen tuum non invocaverunt :") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("quia comederunt Jacob, et locum ejus desolaverunt.") },
+        { id: "p7.1", ...tl("quia comederunt Iacob, et locum eius desolaverunt.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Ne memineris iniquitatum nostrarum antiquarum ; cito anticipent nos misericordiae tuae, quia pauperes facti sumus nimis.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Adjuva nos, Deus salutaris noster, et propter gloriam nominis tui, Domine, libera nos : et propitius esto peccatis nostris, propter nomen tuum.") },
+        { id: "p9.1", ...tl("Adiuva nos, Deus salutaris noster, et propter gloriam nominis tui, Domine, libera nos : et propitius esto peccatis nostris, propter nomen tuum.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Ne forte dicant in gentibus : Ubi est Deus eorum ? et innotescat in nationibus coram oculis nostris ultio sanguinis servorum tuorum qui effusus est.") },
@@ -4581,10 +4581,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, pro iis qui commutabuntur. Testimonium Asaph, psalmus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Qui regis Israël, intende ; qui deducis velut ovem Joseph. Qui sedes super cherubim, manifestare") },
+        { id: "p2.1", ...tl("Qui regis Israël, intende ; qui deducis velut ovem Ioseph. Qui sedes super cherubim, manifestare") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("coram Ephraim, Benjamin, et Manasse. Excita potentiam tuam, et veni, ut salvos facias nos.") },
+        { id: "p3.1", ...tl("coram Ephraim, Beniamin, et Manasse. Excita potentiam tuam, et veni, ut salvos facias nos.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Deus, converte nos, et ostende faciem tuam, et salvi erimus.") },
@@ -4602,19 +4602,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Deus virtutum, converte nos, et ostende faciem tuam, et salvi erimus.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Vineam de Aegypto transtulisti : ejecisti gentes, et plantasti eam.") },
+        { id: "p9.1", ...tl("Vineam de Aegypto transtulisti : eiecisti gentes, et plantasti eam.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Dux itineris fuisti in conspectu ejus ; plantasti radices ejus, et implevit terram.") },
+        { id: "p10.1", ...tl("Dux itineris fuisti in conspectu eius ; plantasti radices eius, et implevit terram.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Operuit montes umbra ejus, et arbusta ejus cedros Dei.") },
+        { id: "p11.1", ...tl("Operuit montes umbra eius, et arbusta eius cedros Dei.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Extendit palmites suos usque ad mare, et usque ad flumen propagines ejus.") },
+        { id: "p12.1", ...tl("Extendit palmites suos usque ad mare, et usque ad flumen propagines eius.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Ut quid destruxisti maceriam ejus, et vindemiant eam omnes qui praetergrediuntur viam ?") },
+        { id: "p13.1", ...tl("Ut quid destruxisti maceriam eius, et vindemiant eam omnes qui praetergrediuntur viam ?") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Exterminavit eam aper de silva, et singularis ferus depastus est eam.") },
@@ -4649,22 +4649,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, pro torcularibus. Psalmus ipsi Asaph.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Exsultate Deo adjutori nostro ; jubilate Deo Jacob.") },
+        { id: "p2.1", ...tl("Exsultate Deo adiutori nostro ; iubilate Deo Iacob.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Sumite psalmum, et date tympanum ; psalterium jucundum cum cithara.") },
+        { id: "p3.1", ...tl("Sumite psalmum, et date tympanum ; psalterium iucundum cum cithara.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Buccinate in neomenia tuba, in insigni die solemnitatis vestrae :") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("quia praeceptum in Israël est, et judicium Deo Jacob.") },
+        { id: "p5.1", ...tl("quia praeceptum in Israël est, et iudicium Deo Iacob.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Testimonium in Joseph posuit illud, cum exiret de terra Aegypti ; linguam quam non noverat, audivit.") },
+        { id: "p6.1", ...tl("Testimonium in Ioseph posuit illud, cum exiret de terra Aegypti ; linguam quam non noverat, audivit.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Divertit ab oneribus dorsum ejus ; manus ejus in cophino servierunt.") },
+        { id: "p7.1", ...tl("Divertit ab oneribus dorsum eius ; manus eius in cophino servierunt.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("In tribulatione invocasti me, et liberavi te. Exaudivi te in abscondito tempestatis ; probavi te apud aquam contradictionis.") },
@@ -4705,13 +4705,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus Asaph. Deus stetit in synagoga deorum ; in medio autem deos dijudicat.") },
+        { id: "p1.1", ...tl("Psalmus Asaph. Deus stetit in synagoga deorum ; in medio autem deos diiudicat.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Usquequo judicatis iniquitatem, et facies peccatorum sumitis ?") },
+        { id: "p2.1", ...tl("Usquequo iudicatis iniquitatem, et facies peccatorum sumitis ?") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Judicate egeno et pupillo ; humilem et pauperem justificate.") },
+        { id: "p3.1", ...tl("Iudicate egeno et pupillo ; humilem et pauperem iustificate.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Eripite pauperem, et egenum de manu peccatoris liberate.") },
@@ -4726,7 +4726,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Vos autem sicut homines moriemini, et sicut unus de principibus cadetis.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Surge, Deus, judica terram, quoniam tu haereditabis in omnibus gentibus.") },
+        { id: "p8.1", ...tl("Surge, Deus, iudica terram, quoniam tu haereditabis in omnibus gentibus.") },
       ]),
     ],
   },
@@ -4761,10 +4761,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Gebal, et Ammon, et Amalec ; alienigenae cum habitantibus Tyrum.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Etenim Assur venit cum illis : facti sunt in adjutorium filiis Lot.") },
+        { id: "p9.1", ...tl("Etenim Assur venit cum illis : facti sunt in adiutorium filiis Lot.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Fac illis sicut Madian et Sisarae, sicut Jabin in torrente Cisson.") },
+        { id: "p10.1", ...tl("Fac illis sicut Madian et Sisarae, sicut Iabin in torrente Cisson.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Disperierunt in Endor ; facti sunt ut stercus terrae.") },
@@ -4817,7 +4817,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Beati qui habitant in domo tua, Domine ; in saecula saeculorum laudabunt te.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Beatus vir cujus est auxilium abs te : ascensiones in corde suo disposuit,") },
+        { id: "p6.1", ...tl("Beatus vir cuius est auxilium abs te : ascensiones in corde suo disposuit,") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("in valle lacrimarum, in loco quem posuit.") },
@@ -4826,13 +4826,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Etenim benedictionem dabit legislator ; ibunt de virtute in virtutem : videbitur Deus deorum in Sion.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Domine Deus virtutum, exaudi orationem meam ; auribus percipe, Deus Jacob.") },
+        { id: "p9.1", ...tl("Domine Deus virtutum, exaudi orationem meam ; auribus percipe, Deus Iacob.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Protector noster, aspice, Deus, et respice in faciem christi tui.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Quia melior est dies una in atriis tuis super millia ; elegi abjectus esse in domo Dei mei magis quam habitare in tabernaculis peccatorum.") },
+        { id: "p11.1", ...tl("Quia melior est dies una in atriis tuis super millia ; elegi abiectus esse in domo Dei mei magis quam habitare in tabernaculis peccatorum.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Quia misericordiam et veritatem diligit Deus : gratiam et gloriam dabit Dominus.") },
@@ -4852,7 +4852,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("In finem, filiis Core. Psalmus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Benedixisti, Domine, terram tuam ; avertisti captivitatem Jacob.") },
+        { id: "p2.1", ...tl("Benedixisti, Domine, terram tuam ; avertisti captivitatem Iacob.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Remisisti iniquitatem plebis tuae ; operuisti omnia peccata eorum.") },
@@ -4879,16 +4879,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Verumtamen prope timentes eum salutare ipsius, ut inhabitet gloria in terra nostra.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Misericordia et veritas obviaverunt sibi ; justitia et pax osculatae sunt.") },
+        { id: "p11.1", ...tl("Misericordia et veritas obviaverunt sibi ; iustitia et pax osculatae sunt.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Veritas de terra orta est, et justitia de caelo prospexit.") },
+        { id: "p12.1", ...tl("Veritas de terra orta est, et iustitia de caelo prospexit.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Justitia ante eum ambulabit, et ponet in via gressus suos.") },
+        { id: "p14.1", ...tl("Iustitia ante eum ambulabit, et ponet in via gressus suos.") },
       ]),
     ],
   },
@@ -4947,7 +4947,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p16.1", ...tl("Respice in me, et miserere mei ; da imperium tuum puero tuo, et salvum fac filium ancillae tuae.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur : quoniam tu, Domine, adjuvisti me, et consolatus es me.") },
+        { id: "p17.1", ...tl("Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur : quoniam tu, Domine, adiuvisti me, et consolatus es me.") },
       ]),
     ],
   },
@@ -4958,10 +4958,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Filiis Core. Psalmus cantici. Fundamenta ejus in montibus sanctis ;") },
+        { id: "p1.1", ...tl("Filiis Core. Psalmus cantici. Fundamenta eius in montibus sanctis ;") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("diligit Dominus portas Sion super omnia tabernacula Jacob.") },
+        { id: "p2.1", ...tl("diligit Dominus portas Sion super omnia tabernacula Iacob.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Gloriosa dicta sunt de te, civitas Dei !") },
@@ -4999,7 +4999,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Quia repleta est malis anima mea, et vita mea inferno appropinquavit.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adjutorio,") },
+        { id: "p5.1", ...tl("Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adiutorio,") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("inter mortuos liber ; sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt.") },
@@ -5023,7 +5023,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione ?") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Numquid cognoscentur in tenebris mirabilia tua ? et justitia tua in terra oblivionis ?") },
+        { id: "p13.1", ...tl("Numquid cognoscentur in tenebris mirabilia tua ? et iustitia tua in terra oblivionis ?") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te.") },
@@ -5032,7 +5032,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("Ut quid, Domine, repellis orationem meam ; avertis faciem tuam a me ?") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Pauper sum ego, et in laboribus a juventute mea ; exaltatus autem, humiliatus sum et conturbatus.") },
+        { id: "p16.1", ...tl("Pauper sum ego, et in laboribus a iuventute mea ; exaltatus autem, humiliatus sum et conturbatus.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("In me transierunt irae tuae, et terrores tui conturbaverunt me :") },
@@ -5061,7 +5061,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Quoniam dixisti : In aeternum misericordia aedificabitur in caelis ; praeparabitur veritas tua in eis.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Disposui testamentum electis meis ; juravi David servo meo :") },
+        { id: "p4.1", ...tl("Disposui testamentum electis meis ; iuravi David servo meo :") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Usque in aeternum praeparabo semen tuum, et aedificabo in generationem et generationem sedem tuam.") },
@@ -5073,19 +5073,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Quoniam quis in nubibus aequabitur Domino ; similis erit Deo in filiis Dei ?") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu ejus sunt.") },
+        { id: "p8.1", ...tl("Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu eius sunt.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Domine Deus virtutum, quis similis tibi ? potens es, Domine, et veritas tua in circuitu tuo.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Tu dominaris potestati maris ; motum autem fluctuum ejus tu mitigas.") },
+        { id: "p10.1", ...tl("Tu dominaris potestati maris ; motum autem fluctuum eius tu mitigas.") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("Tu humiliasti, sicut vulneratum, superbum ; in brachio virtutis tuae dispersisti inimicos tuos.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Tui sunt caeli, et tua est terra : orbem terrae, et plenitudinem ejus tu fundasti ;") },
+        { id: "p12.1", ...tl("Tui sunt caeli, et tua est terra : orbem terrae, et plenitudinem eius tu fundasti ;") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("aquilonem et mare tu creasti. Thabor et Hermon in nomine tuo exsultabunt :") },
@@ -5094,13 +5094,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("tuum brachium cum potentia. Firmetur manus tua, et exaltetur dextera tua :") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("justitia et judicium praeparatio sedis tuae : misericordia et veritas praecedent faciem tuam.") },
+        { id: "p15.1", ...tl("iustitia et iudicium praeparatio sedis tuae : misericordia et veritas praecedent faciem tuam.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Beatus populus qui scit jubilationem : Domine, in lumine vultus tui ambulabunt,") },
+        { id: "p16.1", ...tl("Beatus populus qui scit iubilationem : Domine, in lumine vultus tui ambulabunt,") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("et in nomine tuo exsultabunt tota die, et in justitia tua exaltabuntur.") },
+        { id: "p17.1", ...tl("et in nomine tuo exsultabunt tota die, et in iustitia tua exaltabuntur.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Quoniam gloria virtutis eorum tu es, et in beneplacito tuo exaltabitur cornu nostrum.") },
@@ -5109,7 +5109,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p19.1", ...tl("Quia Domini est assumptio nostra, et sancti Israël regis nostri.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Tunc locutus es in visione sanctis tuis, et dixisti : Posui adjutorium in potente, et exaltavi electum de plebe mea.") },
+        { id: "p20.1", ...tl("Tunc locutus es in visione sanctis tuis, et dixisti : Posui adiutorium in potente, et exaltavi electum de plebe mea.") },
       ]),
       paragraph("p21", "21", [
         { id: "p21.1", ...tl("Inveni David, servum meum ; oleo sancto meo unxi eum.") },
@@ -5121,13 +5121,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p23.1", ...tl("Nihil proficiet inimicus in eo, et filius iniquitatis non apponet nocere ei.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Et concidam a facie ipsius inimicos ejus, et odientes eum in fugam convertam.") },
+        { id: "p24.1", ...tl("Et concidam a facie ipsius inimicos eius, et odientes eum in fugam convertam.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu ejus.") },
+        { id: "p25.1", ...tl("Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu eius.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Et ponam in mari manum ejus, et in fluminibus dexteram ejus.") },
+        { id: "p26.1", ...tl("Et ponam in mari manum eius, et in fluminibus dexteram eius.") },
       ]),
       paragraph("p27", "27", [
         { id: "p27.1", ...tl("Ipse invocabit me : Pater meus es tu, Deus meus, et susceptor salutis meae.") },
@@ -5139,13 +5139,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p29.1", ...tl("In aeternum servabo illi misericordiam meam, et testamentum meum fidele ipsi.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("Et ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli.") },
+        { id: "p30.1", ...tl("Et ponam in saeculum saeculi semen eius, et thronum eius sicut dies caeli.") },
       ]),
       paragraph("p31", "31", [
-        { id: "p31.1", ...tl("Si autem dereliquerint filii ejus legem meam, et in judiciis meis non ambulaverint ;") },
+        { id: "p31.1", ...tl("Si autem dereliquerint filii eius legem meam, et in iudiciis meis non ambulaverint ;") },
       ]),
       paragraph("p32", "32", [
-        { id: "p32.1", ...tl("si justitias meas profanaverint, et mandata mea non custodierint :") },
+        { id: "p32.1", ...tl("si iustitias meas profanaverint, et mandata mea non custodierint :") },
       ]),
       paragraph("p33", "33", [
         { id: "p33.1", ...tl("visitabo in virga iniquitates eorum, et in verberibus peccata eorum ;") },
@@ -5157,37 +5157,37 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p35.1", ...tl("neque profanabo testamentum meum : et quae procedunt de labiis meis non faciam irrita.") },
       ]),
       paragraph("p36", "36", [
-        { id: "p36.1", ...tl("Semel juravi in sancto meo, si David mentiar :") },
+        { id: "p36.1", ...tl("Semel iuravi in sancto meo, si David mentiar :") },
       ]),
       paragraph("p37", "37", [
-        { id: "p37.1", ...tl("semen ejus in aeternum manebit.") },
+        { id: "p37.1", ...tl("semen eius in aeternum manebit.") },
       ]),
       paragraph("p38", "38", [
-        { id: "p38.1", ...tl("Et thronus ejus sicut sol in conspectu meo, et sicut luna perfecta in aeternum, et testis in caelo fidelis.") },
+        { id: "p38.1", ...tl("Et thronus eius sicut sol in conspectu meo, et sicut luna perfecta in aeternum, et testis in caelo fidelis.") },
       ]),
       paragraph("p39", "39", [
         { id: "p39.1", ...tl("Tu vero repulisti et despexisti ; distulisti christum tuum.") },
       ]),
       paragraph("p40", "40", [
-        { id: "p40.1", ...tl("Evertisti testamentum servi tui ; profanasti in terra sanctuarium ejus.") },
+        { id: "p40.1", ...tl("Evertisti testamentum servi tui ; profanasti in terra sanctuarium eius.") },
       ]),
       paragraph("p41", "41", [
-        { id: "p41.1", ...tl("Destruxisti omnes sepes ejus ; posuisti firmamentum ejus formidinem.") },
+        { id: "p41.1", ...tl("Destruxisti omnes sepes eius ; posuisti firmamentum eius formidinem.") },
       ]),
       paragraph("p42", "42", [
         { id: "p42.1", ...tl("Diripuerunt eum omnes transeuntes viam ; factus est opprobrium vicinis suis.") },
       ]),
       paragraph("p43", "43", [
-        { id: "p43.1", ...tl("Exaltasti dexteram deprimentium eum ; laetificasti omnes inimicos ejus.") },
+        { id: "p43.1", ...tl("Exaltasti dexteram deprimentium eum ; laetificasti omnes inimicos eius.") },
       ]),
       paragraph("p44", "44", [
-        { id: "p44.1", ...tl("Avertisti adjutorium gladii ejus, et non es auxiliatus ei in bello.") },
+        { id: "p44.1", ...tl("Avertisti adiutorium gladii eius, et non es auxiliatus ei in bello.") },
       ]),
       paragraph("p45", "45", [
-        { id: "p45.1", ...tl("Destruxisti eum ab emundatione, et sedem ejus in terram collisisti.") },
+        { id: "p45.1", ...tl("Destruxisti eum ab emundatione, et sedem eius in terram collisisti.") },
       ]),
       paragraph("p46", "46", [
-        { id: "p46.1", ...tl("Minorasti dies temporis ejus ; perfudisti eum confusione.") },
+        { id: "p46.1", ...tl("Minorasti dies temporis eius ; perfudisti eum confusione.") },
       ]),
       paragraph("p47", "47", [
         { id: "p47.1", ...tl("Usquequo, Domine, avertis in finem ? exardescet sicut ignis ira tua ?") },
@@ -5199,7 +5199,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p49.1", ...tl("Quis est homo qui vivet et non videbit mortem ? eruet animam suam de manu inferi ?") },
       ]),
       paragraph("p50", "50", [
-        { id: "p50.1", ...tl("Ubi sunt misericordiae tuae antiquae, Domine, sicut jurasti David in veritate tua ?") },
+        { id: "p50.1", ...tl("Ubi sunt misericordiae tuae antiquae, Domine, sicut iurasti David in veritate tua ?") },
       ]),
       paragraph("p51", "51", [
         { id: "p51.1", ...tl("Memor esto, Domine, opprobrii servorum tuorum, quod continui in sinu meo, multarum gentium :") },
@@ -5278,7 +5278,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Laus cantici David. Qui habitat in adjutorio Altissimi, in protectione Dei caeli commorabitur.") },
+        { id: "p1.1", ...tl("Laus cantici David. Qui habitat in adiutorio Altissimi, in protectione Dei caeli commorabitur.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Dicet Domino : Susceptor meus es tu, et refugium meum ; Deus meus, sperabo in eum.") },
@@ -5287,10 +5287,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Scapulis suis obumbrabit tibi, et sub pennis ejus sperabis.") },
+        { id: "p4.1", ...tl("Scapulis suis obumbrabit tibi, et sub pennis eius sperabis.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Scuto circumdabit te veritas ejus : non timebis a timore nocturno ;") },
+        { id: "p5.1", ...tl("Scuto circumdabit te veritas eius : non timebis a timore nocturno ;") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("a sagitta volante in die, a negotio perambulante in tenebris, ab incursu, et daemonio meridiano.") },
@@ -5370,7 +5370,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p12.1", ...tl("Et despexit oculus meus inimicos meos, et in insurgentibus in me malignantibus audiet auris mea.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Justus ut palma florebit ; sicut cedrus Libani multiplicabitur.") },
+        { id: "p13.1", ...tl("Iustus ut palma florebit ; sicut cedrus Libani multiplicabitur.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Plantati in domo Domini, in atriis domus Dei nostri florebunt.") },
@@ -5416,13 +5416,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus ipsi David, quarta sabbati. Deus ultionum Dominus ; Deus ultionum libere egit.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Exaltare, qui judicas terram ; redde retributionem superbis.") },
+        { id: "p2.1", ...tl("Exaltare, qui iudicas terram ; redde retributionem superbis.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Usquequo peccatores, Domine, usquequo peccatores gloriabuntur ;") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("effabuntur et loquentur iniquitatem ; loquentur omnes qui operantur injustitiam ?") },
+        { id: "p4.1", ...tl("effabuntur et loquentur iniquitatem ; loquentur omnes qui operantur iniustitiam ?") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Populum tuum, Domine, humiliaverunt, et haereditatem tuam vexaverunt.") },
@@ -5431,7 +5431,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Viduam et advenam interfecerunt, et pupillos occiderunt.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Et dixerunt : Non videbit Dominus, nec intelliget Deus Jacob.") },
+        { id: "p7.1", ...tl("Et dixerunt : Non videbit Dominus, nec intelliget Deus Iacob.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Intelligite, insipientes in populo ; et stulti, aliquando sapite.") },
@@ -5455,16 +5455,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Quia non repellet Dominus plebem suam, et haereditatem suam non derelinquet,") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("quoadusque justitia convertatur in judicium : et qui juxta illam, omnes qui recto sunt corde.") },
+        { id: "p15.1", ...tl("quoadusque iustitia convertatur in iudicium : et qui iuxta illam, omnes qui recto sunt corde.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Quis consurget mihi adversus malignantes ? aut quis stabit mecum adversus operantes iniquitatem ?") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Nisi quia Dominus adjuvit me, paulominus habitasset in inferno anima mea.") },
+        { id: "p17.1", ...tl("Nisi quia Dominus adiuvit me, paulominus habitasset in inferno anima mea.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Si dicebam : Motus est pes meus : misericordia tua, Domine, adjuvabat me.") },
+        { id: "p18.1", ...tl("Si dicebam : Motus est pes meus : misericordia tua, Domine, adiuvabat me.") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam.") },
@@ -5473,10 +5473,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Numquid adhaeret tibi sedes iniquitatis, qui fingis laborem in praecepto ?") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Captabunt in animam justi, et sanguinem innocentem condemnabunt.") },
+        { id: "p21.1", ...tl("Captabunt in animam iusti, et sanguinem innocentem condemnabunt.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Et factus est mihi Dominus in refugium, et Deus meus in adjutorium spei meae.") },
+        { id: "p22.1", ...tl("Et factus est mihi Dominus in refugium, et Deus meus in adiutorium spei meae.") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("Et reddet illis iniquitatem ipsorum, et in malitia eorum disperdet eos : disperdet illos Dominus Deus noster.") },
@@ -5490,28 +5490,28 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Laus cantici ipsi David. Venite, exsultemus Domino ; jubilemus Deo salutari nostro ;") },
+        { id: "p1.1", ...tl("Laus cantici ipsi David. Venite, exsultemus Domino ; iubilemus Deo salutari nostro ;") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("praeoccupemus faciem ejus in confessione, et in psalmis jubilemus ei :") },
+        { id: "p2.1", ...tl("praeoccupemus faciem eius in confessione, et in psalmis iubilemus ei :") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("quoniam Deus magnus Dominus, et rex magnus super omnes deos.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quia in manu ejus sunt omnes fines terrae, et altitudines montium ipsius sunt ;") },
+        { id: "p4.1", ...tl("Quia in manu eius sunt omnes fines terrae, et altitudines montium ipsius sunt ;") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("quoniam ipsius est mare, et ipse fecit illud, et siccam manus ejus formaverunt.") },
+        { id: "p5.1", ...tl("quoniam ipsius est mare, et ipse fecit illud, et siccam manus eius formaverunt.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Venite, adoremus, et procidamus, et ploremus ante Dominum qui fecit nos :") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("quia ipse est Dominus Deus noster, et nos populus pascuae ejus, et oves manus ejus.") },
+        { id: "p7.1", ...tl("quia ipse est Dominus Deus noster, et nos populus pascuae eius, et oves manus eius.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Hodie si vocem ejus audieritis, nolite obdurare corda vestra") },
+        { id: "p8.1", ...tl("Hodie si vocem eius audieritis, nolite obdurare corda vestra") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("sicut in irritatione, secundum diem tentationis in deserto, ubi tentaverunt me patres vestri : probaverunt me, et viderunt opera mea.") },
@@ -5520,7 +5520,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Quadraginta annis offensus fui generationi illi, et dixi : Semper hi errant corde.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Et isti non cognoverunt vias meas : ut juravi in ira mea : Si introibunt in requiem meam.") },
+        { id: "p11.1", ...tl("Et isti non cognoverunt vias meas : ut iuravi in ira mea : Si introibunt in requiem meam.") },
       ]),
     ],
   },
@@ -5534,10 +5534,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Canticum ipsi David, quando domus aedificabatur post captivitatem. Cantate Domino canticum novum ; cantate Domino omnis terra.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Cantate Domino, et benedicite nomini ejus ; annuntiate de die in diem salutare ejus.") },
+        { id: "p2.1", ...tl("Cantate Domino, et benedicite nomini eius ; annuntiate de die in diem salutare eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Annuntiate inter gentes gloriam ejus ; in omnibus populis mirabilia ejus.") },
+        { id: "p3.1", ...tl("Annuntiate inter gentes gloriam eius ; in omnibus populis mirabilia eius.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Quoniam magnus Dominus, et laudabilis nimis : terribilis est super omnes deos.") },
@@ -5546,28 +5546,28 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Quoniam omnes dii gentium daemonia ; Dominus autem caelos fecit.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Confessio et pulchritudo in conspectu ejus ; sanctimonia et magnificentia in sanctificatione ejus.") },
+        { id: "p6.1", ...tl("Confessio et pulchritudo in conspectu eius ; sanctimonia et magnificentia in sanctificatione eius.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Afferte Domino, patriae gentium, afferte Domino gloriam et honorem ;") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus ;") },
+        { id: "p8.1", ...tl("afferte Domino gloriam nomini eius. Tollite hostias, et introite in atria eius ;") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("adorate Dominum in atrio sancto ejus. Commoveatur a facie ejus universa terra ;") },
+        { id: "p9.1", ...tl("adorate Dominum in atrio sancto eius. Commoveatur a facie eius universa terra ;") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur ; judicabit populos in aequitate.") },
+        { id: "p10.1", ...tl("dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur ; iudicabit populos in aequitate.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Laetentur caeli, et exsultet terra ; commoveatur mare et plenitudo ejus ;") },
+        { id: "p11.1", ...tl("Laetentur caeli, et exsultet terra ; commoveatur mare et plenitudo eius ;") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("gaudebunt campi, et omnia quae in eis sunt. Tunc exsultabunt omnia ligna silvarum") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("a facie Domini, quia venit, quoniam venit judicare terram. Judicabit orbem terrae in aequitate, et populos in veritate sua.") },
+        { id: "p13.1", ...tl("a facie Domini, quia venit, quoniam venit iudicare terram. Iudicabit orbem terrae in aequitate, et populos in veritate sua.") },
       ]),
     ],
   },
@@ -5578,28 +5578,28 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Huic David, quando terra ejus restituta est. Dominus regnavit : exsultet terra ; laetentur insulae multae.") },
+        { id: "p1.1", ...tl("Huic David, quando terra eius restituta est. Dominus regnavit : exsultet terra ; laetentur insulae multae.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Nubes et caligo in circuitu ejus ; justitia et judicium correctio sedis ejus.") },
+        { id: "p2.1", ...tl("Nubes et caligo in circuitu eius ; iustitia et iudicium correctio sedis eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos ejus.") },
+        { id: "p3.1", ...tl("Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos eius.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Illuxerunt fulgura ejus orbi terrae ; vidit, et commota est terra.") },
+        { id: "p4.1", ...tl("Illuxerunt fulgura eius orbi terrae ; vidit, et commota est terra.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Montes sicut cera fluxerunt a facie Domini ; a facie Domini omnis terra.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Annuntiaverunt caeli justitiam ejus, et viderunt omnes populi gloriam ejus.") },
+        { id: "p6.1", ...tl("Annuntiaverunt caeli iustitiam eius, et viderunt omnes populi gloriam eius.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli ejus.") },
+        { id: "p7.1", ...tl("Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli eius.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Audivit, et laetata est Sion, et exsultaverunt filiae Judae propter judicia tua, Domine.") },
+        { id: "p8.1", ...tl("Audivit, et laetata est Sion, et exsultaverunt filiae Iudae propter iudicia tua, Domine.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Quoniam tu Dominus altissimus super omnem terram ; nimis exaltatus es super omnes deos.") },
@@ -5608,10 +5608,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Qui diligitis Dominum, odite malum : custodit Dominus animas sanctorum suorum ; de manu peccatoris liberabit eos.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Lux orta est justo, et rectis corde laetitia.") },
+        { id: "p11.1", ...tl("Lux orta est iusto, et rectis corde laetitia.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Laetamini, justi, in Domino, et confitemini memoriae sanctificationis ejus.") },
+        { id: "p12.1", ...tl("Laetamini, iusti, in Domino, et confitemini memoriae sanctificationis eius.") },
       ]),
     ],
   },
@@ -5622,31 +5622,31 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera ejus, et brachium sanctum ejus.") },
+        { id: "p1.1", ...tl("Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera eius, et brachium sanctum eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Notum fecit Dominus salutare suum ; in conspectu gentium revelavit justitiam suam.") },
+        { id: "p2.1", ...tl("Notum fecit Dominus salutare suum ; in conspectu gentium revelavit iustitiam suam.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Recordatus est misericordiae suae, et veritatis suae domui Israël. Viderunt omnes termini terrae salutare Dei nostri.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Jubilate Deo, omnis terra ; cantate, et exsultate, et psallite.") },
+        { id: "p4.1", ...tl("Iubilate Deo, omnis terra ; cantate, et exsultate, et psallite.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Psallite Domino in cithara ; in cithara et voce psalmi ;") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("in tubis ductilibus, et voce tubae corneae. Jubilate in conspectu regis Domini :") },
+        { id: "p6.1", ...tl("in tubis ductilibus, et voce tubae corneae. Iubilate in conspectu regis Domini :") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("moveatur mare, et plenitudo ejus ; orbis terrarum, et qui habitant in eo.") },
+        { id: "p7.1", ...tl("moveatur mare, et plenitudo eius ; orbis terrarum, et qui habitant in eo.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Flumina plaudent manu ; simul montes exsultabunt") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("a conspectu Domini : quoniam venit judicare terram. Judicabit orbem terrarum in justitia, et populos in aequitate.") },
+        { id: "p9.1", ...tl("a conspectu Domini : quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in aequitate.") },
       ]),
     ],
   },
@@ -5666,22 +5666,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Confiteantur nomini tuo magno, quoniam terribile et sanctum est,") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("et honor regis judicium diligit. Tu parasti directiones ; judicium et justitiam in Jacob tu fecisti.") },
+        { id: "p4.1", ...tl("et honor regis iudicium diligit. Tu parasti directiones ; iudicium et iustitiam in Iacob tu fecisti.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus, quoniam sanctum est.") },
+        { id: "p5.1", ...tl("Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius, quoniam sanctum est.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus : invocabant Dominum, et ipse exaudiebat eos ;") },
+        { id: "p6.1", ...tl("Moyses et Aaron in sacerdotibus eius, et Samuel inter eos qui invocant nomen eius : invocabant Dominum, et ipse exaudiebat eos ;") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et praeceptum quod dedit illis.") },
+        { id: "p7.1", ...tl("in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et praeceptum quod dedit illis.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Domine Deus noster, tu exaudiebas eos ; Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus, quoniam sanctus Dominus Deus noster.") },
+        { id: "p9.1", ...tl("Exaltate Dominum Deum nostrum, et adorate in monte sancto eius, quoniam sanctus Dominus Deus noster.") },
       ]),
     ],
   },
@@ -5695,16 +5695,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Psalmus in confessione.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Jubilate Deo, omnis terra ; servite Domino in laetitia. Introite in conspectu ejus in exsultatione.") },
+        { id: "p2.1", ...tl("Iubilate Deo, omnis terra ; servite Domino in laetitia. Introite in conspectu eius in exsultatione.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Scitote quoniam Dominus ipse est Deus ; ipse fecit nos, et non ipsi nos : populus ejus, et oves pascuae ejus.") },
+        { id: "p3.1", ...tl("Scitote quoniam Dominus ipse est Deus ; ipse fecit nos, et non ipsi nos : populus eius, et oves pascuae eius.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Introite portas ejus in confessione ; atria ejus in hymnis : confitemini illi. Laudate nomen ejus,") },
+        { id: "p4.1", ...tl("Introite portas eius in confessione ; atria eius in hymnis : confitemini illi. Laudate nomen eius,") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("quoniam suavis est Dominus, in aeternum misericordia ejus, et usque in generationem et generationem veritas ejus.") },
+        { id: "p5.1", ...tl("quoniam suavis est Dominus, in aeternum misericordia eius, et usque in generationem et generationem veritas eius.") },
       ]),
     ],
   },
@@ -5715,13 +5715,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus ipsi David. Misericordiam et judicium cantabo tibi, Domine ; psallam,") },
+        { id: "p1.1", ...tl("Psalmus ipsi David. Misericordiam et iudicium cantabo tibi, Domine ; psallam,") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("et intelligam in via immaculata : quando venies ad me ? Perambulabam in innocentia cordis mei, in medio domus meae.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Non proponebam ante oculos meos rem injustam ; facientes praevaricationes odivi ; non adhaesit mihi") },
+        { id: "p3.1", ...tl("Non proponebam ante oculos meos rem iniustam ; facientes praevaricationes odivi ; non adhaesit mihi") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("cor pravum ; declinantem a me malignum non cognoscebam.") },
@@ -5771,7 +5771,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Vigilavi, et factus sum sicut passer solitarius in tecto.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Tota die exprobrabant mihi inimici mei, et qui laudabant me adversum me jurabant :") },
+        { id: "p9.1", ...tl("Tota die exprobrabant mihi inimici mei, et qui laudabant me adversum me iurabant :") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("quia cinerem tamquam panem manducabam, et potum meum cum fletu miscebam,") },
@@ -5786,10 +5786,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Tu autem, Domine, in aeternum permanes, et memoriale tuum in generationem et generationem.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Tu exsurgens misereberis Sion, quia tempus miserendi ejus, quia venit tempus :") },
+        { id: "p14.1", ...tl("Tu exsurgens misereberis Sion, quia tempus miserendi eius, quia venit tempus :") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("quoniam placuerunt servis tuis lapides ejus, et terrae ejus miserebuntur.") },
+        { id: "p15.1", ...tl("quoniam placuerunt servis tuis lapides eius, et terrae eius miserebuntur.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Et timebunt gentes nomen tuum, Domine, et omnes reges terrae gloriam tuam :") },
@@ -5810,7 +5810,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p21.1", ...tl("ut audiret gemitus compeditorum ; ut solveret filios interemptorum :") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("ut annuntient in Sion nomen Domini, et laudem ejus in Jerusalem :") },
+        { id: "p22.1", ...tl("ut annuntient in Sion nomen Domini, et laudem eius in Ierusalem :") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("in conveniendo populos in unum, et reges, ut serviant Domino.") },
@@ -5842,10 +5842,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Ipsi David. Benedic, anima mea, Domino, et omnia quae intra me sunt nomini sancto ejus.") },
+        { id: "p1.1", ...tl("Ipsi David. Benedic, anima mea, Domino, et omnia quae intra me sunt nomini sancto eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Benedic, anima mea, Domino, et noli oblivisci omnes retributiones ejus.") },
+        { id: "p2.1", ...tl("Benedic, anima mea, Domino, et noli oblivisci omnes retributiones eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Qui propitiatur omnibus iniquitatibus tuis ; qui sanat omnes infirmitates tuas :") },
@@ -5854,10 +5854,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("qui redimit de interitu vitam tuam ; qui coronat te in misericordia et miserationibus :") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("qui replet in bonis desiderium tuum ; renovabitur ut aquilae juventus tua :") },
+        { id: "p5.1", ...tl("qui replet in bonis desiderium tuum ; renovabitur ut aquilae iuventus tua :") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("faciens misericordias Dominus, et judicium omnibus injuriam patientibus.") },
+        { id: "p6.1", ...tl("faciens misericordias Dominus, et iudicium omnibus iniuriam patientibus.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Notas fecit vias suas Moysi ; filiis Israël voluntates suas.") },
@@ -5884,28 +5884,28 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Quoniam ipse cognovit figmentum nostrum ; recordatus est quoniam pulvis sumus.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Homo, sicut foenum dies ejus ; tamquam flos agri, sic efflorebit :") },
+        { id: "p15.1", ...tl("Homo, sicut foenum dies eius ; tamquam flos agri, sic efflorebit :") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("quoniam spiritus pertransibit in illo, et non subsistet, et non cognoscet amplius locum suum.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et justitia illius in filios filiorum,") },
+        { id: "p17.1", ...tl("Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et iustitia illius in filios filiorum,") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("his qui servant testamentum ejus, et memores sunt mandatorum ipsius ad faciendum ea.") },
+        { id: "p18.1", ...tl("his qui servant testamentum eius, et memores sunt mandatorum ipsius ad faciendum ea.") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("Dominus in caelo paravit sedem suam, et regnum ipsius omnibus dominabitur.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Benedicite Domino, omnes angeli ejus : potentes virtute, facientes verbum illius, ad audiendam vocem sermonum ejus.") },
+        { id: "p20.1", ...tl("Benedicite Domino, omnes angeli eius : potentes virtute, facientes verbum illius, ad audiendam vocem sermonum eius.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Benedicite Domino, omnes virtutes ejus ; ministri ejus, qui facitis voluntatem ejus.") },
+        { id: "p21.1", ...tl("Benedicite Domino, omnes virtutes eius ; ministri eius, qui facitis voluntatem eius.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Benedicite Domino, omnia opera ejus : in omni loco dominationis ejus, benedic, anima mea, Domino.") },
+        { id: "p22.1", ...tl("Benedicite Domino, omnia opera eius : in omni loco dominationis eius, benedic, anima mea, Domino.") },
       ]),
     ],
   },
@@ -5922,7 +5922,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("amictus lumine sicut vestimento. Extendens caelum sicut pellem,") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("qui tegis aquis superiora ejus : qui ponis nubem ascensum tuum ; qui ambulas super pennas ventorum :") },
+        { id: "p3.1", ...tl("qui tegis aquis superiora eius : qui ponis nubem ascensum tuum ; qui ambulas super pennas ventorum :") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("qui facis angelos tuos spiritus, et ministros tuos ignem urentem.") },
@@ -5931,7 +5931,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Qui fundasti terram super stabilitatem suam : non inclinabitur in saeculum saeculi.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Abyssus sicut vestimentum amictus ejus ; super montes stabunt aquae.") },
+        { id: "p6.1", ...tl("Abyssus sicut vestimentum amictus eius ; super montes stabunt aquae.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Ab increpatione tua fugient ; a voce tonitrui tui formidabunt.") },
@@ -5955,7 +5955,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Rigans montes de superioribus suis ; de fructu operum tuorum satiabitur terra :") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("producens foenum jumentis, et herbam servituti hominum, ut educas panem de terra,") },
+        { id: "p14.1", ...tl("producens foenum iumentis, et herbam servituti hominum, ut educas panem de terra,") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("et vinum laetificet cor hominis : ut exhilaret faciem in oleo, et panis cor hominis confirmet.") },
@@ -6015,7 +6015,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p33.1", ...tl("Cantabo Domino in vita mea ; psallam Deo meo quamdiu sum.") },
       ]),
       paragraph("p34", "34", [
-        { id: "p34.1", ...tl("Jucundum sit ei eloquium meum ; ego vero delectabor in Domino.") },
+        { id: "p34.1", ...tl("Iucundum sit ei eloquium meum ; ego vero delectabor in Domino.") },
       ]),
       paragraph("p35", "35", [
         { id: "p35.1", ...tl("Deficiant peccatores a terra, et iniqui, ita ut non sint. Benedic, anima mea, Domino.") },
@@ -6029,40 +6029,40 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitemini Domino, et invocate nomen ejus ; annuntiate inter gentes opera ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Confitemini Domino, et invocate nomen eius ; annuntiate inter gentes opera eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Cantate ei, et psallite ei ; narrate omnia mirabilia ejus.") },
+        { id: "p2.1", ...tl("Cantate ei, et psallite ei ; narrate omnia mirabilia eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Laudamini in nomine sancto ejus ; laetetur cor quaerentium Dominum.") },
+        { id: "p3.1", ...tl("Laudamini in nomine sancto eius ; laetetur cor quaerentium Dominum.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quaerite Dominum, et confirmamini ; quaerite faciem ejus semper.") },
+        { id: "p4.1", ...tl("Quaerite Dominum, et confirmamini ; quaerite faciem eius semper.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Mementote mirabilium ejus quae fecit ; prodigia ejus, et judicia oris ejus :") },
+        { id: "p5.1", ...tl("Mementote mirabilium eius quae fecit ; prodigia eius, et iudicia oris eius :") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("semen Abraham servi ejus ; filii Jacob electi ejus.") },
+        { id: "p6.1", ...tl("semen Abraham servi eius ; filii Iacob electi eius.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Ipse Dominus Deus noster ; in universa terra judicia ejus.") },
+        { id: "p7.1", ...tl("Ipse Dominus Deus noster ; in universa terra iudicia eius.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Memor fuit in saeculum testamenti sui ; verbi quod mandavit in mille generationes :") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("quod disposuit ad Abraham, et juramenti sui ad Isaac :") },
+        { id: "p9.1", ...tl("quod disposuit ad Abraham, et iuramenti sui ad Isaac :") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("et statuit illud Jacob in praeceptum, et Israël in testamentum aeternum,") },
+        { id: "p10.1", ...tl("et statuit illud Iacob in praeceptum, et Israël in testamentum aeternum,") },
       ]),
       paragraph("p11", "11", [
         { id: "p11.1", ...tl("dicens : Tibi dabo terram Chanaan, funiculum haereditatis vestrae :") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("cum essent numero brevi, paucissimi, et incolae ejus.") },
+        { id: "p12.1", ...tl("cum essent numero brevi, paucissimi, et incolae eius.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Et pertransierunt de gente in gentem, et de regno ad populum alterum.") },
@@ -6077,13 +6077,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p16.1", ...tl("Et vocavit famem super terram, et omne firmamentum panis contrivit.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Misit ante eos virum : in servum venundatus est, Joseph.") },
+        { id: "p17.1", ...tl("Misit ante eos virum : in servum venundatus est, Ioseph.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Humiliaverunt in compedibus pedes ejus ; ferrum pertransiit animam ejus :") },
+        { id: "p18.1", ...tl("Humiliaverunt in compedibus pedes eius ; ferrum pertransiit animam eius :") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("donec veniret verbum ejus. Eloquium Domini inflammavit eum.") },
+        { id: "p19.1", ...tl("donec veniret verbum eius. Eloquium Domini inflammavit eum.") },
       ]),
       paragraph("p20", "20", [
         { id: "p20.1", ...tl("Misit rex, et solvit eum ; princeps populorum, et dimisit eum.") },
@@ -6092,16 +6092,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p21.1", ...tl("Constituit eum dominum domus suae, et principem omnis possessionis suae :") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("ut erudiret principes ejus sicut semetipsum, et senes ejus prudentiam doceret.") },
+        { id: "p22.1", ...tl("ut erudiret principes eius sicut semetipsum, et senes eius prudentiam doceret.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Et intravit Israël in Aegyptum, et Jacob accola fuit in terra Cham.") },
+        { id: "p23.1", ...tl("Et intravit Israël in Aegyptum, et Iacob accola fuit in terra Cham.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Et auxit populum suum vehementer, et firmavit eum super inimicos ejus.") },
+        { id: "p24.1", ...tl("Et auxit populum suum vehementer, et firmavit eum super inimicos eius.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Convertit cor eorum, ut odirent populum ejus, et dolum facerent in servos ejus.") },
+        { id: "p25.1", ...tl("Convertit cor eorum, ut odirent populum eius, et dolum facerent in servos eius.") },
       ]),
       paragraph("p26", "26", [
         { id: "p26.1", ...tl("Misit Moysen servum suum ; Aaron quem elegit ipsum.") },
@@ -6128,7 +6128,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p33.1", ...tl("Et percussit vineas eorum, et ficulneas eorum, et contrivit lignum finium eorum.") },
       ]),
       paragraph("p34", "34", [
-        { id: "p34.1", ...tl("Dixit, et venit locusta, et bruchus cujus non erat numerus :") },
+        { id: "p34.1", ...tl("Dixit, et venit locusta, et bruchus cuius non erat numerus :") },
       ]),
       paragraph("p35", "35", [
         { id: "p35.1", ...tl("et comedit omne foenum in terra eorum, et comedit omnem fructum terrae eorum.") },
@@ -6161,7 +6161,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p44.1", ...tl("Et dedit illis regiones gentium, et labores populorum possederunt :") },
       ]),
       paragraph("p45", "45", [
-        { id: "p45.1", ...tl("ut custodiant justificationes ejus, et legem ejus requirant.") },
+        { id: "p45.1", ...tl("ut custodiant iustificationes eius, et legem eius requirant.") },
       ]),
     ],
   },
@@ -6172,13 +6172,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Quis loquetur potentias Domini ; auditas faciet omnes laudes ejus ?") },
+        { id: "p2.1", ...tl("Quis loquetur potentias Domini ; auditas faciet omnes laudes eius ?") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Beati qui custodiunt judicium, et faciunt justitiam in omni tempore.") },
+        { id: "p3.1", ...tl("Beati qui custodiunt iudicium, et faciunt iustitiam in omni tempore.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Memento nostri, Domine, in beneplacito populi tui ; visita nos in salutari tuo :") },
@@ -6187,7 +6187,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("ad videndum in bonitate electorum tuorum ; ad laetandum in laetitia gentis tuae : ut lauderis cum haereditate tua.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Peccavimus cum patribus nostris : injuste egimus ; iniquitatem fecimus.") },
+        { id: "p6.1", ...tl("Peccavimus cum patribus nostris : iniuste egimus ; iniquitatem fecimus.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Patres nostri in Aegypto non intellexerunt mirabilia tua ; non fuerunt memores multitudinis misericordiae tuae. Et irritaverunt ascendentes in mare, mare Rubrum ;") },
@@ -6205,10 +6205,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("Et operuit aqua tribulantes eos ; unus ex eis non remansit.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Et crediderunt verbis ejus, et laudaverunt laudem ejus.") },
+        { id: "p12.1", ...tl("Et crediderunt verbis eius, et laudaverunt laudem eius.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Cito fecerunt ; obliti sunt operum ejus : et non sustinuerunt consilium ejus.") },
+        { id: "p13.1", ...tl("Cito fecerunt ; obliti sunt operum eius : et non sustinuerunt consilium eius.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("Et concupierunt concupiscentiam in deserto, et tentaverunt Deum in inaquoso.") },
@@ -6238,10 +6238,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("mirabilia in terra Cham, terribilia in mari Rubro.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Et dixit ut disperderet eos, si non Moyses, electus ejus, stetisset in confractione in conspectu ejus, ut averteret iram ejus, ne disperderet eos.") },
+        { id: "p23.1", ...tl("Et dixit ut disperderet eos, si non Moyses, electus eius, stetisset in confractione in conspectu eius, ut averteret iram eius, ne disperderet eos.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Et pro nihilo habuerunt terram desiderabilem ; non crediderunt verbo ejus.") },
+        { id: "p24.1", ...tl("Et pro nihilo habuerunt terram desiderabilem ; non crediderunt verbo eius.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("Et murmuraverunt in tabernaculis suis ; non exaudierunt vocem Domini.") },
@@ -6250,7 +6250,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p26.1", ...tl("Et elevavit manum suam super eos ut prosterneret eos in deserto :") },
       ]),
       paragraph("p27", "27", [
-        { id: "p27.1", ...tl("et ut dejiceret semen eorum in nationibus, et dispergeret eos in regionibus.") },
+        { id: "p27.1", ...tl("et ut deiiceret semen eorum in nationibus, et dispergeret eos in regionibus.") },
       ]),
       paragraph("p28", "28", [
         { id: "p28.1", ...tl("Et initiati sunt Beelphegor, et comederunt sacrificia mortuorum.") },
@@ -6262,13 +6262,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p30.1", ...tl("Et stetit Phinees, et placavit, et cessavit quassatio.") },
       ]),
       paragraph("p31", "31", [
-        { id: "p31.1", ...tl("Et reputatum est ei in justitiam, in generationem et generationem usque in sempiternum.") },
+        { id: "p31.1", ...tl("Et reputatum est ei in iustitiam, in generationem et generationem usque in sempiternum.") },
       ]),
       paragraph("p32", "32", [
         { id: "p32.1", ...tl("Et irritaverunt eum ad aquas contradictionis, et vexatus est Moyses propter eos :") },
       ]),
       paragraph("p33", "33", [
-        { id: "p33.1", ...tl("quia exacerbaverunt spiritum ejus, et distinxit in labiis suis.") },
+        { id: "p33.1", ...tl("quia exacerbaverunt spiritum eius, et distinxit in labiis suis.") },
       ]),
       paragraph("p34", "34", [
         { id: "p34.1", ...tl("Non disperdiderunt gentes quas dixit Dominus illis :") },
@@ -6324,7 +6324,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Dicant qui redempti sunt a Domino, quos redemit de manu inimici, et de regionibus congregavit eos,") },
@@ -6345,7 +6345,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("et deduxit eos in viam rectam, ut irent in civitatem habitationis.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.") },
+        { id: "p8.1", ...tl("Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Quia satiavit animam inanem, et animam esurientem satiavit bonis.") },
@@ -6357,7 +6357,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("Quia exacerbaverunt eloquia Dei, et consilium Altissimi irritaverunt.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Et humiliatum est in laboribus cor eorum ; infirmati sunt, nec fuit qui adjuvaret.") },
+        { id: "p12.1", ...tl("Et humiliatum est in laboribus cor eorum ; infirmati sunt, nec fuit qui adiuvaret.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Et clamaverunt ad Dominum cum tribularentur ; et de necessitatibus eorum liberavit eos.") },
@@ -6366,13 +6366,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Et eduxit eos de tenebris et umbra mortis, et vincula eorum dirupit.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.") },
+        { id: "p15.1", ...tl("Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Quia contrivit portas aereas, et vectes ferreos confregit.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Suscepit eos de via iniquitatis eorum ; propter injustitias enim suas humiliati sunt.") },
+        { id: "p17.1", ...tl("Suscepit eos de via iniquitatis eorum ; propter iniustitias enim suas humiliati sunt.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Omnem escam abominata est anima eorum, et appropinquaverunt usque ad portas mortis.") },
@@ -6384,19 +6384,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Misit verbum suum, et sanavit eos, et eripuit eos de interitionibus eorum.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.") },
+        { id: "p21.1", ...tl("Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Et sacrificent sacrificium laudis, et annuntient opera ejus in exsultatione.") },
+        { id: "p22.1", ...tl("Et sacrificent sacrificium laudis, et annuntient opera eius in exsultatione.") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("Qui descendunt mare in navibus, facientes operationem in aquis multis :") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("ipsi viderunt opera Domini, et mirabilia ejus in profundo.") },
+        { id: "p24.1", ...tl("ipsi viderunt opera Domini, et mirabilia eius in profundo.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Dixit, et stetit spiritus procellae, et exaltati sunt fluctus ejus.") },
+        { id: "p25.1", ...tl("Dixit, et stetit spiritus procellae, et exaltati sunt fluctus eius.") },
       ]),
       paragraph("p26", "26", [
         { id: "p26.1", ...tl("Ascendunt usque ad caelos, et descendunt usque ad abyssos ; anima eorum in malis tabescebat.") },
@@ -6408,13 +6408,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p28.1", ...tl("Et clamaverunt ad Dominum cum tribularentur ; et de necessitatibus eorum eduxit eos.") },
       ]),
       paragraph("p29", "29", [
-        { id: "p29.1", ...tl("Et statuit procellam ejus in auram, et siluerunt fluctus ejus.") },
+        { id: "p29.1", ...tl("Et statuit procellam eius in auram, et siluerunt fluctus eius.") },
       ]),
       paragraph("p30", "30", [
         { id: "p30.1", ...tl("Et laetati sunt quia siluerunt ; et deduxit eos in portum voluntatis eorum.") },
       ]),
       paragraph("p31", "31", [
-        { id: "p31.1", ...tl("Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.") },
+        { id: "p31.1", ...tl("Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.") },
       ]),
       paragraph("p32", "32", [
         { id: "p32.1", ...tl("Et exaltent eum in ecclesia plebis, et in cathedra seniorum laudent eum.") },
@@ -6435,7 +6435,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p37.1", ...tl("et seminaverunt agros et plantaverunt vineas, et fecerunt fructum nativitatis.") },
       ]),
       paragraph("p38", "38", [
-        { id: "p38.1", ...tl("Et benedixit eis, et multiplicati sunt nimis ; et jumenta eorum non minoravit.") },
+        { id: "p38.1", ...tl("Et benedixit eis, et multiplicati sunt nimis ; et iumenta eorum non minoravit.") },
       ]),
       paragraph("p39", "39", [
         { id: "p39.1", ...tl("Et pauci facti sunt et vexati sunt, a tribulatione malorum et dolore.") },
@@ -6444,7 +6444,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p40.1", ...tl("Effusa est contemptio super principes : et errare fecit eos in invio, et non in via.") },
       ]),
       paragraph("p41", "41", [
-        { id: "p41.1", ...tl("Et adjuvit pauperem de inopia, et posuit sicut oves familias.") },
+        { id: "p41.1", ...tl("Et adiuvit pauperem de inopia, et posuit sicut oves familias.") },
       ]),
       paragraph("p42", "42", [
         { id: "p42.1", ...tl("Videbunt recti, et laetabuntur ; et omnis iniquitas oppilabit os suum.") },
@@ -6485,7 +6485,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Deus locutus est in sancto suo : Exsultabo, et dividam Sichimam ; et convallem tabernaculorum dimetiar.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Meus est Galaad, et meus est Manasses, et Ephraim susceptio capitis mei. Juda rex meus ;") },
+        { id: "p9.1", ...tl("Meus est Galaad, et meus est Manasses, et Ephraim susceptio capitis mei. Iuda rex meus ;") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Moab lebes spei meae : in Idumaeam extendam calceamentum meum ; mihi alienigenae amici facti sunt.") },
@@ -6526,31 +6526,31 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Et posuerunt adversum me mala pro bonis, et odium pro dilectione mea.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Constitue super eum peccatorem, et diabolus stet a dextris ejus.") },
+        { id: "p6.1", ...tl("Constitue super eum peccatorem, et diabolus stet a dextris eius.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Cum judicatur, exeat condemnatus ; et oratio ejus fiat in peccatum.") },
+        { id: "p7.1", ...tl("Cum iudicatur, exeat condemnatus ; et oratio eius fiat in peccatum.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Fiant dies ejus pauci, et episcopatum ejus accipiat alter.") },
+        { id: "p8.1", ...tl("Fiant dies eius pauci, et episcopatum eius accipiat alter.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Fiant filii ejus orphani, et uxor ejus vidua.") },
+        { id: "p9.1", ...tl("Fiant filii eius orphani, et uxor eius vidua.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Nutantes transferantur filii ejus et mendicent, et ejiciantur de habitationibus suis.") },
+        { id: "p10.1", ...tl("Nutantes transferantur filii eius et mendicent, et eiiciantur de habitationibus suis.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Scrutetur foenerator omnem substantiam ejus, et diripiant alieni labores ejus.") },
+        { id: "p11.1", ...tl("Scrutetur foenerator omnem substantiam eius, et diripiant alieni labores eius.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Non sit illi adjutor, nec sit qui misereatur pupillis ejus.") },
+        { id: "p12.1", ...tl("Non sit illi adiutor, nec sit qui misereatur pupillis eius.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Fiant nati ejus in interitum ; in generatione una deleatur nomen ejus.") },
+        { id: "p13.1", ...tl("Fiant nati eius in interitum ; in generatione una deleatur nomen eius.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("In memoriam redeat iniquitas patrum ejus in conspectu Domini, et peccatum matris ejus non deleatur.") },
+        { id: "p14.1", ...tl("In memoriam redeat iniquitas patrum eius in conspectu Domini, et peccatum matris eius non deleatur.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Fiant contra Dominum semper, et dispereat de terra memoria eorum :") },
@@ -6562,7 +6562,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p17.1", ...tl("et persecutus est hominem inopem et mendicum, et compunctum corde, mortificare.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Et dilexit maledictionem, et veniet ei ; et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum ; et intravit sicut aqua in interiora ejus, et sicut oleum in ossibus ejus.") },
+        { id: "p18.1", ...tl("Et dilexit maledictionem, et veniet ei ; et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum ; et intravit sicut aqua in interiora eius, et sicut oleum in ossibus eius.") },
       ]),
       paragraph("p19", "19", [
         { id: "p19.1", ...tl("Fiat ei sicut vestimentum quo operitur, et sicut zona qua semper praecingitur.") },
@@ -6580,13 +6580,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p23.1", ...tl("Sicut umbra cum declinat ablatus sum, et excussus sum sicut locustae.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Genua mea infirmata sunt a jejunio, et caro mea immutata est propter oleum.") },
+        { id: "p24.1", ...tl("Genua mea infirmata sunt a ieiunio, et caro mea immutata est propter oleum.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("Et ego factus sum opprobrium illis ; viderunt me, et moverunt capita sua.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Adjuva me, Domine Deus meus ; salvum me fac secundum misericordiam tuam.") },
+        { id: "p26.1", ...tl("Adiuva me, Domine Deus meus ; salvum me fac secundum misericordiam tuam.") },
       ]),
       paragraph("p27", "27", [
         { id: "p27.1", ...tl("Et sciant quia manus tua haec, et tu, Domine, fecisti eam.") },
@@ -6621,13 +6621,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Tecum principium in die virtutis tuae in splendoribus sanctorum : ex utero, ante luciferum, genui te.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Juravit Dominus, et non poenitebit eum : Tu es sacerdos in aeternum secundum ordinem Melchisedech.") },
+        { id: "p4.1", ...tl("Iuravit Dominus, et non poenitebit eum : Tu es sacerdos in aeternum secundum ordinem Melchisedech.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Dominus a dextris tuis ; confregit in die irae suae reges.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Judicabit in nationibus, implebit ruinas ; conquassabit capita in terra multorum.") },
+        { id: "p6.1", ...tl("Iudicabit in nationibus, implebit ruinas ; conquassabit capita in terra multorum.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("De torrente in via bibet ; propterea exaltabit caput.") },
@@ -6641,13 +6641,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitebor tibi, Domine, in toto corde meo, in consilio justorum, et congregatione.") },
+        { id: "p1.1", ...tl("Alleluia. Confitebor tibi, Domine, in toto corde meo, in consilio iustorum, et congregatione.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Magna opera Domini : exquisita in omnes voluntates ejus.") },
+        { id: "p2.1", ...tl("Magna opera Domini : exquisita in omnes voluntates eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Confessio et magnificentia opus ejus, et justitia ejus manet in saeculum saeculi.") },
+        { id: "p3.1", ...tl("Confessio et magnificentia opus eius, et iustitia eius manet in saeculum saeculi.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Memoriam fecit mirabilium suorum, misericors et miserator Dominus.") },
@@ -6659,16 +6659,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Virtutem operum suorum annuntiabit populo suo,") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("ut det illis haereditatem gentium. Opera manuum ejus veritas et judicium.") },
+        { id: "p7.1", ...tl("ut det illis haereditatem gentium. Opera manuum eius veritas et iudicium.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Fidelia omnia mandata ejus, confirmata in saeculum saeculi, facta in veritate et aequitate.") },
+        { id: "p8.1", ...tl("Fidelia omnia mandata eius, confirmata in saeculum saeculi, facta in veritate et aequitate.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Redemptionem misit populo suo ; mandavit in aeternum testamentum suum. Sanctum et terribile nomen ejus.") },
+        { id: "p9.1", ...tl("Redemptionem misit populo suo ; mandavit in aeternum testamentum suum. Sanctum et terribile nomen eius.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Initium sapientiae timor Domini ; intellectus bonus omnibus facientibus eum : laudatio ejus manet in saeculum saeculi.") },
+        { id: "p10.1", ...tl("Initium sapientiae timor Domini ; intellectus bonus omnibus facientibus eum : laudatio eius manet in saeculum saeculi.") },
       ]),
     ],
   },
@@ -6679,31 +6679,31 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja, reversionis Aggaei et Zachariae. Beatus vir qui timet Dominum : in mandatis ejus volet nimis.") },
+        { id: "p1.1", ...tl("Alleluia, reversionis Aggaei et Zachariae. Beatus vir qui timet Dominum : in mandatis eius volet nimis.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Potens in terra erit semen ejus ; generatio rectorum benedicetur.") },
+        { id: "p2.1", ...tl("Potens in terra erit semen eius ; generatio rectorum benedicetur.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi.") },
+        { id: "p3.1", ...tl("Gloria et divitiae in domo eius, et iustitia eius manet in saeculum saeculi.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Exortum est in tenebris lumen rectis : misericors, et miserator, et justus.") },
+        { id: "p4.1", ...tl("Exortum est in tenebris lumen rectis : misericors, et miserator, et iustus.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Jucundus homo qui miseretur et commodat ; disponet sermones suos in judicio :") },
+        { id: "p5.1", ...tl("Iucundus homo qui miseretur et commodat ; disponet sermones suos in iudicio :") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("quia in aeternum non commovebitur.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("In memoria aeterna erit justus ; ab auditione mala non timebit. Paratum cor ejus sperare in Domino,") },
+        { id: "p7.1", ...tl("In memoria aeterna erit iustus ; ab auditione mala non timebit. Paratum cor eius sperare in Domino,") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("confirmatum est cor ejus ; non commovebitur donec despiciat inimicos suos.") },
+        { id: "p8.1", ...tl("confirmatum est cor eius ; non commovebitur donec despiciat inimicos suos.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Dispersit, dedit pauperibus ; justitia ejus manet in saeculum saeculi : cornu ejus exaltabitur in gloria.") },
+        { id: "p9.1", ...tl("Dispersit, dedit pauperibus ; iustitia eius manet in saeculum saeculi : cornu eius exaltabitur in gloria.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Peccator videbit, et irascetur ; dentibus suis fremet et tabescet : desiderium peccatorum peribit.") },
@@ -6717,7 +6717,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate, pueri, Dominum ; laudate nomen Domini.") },
+        { id: "p1.1", ...tl("Alleluia. Laudate, pueri, Dominum ; laudate nomen Domini.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Sit nomen Domini benedictum ex hoc nunc et usque in saeculum.") },
@@ -6726,7 +6726,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("A solis ortu usque ad occasum laudabile nomen Domini.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Excelsus super omnes gentes Dominus, et super caelos gloria ejus.") },
+        { id: "p4.1", ...tl("Excelsus super omnes gentes Dominus, et super caelos gloria eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Quis sicut Dominus Deus noster, qui in altis habitat,") },
@@ -6752,25 +6752,25 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. In exitu Israël de Aegypto, domus Jacob de populo barbaro,") },
+        { id: "p1.1", ...tl("Alleluia. In exitu Israël de Aegypto, domus Iacob de populo barbaro,") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("facta est Judaea sanctificatio ejus ; Israël potestas ejus.") },
+        { id: "p2.1", ...tl("facta est Iudaea sanctificatio eius ; Israël potestas eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Mare vidit, et fugit ; Jordanis conversus est retrorsum.") },
+        { id: "p3.1", ...tl("Mare vidit, et fugit ; Iordanis conversus est retrorsum.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Montes exsultaverunt ut arietes, et colles sicut agni ovium.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Quid est tibi, mare, quod fugisti ? et tu, Jordanis, quia conversus es retrorsum ?") },
+        { id: "p5.1", ...tl("Quid est tibi, mare, quod fugisti ? et tu, Iordanis, quia conversus es retrorsum ?") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("montes, exsultastis sicut arietes ? et colles, sicut agni ovium ?") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("A facie Domini mota est terra, a facie Dei Jacob :") },
+        { id: "p7.1", ...tl("A facie Domini mota est terra, a facie Dei Iacob :") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("qui convertit petram in stagna aquarum, et rupem in fontes aquarum.") },
@@ -6800,22 +6800,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p16.1", ...tl("Similes illis fiant qui faciunt ea, et omnes qui confidunt in eis.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Domus Israël speravit in Domino ; adjutor eorum et protector eorum est.") },
+        { id: "p17.1", ...tl("Domus Israël speravit in Domino ; adiutor eorum et protector eorum est.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Domus Aaron speravit in Domino ; adjutor eorum et protector eorum est.") },
+        { id: "p18.1", ...tl("Domus Aaron speravit in Domino ; adiutor eorum et protector eorum est.") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Qui timent Dominum speraverunt in Domino ; adjutor eorum et protector eorum est.") },
+        { id: "p19.1", ...tl("Qui timent Dominum speraverunt in Domino ; adiutor eorum et protector eorum est.") },
       ]),
       paragraph("p20", "20", [
         { id: "p20.1", ...tl("Dominus memor fuit nostri, et benedixit nobis. Benedixit domui Israël ; benedixit domui Aaron.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Benedixit omnibus qui timent Dominum, pusillis cum majoribus.") },
+        { id: "p21.1", ...tl("Benedixit omnibus qui timent Dominum, pusillis cum maioribus.") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("Adjiciat Dominus super vos, super vos et super filios vestros.") },
+        { id: "p22.1", ...tl("Adiiciat Dominus super vos, super vos et super filios vestros.") },
       ]),
       paragraph("p23", "23", [
         { id: "p23.1", ...tl("Benedicti vos a Domino, qui fecit caelum et terram.") },
@@ -6838,7 +6838,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Dilexi, quoniam exaudiet Dominus vocem orationis meae.") },
+        { id: "p1.1", ...tl("Alleluia. Dilexi, quoniam exaudiet Dominus vocem orationis meae.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Quia inclinavit aurem suam mihi, et in diebus meis invocabo.") },
@@ -6850,7 +6850,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("et nomen Domini invocavi : o Domine, libera animam meam.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Misericors Dominus et justus, et Deus noster miseretur.") },
+        { id: "p5.1", ...tl("Misericors Dominus et iustus, et Deus noster miseretur.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Custodiens parvulos Dominus ; humiliatus sum, et liberavit me.") },
@@ -6873,7 +6873,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis.") },
+        { id: "p1.1", ...tl("Alleluia. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Ego dixi in excessu meo : Omnis homo mendax.") },
@@ -6885,10 +6885,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Calicem salutaris accipiam, et nomen Domini invocabo.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Vota mea Domino reddam coram omni populo ejus.") },
+        { id: "p5.1", ...tl("Vota mea Domino reddam coram omni populo eius.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Pretiosa in conspectu Domini mors sanctorum ejus.") },
+        { id: "p6.1", ...tl("Pretiosa in conspectu Domini mors sanctorum eius.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("O Domine, quia ego servus tuus ; ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea :") },
@@ -6897,10 +6897,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("tibi sacrificabo hostiam laudis, et nomen Domini invocabo.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Vota mea Domino reddam in conspectu omnis populi ejus ;") },
+        { id: "p9.1", ...tl("Vota mea Domino reddam in conspectu omnis populi eius ;") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("in atriis domus Domini, in medio tui, Jerusalem.") },
+        { id: "p10.1", ...tl("in atriis domus Domini, in medio tui, Ierusalem.") },
       ]),
     ],
   },
@@ -6911,10 +6911,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate Dominum, omnes gentes ; laudate eum, omnes populi.") },
+        { id: "p1.1", ...tl("Alleluia. Laudate Dominum, omnes gentes ; laudate eum, omnes populi.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum.") },
+        { id: "p2.1", ...tl("Quoniam confirmata est super nos misericordia eius, et veritas Domini manet in aeternum.") },
       ]),
     ],
   },
@@ -6925,25 +6925,25 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Dicat nunc Israël : Quoniam bonus, quoniam in saeculum misericordia ejus.") },
+        { id: "p2.1", ...tl("Dicat nunc Israël : Quoniam bonus, quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Dicat nunc domus Aaron : Quoniam in saeculum misericordia ejus.") },
+        { id: "p3.1", ...tl("Dicat nunc domus Aaron : Quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Dicant nunc qui timent Dominum : Quoniam in saeculum misericordia ejus.") },
+        { id: "p4.1", ...tl("Dicant nunc qui timent Dominum : Quoniam in saeculum misericordia eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("De tribulatione invocavi Dominum, et exaudivit me in latitudine Dominus.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Dominus mihi adjutor ; non timebo quid faciat mihi homo.") },
+        { id: "p6.1", ...tl("Dominus mihi adiutor ; non timebo quid faciat mihi homo.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Dominus mihi adjutor, et ego despiciam inimicos meos.") },
+        { id: "p7.1", ...tl("Dominus mihi adiutor, et ego despiciam inimicos meos.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Bonum est confidere in Domino, quam confidere in homine.") },
@@ -6967,7 +6967,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Fortitudo mea et laus mea Dominus, et factus est mihi in salutem.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Vox exsultationis et salutis in tabernaculis justorum.") },
+        { id: "p15.1", ...tl("Vox exsultationis et salutis in tabernaculis iustorum.") },
       ]),
       paragraph("p16", "16", [
         { id: "p16.1", ...tl("Dextera Domini fecit virtutem ; dextera Domini exaltavit me : dextera Domini fecit virtutem.") },
@@ -6979,10 +6979,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p18.1", ...tl("Castigans castigavit me Dominus, et morti non tradidit me.") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Aperite mihi portas justitiae : ingressus in eas confitebor Domino.") },
+        { id: "p19.1", ...tl("Aperite mihi portas iustitiae : ingressus in eas confitebor Domino.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Haec porta Domini : justi intrabunt in eam.") },
+        { id: "p20.1", ...tl("Haec porta Domini : iusti intrabunt in eam.") },
       ]),
       paragraph("p21", "21", [
         { id: "p21.1", ...tl("Confitebor tibi quoniam exaudisti me, et factus es mihi in salutem.") },
@@ -7009,7 +7009,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p28.1", ...tl("Deus meus es tu, et confitebor tibi ; Deus meus es tu, et exaltabo te. Confitebor tibi quoniam exaudisti me, et factus es mihi in salutem.") },
       ]),
       paragraph("p29", "29", [
-        { id: "p29.1", ...tl("Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.") },
+        { id: "p29.1", ...tl("Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.") },
       ]),
     ],
   },
@@ -7020,28 +7020,28 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. <Aleph>Beati immaculati in via, qui ambulant in lege Domini.") },
+        { id: "p1.1", ...tl("Alleluia. <Aleph>Beati immaculati in via, qui ambulant in lege Domini.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Beati qui scrutantur testimonia ejus ; in toto corde exquirunt eum.") },
+        { id: "p2.1", ...tl("Beati qui scrutantur testimonia eius ; in toto corde exquirunt eum.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Non enim qui operantur iniquitatem in viis ejus ambulaverunt.") },
+        { id: "p3.1", ...tl("Non enim qui operantur iniquitatem in viis eius ambulaverunt.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Tu mandasti mandata tua custodiri nimis.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Utinam dirigantur viae meae ad custodiendas justificationes tuas.") },
+        { id: "p5.1", ...tl("Utinam dirigantur viae meae ad custodiendas iustificationes tuas.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Tunc non confundar, cum perspexero in omnibus mandatis tuis.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Confitebor tibi in directione cordis, in eo quod didici judicia justitiae tuae.") },
+        { id: "p7.1", ...tl("Confitebor tibi in directione cordis, in eo quod didici iudicia iustitiae tuae.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Justificationes tuas custodiam ; non me derelinquas usquequaque.") },
+        { id: "p8.1", ...tl("Iustificationes tuas custodiam ; non me derelinquas usquequaque.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("<Beth>In quo corrigit adolescentior viam suam ? in custodiendo sermones tuos.") },
@@ -7053,10 +7053,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("In corde meo abscondi eloquia tua, ut non peccem tibi.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Benedictus es, Domine ; doce me justificationes tuas.") },
+        { id: "p12.1", ...tl("Benedictus es, Domine ; doce me iustificationes tuas.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("In labiis meis pronuntiavi omnia judicia oris tui.") },
+        { id: "p13.1", ...tl("In labiis meis pronuntiavi omnia iudicia oris tui.") },
       ]),
       paragraph("p14", "14", [
         { id: "p14.1", ...tl("In via testimoniorum tuorum delectatus sum, sicut in omnibus divitiis.") },
@@ -7065,7 +7065,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p15.1", ...tl("In mandatis tuis exercebor, et considerabo vias tuas.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("In justificationibus tuis meditabor : non obliviscar sermones tuos.") },
+        { id: "p16.1", ...tl("In iustificationibus tuis meditabor : non obliviscar sermones tuos.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("<Ghimel>Retribue servo tuo, vivifica me, et custodiam sermones tuos.") },
@@ -7077,7 +7077,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p19.1", ...tl("Incola ego sum in terra : non abscondas a me mandata tua.") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("Concupivit anima mea desiderare justificationes tuas in omni tempore.") },
+        { id: "p20.1", ...tl("Concupivit anima mea desiderare iustificationes tuas in omni tempore.") },
       ]),
       paragraph("p21", "21", [
         { id: "p21.1", ...tl("Increpasti superbos ; maledicti qui declinant a mandatis tuis.") },
@@ -7086,19 +7086,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p22.1", ...tl("Aufer a me opprobrium et contemptum, quia testimonia tua exquisivi.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Etenim sederunt principes, et adversum me loquebantur ; servus autem tuus exercebatur in justificationibus tuis.") },
+        { id: "p23.1", ...tl("Etenim sederunt principes, et adversum me loquebantur ; servus autem tuus exercebatur in iustificationibus tuis.") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("Nam et testimonia tua meditatio mea est, et consilium meum justificationes tuae.") },
+        { id: "p24.1", ...tl("Nam et testimonia tua meditatio mea est, et consilium meum iustificationes tuae.") },
       ]),
       paragraph("p25", "25", [
         { id: "p25.1", ...tl("<Daleth>Adhaesit pavimento anima mea : vivifica me secundum verbum tuum.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Vias meas enuntiavi, et exaudisti me ; doce me justificationes tuas.") },
+        { id: "p26.1", ...tl("Vias meas enuntiavi, et exaudisti me ; doce me iustificationes tuas.") },
       ]),
       paragraph("p27", "27", [
-        { id: "p27.1", ...tl("Viam justificationum tuarum instrue me, et exercebor in mirabilibus tuis.") },
+        { id: "p27.1", ...tl("Viam iustificationum tuarum instrue me, et exercebor in mirabilibus tuis.") },
       ]),
       paragraph("p28", "28", [
         { id: "p28.1", ...tl("Dormitavit anima mea prae taedio : confirma me in verbis tuis.") },
@@ -7107,7 +7107,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p29.1", ...tl("Viam iniquitatis amove a me, et de lege tua miserere mei.") },
       ]),
       paragraph("p30", "30", [
-        { id: "p30.1", ...tl("Viam veritatis elegi ; judicia tua non sum oblitus.") },
+        { id: "p30.1", ...tl("Viam veritatis elegi ; iudicia tua non sum oblitus.") },
       ]),
       paragraph("p31", "31", [
         { id: "p31.1", ...tl("Adhaesi testimoniis tuis, Domine ; noli me confundere.") },
@@ -7116,7 +7116,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p32.1", ...tl("Viam mandatorum tuorum cucurri, cum dilatasti cor meum.") },
       ]),
       paragraph("p33", "33", [
-        { id: "p33.1", ...tl("<He>Legem pone mihi, Domine, viam justificationum tuarum, et exquiram eam semper.") },
+        { id: "p33.1", ...tl("<He>Legem pone mihi, Domine, viam iustificationum tuarum, et exquiram eam semper.") },
       ]),
       paragraph("p34", "34", [
         { id: "p34.1", ...tl("Da mihi intellectum, et scrutabor legem tuam, et custodiam illam in toto corde meo.") },
@@ -7134,7 +7134,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p38.1", ...tl("Statue servo tuo eloquium tuum in timore tuo.") },
       ]),
       paragraph("p39", "39", [
-        { id: "p39.1", ...tl("Amputa opprobrium meum quod suspicatus sum, quia judicia tua jucunda.") },
+        { id: "p39.1", ...tl("Amputa opprobrium meum quod suspicatus sum, quia iudicia tua iucunda.") },
       ]),
       paragraph("p40", "40", [
         { id: "p40.1", ...tl("Ecce concupivi mandata tua : in aequitate tua vivifica me.") },
@@ -7146,7 +7146,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p42.1", ...tl("Et respondebo exprobrantibus mihi verbum, quia speravi in sermonibus tuis.") },
       ]),
       paragraph("p43", "43", [
-        { id: "p43.1", ...tl("Et ne auferas de ore meo verbum veritatis usquequaque, quia in judiciis tuis supersperavi.") },
+        { id: "p43.1", ...tl("Et ne auferas de ore meo verbum veritatis usquequaque, quia in iudiciis tuis supersperavi.") },
       ]),
       paragraph("p44", "44", [
         { id: "p44.1", ...tl("Et custodiam legem tuam semper, in saeculum et in saeculum saeculi.") },
@@ -7161,7 +7161,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p47.1", ...tl("Et meditabar in mandatis tuis, quae dilexi.") },
       ]),
       paragraph("p48", "48", [
-        { id: "p48.1", ...tl("Et levavi manus meas ad mandata tua, quae dilexi, et exercebar in justificationibus tuis.") },
+        { id: "p48.1", ...tl("Et levavi manus meas ad mandata tua, quae dilexi, et exercebar in iustificationibus tuis.") },
       ]),
       paragraph("p49", "49", [
         { id: "p49.1", ...tl("<Zain>Memor esto verbi tui servo tuo, in quo mihi spem dedisti.") },
@@ -7173,19 +7173,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p51.1", ...tl("Superbi inique agebant usquequaque ; a lege autem tua non declinavi.") },
       ]),
       paragraph("p52", "52", [
-        { id: "p52.1", ...tl("Memor fui judiciorum tuorum a saeculo, Domine, et consolatus sum.") },
+        { id: "p52.1", ...tl("Memor fui iudiciorum tuorum a saeculo, Domine, et consolatus sum.") },
       ]),
       paragraph("p53", "53", [
         { id: "p53.1", ...tl("Defectio tenuit me, pro peccatoribus derelinquentibus legem tuam.") },
       ]),
       paragraph("p54", "54", [
-        { id: "p54.1", ...tl("Cantabiles mihi erant justificationes tuae in loco peregrinationis meae.") },
+        { id: "p54.1", ...tl("Cantabiles mihi erant iustificationes tuae in loco peregrinationis meae.") },
       ]),
       paragraph("p55", "55", [
         { id: "p55.1", ...tl("Memor fui nocte nominis tui, Domine, et custodivi legem tuam.") },
       ]),
       paragraph("p56", "56", [
-        { id: "p56.1", ...tl("Haec facta est mihi, quia justificationes tuas exquisivi.") },
+        { id: "p56.1", ...tl("Haec facta est mihi, quia iustificationes tuas exquisivi.") },
       ]),
       paragraph("p57", "57", [
         { id: "p57.1", ...tl("<Heth>Portio mea, Domine, dixi custodire legem tuam.") },
@@ -7203,13 +7203,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p61.1", ...tl("Funes peccatorum circumplexi sunt me, et legem tuam non sum oblitus.") },
       ]),
       paragraph("p62", "62", [
-        { id: "p62.1", ...tl("Media nocte surgebam ad confitendum tibi, super judicia justificationis tuae.") },
+        { id: "p62.1", ...tl("Media nocte surgebam ad confitendum tibi, super iudicia iustificationis tuae.") },
       ]),
       paragraph("p63", "63", [
         { id: "p63.1", ...tl("Particeps ego sum omnium timentium te, et custodientium mandata tua.") },
       ]),
       paragraph("p64", "64", [
-        { id: "p64.1", ...tl("Misericordia tua, Domine, plena est terra ; justificationes tuas doce me.") },
+        { id: "p64.1", ...tl("Misericordia tua, Domine, plena est terra ; iustificationes tuas doce me.") },
       ]),
       paragraph("p65", "65", [
         { id: "p65.1", ...tl("<Teth>Bonitatem fecisti cum servo tuo, Domine, secundum verbum tuum.") },
@@ -7221,7 +7221,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p67.1", ...tl("Priusquam humiliarer ego deliqui : propterea eloquium tuum custodivi.") },
       ]),
       paragraph("p68", "68", [
-        { id: "p68.1", ...tl("Bonus es tu, et in bonitate tua doce me justificationes tuas.") },
+        { id: "p68.1", ...tl("Bonus es tu, et in bonitate tua doce me iustificationes tuas.") },
       ]),
       paragraph("p69", "69", [
         { id: "p69.1", ...tl("Multiplicata est super me iniquitas superborum ; ego autem in toto corde meo scrutabor mandata tua.") },
@@ -7230,19 +7230,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p70.1", ...tl("Coagulatum est sicut lac cor eorum ; ego vero legem tuam meditatus sum.") },
       ]),
       paragraph("p71", "71", [
-        { id: "p71.1", ...tl("Bonum mihi quia humiliasti me, ut discam justificationes tuas.") },
+        { id: "p71.1", ...tl("Bonum mihi quia humiliasti me, ut discam iustificationes tuas.") },
       ]),
       paragraph("p72", "72", [
         { id: "p72.1", ...tl("Bonum mihi lex oris tui, super millia auri et argenti.") },
       ]),
       paragraph("p73", "73", [
-        { id: "p73.1", ...tl("<Jod>Manus tuae fecerunt me, et plasmaverunt me : da mihi intellectum, et discam mandata tua.") },
+        { id: "p73.1", ...tl("<Iod>Manus tuae fecerunt me, et plasmaverunt me : da mihi intellectum, et discam mandata tua.") },
       ]),
       paragraph("p74", "74", [
         { id: "p74.1", ...tl("Qui timent te videbunt me et laetabuntur, quia in verba tua supersperavi.") },
       ]),
       paragraph("p75", "75", [
-        { id: "p75.1", ...tl("Cognovi, Domine, quia aequitas judicia tua, et in veritate tua humiliasti me.") },
+        { id: "p75.1", ...tl("Cognovi, Domine, quia aequitas iudicia tua, et in veritate tua humiliasti me.") },
       ]),
       paragraph("p76", "76", [
         { id: "p76.1", ...tl("Fiat misericordia tua ut consoletur me, secundum eloquium tuum servo tuo.") },
@@ -7251,13 +7251,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p77.1", ...tl("Veniant mihi miserationes tuae, et vivam, quia lex tua meditatio mea est.") },
       ]),
       paragraph("p78", "78", [
-        { id: "p78.1", ...tl("Confundantur superbi, quia injuste iniquitatem fecerunt in me ; ego autem exercebor in mandatis tuis.") },
+        { id: "p78.1", ...tl("Confundantur superbi, quia iniuste iniquitatem fecerunt in me ; ego autem exercebor in mandatis tuis.") },
       ]),
       paragraph("p79", "79", [
         { id: "p79.1", ...tl("Convertantur mihi timentes te, et qui noverunt testimonia tua.") },
       ]),
       paragraph("p80", "80", [
-        { id: "p80.1", ...tl("Fiat cor meum immaculatum in justificationibus tuis, ut non confundar.") },
+        { id: "p80.1", ...tl("Fiat cor meum immaculatum in iustificationibus tuis, ut non confundar.") },
       ]),
       paragraph("p81", "81", [
         { id: "p81.1", ...tl("<Caph>Defecit in salutare tuum anima mea, et in verbum tuum supersperavi.") },
@@ -7266,16 +7266,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p82.1", ...tl("Defecerunt oculi mei in eloquium tuum, dicentes : Quando consolaberis me ?") },
       ]),
       paragraph("p83", "83", [
-        { id: "p83.1", ...tl("Quia factus sum sicut uter in pruina ; justificationes tuas non sum oblitus.") },
+        { id: "p83.1", ...tl("Quia factus sum sicut uter in pruina ; iustificationes tuas non sum oblitus.") },
       ]),
       paragraph("p84", "84", [
-        { id: "p84.1", ...tl("Quot sunt dies servi tui ? quando facies de persequentibus me judicium ?") },
+        { id: "p84.1", ...tl("Quot sunt dies servi tui ? quando facies de persequentibus me iudicium ?") },
       ]),
       paragraph("p85", "85", [
         { id: "p85.1", ...tl("Narraverunt mihi iniqui fabulationes, sed non ut lex tua.") },
       ]),
       paragraph("p86", "86", [
-        { id: "p86.1", ...tl("Omnia mandata tua veritas : inique persecuti sunt me, adjuva me.") },
+        { id: "p86.1", ...tl("Omnia mandata tua veritas : inique persecuti sunt me, adiuva me.") },
       ]),
       paragraph("p87", "87", [
         { id: "p87.1", ...tl("Paulominus consummaverunt me in terra ; ego autem non dereliqui mandata tua.") },
@@ -7296,10 +7296,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p92.1", ...tl("Nisi quod lex tua meditatio mea est, tunc forte periissem in humilitate mea.") },
       ]),
       paragraph("p93", "93", [
-        { id: "p93.1", ...tl("In aeternum non obliviscar justificationes tuas, quia in ipsis vivificasti me.") },
+        { id: "p93.1", ...tl("In aeternum non obliviscar iustificationes tuas, quia in ipsis vivificasti me.") },
       ]),
       paragraph("p94", "94", [
-        { id: "p94.1", ...tl("Tuus sum ego ; salvum me fac : quoniam justificationes tuas exquisivi.") },
+        { id: "p94.1", ...tl("Tuus sum ego ; salvum me fac : quoniam iustificationes tuas exquisivi.") },
       ]),
       paragraph("p95", "95", [
         { id: "p95.1", ...tl("Me exspectaverunt peccatores ut perderent me ; testimonia tua intellexi.") },
@@ -7323,7 +7323,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p101.1", ...tl("Ab omni via mala prohibui pedes meos, ut custodiam verba tua.") },
       ]),
       paragraph("p102", "102", [
-        { id: "p102.1", ...tl("A judiciis tuis non declinavi, quia tu legem posuisti mihi.") },
+        { id: "p102.1", ...tl("A iudiciis tuis non declinavi, quia tu legem posuisti mihi.") },
       ]),
       paragraph("p103", "103", [
         { id: "p103.1", ...tl("Quam dulcia faucibus meis eloquia tua ! super mel ori meo.") },
@@ -7335,13 +7335,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p105.1", ...tl("<Nun>Lucerna pedibus meis verbum tuum, et lumen semitis meis.") },
       ]),
       paragraph("p106", "106", [
-        { id: "p106.1", ...tl("Juravi et statui custodire judicia justitiae tuae.") },
+        { id: "p106.1", ...tl("Iuravi et statui custodire iudicia iustitiae tuae.") },
       ]),
       paragraph("p107", "107", [
         { id: "p107.1", ...tl("Humiliatus sum usquequaque, Domine ; vivifica me secundum verbum tuum.") },
       ]),
       paragraph("p108", "108", [
-        { id: "p108.1", ...tl("Voluntaria oris mei beneplacita fac, Domine, et judicia tua doce me.") },
+        { id: "p108.1", ...tl("Voluntaria oris mei beneplacita fac, Domine, et iudicia tua doce me.") },
       ]),
       paragraph("p109", "109", [
         { id: "p109.1", ...tl("Anima mea in manibus meis semper, et legem tuam non sum oblitus.") },
@@ -7353,13 +7353,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p111.1", ...tl("Haereditate acquisivi testimonia tua in aeternum, quia exsultatio cordis mei sunt.") },
       ]),
       paragraph("p112", "112", [
-        { id: "p112.1", ...tl("Inclinavi cor meum ad faciendas justificationes tuas in aeternum, propter retributionem.") },
+        { id: "p112.1", ...tl("Inclinavi cor meum ad faciendas iustificationes tuas in aeternum, propter retributionem.") },
       ]),
       paragraph("p113", "113", [
         { id: "p113.1", ...tl("<Samech>Iniquos odio habui, et legem tuam dilexi.") },
       ]),
       paragraph("p114", "114", [
-        { id: "p114.1", ...tl("Adjutor et susceptor meus es tu, et in verbum tuum supersperavi.") },
+        { id: "p114.1", ...tl("Adiutor et susceptor meus es tu, et in verbum tuum supersperavi.") },
       ]),
       paragraph("p115", "115", [
         { id: "p115.1", ...tl("Declinate a me, maligni, et scrutabor mandata Dei mei.") },
@@ -7368,28 +7368,28 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p116.1", ...tl("Suscipe me secundum eloquium tuum, et vivam, et non confundas me ab exspectatione mea.") },
       ]),
       paragraph("p117", "117", [
-        { id: "p117.1", ...tl("Adjuva me, et salvus ero, et meditabor in justificationibus tuis semper.") },
+        { id: "p117.1", ...tl("Adiuva me, et salvus ero, et meditabor in iustificationibus tuis semper.") },
       ]),
       paragraph("p118", "118", [
-        { id: "p118.1", ...tl("Sprevisti omnes discedentes a judiciis tuis, quia injusta cogitatio eorum.") },
+        { id: "p118.1", ...tl("Sprevisti omnes discedentes a iudiciis tuis, quia iniusta cogitatio eorum.") },
       ]),
       paragraph("p119", "119", [
         { id: "p119.1", ...tl("Praevaricantes reputavi omnes peccatores terrae ; ideo dilexi testimonia tua.") },
       ]),
       paragraph("p120", "120", [
-        { id: "p120.1", ...tl("Confige timore tuo carnes meas ; a judiciis enim tuis timui.") },
+        { id: "p120.1", ...tl("Confige timore tuo carnes meas ; a iudiciis enim tuis timui.") },
       ]),
       paragraph("p121", "121", [
-        { id: "p121.1", ...tl("<Ain>Feci judicium et justitiam : non tradas me calumniantibus me.") },
+        { id: "p121.1", ...tl("<Ain>Feci iudicium et iustitiam : non tradas me calumniantibus me.") },
       ]),
       paragraph("p122", "122", [
         { id: "p122.1", ...tl("Suscipe servum tuum in bonum : non calumnientur me superbi.") },
       ]),
       paragraph("p123", "123", [
-        { id: "p123.1", ...tl("Oculi mei defecerunt in salutare tuum, et in eloquium justitiae tuae.") },
+        { id: "p123.1", ...tl("Oculi mei defecerunt in salutare tuum, et in eloquium iustitiae tuae.") },
       ]),
       paragraph("p124", "124", [
-        { id: "p124.1", ...tl("Fac cum servo tuo secundum misericordiam tuam, et justificationes tuas doce me.") },
+        { id: "p124.1", ...tl("Fac cum servo tuo secundum misericordiam tuam, et iustificationes tuas doce me.") },
       ]),
       paragraph("p125", "125", [
         { id: "p125.1", ...tl("Servus tuus sum ego : da mihi intellectum, ut sciam testimonia tua.") },
@@ -7413,25 +7413,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p131.1", ...tl("Os meum aperui, et attraxi spiritum : quia mandata tua desiderabam.") },
       ]),
       paragraph("p132", "132", [
-        { id: "p132.1", ...tl("Aspice in me, et miserere mei, secundum judicium diligentium nomen tuum.") },
+        { id: "p132.1", ...tl("Aspice in me, et miserere mei, secundum iudicium diligentium nomen tuum.") },
       ]),
       paragraph("p133", "133", [
-        { id: "p133.1", ...tl("Gressus meos dirige secundum eloquium tuum, et non dominetur mei omnis injustitia.") },
+        { id: "p133.1", ...tl("Gressus meos dirige secundum eloquium tuum, et non dominetur mei omnis iniustitia.") },
       ]),
       paragraph("p134", "134", [
         { id: "p134.1", ...tl("Redime me a calumniis hominum ut custodiam mandata tua.") },
       ]),
       paragraph("p135", "135", [
-        { id: "p135.1", ...tl("Faciem tuam illumina super servum tuum, et doce me justificationes tuas.") },
+        { id: "p135.1", ...tl("Faciem tuam illumina super servum tuum, et doce me iustificationes tuas.") },
       ]),
       paragraph("p136", "136", [
         { id: "p136.1", ...tl("Exitus aquarum deduxerunt oculi mei, quia non custodierunt legem tuam.") },
       ]),
       paragraph("p137", "137", [
-        { id: "p137.1", ...tl("<Sade>Justus es, Domine, et rectum judicium tuum.") },
+        { id: "p137.1", ...tl("<Sade>Iustus es, Domine, et rectum iudicium tuum.") },
       ]),
       paragraph("p138", "138", [
-        { id: "p138.1", ...tl("Mandasti justitiam testimonia tua, et veritatem tuam nimis.") },
+        { id: "p138.1", ...tl("Mandasti iustitiam testimonia tua, et veritatem tuam nimis.") },
       ]),
       paragraph("p139", "139", [
         { id: "p139.1", ...tl("Tabescere me fecit zelus meus, quia obliti sunt verba tua inimici mei.") },
@@ -7440,10 +7440,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p140.1", ...tl("Ignitum eloquium tuum vehementer, et servus tuus dilexit illud.") },
       ]),
       paragraph("p141", "141", [
-        { id: "p141.1", ...tl("Adolescentulus sum ego et contemptus ; justificationes tuas non sum oblitus.") },
+        { id: "p141.1", ...tl("Adolescentulus sum ego et contemptus ; iustificationes tuas non sum oblitus.") },
       ]),
       paragraph("p142", "142", [
-        { id: "p142.1", ...tl("Justitia tua, justitia in aeternum, et lex tua veritas.") },
+        { id: "p142.1", ...tl("Iustitia tua, iustitia in aeternum, et lex tua veritas.") },
       ]),
       paragraph("p143", "143", [
         { id: "p143.1", ...tl("Tribulatio et angustia invenerunt me ; mandata tua meditatio mea est.") },
@@ -7452,7 +7452,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p144.1", ...tl("Aequitas testimonia tua in aeternum : intellectum da mihi, et vivam.") },
       ]),
       paragraph("p145", "145", [
-        { id: "p145.1", ...tl("<Coph>Clamavi in toto corde meo : exaudi me, Domine ; justificationes tuas requiram.") },
+        { id: "p145.1", ...tl("<Coph>Clamavi in toto corde meo : exaudi me, Domine ; iustificationes tuas requiram.") },
       ]),
       paragraph("p146", "146", [
         { id: "p146.1", ...tl("Clamavi ad te ; salvum me fac : ut custodiam mandata tua.") },
@@ -7464,7 +7464,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p148.1", ...tl("Praevenerunt oculi mei ad te diluculo, ut meditarer eloquia tua.") },
       ]),
       paragraph("p149", "149", [
-        { id: "p149.1", ...tl("Vocem meam audi secundum misericordiam tuam, Domine, et secundum judicium tuum vivifica me.") },
+        { id: "p149.1", ...tl("Vocem meam audi secundum misericordiam tuam, Domine, et secundum iudicium tuum vivifica me.") },
       ]),
       paragraph("p150", "150", [
         { id: "p150.1", ...tl("Appropinquaverunt persequentes me iniquitati : a lege autem tua longe facti sunt.") },
@@ -7479,13 +7479,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p153.1", ...tl("<Res>Vide humilitatem meam, et eripe me, quia legem tuam non sum oblitus.") },
       ]),
       paragraph("p154", "154", [
-        { id: "p154.1", ...tl("Judica judicium meum, et redime me : propter eloquium tuum vivifica me.") },
+        { id: "p154.1", ...tl("Iudica iudicium meum, et redime me : propter eloquium tuum vivifica me.") },
       ]),
       paragraph("p155", "155", [
-        { id: "p155.1", ...tl("Longe a peccatoribus salus, quia justificationes tuas non exquisierunt.") },
+        { id: "p155.1", ...tl("Longe a peccatoribus salus, quia iustificationes tuas non exquisierunt.") },
       ]),
       paragraph("p156", "156", [
-        { id: "p156.1", ...tl("Misericordiae tuae multae, Domine ; secundum judicium tuum vivifica me.") },
+        { id: "p156.1", ...tl("Misericordiae tuae multae, Domine ; secundum iudicium tuum vivifica me.") },
       ]),
       paragraph("p157", "157", [
         { id: "p157.1", ...tl("Multi qui persequuntur me, et tribulant me ; a testimoniis tuis non declinavi.") },
@@ -7497,7 +7497,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p159.1", ...tl("Vide quoniam mandata tua dilexi, Domine : in misericordia tua vivifica me.") },
       ]),
       paragraph("p160", "160", [
-        { id: "p160.1", ...tl("Principium verborum tuorum veritas ; in aeternum omnia judicia justitiae tuae.") },
+        { id: "p160.1", ...tl("Principium verborum tuorum veritas ; in aeternum omnia iudicia iustitiae tuae.") },
       ]),
       paragraph("p161", "161", [
         { id: "p161.1", ...tl("<Sin>Principes persecuti sunt me gratis, et a verbis tuis formidavit cor meum.") },
@@ -7509,7 +7509,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p163.1", ...tl("Iniquitatem odio habui, et abominatus sum, legem autem tuam dilexi.") },
       ]),
       paragraph("p164", "164", [
-        { id: "p164.1", ...tl("Septies in die laudem dixi tibi, super judicia justitiae tuae.") },
+        { id: "p164.1", ...tl("Septies in die laudem dixi tibi, super iudicia iustitiae tuae.") },
       ]),
       paragraph("p165", "165", [
         { id: "p165.1", ...tl("Pax multa diligentibus legem tuam, et non est illis scandalum.") },
@@ -7524,13 +7524,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p168.1", ...tl("Servavi mandata tua et testimonia tua, quia omnes viae meae in conspectu tuo.") },
       ]),
       paragraph("p169", "169", [
-        { id: "p169.1", ...tl("<Tau>Appropinquet deprecatio mea in conspectu tuo, Domine ; juxta eloquium tuum da mihi intellectum.") },
+        { id: "p169.1", ...tl("<Tau>Appropinquet deprecatio mea in conspectu tuo, Domine ; iuxta eloquium tuum da mihi intellectum.") },
       ]),
       paragraph("p170", "170", [
         { id: "p170.1", ...tl("Intret postulatio mea in conspectu tuo ; secundum eloquium tuum eripe me.") },
       ]),
       paragraph("p171", "171", [
-        { id: "p171.1", ...tl("Eructabunt labia mea hymnum, cum docueris me justificationes tuas.") },
+        { id: "p171.1", ...tl("Eructabunt labia mea hymnum, cum docueris me iustificationes tuas.") },
       ]),
       paragraph("p172", "172", [
         { id: "p172.1", ...tl("Pronuntiabit lingua mea eloquium tuum, quia omnia mandata tua aequitas.") },
@@ -7542,7 +7542,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p174.1", ...tl("Concupivi salutare tuum, Domine, et lex tua meditatio mea est.") },
       ]),
       paragraph("p175", "175", [
-        { id: "p175.1", ...tl("Vivet anima mea, et laudabit te, et judicia tua adjuvabunt me.") },
+        { id: "p175.1", ...tl("Vivet anima mea, et laudabit te, et iudicia tua adiuvabunt me.") },
       ]),
       paragraph("p176", "176", [
         { id: "p176.1", ...tl("Erravi sicut ovis quae periit : quaere servum tuum, quia mandata tua non sum oblitus.") },
@@ -7620,19 +7620,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Canticum graduum. Laetatus sum in his quae dicta sunt mihi : In domum Domini ibimus.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Stantes erant pedes nostri in atriis tuis, Jerusalem.") },
+        { id: "p2.1", ...tl("Stantes erant pedes nostri in atriis tuis, Ierusalem.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Jerusalem, quae aedificatur ut civitas, cujus participatio ejus in idipsum.") },
+        { id: "p3.1", ...tl("Ierusalem, quae aedificatur ut civitas, cuius participatio eius in idipsum.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Illuc enim ascenderunt tribus, tribus Domini : testimonium Israël, ad confitendum nomini Domini.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Quia illic sederunt sedes in judicio, sedes super domum David.") },
+        { id: "p5.1", ...tl("Quia illic sederunt sedes in iudicio, sedes super domum David.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Rogate quae ad pacem sunt Jerusalem, et abundantia diligentibus te.") },
+        { id: "p6.1", ...tl("Rogate quae ad pacem sunt Ierusalem, et abundantia diligentibus te.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Fiat pax in virtute tua, et abundantia in turribus tuis.") },
@@ -7693,7 +7693,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Anima nostra sicut passer erepta est de laqueo venantium ; laqueus contritus est, et nos liberati sumus.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Adjutorium nostrum in nomine Domini, qui fecit caelum et terram.") },
+        { id: "p8.1", ...tl("Adiutorium nostrum in nomine Domini, qui fecit caelum et terram.") },
       ]),
     ],
   },
@@ -7707,10 +7707,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p1.1", ...tl("Canticum graduum. Qui confidunt in Domino, sicut mons Sion : non commovebitur in aeternum, qui habitat") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("in Jerusalem. Montes in circuitu ejus ; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum.") },
+        { id: "p2.1", ...tl("in Ierusalem. Montes in circuitu eius ; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Quia non relinquet Dominus virgam peccatorum super sortem justorum : ut non extendant justi ad iniquitatem manus suas,") },
+        { id: "p3.1", ...tl("Quia non relinquet Dominus virgam peccatorum super sortem iustorum : ut non extendant iusti ad iniquitatem manus suas,") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("benefac, Domine, bonis, et rectis corde.") },
@@ -7776,7 +7776,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis ejus.") },
+        { id: "p1.1", ...tl("Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis eius.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Labores manuum tuarum quia manducabis : beatus es, et bene tibi erit.") },
@@ -7788,7 +7788,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Ecce sic benedicetur homo qui timet Dominum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Benedicat tibi Dominus ex Sion, et videas bona Jerusalem omnibus diebus vitae tuae.") },
+        { id: "p5.1", ...tl("Benedicat tibi Dominus ex Sion, et videas bona Ierusalem omnibus diebus vitae tuae.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Et videas filios filiorum tuorum : pacem super Israël.") },
@@ -7802,16 +7802,16 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Canticum graduum. Saepe expugnaverunt me a juventute mea, dicat nunc Israël ;") },
+        { id: "p1.1", ...tl("Canticum graduum. Saepe expugnaverunt me a iuventute mea, dicat nunc Israël ;") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("saepe expugnaverunt me a juventute mea : etenim non potuerunt mihi.") },
+        { id: "p2.1", ...tl("saepe expugnaverunt me a iuventute mea : etenim non potuerunt mihi.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Supra dorsum meum fabricaverunt peccatores ; prolongaverunt iniquitatem suam.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Dominus justus concidit cervices peccatorum.") },
+        { id: "p4.1", ...tl("Dominus iustus concidit cervices peccatorum.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Confundantur, et convertantur retrorsum omnes qui oderunt Sion.") },
@@ -7843,7 +7843,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Si iniquitates observaveris, Domine, Domine, quis sustinebit ?") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quia apud te propitiatio est ; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus :") },
+        { id: "p4.1", ...tl("Quia apud te propitiatio est ; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo eius :") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("speravit anima mea in Domino.") },
@@ -7855,7 +7855,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Quia apud Dominum misericordia, et copiosa apud eum redemptio.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Et ipse redimet Israël ex omnibus iniquitatibus ejus.") },
+        { id: "p8.1", ...tl("Et ipse redimet Israël ex omnibus iniquitatibus eius.") },
       ]),
     ],
   },
@@ -7883,10 +7883,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Canticum graduum. Memento, Domine, David, et omnis mansuetudinis ejus :") },
+        { id: "p1.1", ...tl("Canticum graduum. Memento, Domine, David, et omnis mansuetudinis eius :") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("sicut juravit Domino ; votum vovit Deo Jacob :") },
+        { id: "p2.1", ...tl("sicut iuravit Domino ; votum vovit Deo Iacob :") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Si introiero in tabernaculum domus meae ; si ascendero in lectum strati mei ;") },
@@ -7895,25 +7895,25 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("si dedero somnum oculis meis, et palpebris meis dormitationem,") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("et requiem temporibus meis, donec inveniam locum Domino, tabernaculum Deo Jacob.") },
+        { id: "p5.1", ...tl("et requiem temporibus meis, donec inveniam locum Domino, tabernaculum Deo Iacob.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Ecce audivimus eam in Ephrata ; invenimus eam in campis silvae.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Introibimus in tabernaculum ejus ; adorabimus in loco ubi steterunt pedes ejus.") },
+        { id: "p7.1", ...tl("Introibimus in tabernaculum eius ; adorabimus in loco ubi steterunt pedes eius.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Surge, Domine, in requiem tuam, tu et arca sanctificationis tuae.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Sacerdotes tui induantur justitiam, et sancti tui exsultent.") },
+        { id: "p9.1", ...tl("Sacerdotes tui induantur iustitiam, et sancti tui exsultent.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Propter David servum tuum non avertas faciem christi tui.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Juravit Dominus David veritatem, et non frustrabitur eam : De fructu ventris tui ponam super sedem tuam.") },
+        { id: "p11.1", ...tl("Iuravit Dominus David veritatem, et non frustrabitur eam : De fructu ventris tui ponam super sedem tuam.") },
       ]),
       paragraph("p12", "12", [
         { id: "p12.1", ...tl("Si custodierint filii tui testamentum meum, et testimonia mea haec quae docebo eos, et filii eorum usque in saeculum sedebunt super sedem tuam.") },
@@ -7925,16 +7925,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("Haec requies mea in saeculum saeculi ; hic habitabo, quoniam elegi eam.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Viduam ejus benedicens benedicam ; pauperes ejus saturabo panibus.") },
+        { id: "p15.1", ...tl("Viduam eius benedicens benedicam ; pauperes eius saturabo panibus.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Sacerdotes ejus induam salutari, et sancti ejus exsultatione exsultabunt.") },
+        { id: "p16.1", ...tl("Sacerdotes eius induam salutari, et sancti eius exsultatione exsultabunt.") },
       ]),
       paragraph("p17", "17", [
         { id: "p17.1", ...tl("Illuc producam cornu David ; paravi lucernam christo meo.") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("Inimicos ejus induam confusione ; super ipsum autem efflorebit sanctificatio mea.") },
+        { id: "p18.1", ...tl("Inimicos eius induam confusione ; super ipsum autem efflorebit sanctificatio mea.") },
       ]),
     ],
   },
@@ -7945,10 +7945,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum !") },
+        { id: "p1.1", ...tl("Canticum graduum David. Ecce quam bonum et quam iucundum, habitare fratres in unum !") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus ;") },
+        { id: "p2.1", ...tl("Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti eius ;") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum.") },
@@ -7979,16 +7979,16 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate nomen Domini ; laudate, servi, Dominum :") },
+        { id: "p1.1", ...tl("Alleluia. Laudate nomen Domini ; laudate, servi, Dominum :") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("qui statis in domo Domini, in atriis domus Dei nostri.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Laudate Dominum, quia bonus Dominus ; psallite nomini ejus, quoniam suave.") },
+        { id: "p3.1", ...tl("Laudate Dominum, quia bonus Dominus ; psallite nomini eius, quoniam suave.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Quoniam Jacob elegit sibi Dominus ; Israël in possessionem sibi.") },
+        { id: "p4.1", ...tl("Quoniam Iacob elegit sibi Dominus ; Israël in possessionem sibi.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Quia ego cognovi quod magnus est Dominus, et Deus noster prae omnibus diis.") },
@@ -8003,7 +8003,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Qui percussit primogenita Aegypti, ab homine usque ad pecus.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Et misit signa et prodigia in medio tui, Aegypte : in Pharaonem, et in omnes servos ejus.") },
+        { id: "p9.1", ...tl("Et misit signa et prodigia in medio tui, Aegypte : in Pharaonem, et in omnes servos eius.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Qui percussit gentes multas, et occidit reges fortes :") },
@@ -8018,7 +8018,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p13.1", ...tl("Domine, nomen tuum in aeternum ; Domine, memoriale tuum in generationem et generationem.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Quia judicabit Dominus populum suum, et in servis suis deprecabitur.") },
+        { id: "p14.1", ...tl("Quia iudicabit Dominus populum suum, et in servis suis deprecabitur.") },
       ]),
       paragraph("p15", "15", [
         { id: "p15.1", ...tl("Simulacra gentium argentum et aurum, opera manuum hominum.") },
@@ -8039,7 +8039,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Domus Levi, benedicite Domino ; qui timetis Dominum, benedicite Domino.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Benedictus Dominus ex Sion, qui habitat in Jerusalem.") },
+        { id: "p21.1", ...tl("Benedictus Dominus ex Sion, qui habitat in Ierusalem.") },
       ]),
     ],
   },
@@ -8050,82 +8050,82 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Confitemini Deo deorum, quoniam in aeternum misericordia ejus.") },
+        { id: "p2.1", ...tl("Confitemini Deo deorum, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Confitemini Domino dominorum, quoniam in aeternum misericordia ejus.") },
+        { id: "p3.1", ...tl("Confitemini Domino dominorum, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Qui facit mirabilia magna solus, quoniam in aeternum misericordia ejus.") },
+        { id: "p4.1", ...tl("Qui facit mirabilia magna solus, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Qui fecit caelos in intellectu, quoniam in aeternum misericordia ejus.") },
+        { id: "p5.1", ...tl("Qui fecit caelos in intellectu, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Qui firmavit terram super aquas, quoniam in aeternum misericordia ejus.") },
+        { id: "p6.1", ...tl("Qui firmavit terram super aquas, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Qui fecit luminaria magna, quoniam in aeternum misericordia ejus :") },
+        { id: "p7.1", ...tl("Qui fecit luminaria magna, quoniam in aeternum misericordia eius :") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("solem in potestatem diei, quoniam in aeternum misericordia ejus ;") },
+        { id: "p8.1", ...tl("solem in potestatem diei, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("lunam et stellas in potestatem noctis, quoniam in aeternum misericordia ejus.") },
+        { id: "p9.1", ...tl("lunam et stellas in potestatem noctis, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Qui percussit Aegyptum cum primogenitis eorum, quoniam in aeternum misericordia ejus.") },
+        { id: "p10.1", ...tl("Qui percussit Aegyptum cum primogenitis eorum, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Qui eduxit Israël de medio eorum, quoniam in aeternum misericordia ejus,") },
+        { id: "p11.1", ...tl("Qui eduxit Israël de medio eorum, quoniam in aeternum misericordia eius,") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("in manu potenti et brachio excelso, quoniam in aeternum misericordia ejus.") },
+        { id: "p12.1", ...tl("in manu potenti et brachio excelso, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Qui divisit mare Rubrum in divisiones, quoniam in aeternum misericordia ejus ;") },
+        { id: "p13.1", ...tl("Qui divisit mare Rubrum in divisiones, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("et eduxit Israël per medium ejus, quoniam in aeternum misericordia ejus ;") },
+        { id: "p14.1", ...tl("et eduxit Israël per medium eius, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in aeternum misericordia ejus.") },
+        { id: "p15.1", ...tl("et excussit Pharaonem et virtutem eius in mari Rubro, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p16", "16", [
-        { id: "p16.1", ...tl("Qui traduxit populum suum per desertum, quoniam in aeternum misericordia ejus.") },
+        { id: "p16.1", ...tl("Qui traduxit populum suum per desertum, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Qui percussit reges magnos, quoniam in aeternum misericordia ejus ;") },
+        { id: "p17.1", ...tl("Qui percussit reges magnos, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p18", "18", [
-        { id: "p18.1", ...tl("et occidit reges fortes, quoniam in aeternum misericordia ejus :") },
+        { id: "p18.1", ...tl("et occidit reges fortes, quoniam in aeternum misericordia eius :") },
       ]),
       paragraph("p19", "19", [
-        { id: "p19.1", ...tl("Sehon, regem Amorrhaeorum, quoniam in aeternum misericordia ejus ;") },
+        { id: "p19.1", ...tl("Sehon, regem Amorrhaeorum, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p20", "20", [
-        { id: "p20.1", ...tl("et Og, regem Basan, quoniam in aeternum misericordia ejus :") },
+        { id: "p20.1", ...tl("et Og, regem Basan, quoniam in aeternum misericordia eius :") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("et dedit terram eorum haereditatem, quoniam in aeternum misericordia ejus ;") },
+        { id: "p21.1", ...tl("et dedit terram eorum haereditatem, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p22", "22", [
-        { id: "p22.1", ...tl("haereditatem Israël, servo suo, quoniam in aeternum misericordia ejus.") },
+        { id: "p22.1", ...tl("haereditatem Israël, servo suo, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p23", "23", [
-        { id: "p23.1", ...tl("Quia in humilitate nostra memor fuit nostri, quoniam in aeternum misericordia ejus ;") },
+        { id: "p23.1", ...tl("Quia in humilitate nostra memor fuit nostri, quoniam in aeternum misericordia eius ;") },
       ]),
       paragraph("p24", "24", [
-        { id: "p24.1", ...tl("et redemit nos ab inimicis nostris, quoniam in aeternum misericordia ejus.") },
+        { id: "p24.1", ...tl("et redemit nos ab inimicis nostris, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p25", "25", [
-        { id: "p25.1", ...tl("Qui dat escam omni carni, quoniam in aeternum misericordia ejus.") },
+        { id: "p25.1", ...tl("Qui dat escam omni carni, quoniam in aeternum misericordia eius.") },
       ]),
       paragraph("p26", "26", [
-        { id: "p26.1", ...tl("Confitemini Deo caeli, quoniam in aeternum misericordia ejus. Confitemini Domino dominorum, quoniam in aeternum misericordia ejus.") },
+        { id: "p26.1", ...tl("Confitemini Deo caeli, quoniam in aeternum misericordia eius. Confitemini Domino dominorum, quoniam in aeternum misericordia eius.") },
       ]),
     ],
   },
@@ -8136,10 +8136,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David, Jeremiae. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion.") },
+        { id: "p1.1", ...tl("Psalmus David, Ieremiae. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("In salicibus in medio ejus suspendimus organa nostra :") },
+        { id: "p2.1", ...tl("In salicibus in medio eius suspendimus organa nostra :") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("quia illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum ; et qui abduxerunt nos : Hymnum cantate nobis de canticis Sion.") },
@@ -8148,13 +8148,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Quomodo cantabimus canticum Domini in terra aliena ?") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.") },
+        { id: "p5.1", ...tl("Si oblitus fuero tui, Ierusalem, oblivioni detur dextera mea.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Adhaereat lingua mea faucibus meis, si non meminero tui ; si non proposuero Jerusalem in principio laetitiae meae.") },
+        { id: "p6.1", ...tl("Adhaereat lingua mea faucibus meis, si non meminero tui ; si non proposuero Ierusalem in principio laetitiae meae.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Memor esto, Domine, filiorum Edom, in die Jerusalem : qui dicunt : Exinanite, exinanite usque ad fundamentum in ea.") },
+        { id: "p7.1", ...tl("Memor esto, Domine, filiorum Edom, in die Ierusalem : qui dicunt : Exinanite, exinanite usque ad fundamentum in ea.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Filia Babylonis misera ! beatus qui retribuet tibi retributionem tuam quam retribuisti nobis.") },
@@ -8236,7 +8236,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("Et dixi : Forsitan tenebrae conculcabunt me ; et nox illuminatio mea in deliciis meis.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur : sicut tenebrae ejus, ita et lumen ejus.") },
+        { id: "p12.1", ...tl("Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur : sicut tenebrae eius, ita et lumen eius.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Quia tu possedisti renes meos ; suscepisti me de utero matris meae.") },
@@ -8298,7 +8298,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p5.1", ...tl("Custodi me, Domine, de manu peccatoris, et ab hominibus iniquis eripe me. Qui cogitaverunt supplantare gressus meos :") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("absconderunt superbi laqueum mihi. Et funes extenderunt in laqueum ; juxta iter, scandalum posuerunt mihi.") },
+        { id: "p6.1", ...tl("absconderunt superbi laqueum mihi. Et funes extenderunt in laqueum ; iuxta iter, scandalum posuerunt mihi.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Dixi Domino : Deus meus es tu ; exaudi, Domine, vocem deprecationis meae.") },
@@ -8313,16 +8313,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("Caput circuitus eorum : labor labiorum ipsorum operiet eos.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Cadent super eos carbones ; in ignem dejicies eos : in miseriis non subsistent.") },
+        { id: "p11.1", ...tl("Cadent super eos carbones ; in ignem deiicies eos : in miseriis non subsistent.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Vir linguosus non dirigetur in terra ; virum injustum mala capient in interitu.") },
+        { id: "p12.1", ...tl("Vir linguosus non dirigetur in terra ; virum iniustum mala capient in interitu.") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("Cognovi quia faciet Dominus judicium inopis, et vindictam pauperum.") },
+        { id: "p13.1", ...tl("Cognovi quia faciet Dominus iudicium inopis, et vindictam pauperum.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Verumtamen justi confitebuntur nomini tuo, et habitabunt recti cum vultu tuo.") },
+        { id: "p14.1", ...tl("Verumtamen iusti confitebuntur nomini tuo, et habitabunt recti cum vultu tuo.") },
       ]),
     ],
   },
@@ -8345,10 +8345,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Non declines cor meum in verba malitiae, ad excusandas excusationes in peccatis ; cum hominibus operantibus iniquitatem, et non communicabo cum electis eorum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Corripiet me justus in misericordia, et increpabit me : oleum autem peccatoris non impinguet caput meum. Quoniam adhuc et oratio mea in beneplacitis eorum :") },
+        { id: "p5.1", ...tl("Corripiet me iustus in misericordia, et increpabit me : oleum autem peccatoris non impinguet caput meum. Quoniam adhuc et oratio mea in beneplacitis eorum :") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("absorpti sunt juncti petrae judices eorum. Audient verba mea, quoniam potuerunt.") },
+        { id: "p6.1", ...tl("absorpti sunt iuncti petrae iudices eorum. Audient verba mea, quoniam potuerunt.") },
       ]),
       paragraph("p7", "7", [
         { id: "p7.1", ...tl("Sicut crassitudo terrae erupta est super terram, dissipata sunt ossa nostra secus infernum.") },
@@ -8360,7 +8360,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p9.1", ...tl("Custodi me a laqueo quem statuerunt mihi, et a scandalis operantium iniquitatem.") },
       ]),
       paragraph("p10", "10", [
-        { id: "p10.1", ...tl("Cadent in retiaculo ejus peccatores : singulariter sum ego, donec transeam.") },
+        { id: "p10.1", ...tl("Cadent in retiaculo eius peccatores : singulariter sum ego, donec transeam.") },
       ]),
     ],
   },
@@ -8377,7 +8377,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Voce mea ad Dominum clamavi, voce mea ad Dominum deprecatus sum.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Effundo in conspectu ejus orationem meam, et tribulationem meam ante ipsum pronuntio :") },
+        { id: "p3.1", ...tl("Effundo in conspectu eius orationem meam, et tribulationem meam ante ipsum pronuntio :") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("in deficiendo ex me spiritum meum, et tu cognovisti semitas meas. In via hac qua ambulabam absconderunt laqueum mihi.") },
@@ -8392,7 +8392,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Intende ad deprecationem meam, quia humiliatus sum nimis. Libera me a persequentibus me, quia confortati sunt super me.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Educ de custodia animam meam ad confitendum nomini tuo ; me exspectant justi donec retribuas mihi.") },
+        { id: "p8.1", ...tl("Educ de custodia animam meam ad confitendum nomini tuo ; me exspectant iusti donec retribuas mihi.") },
       ]),
     ],
   },
@@ -8403,10 +8403,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Psalmus David, quando persequebatur eum Absalom filius ejus. Domine, exaudi orationem meam ; auribus percipe obsecrationem meam in veritate tua ; exaudi me in tua justitia.") },
+        { id: "p1.1", ...tl("Psalmus David, quando persequebatur eum Absalom filius eius. Domine, exaudi orationem meam ; auribus percipe obsecrationem meam in veritate tua ; exaudi me in tua iustitia.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Et non intres in judicium cum servo tuo, quia non justificabitur in conspectu tuo omnis vivens.") },
+        { id: "p2.1", ...tl("Et non intres in iudicium cum servo tuo, quia non iustificabitur in conspectu tuo omnis vivens.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Quia persecutus est inimicus animam meam ; humiliavit in terra vitam meam ; collocavit me in obscuris, sicut mortuos saeculi.") },
@@ -8456,7 +8456,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Domine, quid est homo, quia innotuisti ei ? aut filius hominis, quia reputas eum ?") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Homo vanitati similis factus est ; dies ejus sicut umbra praetereunt.") },
+        { id: "p4.1", ...tl("Homo vanitati similis factus est ; dies eius sicut umbra praetereunt.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Domine, inclina caelos tuos, et descende ; tange montes, et fumigabunt.") },
@@ -8480,7 +8480,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p11.1", ...tl("eripe me, et erue me de manu filiorum alienorum, quorum os locutum est vanitatem, et dextera eorum dextera iniquitatis.") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("Quorum filii sicut novellae plantationes in juventute sua ; filiae eorum compositae, circumornatae ut similitudo templi.") },
+        { id: "p12.1", ...tl("Quorum filii sicut novellae plantationes in iuventute sua ; filiae eorum compositae, circumornatae ut similitudo templi.") },
       ]),
       paragraph("p13", "13", [
         { id: "p13.1", ...tl("Promptuaria eorum plena, eructantia ex hoc in illud ; oves eorum foetosae, abundantes in egressibus suis ;") },
@@ -8489,7 +8489,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p14.1", ...tl("boves eorum crassae. Non est ruina maceriae, neque transitus, neque clamor in plateis eorum.") },
       ]),
       paragraph("p15", "15", [
-        { id: "p15.1", ...tl("Beatum dixerunt populum cui haec sunt ; beatus populus cujus Dominus Deus ejus.") },
+        { id: "p15.1", ...tl("Beatum dixerunt populum cui haec sunt ; beatus populus cuius Dominus Deus eius.") },
       ]),
     ],
   },
@@ -8506,7 +8506,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p2.1", ...tl("Per singulos dies benedicam tibi, et laudabo nomen tuum in saeculum, et in saeculum saeculi.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Magnus Dominus, et laudabilis nimis, et magnitudinis ejus non est finis.") },
+        { id: "p3.1", ...tl("Magnus Dominus, et laudabilis nimis, et magnitudinis eius non est finis.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Generatio et generatio laudabit opera tua, et potentiam tuam pronuntiabunt.") },
@@ -8518,13 +8518,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p6.1", ...tl("Et virtutem terribilium tuorum dicent, et magnitudinem tuam narrabunt.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Memoriam abundantiae suavitatis tuae eructabunt, et justitia tua exsultabunt.") },
+        { id: "p7.1", ...tl("Memoriam abundantiae suavitatis tuae eructabunt, et iustitia tua exsultabunt.") },
       ]),
       paragraph("p8", "8", [
         { id: "p8.1", ...tl("Miserator et misericors Dominus : patiens, et multum misericors.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Suavis Dominus universis, et miserationes ejus super omnia opera ejus.") },
+        { id: "p9.1", ...tl("Suavis Dominus universis, et miserationes eius super omnia opera eius.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Confiteantur tibi, Domine, omnia opera tua, et sancti tui benedicant tibi.") },
@@ -8548,7 +8548,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p16.1", ...tl("Aperis tu manum tuam, et imples omne animal benedictione.") },
       ]),
       paragraph("p17", "17", [
-        { id: "p17.1", ...tl("Justus Dominus in omnibus viis suis, et sanctus in omnibus operibus suis.") },
+        { id: "p17.1", ...tl("Iustus Dominus in omnibus viis suis, et sanctus in omnibus operibus suis.") },
       ]),
       paragraph("p18", "18", [
         { id: "p18.1", ...tl("Prope est Dominus omnibus invocantibus eum, omnibus invocantibus eum in veritate.") },
@@ -8560,7 +8560,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p20.1", ...tl("Custodit Dominus omnes diligentes se, et omnes peccatores disperdet.") },
       ]),
       paragraph("p21", "21", [
-        { id: "p21.1", ...tl("Laudationem Domini loquetur os meum ; et benedicat omnis caro nomini sancto ejus in saeculum, et in saeculum saeculi.") },
+        { id: "p21.1", ...tl("Laudationem Domini loquetur os meum ; et benedicat omnis caro nomini sancto eius in saeculum, et in saeculum saeculi.") },
       ]),
     ],
   },
@@ -8571,7 +8571,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja, Aggaei et Zachariae.") },
+        { id: "p1.1", ...tl("Alleluia, Aggaei et Zachariae.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Lauda, anima mea, Dominum. Laudabo Dominum in vita mea ; psallam Deo meo quamdiu fuero. Nolite confidere in principibus,") },
@@ -8580,19 +8580,19 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("in filiis hominum, in quibus non est salus.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Exibit spiritus ejus, et revertetur in terram suam ; in illa die peribunt omnes cogitationes eorum.") },
+        { id: "p4.1", ...tl("Exibit spiritus eius, et revertetur in terram suam ; in illa die peribunt omnes cogitationes eorum.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Beatus cujus Deus Jacob adjutor ejus, spes ejus in Domino Deo ipsius :") },
+        { id: "p5.1", ...tl("Beatus cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius :") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("qui fecit caelum et terram, mare, et omnia quae in eis sunt.") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Qui custodit veritatem in saeculum ; facit judicium injuriam patientibus ; dat escam esurientibus. Dominus solvit compeditos ;") },
+        { id: "p7.1", ...tl("Qui custodit veritatem in saeculum ; facit iudicium iniuriam patientibus ; dat escam esurientibus. Dominus solvit compeditos ;") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Dominus illuminat caecos. Dominus erigit elisos ; Dominus diligit justos.") },
+        { id: "p8.1", ...tl("Dominus illuminat caecos. Dominus erigit elisos ; Dominus diligit iustos.") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("Dominus custodit advenas, pupillum et viduam suscipiet, et vias peccatorum disperdet.") },
@@ -8609,10 +8609,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate Dominum, quoniam bonus est psalmus ; Deo nostro sit jucunda, decoraque laudatio.") },
+        { id: "p1.1", ...tl("Alleluia. Laudate Dominum, quoniam bonus est psalmus ; Deo nostro sit iucunda, decoraque laudatio.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Aedificans Jerusalem Dominus, dispersiones Israëlis congregabit :") },
+        { id: "p2.1", ...tl("Aedificans Ierusalem Dominus, dispersiones Israëlis congregabit :") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("qui sanat contritos corde, et alligat contritiones eorum ;") },
@@ -8621,7 +8621,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("qui numerat multitudinem stellarum, et omnibus eis nomina vocat.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Magnus Dominus noster, et magna virtus ejus, et sapientiae ejus non est numerus.") },
+        { id: "p5.1", ...tl("Magnus Dominus noster, et magna virtus eius, et sapientiae eius non est numerus.") },
       ]),
       paragraph("p6", "6", [
         { id: "p6.1", ...tl("Suscipiens mansuetos Dominus ; humilians autem peccatores usque ad terram.") },
@@ -8633,13 +8633,13 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("Qui operit caelum nubibus, et parat terrae pluviam ; qui producit in montibus foenum, et herbam servituti hominum ;") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("qui dat jumentis escam ipsorum, et pullis corvorum invocantibus eum.") },
+        { id: "p9.1", ...tl("qui dat iumentis escam ipsorum, et pullis corvorum invocantibus eum.") },
       ]),
       paragraph("p10", "10", [
         { id: "p10.1", ...tl("Non in fortitudine equi voluntatem habebit, nec in tibiis viri beneplacitum erit ei.") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia ejus.") },
+        { id: "p11.1", ...tl("Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia eius.") },
       ]),
     ],
   },
@@ -8650,7 +8650,7 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Lauda, Jerusalem, Dominum ; lauda Deum tuum, Sion.") },
+        { id: "p1.1", ...tl("Alleluia. Lauda, Ierusalem, Dominum ; lauda Deum tuum, Sion.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Quoniam confortavit seras portarum tuarum ; benedixit filiis tuis in te.") },
@@ -8659,22 +8659,22 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p3.1", ...tl("Qui posuit fines tuos pacem, et adipe frumenti satiat te.") },
       ]),
       paragraph("p4", "4", [
-        { id: "p4.1", ...tl("Qui emittit eloquium suum terrae : velociter currit sermo ejus.") },
+        { id: "p4.1", ...tl("Qui emittit eloquium suum terrae : velociter currit sermo eius.") },
       ]),
       paragraph("p5", "5", [
         { id: "p5.1", ...tl("Qui dat nivem sicut lanam ; nebulam sicut cinerem spargit.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Mittit crystallum suam sicut buccellas : ante faciem frigoris ejus quis sustinebit ?") },
+        { id: "p6.1", ...tl("Mittit crystallum suam sicut buccellas : ante faciem frigoris eius quis sustinebit ?") },
       ]),
       paragraph("p7", "7", [
-        { id: "p7.1", ...tl("Emittet verbum suum, et liquefaciet ea ; flabit spiritus ejus, et fluent aquae.") },
+        { id: "p7.1", ...tl("Emittet verbum suum, et liquefaciet ea ; flabit spiritus eius, et fluent aquae.") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("Qui annuntiat verbum suum Jacob, justitias et judicia sua Israël.") },
+        { id: "p8.1", ...tl("Qui annuntiat verbum suum Iacob, iustitias et iudicia sua Israël.") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("Non fecit taliter omni nationi, et judicia sua non manifestavit eis. Alleluja.") },
+        { id: "p9.1", ...tl("Non fecit taliter omni nationi, et iudicia sua non manifestavit eis. Alleluia.") },
       ]),
     ],
   },
@@ -8685,10 +8685,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate Dominum de caelis ; laudate eum in excelsis.") },
+        { id: "p1.1", ...tl("Alleluia. Laudate Dominum de caelis ; laudate eum in excelsis.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Laudate eum, omnes angeli ejus ; laudate eum, omnes virtutes ejus.") },
+        { id: "p2.1", ...tl("Laudate eum, omnes angeli eius ; laudate eum, omnes virtutes eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Laudate eum, sol et luna ; laudate eum, omnes stellae et lumen.") },
@@ -8706,7 +8706,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p7.1", ...tl("Laudate Dominum de terra, dracones et omnes abyssi ;") },
       ]),
       paragraph("p8", "8", [
-        { id: "p8.1", ...tl("ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum ejus ;") },
+        { id: "p8.1", ...tl("ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius ;") },
       ]),
       paragraph("p9", "9", [
         { id: "p9.1", ...tl("montes, et omnes colles ; ligna fructifera, et omnes cedri ;") },
@@ -8715,16 +8715,16 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p10.1", ...tl("bestiae, et universa pecora ; serpentes, et volucres pennatae ;") },
       ]),
       paragraph("p11", "11", [
-        { id: "p11.1", ...tl("reges terrae et omnes populi ; principes et omnes judices terrae ;") },
+        { id: "p11.1", ...tl("reges terrae et omnes populi ; principes et omnes iudices terrae ;") },
       ]),
       paragraph("p12", "12", [
-        { id: "p12.1", ...tl("juvenes et virgines ; senes cum junioribus, laudent nomen Domini :") },
+        { id: "p12.1", ...tl("iuvenes et virgines ; senes cum iunioribus, laudent nomen Domini :") },
       ]),
       paragraph("p13", "13", [
-        { id: "p13.1", ...tl("quia exaltatum est nomen ejus solius.") },
+        { id: "p13.1", ...tl("quia exaltatum est nomen eius solius.") },
       ]),
       paragraph("p14", "14", [
-        { id: "p14.1", ...tl("Confessio ejus super caelum et terram ; et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus ; filiis Israël, populo appropinquanti sibi. Alleluja.") },
+        { id: "p14.1", ...tl("Confessio eius super caelum et terram ; et exaltavit cornu populi sui. Hymnus omnibus sanctis eius ; filiis Israël, populo appropinquanti sibi. Alleluia.") },
       ]),
     ],
   },
@@ -8735,13 +8735,13 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Cantate Domino canticum novum ; laus ejus in ecclesia sanctorum.") },
+        { id: "p1.1", ...tl("Alleluia. Cantate Domino canticum novum ; laus eius in ecclesia sanctorum.") },
       ]),
       paragraph("p2", "2", [
         { id: "p2.1", ...tl("Laetetur Israël in eo qui fecit eum, et filii Sion exsultent in rege suo.") },
       ]),
       paragraph("p3", "3", [
-        { id: "p3.1", ...tl("Laudent nomen ejus in choro ; in tympano et psalterio psallant ei.") },
+        { id: "p3.1", ...tl("Laudent nomen eius in choro ; in tympano et psalterio psallant ei.") },
       ]),
       paragraph("p4", "4", [
         { id: "p4.1", ...tl("Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem.") },
@@ -8759,7 +8759,7 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p8.1", ...tl("ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis ;") },
       ]),
       paragraph("p9", "9", [
-        { id: "p9.1", ...tl("ut faciant in eis judicium conscriptum : gloria haec est omnibus sanctis ejus. Alleluja.") },
+        { id: "p9.1", ...tl("ut faciant in eis iudicium conscriptum : gloria haec est omnibus sanctis eius. Alleluia.") },
       ]),
     ],
   },
@@ -8770,10 +8770,10 @@ export const scaffoldChapters: Chapter[] = [
     heading: "",
     paragraphs: [
       paragraph("p1", "1", [
-        { id: "p1.1", ...tl("Alleluja. Laudate Dominum in sanctis ejus ; laudate eum in firmamento virtutis ejus.") },
+        { id: "p1.1", ...tl("Alleluia. Laudate Dominum in sanctis eius ; laudate eum in firmamento virtutis eius.") },
       ]),
       paragraph("p2", "2", [
-        { id: "p2.1", ...tl("Laudate eum in virtutibus ejus ; laudate eum secundum multitudinem magnitudinis ejus.") },
+        { id: "p2.1", ...tl("Laudate eum in virtutibus eius ; laudate eum secundum multitudinem magnitudinis eius.") },
       ]),
       paragraph("p3", "3", [
         { id: "p3.1", ...tl("Laudate eum in sono tubae ; laudate eum in psalterio et cithara.") },
@@ -8782,10 +8782,10 @@ export const scaffoldChapters: Chapter[] = [
         { id: "p4.1", ...tl("Laudate eum in tympano et choro ; laudate eum in chordis et organo.") },
       ]),
       paragraph("p5", "5", [
-        { id: "p5.1", ...tl("Laudate eum in cymbalis benesonantibus ; laudate eum in cymbalis jubilationis.") },
+        { id: "p5.1", ...tl("Laudate eum in cymbalis benesonantibus ; laudate eum in cymbalis iubilationis.") },
       ]),
       paragraph("p6", "6", [
-        { id: "p6.1", ...tl("Omnis spiritus laudet Dominum ! Alleluja.") },
+        { id: "p6.1", ...tl("Omnis spiritus laudet Dominum ! Alleluia.") },
       ]),
     ],
   },

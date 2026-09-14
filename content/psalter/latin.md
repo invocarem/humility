@@ -1,6 +1,6 @@
 # Liber Psalmorum — Psalterium Gallicanum (iuxta LXX)
 
-*App working text: Vulgata Clementina, Liber Psalmorum — the Vulgate Gallican psalter (iuxta LXX), the office psalter of the Benedictine and Roman Divine Office, per la.wikisource.org (Vulgata Clementina); æ/œ ligatures written ae/oe. For the study reader only; the app never edits this file.*
+*App working text: Vulgata Clementina, Liber Psalmorum — the Vulgate Gallican psalter (iuxta LXX), the office psalter of the Benedictine and Roman Divine Office, per la.wikisource.org (Vulgata Clementina); æ/œ ligatures written ae/oe, and consonantal i written i not j (ejus→eius, justitia→iustitia, Alleluja→Alleluia). For the study reader only; the app never edits this file.*
 
 ---
 
@@ -8,15 +8,15 @@
 
 1. Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit ;
 
-2. sed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac nocte.
+2. sed in lege Domini voluntas eius, et in lege eius meditabitur die ac nocte.
 
-3. Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium ejus non defluet ; et omnia quaecumque faciet prosperabuntur.
+3. Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium eius non defluet ; et omnia quaecumque faciet prosperabuntur.
 
-4. Non sic impii, non sic ; sed tamquam pulvis quem projicit ventus a facie terrae.
+4. Non sic impii, non sic ; sed tamquam pulvis quem proiicit ventus a facie terrae.
 
-5. Ideo non resurgent impii in judicio, neque peccatores in concilio justorum :
+5. Ideo non resurgent impii in iudicio, neque peccatores in concilio iustorum :
 
-6. quoniam novit Dominus viam justorum, et iter impiorum peribit.
+6. quoniam novit Dominus viam iustorum, et iter impiorum peribit.
 
 ---
 
@@ -24,15 +24,15 @@
 
 1. Quare fremuerunt gentes, et populi meditati sunt inania ?
 
-2. Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus christum ejus.
+2. Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus christum eius.
 
-3. Dirumpamus vincula eorum, et projiciamus a nobis jugum ipsorum.
+3. Dirumpamus vincula eorum, et proiiciamus a nobis iugum ipsorum.
 
 4. Qui habitat in caelis irridebit eos, et Dominus subsannabit eos.
 
 5. Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos.
 
-6. Ego autem constitutus sum rex ab eo super Sion, montem sanctum ejus, praedicans praeceptum ejus.
+6. Ego autem constitutus sum rex ab eo super Sion, montem sanctum eius, praedicans praeceptum eius.
 
 7. Dominus dixit ad me : Filius meus es tu ; ego hodie genui te.
 
@@ -40,13 +40,13 @@
 
 9. Reges eos in virga ferrea, et tamquam vas figuli confringes eos.
 
-10. Et nunc, reges, intelligite ; erudimini, qui judicatis terram.
+10. Et nunc, reges, intelligite ; erudimini, qui iudicatis terram.
 
 11. Servite Domino in timore, et exsultate ei cum tremore.
 
-12. Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa.
+12. Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via iusta.
 
-13. Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo.
+13. Cum exarserit in brevi ira eius, beati omnes qui confidunt in eo.
 
 ---
 
@@ -56,7 +56,7 @@
 
 2. Domine, quid multiplicati sunt qui tribulant me ? Multi insurgunt adversum me ;
 
-3. multi dicunt animae meae : Non est salus ipsi in Deo ejus.
+3. multi dicunt animae meae : Non est salus ipsi in Deo eius.
 
 4. Tu autem Domine, susceptor meus es, gloria mea, et exaltans caput meum.
 
@@ -76,7 +76,7 @@
 
 1. In finem, in carminibus. Psalmus David.
 
-2. Cum invocarem exaudivit me Deus justitiae meae, in tribulatione dilatasti mihi. Miserere mei, et exaudi orationem meam.
+2. Cum invocarem exaudivit me Deus iustitiae meae, in tribulatione dilatasti mihi. Miserere mei, et exaudi orationem meam.
 
 3. Filii hominum, usquequo gravi corde ? ut quid diligitis vanitatem, et quaeritis mendacium ?
 
@@ -84,7 +84,7 @@
 
 5. Irascimini, et nolite peccare ; quae dicitis in cordibus vestris, in cubilibus vestris compungimini.
 
-6. Sacrificate sacrificium justitiae, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona ?
+6. Sacrificate sacrificium iustitiae, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona ?
 
 7. Signatum est super nos lumen vultus tui, Domine : dedisti laetitiam in corde meo.
 
@@ -108,21 +108,21 @@
 
 5. Mane astabo tibi, et videbo quoniam non Deus volens iniquitatem tu es.
 
-6. Neque habitabit juxta te malignus, neque permanebunt injusti ante oculos tuos.
+6. Neque habitabit iuxta te malignus, neque permanebunt iniusti ante oculos tuos.
 
 7. Odisti omnes qui operantur iniquitatem ; perdes omnes qui loquuntur mendacium. Virum sanguinum et dolosum abominabitur Dominus.
 
 8. Ego autem in multitudine misericordiae tuae introibo in domum tuam ; adorabo ad templum sanctum tuum in timore tuo.
 
-9. Domine, deduc me in justitia tua : propter inimicos meos dirige in conspectu tuo viam meam.
+9. Domine, deduc me in iustitia tua : propter inimicos meos dirige in conspectu tuo viam meam.
 
 10. Quoniam non est in ore eorum veritas ; cor eorum vanum est.
 
-11. Sepulchrum patens est guttur eorum ; linguis suis dolose agebant : judica illos, Deus. Decidant a cogitationibus suis ; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine.
+11. Sepulchrum patens est guttur eorum ; linguis suis dolose agebant : iudica illos, Deus. Decidant a cogitationibus suis ; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine.
 
 12. Et laetentur omnes qui sperant in te ; in aeternum exsultabunt, et habitabis in eis. Et gloriabuntur in te omnes qui diligunt nomen tuum,
 
-13. quoniam tu benedices justo. Domine, ut scuto bonae voluntatis tuae coronasti nos.
+13. quoniam tu benedices iusto. Domine, ut scuto bonae voluntatis tuae coronasti nos.
 
 ---
 
@@ -154,7 +154,7 @@
 
 ## Psalmus 7
 
-1. Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini.
+1. Psalmus David, quem cantavit Domino pro verbis Chusi, filii Iemini.
 
 2. Domine Deus meus, in te speravi ; salvum me fac ex omnibus persequentibus me, et libera me :
 
@@ -170,25 +170,25 @@
 
 8. et synagoga populorum circumdabit te : et propter hanc in altum regredere :
 
-9. Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me.
+9. Dominus iudicat populos. Iudica me, Domine, secundum iustitiam meam, et secundum innocentiam meam super me.
 
-10. Consumetur nequitia peccatorum, et diriges justum, scrutans corda et renes, Deus.
+10. Consumetur nequitia peccatorum, et diriges iustum, scrutans corda et renes, Deus.
 
-11. Justum adjutorium meum a Domino, qui salvos facit rectos corde.
+11. Iustum adiutorium meum a Domino, qui salvos facit rectos corde.
 
-12. Deus judex justus, fortis, et patiens ; numquid irascitur per singulos dies ?
+12. Deus iudex iustus, fortis, et patiens ; numquid irascitur per singulos dies ?
 
 13. Nisi conversi fueritis, gladium suum vibrabit ; arcum suum tetendit, et paravit illum.
 
 14. Et in eo paravit vasa mortis, sagittas suas ardentibus effecit.
 
-15. Ecce parturiit injustitiam ; concepit dolorem, et peperit iniquitatem.
+15. Ecce parturiit iniustitiam ; concepit dolorem, et peperit iniquitatem.
 
 16. Lacum aperuit, et effodit eum ; et incidit in foveam quam fecit.
 
-17. Convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet.
+17. Convertetur dolor eius in caput eius, et in verticem ipsius iniquitas eius descendet.
 
-18. Confitebor Domino secundum justitiam ejus, et psallam nomini Domini altissimi.
+18. Confitebor Domino secundum iustitiam eius, et psallam nomini Domini altissimi.
 
 ---
 
@@ -202,13 +202,13 @@
 
 4. Quoniam videbo caelos tuos, opera digitorum tuorum, lunam et stellas quae tu fundasti.
 
-5. Quid est homo, quod memor es ejus ? aut filius hominis, quoniam visitas eum ?
+5. Quid est homo, quod memor es eius ? aut filius hominis, quoniam visitas eum ?
 
 6. Minuisti eum paulominus ab angelis ; gloria et honore coronasti eum ;
 
 7. et constituisti eum super opera manuum tuarum.
 
-8. Omnia subjecisti sub pedibus ejus, oves et boves universas, insuper et pecora campi,
+8. Omnia subiecisti sub pedibus eius, oves et boves universas, insuper et pecora campi,
 
 9. volucres caeli, et pisces maris qui perambulant semitas maris.
 
@@ -226,21 +226,21 @@
 
 4. In convertendo inimicum meum retrorsum ; infirmabuntur, et peribunt a facie tua.
 
-5. Quoniam fecisti judicium meum et causam meam ; sedisti super thronum, qui judicas justitiam.
+5. Quoniam fecisti iudicium meum et causam meam ; sedisti super thronum, qui iudicas iustitiam.
 
 6. Increpasti gentes, et periit impius : nomen eorum delesti in aeternum, et in saeculum saeculi.
 
 7. Inimici defecerunt frameae in finem, et civitates eorum destruxisti. Periit memoria eorum cum sonitu ;
 
-8. et Dominus in aeternum permanet. Paravit in judicio thronum suum,
+8. et Dominus in aeternum permanet. Paravit in iudicio thronum suum,
 
-9. et ipse judicabit orbem terrae in aequitate : judicabit populos in justitia.
+9. et ipse iudicabit orbem terrae in aequitate : iudicabit populos in iustitia.
 
-10. Et factus est Dominus refugium pauperi ; adjutor in opportunitatibus, in tribulatione.
+10. Et factus est Dominus refugium pauperi ; adiutor in opportunitatibus, in tribulatione.
 
 11. Et sperent in te qui noverunt nomen tuum, quoniam non dereliquisti quaerentes te, Domine.
 
-12. Psallite Domino qui habitat in Sion ; annuntiate inter gentes studia ejus :
+12. Psallite Domino qui habitat in Sion ; annuntiate inter gentes studia eius :
 
 13. quoniam requirens sanguinem eorum recordatus est ; non est oblitus clamorem pauperum.
 
@@ -250,13 +250,13 @@
 
 16. exsultabo in salutari tuo. Infixae sunt gentes in interitu quem fecerunt ; in laqueo isto quem absconderunt comprehensus est pes eorum.
 
-17. Cognoscetur Dominus judicia faciens ; in operibus manuum suarum comprehensus est peccator.
+17. Cognoscetur Dominus iudicia faciens ; in operibus manuum suarum comprehensus est peccator.
 
 18. Convertantur peccatores in infernum, omnes gentes quae obliviscuntur Deum.
 
 19. Quoniam non in finem oblivio erit pauperis ; patientia pauperum non peribit in finem.
 
-20. Exsurge, Domine ; non confortetur homo : judicentur gentes in conspectu tuo.
+20. Exsurge, Domine ; non confortetur homo : iudicentur gentes in conspectu tuo.
 
 21. Constitue, Domine, legislatorem super eos, ut sciant gentes quoniam homines sunt.
 
@@ -268,15 +268,15 @@
 
 25. Exacerbavit Dominum peccator : secundum multitudinem irae suae, non quaeret.
 
-26. Non est Deus in conspectu ejus ; inquinatae sunt viae illius in omni tempore. Auferuntur judicia tua a facie ejus ; omnium inimicorum suorum dominabitur.
+26. Non est Deus in conspectu eius ; inquinatae sunt viae illius in omni tempore. Auferuntur iudicia tua a facie eius ; omnium inimicorum suorum dominabitur.
 
 27. Dixit enim in corde suo : Non movebor a generatione in generationem, sine malo.
 
-28. Cujus maledictione os plenum est, et amaritudine, et dolo ; sub lingua ejus labor et dolor.
+28. Cuius maledictione os plenum est, et amaritudine, et dolo ; sub lingua eius labor et dolor.
 
 29. Sedet in insidiis cum divitibus in occultis, ut interficiat innocentem.
 
-30. Oculi ejus in pauperem respiciunt ; insidiatur in abscondito, quasi leo in spelunca sua. Insidiatur ut rapiat pauperem ; rapere pauperem dum attrahit eum.
+30. Oculi eius in pauperem respiciunt ; insidiatur in abscondito, quasi leo in spelunca sua. Insidiatur ut rapiat pauperem ; rapere pauperem dum attrahit eum.
 
 31. In laqueo suo humiliabit eum ; inclinabit se, et cadet cum dominatus fuerit pauperum.
 
@@ -286,7 +286,7 @@
 
 34. Propter quid irritavit impius Deum ? dixit enim in corde suo : Non requiret.
 
-35. Vides, quoniam tu laborem et dolorem consideras, ut tradas eos in manus tuas. Tibi derelictus est pauper ; orphano tu eris adjutor.
+35. Vides, quoniam tu laborem et dolorem consideras, ut tradas eos in manus tuas. Tibi derelictus est pauper ; orphano tu eris adiutor.
 
 36. Contere brachium peccatoris et maligni ; quaeretur peccatum illius, et non invenietur.
 
@@ -294,7 +294,7 @@
 
 38. Desiderium pauperum exaudivit Dominus ; praeparationem cordis eorum audivit auris tua :
 
-39. judicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.
+39. iudicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.
 
 ---
 
@@ -306,15 +306,15 @@
 
 3. Quoniam ecce peccatores intenderunt arcum ; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde :
 
-4. quoniam quae perfecisti destruxerunt ; justus autem, quid fecit ?
+4. quoniam quae perfecisti destruxerunt ; iustus autem, quid fecit ?
 
-5. Dominus in templo sancto suo ; Dominus in caelo sedes ejus. Oculi ejus in pauperem respiciunt ; palpebrae ejus interrogant filios hominum.
+5. Dominus in templo sancto suo ; Dominus in caelo sedes eius. Oculi eius in pauperem respiciunt ; palpebrae eius interrogant filios hominum.
 
-6. Dominus interrogat justum et impium ; qui autem diligit iniquitatem, odit animam suam.
+6. Dominus interrogat iustum et impium ; qui autem diligit iniquitatem, odit animam suam.
 
 7. Pluet super peccatores laqueos ; ignis et sulphur, et spiritus procellarum, pars calicis eorum.
 
-8. Quoniam justus Dominus, et justitias dilexit : aequitatem vidit vultus ejus.
+8. Quoniam iustus Dominus, et iustitias dilexit : aequitatem vidit vultus eius.
 
 ---
 
@@ -368,9 +368,9 @@
 
 5. Dominum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor.
 
-6. Quoniam Dominus in generatione justa est : consilium inopis confudistis, quoniam Dominus spes ejus est.
+6. Quoniam Dominus in generatione iusta est : consilium inopis confudistis, quoniam Dominus spes eius est.
 
-7. Quis dabit ex Sion salutare Israël ? Cum averterit Dominus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israël.
+7. Quis dabit ex Sion salutare Israël ? Cum averterit Dominus captivitatem plebis suae, exsultabit Iacob, et laetabitur Israël.
 
 ---
 
@@ -378,11 +378,11 @@
 
 1. Psalmus David. Domine, quis habitabit in tabernaculo tuo ? aut quis requiescet in monte sancto tuo ?
 
-2. Qui ingreditur sine macula, et operatur justitiam ;
+2. Qui ingreditur sine macula, et operatur iustitiam ;
 
 3. qui loquitur veritatem in corde suo : qui non egit dolum in lingua sua, nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos.
 
-4. Ad nihilum deductus est in conspectu ejus malignus ; timentes autem Dominum glorificat. Qui jurat proximo suo, et non decipit ;
+4. Ad nihilum deductus est in conspectu eius malignus ; timentes autem Dominum glorificat. Qui iurat proximo suo, et non decipit ;
 
 5. qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit : qui facit haec non movebitur in aeternum.
 
@@ -394,7 +394,7 @@
 
 2. Dixi Domino : Deus meus es tu, quoniam bonorum meorum non eges.
 
-3. Sanctis qui sunt in terra ejus, mirificavit omnes voluntates meas in eis.
+3. Sanctis qui sunt in terra eius, mirificavit omnes voluntates meas in eis.
 
 4. Multiplicatae sunt infirmitates eorum : postea acceleraverunt. Non congregabo conventicula eorum de sanguinibus, nec memor ero nominum eorum per labia mea.
 
@@ -414,9 +414,9 @@
 
 ## Psalmus 16
 
-1. Oratio David. Exaudi, Domine, justitiam meam ; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.
+1. Oratio David. Exaudi, Domine, iustitiam meam ; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.
 
-2. De vultu tuo judicium meum prodeat ; oculi tui videant aequitates.
+2. De vultu tuo iudicium meum prodeat ; oculi tui videant aequitates.
 
 3. Probasti cor meum, et visitasti nocte ; igne me examinasti, et non est inventa in me iniquitas.
 
@@ -434,7 +434,7 @@
 
 10. adipem suum concluserunt : os eorum locutum est superbiam.
 
-11. Projicientes me nunc circumdederunt me ; oculos suos statuerunt declinare in terram.
+11. Proiicientes me nunc circumdederunt me ; oculos suos statuerunt declinare in terram.
 
 12. Susceperunt me sicut leo paratus ad praedam, et sicut catulus leonis habitans in abditis.
 
@@ -442,17 +442,17 @@
 
 14. ab inimicis manus tuae. Domine, a paucis de terra divide eos in vita eorum ; de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis, et dimiserunt reliquias suas parvulis suis.
 
-15. Ego autem in justitia apparebo conspectui tuo ; satiabor cum apparuerit gloria tua.
+15. Ego autem in iustitia apparebo conspectui tuo ; satiabor cum apparuerit gloria tua.
 
 ---
 
 ## Psalmus 17
 
-1. In finem. Puero Domini David, qui locutus est Domino verba cantici hujus, in die qua eripuit eum Dominus de manu omnium inimicorum ejus, et de manu Saul, et dixit :
+1. In finem. Puero Domini David, qui locutus est Domino verba cantici huius, in die qua eripuit eum Dominus de manu omnium inimicorum eius, et de manu Saul, et dixit :
 
 2. Diligam te, Domine, fortitudo mea.
 
-3. Dominus firmamentum meum, et refugium meum, et liberator meus. Deus meus adjutor meus, et sperabo in eum ; protector meus, et cornu salutis meae, et susceptor meus.
+3. Dominus firmamentum meum, et refugium meum, et liberator meus. Deus meus adiutor meus, et sperabo in eum ; protector meus, et cornu salutis meae, et susceptor meus.
 
 4. Laudans invocabo Dominum, et ab inimicis meis salvus ero.
 
@@ -460,19 +460,19 @@
 
 6. Dolores inferni circumdederunt me ; praeoccupaverunt me laquei mortis.
 
-7. In tribulatione mea invocavi Dominum, et ad Deum meum clamavi : et exaudivit de templo sancto suo vocem meam ; et clamor meus in conspectu ejus introivit in aures ejus.
+7. In tribulatione mea invocavi Dominum, et ad Deum meum clamavi : et exaudivit de templo sancto suo vocem meam ; et clamor meus in conspectu eius introivit in aures eius.
 
 8. Commota est, et contremuit terra ; fundamenta montium conturbata sunt, et commota sunt : quoniam iratus est eis.
 
-9. Ascendit fumus in ira ejus, et ignis a facie ejus exarsit ; carbones succensi sunt ab eo.
+9. Ascendit fumus in ira eius, et ignis a facie eius exarsit ; carbones succensi sunt ab eo.
 
-10. Inclinavit caelos, et descendit, et caligo sub pedibus ejus.
+10. Inclinavit caelos, et descendit, et caligo sub pedibus eius.
 
 11. Et ascendit super cherubim, et volavit ; volavit super pennas ventorum.
 
-12. Et posuit tenebras latibulum suum ; in circuitu ejus tabernaculum ejus, tenebrosa aqua in nubibus aëris.
+12. Et posuit tenebras latibulum suum ; in circuitu eius tabernaculum eius, tenebrosa aqua in nubibus aëris.
 
-13. Prae fulgore in conspectu ejus nubes transierunt ; grando et carbones ignis.
+13. Prae fulgore in conspectu eius nubes transierunt ; grando et carbones ignis.
 
 14. Et intonuit de caelo Dominus, et Altissimus dedit vocem suam : grando et carbones ignis.
 
@@ -488,15 +488,15 @@
 
 20. Et eduxit me in latitudinem ; salvum me fecit, quoniam voluit me,
 
-21. et retribuet mihi Dominus secundum justitiam meam, et secundum puritatem manuum mearum retribuet mihi :
+21. et retribuet mihi Dominus secundum iustitiam meam, et secundum puritatem manuum mearum retribuet mihi :
 
 22. quia custodivi vias Domini, nec impie gessi a Deo meo ;
 
-23. quoniam omnia judicia ejus in conspectu meo, et justitias ejus non repuli a me.
+23. quoniam omnia iudicia eius in conspectu meo, et iustitias eius non repuli a me.
 
 24. Et ero immaculatus cum eo ; et observabo me ab iniquitate mea.
 
-25. Et retribuet mihi Dominus secundum justitiam meam, et secundum puritatem manuum mearum in conspectu oculorum ejus.
+25. Et retribuet mihi Dominus secundum iustitiam meam, et secundum puritatem manuum mearum in conspectu oculorum eius.
 
 26. Cum sancto sanctus eris, et cum viro innocente innocens eris,
 
@@ -508,7 +508,7 @@
 
 30. Quoniam in te eripiar a tentatione ; et in Deo meo transgrediar murum.
 
-31. Deus meus, impolluta via ejus ; eloquia Domini igne examinata : protector est omnium sperantium in se.
+31. Deus meus, impolluta via eius ; eloquia Domini igne examinata : protector est omnium sperantium in se.
 
 32. Quoniam quis deus praeter Dominum ? aut quis deus praeter Deum nostrum ?
 
@@ -548,7 +548,7 @@
 
 50. Propterea confitebor tibi in nationibus, Domine, et nomini tuo psalmum dicam ;
 
-51. magnificans salutes regis ejus, et faciens misericordiam christo suo David, et semini ejus usque in saeculum.
+51. magnificans salutes regis eius, et faciens misericordiam christo suo David, et semini eius usque in saeculum.
 
 ---
 
@@ -556,7 +556,7 @@
 
 1. In finem. Psalmus David.
 
-2. Caeli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum.
+2. Caeli enarrant gloriam Dei, et opera manuum eius annuntiat firmamentum.
 
 3. Dies diei eructat verbum, et nox nocti indicat scientiam.
 
@@ -566,13 +566,13 @@
 
 6. In sole posuit tabernaculum suum ; et ipse tamquam sponsus procedens de thalamo suo. Exsultavit ut gigas ad currendam viam ;
 
-7. a summo caelo egressio ejus. Et occursus ejus usque ad summum ejus ; nec est qui se abscondat a calore ejus.
+7. a summo caelo egressio eius. Et occursus eius usque ad summum eius ; nec est qui se abscondat a calore eius.
 
 8. Lex Domini immaculata, convertens animas ; testimonium Domini fidele, sapientiam praestans parvulis.
 
-9. Justitiae Domini rectae, laetificantes corda ; praeceptum Domini lucidum, illuminans oculos.
+9. Iustitiae Domini rectae, laetificantes corda ; praeceptum Domini lucidum, illuminans oculos.
 
-10. Timor Domini sanctus, permanens in saeculum saeculi ; judicia Domini vera, justificata in semetipsa,
+10. Timor Domini sanctus, permanens in saeculum saeculi ; iudicia Domini vera, iustificata in semetipsa,
 
 11. desiderabilia super aurum et lapidem pretiosum multum, et dulciora super mel et favum.
 
@@ -582,7 +582,7 @@
 
 14. et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero, et emundabor a delicto maximo.
 
-15. Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper. Domine, adjutor meus, et redemptor meus.
+15. Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper. Domine, adiutor meus, et redemptor meus.
 
 ---
 
@@ -590,7 +590,7 @@
 
 1. In finem. Psalmus David.
 
-2. Exaudiat te Dominus in die tribulationis ; protegat te nomen Dei Jacob.
+2. Exaudiat te Dominus in die tribulationis ; protegat te nomen Dei Iacob.
 
 3. Mittat tibi auxilium de sancto, et de Sion tueatur te.
 
@@ -600,7 +600,7 @@
 
 6. Laetabimur in salutari tuo ; et in nomine Dei nostri magnificabimur.
 
-7. Impleat Dominus omnes petitiones tuas ; nunc cognovi quoniam salvum fecit Dominus christum suum. Exaudiet illum de caelo sancto suo, in potentatibus salus dexterae ejus.
+7. Impleat Dominus omnes petitiones tuas ; nunc cognovi quoniam salvum fecit Dominus christum suum. Exaudiet illum de caelo sancto suo, in potentatibus salus dexterae eius.
 
 8. Hi in curribus, et hi in equis ; nos autem in nomine Domini Dei nostri invocabimus.
 
@@ -616,13 +616,13 @@
 
 2. Domine, in virtute tua laetabitur rex, et super salutare tuum exsultabit vehementer.
 
-3. Desiderium cordis ejus tribuisti ei, et voluntate labiorum ejus non fraudasti eum.
+3. Desiderium cordis eius tribuisti ei, et voluntate labiorum eius non fraudasti eum.
 
-4. Quoniam praevenisti eum in benedictionibus dulcedinis ; posuisti in capite ejus coronam de lapide pretioso.
+4. Quoniam praevenisti eum in benedictionibus dulcedinis ; posuisti in capite eius coronam de lapide pretioso.
 
 5. Vitam petiit a te, et tribuisti ei longitudinem dierum, in saeculum, et in saeculum saeculi.
 
-6. Magna est gloria ejus in salutari tuo ; gloriam et magnum decorem impones super eum.
+6. Magna est gloria eius in salutari tuo ; gloriam et magnum decorem impones super eum.
 
 7. Quoniam dabis eum in benedictionem in saeculum saeculi ; laetificabis eum in gaudio cum vultu tuo.
 
@@ -656,7 +656,7 @@
 
 6. Ad te clamaverunt, et salvi facti sunt ; in te speraverunt, et non sunt confusi.
 
-7. Ego autem sum vermis, et non homo ; opprobrium hominum, et abjectio plebis.
+7. Ego autem sum vermis, et non homo ; opprobrium hominum, et abiectio plebis.
 
 8. Omnes videntes me deriserunt me ; locuti sunt labiis, et moverunt caput.
 
@@ -664,9 +664,9 @@
 
 10. Quoniam tu es qui extraxisti me de ventre, spes mea ab uberibus matris meae.
 
-11. In te projectus sum ex utero ; de ventre matris meae Deus meus es tu :
+11. In te proiectus sum ex utero ; de ventre matris meae Deus meus es tu :
 
-12. ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adjuvet.
+12. ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adiuvet.
 
 13. Circumdederunt me vituli multi ; tauri pingues obsederunt me.
 
@@ -690,7 +690,7 @@
 
 23. Narrabo nomen tuum fratribus meis ; in medio ecclesiae laudabo te.
 
-24. Qui timetis Dominum, laudate eum ; universum semen Jacob, glorificate eum.
+24. Qui timetis Dominum, laudate eum ; universum semen Iacob, glorificate eum.
 
 25. Timeat eum omne semen Israël, quoniam non sprevit, neque despexit deprecationem pauperis, nec avertit faciem suam a me : et cum clamarem ad eum, exaudivit me.
 
@@ -698,15 +698,15 @@
 
 27. Edent pauperes, et saturabuntur, et laudabunt Dominum qui requirunt eum : vivent corda eorum in saeculum saeculi.
 
-28. Reminiscentur et convertentur ad Dominum universi fines terrae ; et adorabunt in conspectu ejus universae familiae gentium :
+28. Reminiscentur et convertentur ad Dominum universi fines terrae ; et adorabunt in conspectu eius universae familiae gentium :
 
 29. quoniam Domini est regnum, et ipse dominabitur gentium.
 
-30. Manducaverunt et adoraverunt omnes pingues terrae ; in conspectu ejus cadent omnes qui descendunt in terram.
+30. Manducaverunt et adoraverunt omnes pingues terrae ; in conspectu eius cadent omnes qui descendunt in terram.
 
 31. Et anima mea illi vivet ; et semen meum serviet ipsi.
 
-32. Annuntiabitur Domino generatio ventura ; et annuntiabunt caeli justitiam ejus populo qui nascetur, quem fecit Dominus.
+32. Annuntiabitur Domino generatio ventura ; et annuntiabunt caeli iustitiam eius populo qui nascetur, quem fecit Dominus.
 
 ---
 
@@ -716,7 +716,7 @@
 
 2. in loco pascuae, ibi me collocavit. Super aquam refectionis educavit me ;
 
-3. animam meam convertit. Deduxit me super semitas justitiae propter nomen suum.
+3. animam meam convertit. Deduxit me super semitas iustitiae propter nomen suum.
 
 4. Nam etsi ambulavero in medio umbrae mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt.
 
@@ -728,17 +728,17 @@
 
 ## Psalmus 23
 
-1. Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus ; orbis terrarum, et universi qui habitant in eo.
+1. Prima sabbati. Psalmus David. Domini est terra, et plenitudo eius ; orbis terrarum, et universi qui habitant in eo.
 
 2. Quia ipse super maria fundavit eum, et super flumina praeparavit eum.
 
-3. Quis ascendet in montem Domini ? aut quis stabit in loco sancto ejus ?
+3. Quis ascendet in montem Domini ? aut quis stabit in loco sancto eius ?
 
-4. Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo :
+4. Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec iuravit in dolo proximo suo :
 
 5. hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo.
 
-6. Haec est generatio quaerentium eum, quaerentium faciem Dei Jacob.
+6. Haec est generatio quaerentium eum, quaerentium faciem Dei Iacob.
 
 7. Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae.
 
@@ -764,19 +764,19 @@
 
 6. Reminiscere miserationum tuarum, Domine, et misericordiarum tuarum quae a saeculo sunt.
 
-7. Delicta juventutis meae, et ignorantias meas, ne memineris. Secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine.
+7. Delicta iuventutis meae, et ignorantias meas, ne memineris. Secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine.
 
 8. Dulcis et rectus Dominus ; propter hoc legem dabit delinquentibus in via.
 
-9. Diriget mansuetos in judicio ; docebit mites vias suas.
+9. Diriget mansuetos in iudicio ; docebit mites vias suas.
 
-10. Universae viae Domini, misericordia et veritas, requirentibus testamentum ejus et testimonia ejus.
+10. Universae viae Domini, misericordia et veritas, requirentibus testamentum eius et testimonia eius.
 
 11. Propter nomen tuum, Domine, propitiaberis peccato meo ; multum est enim.
 
 12. Quis est homo qui timet Dominum ? legem statuit ei in via quam elegit.
 
-13. Anima ejus in bonis demorabitur, et semen ejus haereditabit terram.
+13. Anima eius in bonis demorabitur, et semen eius haereditabit terram.
 
 14. Firmamentum est Dominus timentibus eum ; et testamentum ipsius ut manifestetur illis.
 
@@ -800,7 +800,7 @@
 
 ## Psalmus 25
 
-1. In finem. Psalmus David. Judica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor.
+1. In finem. Psalmus David. Iudica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor.
 
 2. Proba me, Domine, et tenta me ; ure renes meos et cor meum.
 
@@ -834,17 +834,17 @@
 
 3. Si consistant adversum me castra, non timebit cor meum ; si exsurgat adversum me praelium, in hoc ego sperabo.
 
-4. Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitae meae ; ut videam voluptatem Domini, et visitem templum ejus.
+4. Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitae meae ; ut videam voluptatem Domini, et visitem templum eius.
 
 5. Quoniam abscondit me in tabernaculo suo ; in die malorum protexit me in abscondito tabernaculi sui.
 
-6. In petra exaltavit me, et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo ejus hostiam vociferationis ; cantabo, et psalmum dicam Domino.
+6. In petra exaltavit me, et nunc exaltavit caput meum super inimicos meos. Circuivi, et immolavi in tabernaculo eius hostiam vociferationis ; cantabo, et psalmum dicam Domino.
 
 7. Exaudi, Domine, vocem meam, qua clamavi ad te ; miserere mei, et exaudi me.
 
 8. Tibi dixit cor meum : Exquisivit te facies mea ; faciem tuam, Domine, requiram.
 
-9. Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adjutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus.
+9. Ne avertas faciem tuam a me ; ne declines in ira a servo tuo. Adiutor meus esto ; ne derelinquas me, neque despicias me, Deus salutaris meus.
 
 10. Quoniam pater meus et mater mea dereliquerunt me ; Dominus autem assumpsit me.
 
@@ -868,11 +868,11 @@
 
 4. Da illis secundum opera eorum, et secundum nequitiam adinventionum ipsorum. Secundum opera manuum eorum tribue illis ; redde retributionem eorum ipsis.
 
-5. Quoniam non intellexerunt opera Domini, et in opera manuum ejus destrues illos, et non aedificabis eos.
+5. Quoniam non intellexerunt opera Domini, et in opera manuum eius destrues illos, et non aedificabis eos.
 
 6. Benedictus Dominus, quoniam exaudivit vocem deprecationis meae.
 
-7. Dominus adjutor meus et protector meus ; in ipso speravit cor meum, et adjutus sum : et refloruit caro mea, et ex voluntate mea confitebor ei.
+7. Dominus adiutor meus et protector meus ; in ipso speravit cor meum, et adiutus sum : et refloruit caro mea, et ex voluntate mea confitebor ei.
 
 8. Dominus fortitudo plebis suae, et protector salvationum christi sui est.
 
@@ -884,9 +884,9 @@
 
 1. Psalmus David, in consummatione tabernaculi. Afferte Domino, filii Dei, afferte Domino filios arietum.
 
-2. Afferte Domino gloriam et honorem ; afferte Domino gloriam nomini ejus ; adorate Dominum in atrio sancto ejus.
+2. Afferte Domino gloriam et honorem ; afferte Domino gloriam nomini eius ; adorate Dominum in atrio sancto eius.
 
-3. Vox Domini super aquas ; Deus majestatis intonuit : Dominus super aquas multas.
+3. Vox Domini super aquas ; Deus maiestatis intonuit : Dominus super aquas multas.
 
 4. Vox Domini in virtute ; vox Domini in magnificentia.
 
@@ -898,7 +898,7 @@
 
 8. vox Domini concutientis desertum : et commovebit Dominus desertum Cades.
 
-9. Vox Domini praeparantis cervos : et revelabit condensa, et in templo ejus omnes dicent gloriam.
+9. Vox Domini praeparantis cervos : et revelabit condensa, et in templo eius omnes dicent gloriam.
 
 10. Dominus diluvium inhabitare facit, et sedebit Dominus rex in aeternum.
 
@@ -916,9 +916,9 @@
 
 4. Domine, eduxisti ab inferno animam meam ; salvasti me a descendentibus in lacum.
 
-5. Psallite Domino, sancti ejus ; et confitemini memoriae sanctitatis ejus.
+5. Psallite Domino, sancti eius ; et confitemini memoriae sanctitatis eius.
 
-6. Quoniam ira in indignatione ejus, et vita in voluntate ejus : ad vesperum demorabitur fletus, et ad matutinum laetitia.
+6. Quoniam ira in indignatione eius, et vita in voluntate eius : ad vesperum demorabitur fletus, et ad matutinum laetitia.
 
 7. Ego autem dixi in abundantia mea : Non movebor in aeternum.
 
@@ -928,7 +928,7 @@
 
 10. Quae utilitas in sanguine meo, dum descendo in corruptionem ? numquid confitebitur tibi pulvis, aut annuntiabit veritatem tuam ?
 
-11. Audivit Dominus, et misertus est mei ; Dominus factus est adjutor meus.
+11. Audivit Dominus, et misertus est mei ; Dominus factus est adiutor meus.
 
 12. Convertisti planctum meum in gaudium mihi ; conscidisti saccum meum, et circumdedisti me laetitia :
 
@@ -940,7 +940,7 @@
 
 1. In finem. Psalmus David, pro extasi.
 
-2. In te, Domine, speravi ; non confundar in aeternum : in justitia tua libera me.
+2. In te, Domine, speravi ; non confundar in aeternum : in iustitia tua libera me.
 
 3. Inclina ad me aurem tuam ; accelera ut eruas me. Esto mihi in Deum protectorem, et in domum refugii, ut salvum me facias :
 
@@ -974,7 +974,7 @@
 
 18. Domine, non confundar, quoniam invocavi te. Erubescant impii, et deducantur in infernum ;
 
-19. muta fiant labia dolosa, quae loquuntur adversus justum iniquitatem, in superbia, et in abusione.
+19. muta fiant labia dolosa, quae loquuntur adversus iustum iniquitatem, in superbia, et in abusione.
 
 20. Quam magna multitudo dulcedinis tuae, Domine, quam abscondisti timentibus te ; perfecisti eis qui sperant in te in conspectu filiorum hominum !
 
@@ -982,9 +982,9 @@
 
 22. Benedictus Dominus, quoniam mirificavit misericordiam suam mihi in civitate munita.
 
-23. Ego autem dixi in excessu mentis meae : Projectus sum a facie oculorum tuorum : ideo exaudisti vocem orationis meae, dum clamarem ad te.
+23. Ego autem dixi in excessu mentis meae : Proiectus sum a facie oculorum tuorum : ideo exaudisti vocem orationis meae, dum clamarem ad te.
 
-24. Diligite Dominum, omnes sancti ejus, quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.
+24. Diligite Dominum, omnes sancti eius, quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.
 
 25. Viriliter agite, et confortetur cor vestrum, omnes qui speratis in Domino.
 
@@ -994,13 +994,13 @@
 
 1. Ipsi David intellectus. Beati quorum remissae sunt iniquitates, et quorum tecta sunt peccata.
 
-2. Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.
+2. Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu eius dolus.
 
 3. Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.
 
 4. Quoniam die ac nocte gravata est super me manus tua, conversus sum in aerumna mea, dum configitur spina.
 
-5. Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi : Confitebor adversum me injustitiam meam Domino ; et tu remisisti impietatem peccati mei.
+5. Delictum meum cognitum tibi feci, et iniustitiam meam non abscondi. Dixi : Confitebor adversum me iniustitiam meam Domino ; et tu remisisti impietatem peccati mei.
 
 6. Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.
 
@@ -1012,23 +1012,23 @@
 
 10. Multa flagella peccatoris ; sperantem autem in Domino misericordia circumdabit.
 
-11. Laetamini in Domino, et exsultate, justi ; et gloriamini, omnes recti corde.
+11. Laetamini in Domino, et exsultate, iusti ; et gloriamini, omnes recti corde.
 
 ---
 
 ## Psalmus 32
 
-1. Psalmus David. Exsultate, justi, in Domino ; rectos decet collaudatio.
+1. Psalmus David. Exsultate, iusti, in Domino ; rectos decet collaudatio.
 
 2. Confitemini Domino in cithara ; in psalterio decem chordarum psallite illi.
 
 3. Cantate ei canticum novum ; bene psallite ei in vociferatione.
 
-4. Quia rectum est verbum Domini, et omnia opera ejus in fide.
+4. Quia rectum est verbum Domini, et omnia opera eius in fide.
 
-5. Diligit misericordiam et judicium ; misericordia Domini plena est terra.
+5. Diligit misericordiam et iudicium ; misericordia Domini plena est terra.
 
-6. Verbo Domini caeli firmati sunt, et spiritu oris ejus omnis virtus eorum.
+6. Verbo Domini caeli firmati sunt, et spiritu oris eius omnis virtus eorum.
 
 7. Congregans sicut in utre aquas maris ; ponens in thesauris abyssos.
 
@@ -1038,9 +1038,9 @@
 
 10. Dominus dissipat consilia gentium ; reprobat autem cogitationes populorum, et reprobat consilia principum.
 
-11. Consilium autem Domini in aeternum manet ; cogitationes cordis ejus in generatione et generationem.
+11. Consilium autem Domini in aeternum manet ; cogitationes cordis eius in generatione et generationem.
 
-12. Beata gens cujus est Dominus Deus ejus ; populus quem elegit in haereditatem sibi.
+12. Beata gens cuius est Dominus Deus eius ; populus quem elegit in haereditatem sibi.
 
 13. De caelo respexit Dominus ; vidit omnes filios hominum.
 
@@ -1052,13 +1052,13 @@
 
 17. Fallax equus ad salutem ; in abundantia autem virtutis suae non salvabitur.
 
-18. Ecce oculi Domini super metuentes eum, et in eis qui sperant super misericordia ejus :
+18. Ecce oculi Domini super metuentes eum, et in eis qui sperant super misericordia eius :
 
 19. ut eruat a morte animas eorum, et alat eos in fame.
 
-20. Anima nostra sustinet Dominum, quoniam adjutor et protector noster est.
+20. Anima nostra sustinet Dominum, quoniam adiutor et protector noster est.
 
-21. Quia in eo laetabitur cor nostrum, et in nomine sancto ejus speravimus.
+21. Quia in eo laetabitur cor nostrum, et in nomine sancto eius speravimus.
 
 22. Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te.
 
@@ -1068,23 +1068,23 @@
 
 1. Davidi, cum immutavit vultum suum coram Achimelech, et dimisit eum, et abiit.
 
-2. Benedicam Dominum in omni tempore ; semper laus ejus in ore meo.
+2. Benedicam Dominum in omni tempore ; semper laus eius in ore meo.
 
 3. In Domino laudabitur anima mea : audiant mansueti, et laetentur.
 
-4. Magnificate Dominum mecum, et exaltemus nomen ejus in idipsum.
+4. Magnificate Dominum mecum, et exaltemus nomen eius in idipsum.
 
 5. Exquisivi Dominum, et exaudivit me ; et ex omnibus tribulationibus meis eripuit me.
 
 6. Accedite ad eum, et illuminamini ; et facies vestrae non confundentur.
 
-7. Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus ejus salvavit eum.
+7. Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus eius salvavit eum.
 
 8. Immittet angelus Domini in circuitu timentium eum, et eripiet eos.
 
 9. Gustate et videte quoniam suavis est Dominus ; beatus vir qui sperat in eo.
 
-10. Timete Dominum, omnes sancti ejus, quoniam non est inopia timentibus eum.
+10. Timete Dominum, omnes sancti eius, quoniam non est inopia timentibus eum.
 
 11. Divites eguerunt, et esurierunt ; inquirentes autem Dominum non minuentur omni bono.
 
@@ -1096,19 +1096,19 @@
 
 15. Diverte a malo, et fac bonum ; inquire pacem, et persequere eam.
 
-16. Oculi Domini super justos, et aures ejus in preces eorum.
+16. Oculi Domini super iustos, et aures eius in preces eorum.
 
 17. Vultus autem Domini super facientes mala, ut perdat de terra memoriam eorum.
 
-18. Clamaverunt justi, et Dominus exaudivit eos ; et ex omnibus tribulationibus eorum liberavit eos.
+18. Clamaverunt iusti, et Dominus exaudivit eos ; et ex omnibus tribulationibus eorum liberavit eos.
 
-19. Juxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit.
+19. Iuxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit.
 
-20. Multae tribulationes justorum ; et de omnibus his liberabit eos Dominus.
+20. Multae tribulationes iustorum ; et de omnibus his liberabit eos Dominus.
 
 21. Custodit Dominus omnia ossa eorum : unum ex his non conteretur.
 
-22. Mors peccatorum pessima ; et qui oderunt justum delinquent.
+22. Mors peccatorum pessima ; et qui oderunt iustum delinquent.
 
 23. Redimet Dominus animas servorum suorum, et non delinquent omnes qui sperant in eo.
 
@@ -1116,9 +1116,9 @@
 
 ## Psalmus 34
 
-1. Ipsi David. Judica, Domine, nocentes me ; expugna impugnantes me.
+1. Ipsi David. Iudica, Domine, nocentes me ; expugna impugnantes me.
 
-2. Apprehende arma et scutum, et exsurge in adjutorium mihi.
+2. Apprehende arma et scutum, et exsurge in adiutorium mihi.
 
 3. Effunde frameam, et conclude adversus eos qui persequuntur me ; dic animae meae : Salus tua ego sum.
 
@@ -1134,13 +1134,13 @@
 
 9. Anima autem mea exsultabit in Domino, et delectabitur super salutari suo.
 
-10. Omnia ossa mea dicent : Domine, quis similis tibi ? eripiens inopem de manu fortiorum ejus ; egenum et pauperem a diripientibus eum.
+10. Omnia ossa mea dicent : Domine, quis similis tibi ? eripiens inopem de manu fortiorum eius ; egenum et pauperem a diripientibus eum.
 
 11. Surgentes testes iniqui, quae ignorabam interrogabant me.
 
 12. Retribuebant mihi mala pro bonis, sterilitatem animae meae.
 
-13. Ego autem, cum mihi molesti essent, induebar cilicio ; humiliabam in jejunio animam meam, et oratio mea in sinu meo convertetur.
+13. Ego autem, cum mihi molesti essent, induebar cilicio ; humiliabam in ieiunio animam meam, et oratio mea in sinu meo convertetur.
 
 14. Quasi proximum et quasi fratrem nostrum sic complacebam ; quasi lugens et contristatus sic humiliabar.
 
@@ -1160,17 +1160,17 @@
 
 22. Vidisti, Domine : ne sileas ; Domine, ne discedas a me.
 
-23. Exsurge et intende judicio meo, Deus meus ; et Dominus meus, in causam meam.
+23. Exsurge et intende iudicio meo, Deus meus ; et Dominus meus, in causam meam.
 
-24. Judica me secundum justitiam tuam, Domine Deus meus, et non supergaudeant mihi.
+24. Iudica me secundum iustitiam tuam, Domine Deus meus, et non supergaudeant mihi.
 
 25. Non dicant in cordibus suis : Euge, euge, animae nostrae ; nec dicant : Devoravimus eum.
 
 26. Erubescant et revereantur simul qui gratulantur malis meis ; induantur confusione et reverentia qui magna loquuntur super me.
 
-27. Exsultent et laetentur qui volunt justitiam meam ; et dicant semper : Magnificetur Dominus, qui volunt pacem servi ejus.
+27. Exsultent et laetentur qui volunt iustitiam meam ; et dicant semper : Magnificetur Dominus, qui volunt pacem servi eius.
 
-28. Et lingua mea meditabitur justitiam tuam ; tota die laudem tuam.
+28. Et lingua mea meditabitur iustitiam tuam ; tota die laudem tuam.
 
 ---
 
@@ -1178,17 +1178,17 @@
 
 1. In finem. Servo Domini ipsi David.
 
-2. Dixit injustus ut delinquat in semetipso : non est timor Dei ante oculos ejus.
+2. Dixit iniustus ut delinquat in semetipso : non est timor Dei ante oculos eius.
 
-3. Quoniam dolose egit in conspectu ejus, ut inveniatur iniquitas ejus ad odium.
+3. Quoniam dolose egit in conspectu eius, ut inveniatur iniquitas eius ad odium.
 
-4. Verba oris ejus iniquitas, et dolus ; noluit intelligere ut bene ageret.
+4. Verba oris eius iniquitas, et dolus ; noluit intelligere ut bene ageret.
 
 5. Iniquitatem meditatus est in cubili suo ; astitit omni viae non bonae : malitiam autem non odivit.
 
 6. Domine, in caelo misericordia tua, et veritas tua usque ad nubes.
 
-7. Justitia tua sicut montes Dei ; judicia tua abyssus multa. Homines et jumenta salvabis, Domine,
+7. Iustitia tua sicut montes Dei ; iudicia tua abyssus multa. Homines et iumenta salvabis, Domine,
 
 8. quemadmodum multiplicasti misericordiam tuam, Deus. Filii autem hominum in tegmine alarum tuarum sperabunt.
 
@@ -1196,7 +1196,7 @@
 
 10. quoniam apud te est fons vitae, et in lumine tuo videbimus lumen.
 
-11. Praetende misericordiam tuam scientibus te, et justitiam tuam his qui recto sunt corde.
+11. Praetende misericordiam tuam scientibus te, et iustitiam tuam his qui recto sunt corde.
 
 12. Non veniat mihi pes superbiae, et manus peccatoris non moveat me.
 
@@ -1210,35 +1210,35 @@
 
 2. quoniam tamquam foenum velociter arescent, et quemadmodum olera herbarum cito decident.
 
-3. Spera in Domino, et fac bonitatem ; et inhabita terram, et pasceris in divitiis ejus.
+3. Spera in Domino, et fac bonitatem ; et inhabita terram, et pasceris in divitiis eius.
 
 4. Delectare in Domino, et dabit tibi petitiones cordis tui.
 
 5. Revela Domino viam tuam, et spera in eo, et ipse faciet.
 
-6. Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.
+6. Et educet quasi lumen iustitiam tuam, et iudicium tuum tamquam meridiem.
 
-7. Subditus esto Domino, et ora eum. Noli aemulari in eo qui prosperatur in via sua ; in homine faciente injustitias.
+7. Subditus esto Domino, et ora eum. Noli aemulari in eo qui prosperatur in via sua ; in homine faciente iniustitias.
 
 8. Desine ab ira, et derelinque furorem ; noli aemulari ut maligneris.
 
 9. Quoniam qui malignantur exterminabuntur ; sustinentes autem Dominum, ipsi haereditabunt terram.
 
-10. Et adhuc pusillum, et non erit peccator ; et quaeres locum ejus, et non invenies.
+10. Et adhuc pusillum, et non erit peccator ; et quaeres locum eius, et non invenies.
 
 11. Mansueti autem haereditabunt terram, et delectabuntur in multitudine pacis.
 
-12. Observabit peccator justum, et stridebit super eum dentibus suis.
+12. Observabit peccator iustum, et stridebit super eum dentibus suis.
 
-13. Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus.
+13. Dominus autem irridebit eum, quoniam prospicit quod veniet dies eius.
 
-14. Gladium evaginaverunt peccatores ; intenderunt arcum suum : ut dejiciant pauperem et inopem, ut trucident rectos corde.
+14. Gladium evaginaverunt peccatores ; intenderunt arcum suum : ut deiiciant pauperem et inopem, ut trucident rectos corde.
 
 15. Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.
 
-16. Melius est modicum justo, super divitias peccatorum multas :
+16. Melius est modicum iusto, super divitias peccatorum multas :
 
-17. quoniam brachia peccatorum conterentur : confirmat autem justos Dominus.
+17. quoniam brachia peccatorum conterentur : confirmat autem iustos Dominus.
 
 18. Novit Dominus dies immaculatorum, et haereditas eorum in aeternum erit.
 
@@ -1246,45 +1246,45 @@
 
 20. quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.
 
-21. Mutuabitur peccator, et non solvet ; justus autem miseretur et tribuet :
+21. Mutuabitur peccator, et non solvet ; iustus autem miseretur et tribuet :
 
 22. quia benedicentes ei haereditabunt terram ; maledicentes autem ei disperibunt.
 
-23. Apud Dominum gressus hominis dirigentur, et viam ejus volet.
+23. Apud Dominum gressus hominis dirigentur, et viam eius volet.
 
 24. Cum ceciderit, non collidetur, quia Dominus supponit manum suam.
 
-25. Junior fui, etenim senui ; et non vidi justum derelictum, nec semen ejus quaerens panem.
+25. Iunior fui, etenim senui ; et non vidi iustum derelictum, nec semen eius quaerens panem.
 
 26. Tota die miseretur et commodat ; et semen illius in benedictione erit.
 
 27. Declina a malo, et fac bonum, et inhabita in saeculum saeculi :
 
-28. quia Dominus amat judicium, et non derelinquet sanctos suos : in aeternum conservabuntur. Injusti punientur, et semen impiorum peribit.
+28. quia Dominus amat iudicium, et non derelinquet sanctos suos : in aeternum conservabuntur. Iniusti punientur, et semen impiorum peribit.
 
-29. Justi autem haereditabunt terram, et inhabitabunt in saeculum saeculi super eam.
+29. Iusti autem haereditabunt terram, et inhabitabunt in saeculum saeculi super eam.
 
-30. Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.
+30. Os iusti meditabitur sapientiam, et lingua eius loquetur iudicium.
 
-31. Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus.
+31. Lex Dei eius in corde ipsius, et non supplantabuntur gressus eius.
 
-32. Considerat peccator justum, et quaerit mortificare eum.
+32. Considerat peccator iustum, et quaerit mortificare eum.
 
-33. Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi.
+33. Dominus autem non derelinquet eum in manibus eius, nec damnabit eum cum iudicabitur illi.
 
-34. Expecta Dominum, et custodi viam ejus, et exaltabit te ut haereditate capias terram : cum perierint peccatores, videbis.
+34. Expecta Dominum, et custodi viam eius, et exaltabit te ut haereditate capias terram : cum perierint peccatores, videbis.
 
 35. Vidi impium superexaltatum, et elevatum sicut cedros Libani :
 
-36. et transivi, et ecce non erat ; et quaesivi eum, et non est inventus locus ejus.
+36. et transivi, et ecce non erat ; et quaesivi eum, et non est inventus locus eius.
 
 37. Custodi innocentiam, et vide aequitatem, quoniam sunt reliquiae homini pacifico.
 
-38. Injusti autem disperibunt simul ; reliquiae impiorum interibunt.
+38. Iniusti autem disperibunt simul ; reliquiae impiorum interibunt.
 
-39. Salus autem justorum a Domino ; et protector eorum in tempore tribulationis.
+39. Salus autem iustorum a Domino ; et protector eorum in tempore tribulationis.
 
-40. Et adjuvabit eos Dominus, et liberabit eos ; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.
+40. Et adiuvabit eos Dominus, et liberabit eos ; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.
 
 ---
 
@@ -1312,7 +1312,7 @@
 
 11. Cor meum conturbatum est ; dereliquit me virtus mea, et lumen oculorum meorum, et ipsum non est mecum.
 
-12. Amici mei et proximi mei adversum me appropinquaverunt, et steterunt ; et qui juxta me erant, de longe steterunt : et vim faciebant qui quaerebant animam meam.
+12. Amici mei et proximi mei adversum me appropinquaverunt, et steterunt ; et qui iuxta me erant, de longe steterunt : et vim faciebant qui quaerebant animam meam.
 
 13. Et qui inquirebant mala mihi, locuti sunt vanitates, et dolos tota die meditabantur.
 
@@ -1334,7 +1334,7 @@
 
 22. Ne derelinquas me, Domine Deus meus ; ne discesseris a me.
 
-23. Intende in adjutorium meum, Domine Deus salutis meae.
+23. Intende in adiutorium meum, Domine Deus salutis meae.
 
 ---
 
@@ -1362,7 +1362,7 @@
 
 11. amove a me plagas tuas.
 
-12. A fortitudine manus tuae ego defeci in increpationibus : propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam ejus : verumtamen vane conturbatur omnis homo.
+12. A fortitudine manus tuae ego defeci in increpationibus : propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam eius : verumtamen vane conturbatur omnis homo.
 
 13. Exaudi orationem meam, Domine, et deprecationem meam ; auribus percipe lacrimas meas. Ne sileas, quoniam advena ego sum apud te, et peregrinus sicut omnes patres mei.
 
@@ -1380,7 +1380,7 @@
 
 4. Et immisit in os meum canticum novum, carmen Deo nostro. Videbunt multi, et timebunt, et sperabunt in Domino.
 
-5. Beatus vir cujus est nomen Domini spes ejus, et non respexit in vanitates et insanias falsas.
+5. Beatus vir cuius est nomen Domini spes eius, et non respexit in vanitates et insanias falsas.
 
 6. Multa fecisti tu, Domine Deus meus, mirabilia tua ; et cogitationibus tuis non est qui similis sit tibi. Annuntiavi et locutus sum : multiplicati sunt super numerum.
 
@@ -1390,15 +1390,15 @@
 
 9. ut facerem voluntatem tuam. Deus meus, volui, et legem tuam in medio cordis mei.
 
-10. Annuntiavi justitiam tuam in ecclesia magna ; ecce labia mea non prohibebo : Domine, tu scisti.
+10. Annuntiavi iustitiam tuam in ecclesia magna ; ecce labia mea non prohibebo : Domine, tu scisti.
 
-11. Justitiam tuam non abscondi in corde meo ; veritatem tuam et salutare tuum dixi ; non abscondi misericordiam tuam et veritatem tuam a concilio multo.
+11. Iustitiam tuam non abscondi in corde meo ; veritatem tuam et salutare tuum dixi ; non abscondi misericordiam tuam et veritatem tuam a concilio multo.
 
 12. Tu autem, Domine, ne longe facias miserationes tuas a me ; misericordia tua et veritas tua semper susceperunt me.
 
 13. Quoniam circumdederunt me mala quorum non est numerus ; comprehenderunt me iniquitates meae, et non potui ut viderem. Multiplicatae sunt super capillos capitis mei, et cor meum dereliquit me.
 
-14. Complaceat tibi, Domine, ut eruas me ; Domine, ad adjuvandum me respice.
+14. Complaceat tibi, Domine, ut eruas me ; Domine, ad adiuvandum me respice.
 
 15. Confundantur et revereantur simul, qui quaerunt animam meam ut auferant eam ; convertantur retrorsum et revereantur, qui volunt mihi mala.
 
@@ -1406,7 +1406,7 @@
 
 17. Exsultent et laetentur super te omnes quaerentes te ; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.
 
-18. Ego autem mendicus sum et pauper ; Dominus sollicitus est mei. Adjutor meus et protector meus tu es ; Deus meus, ne tardaveris.
+18. Ego autem mendicus sum et pauper ; Dominus sollicitus est mei. Adiutor meus et protector meus tu es ; Deus meus, ne tardaveris.
 
 ---
 
@@ -1416,19 +1416,19 @@
 
 2. Beatus qui intelligit super egenum et pauperem : in die mala liberabit eum Dominus.
 
-3. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum ejus.
+3. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum eius.
 
-4. Dominus opem ferat illi super lectum doloris ejus ; universum stratum ejus versasti in infirmitate ejus.
+4. Dominus opem ferat illi super lectum doloris eius ; universum stratum eius versasti in infirmitate eius.
 
 5. Ego dixi : Domine, miserere mei ; sana animam meam, quia peccavi tibi.
 
-6. Inimici mei dixerunt mala mihi : Quando morietur, et peribit nomen ejus ?
+6. Inimici mei dixerunt mala mihi : Quando morietur, et peribit nomen eius ?
 
-7. Et si ingrediebatur ut videret, vana loquebatur ; cor ejus congregavit iniquitatem sibi. Egrediebatur foras et loquebatur.
+7. Et si ingrediebatur ut videret, vana loquebatur ; cor eius congregavit iniquitatem sibi. Egrediebatur foras et loquebatur.
 
 8. In idipsum adversum me susurrabant omnes inimici mei ; adversum me cogitabant mala mihi.
 
-9. Verbum iniquum constituerunt adversum me : Numquid qui dormit non adjiciet ut resurgat ?
+9. Verbum iniquum constituerunt adversum me : Numquid qui dormit non adiiciet ut resurgat ?
 
 10. Etenim homo pacis meae in quo speravi, qui edebat panes meos, magnificavit super me supplantationem.
 
@@ -1456,11 +1456,11 @@
 
 6. Quare tristis es, anima mea ? et quare conturbas me ? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei,
 
-7. et Deus meus. Ad meipsum anima mea conturbata est : propterea memor ero tui de terra Jordanis et Hermoniim a monte modico.
+7. et Deus meus. Ad meipsum anima mea conturbata est : propterea memor ero tui de terra Iordanis et Hermoniim a monte modico.
 
 8. Abyssus abyssum invocat, in voce cataractarum tuarum ; omnia excelsa tua, et fluctus tui super me transierunt.
 
-9. In die mandavit Dominus misericordiam suam, et nocte canticum ejus ; apud me oratio Deo vitae meae.
+9. In die mandavit Dominus misericordiam suam, et nocte canticum eius ; apud me oratio Deo vitae meae.
 
 10. Dicam Deo : Susceptor meus es ; quare oblitus es mei ? et quare contristatus incedo, dum affligit me inimicus ?
 
@@ -1472,13 +1472,13 @@
 
 ## Psalmus 42
 
-1. Psalmus David. Judica me, Deus, et discerne causam meam de gente non sancta : ab homine iniquo et doloso erue me.
+1. Psalmus David. Iudica me, Deus, et discerne causam meam de gente non sancta : ab homine iniquo et doloso erue me.
 
 2. Quia tu es, Deus, fortitudo mea : quare me repulisti ? et quare tristis incedo, dum affligit me inimicus ?
 
 3. Emitte lucem tuam et veritatem tuam : ipsa me deduxerunt, et adduxerunt in montem sanctum tuum, et in tabernacula tua.
 
-4. Et introibo ad altare Dei, ad Deum qui laetificat juventutem meam. Confitebor tibi in cithara, Deus, Deus meus.
+4. Et introibo ad altare Dei, ad Deum qui laetificat iuventutem meam. Confitebor tibi in cithara, Deus, Deus meus.
 
 5. Quare tristis es, anima mea ? et quare conturbas me ? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei, et Deus meus.
 
@@ -1494,7 +1494,7 @@
 
 4. Nec enim in gladio suo possederunt terram, et brachium eorum non salvavit eos : sed dextera tua et brachium tuum, et illuminatio vultus tui, quoniam complacuisti in eis.
 
-5. Tu es ipse rex meus et Deus meus, qui mandas salutes Jacob.
+5. Tu es ipse rex meus et Deus meus, qui mandas salutes Iacob.
 
 6. In te inimicos nostros ventilabimus cornu, et in nomine tuo spernemus insurgentes in nobis.
 
@@ -1536,7 +1536,7 @@
 
 25. Quoniam humiliata est in pulvere anima nostra ; conglutinatus est in terra venter noster.
 
-26. Exsurge, Domine, adjuva nos, et redime nos propter nomen tuum.
+26. Exsurge, Domine, adiuva nos, et redime nos propter nomen tuum.
 
 ---
 
@@ -1550,13 +1550,13 @@
 
 4. Accingere gladio tuo super femur tuum, potentissime.
 
-5. Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et justitiam ; et deducet te mirabiliter dextera tua.
+5. Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et iustitiam ; et deducet te mirabiliter dextera tua.
 
 6. Sagittae tuae acutae : populi sub te cadent, in corda inimicorum regis.
 
 7. Sedes tua, Deus, in saeculum saeculi ; virga directionis virga regni tui.
 
-8. Dilexisti justitiam, et odisti iniquitatem ; propterea unxit te Deus, Deus tuus, oleo laetitiae, prae consortibus tuis.
+8. Dilexisti iustitiam, et odisti iniquitatem ; propterea unxit te Deus, Deus tuus, oleo laetitiae, prae consortibus tuis.
 
 9. Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis ; ex quibus delectaverunt te
 
@@ -1568,9 +1568,9 @@
 
 13. Et filiae Tyri in muneribus vultum tuum deprecabuntur ; omnes divites plebis.
 
-14. Omnis gloria ejus filiae regis ab intus, in fimbriis aureis,
+14. Omnis gloria eius filiae regis ab intus, in fimbriis aureis,
 
-15. circumamicta varietatibus. Adducentur regi virgines post eam ; proximae ejus afferentur tibi.
+15. circumamicta varietatibus. Adducentur regi virgines post eam ; proximae eius afferentur tibi.
 
 16. Afferentur in laetitia et exsultatione ; adducentur in templum regis.
 
@@ -1584,19 +1584,19 @@
 
 1. In finem, filiis Core, pro arcanis. Psalmus.
 
-2. Deus noster refugium et virtus ; adjutor in tribulationibus quae invenerunt nos nimis.
+2. Deus noster refugium et virtus ; adiutor in tribulationibus quae invenerunt nos nimis.
 
 3. Propterea non timebimus dum turbabitur terra, et transferentur montes in cor maris.
 
-4. Sonuerunt, et turbatae sunt aquae eorum ; conturbati sunt montes in fortitudine ejus.
+4. Sonuerunt, et turbatae sunt aquae eorum ; conturbati sunt montes in fortitudine eius.
 
 5. Fluminis impetus laetificat civitatem Dei : sanctificavit tabernaculum suum Altissimus.
 
-6. Deus in medio ejus, non commovebitur ; adjuvabit eam Deus mane diluculo.
+6. Deus in medio eius, non commovebitur ; adiuvabit eam Deus mane diluculo.
 
 7. Conturbatae sunt gentes, et inclinata sunt regna : dedit vocem suam, mota est terra.
 
-8. Dominus virtutum nobiscum ; susceptor noster Deus Jacob.
+8. Dominus virtutum nobiscum ; susceptor noster Deus Iacob.
 
 9. Venite, et videte opera Domini, quae posuit prodigia super terram,
 
@@ -1604,7 +1604,7 @@
 
 11. Vacate, et videte quoniam ego sum Deus ; exaltabor in gentibus, et exaltabor in terra.
 
-12. Dominus virtutum nobiscum ; susceptor noster Deus Jacob.
+12. Dominus virtutum nobiscum ; susceptor noster Deus Iacob.
 
 ---
 
@@ -1612,15 +1612,15 @@
 
 1. In finem, pro filiis Core. Psalmus.
 
-2. Omnes gentes, plaudite manibus ; jubilate Deo in voce exsultationis :
+2. Omnes gentes, plaudite manibus ; iubilate Deo in voce exsultationis :
 
 3. quoniam Dominus excelsus, terribilis, rex magnus super omnem terram.
 
-4. Subjecit populos nobis, et gentes sub pedibus nostris.
+4. Subiecit populos nobis, et gentes sub pedibus nostris.
 
-5. Elegit nobis haereditatem suam ; speciem Jacob quam dilexit.
+5. Elegit nobis haereditatem suam ; speciem Iacob quam dilexit.
 
-6. Ascendit Deus in jubilo, et Dominus in voce tubae.
+6. Ascendit Deus in iubilo, et Dominus in voce tubae.
 
 7. Psallite Deo nostro, psallite ; psallite regi nostro, psallite :
 
@@ -1636,11 +1636,11 @@
 
 1. Psalmus cantici. Filiis Core, secunda sabbati.
 
-2. Magnus Dominus et laudabilis nimis, in civitate Dei nostri, in monte sancto ejus.
+2. Magnus Dominus et laudabilis nimis, in civitate Dei nostri, in monte sancto eius.
 
 3. Fundatur exsultatione universae terrae mons Sion ; latera aquilonis, civitas regis magni.
 
-4. Deus in domibus ejus cognoscetur cum suscipiet eam.
+4. Deus in domibus eius cognoscetur cum suscipiet eam.
 
 5. Quoniam ecce reges terrae congregati sunt ; convenerunt in unum.
 
@@ -1654,13 +1654,13 @@
 
 10. Suscepimus, Deus, misericordiam tuam in medio templi tui.
 
-11. Secundum nomen tuum, Deus, sic et laus tua in fines terrae ; justitia plena est dextera tua.
+11. Secundum nomen tuum, Deus, sic et laus tua in fines terrae ; iustitia plena est dextera tua.
 
-12. Laetetur mons Sion, et exsultent filiae Judae, propter judicia tua, Domine.
+12. Laetetur mons Sion, et exsultent filiae Iudae, propter iudicia tua, Domine.
 
-13. Circumdate Sion, et complectimini eam ; narrate in turribus ejus.
+13. Circumdate Sion, et complectimini eam ; narrate in turribus eius.
 
-14. Ponite corda vestra in virtute ejus, et distribuite domos ejus, ut enarretis in progenie altera.
+14. Ponite corda vestra in virtute eius, et distribuite domos eius, ut enarretis in progenie altera.
 
 15. Quoniam hic est Deus, Deus noster in aeternum, et in saeculum saeculi : ipse reget nos in saecula.
 
@@ -1692,23 +1692,23 @@
 
 12. et sepulchra eorum domus illorum in aeternum ; tabernacula eorum in progenie et progenie : vocaverunt nomina sua in terris suis.
 
-13. Et homo, cum in honore esset, non intellexit. Comparatus est jumentis insipientibus, et similis factus est illis.
+13. Et homo, cum in honore esset, non intellexit. Comparatus est iumentis insipientibus, et similis factus est illis.
 
 14. Haec via illorum scandalum ipsis ; et postea in ore suo complacebunt.
 
-15. Sicut oves in inferno positi sunt : mors depascet eos. Et dominabuntur eorum justi in matutino ; et auxilium eorum veterascet in inferno a gloria eorum.
+15. Sicut oves in inferno positi sunt : mors depascet eos. Et dominabuntur eorum iusti in matutino ; et auxilium eorum veterascet in inferno a gloria eorum.
 
 16. Verumtamen Deus redimet animam meam de manu inferi, cum acceperit me.
 
-17. Ne timueris cum dives factus fuerit homo, et cum multiplicata fuerit gloria domus ejus :
+17. Ne timueris cum dives factus fuerit homo, et cum multiplicata fuerit gloria domus eius :
 
-18. quoniam, cum interierit, non sumet omnia, neque descendet cum eo gloria ejus.
+18. quoniam, cum interierit, non sumet omnia, neque descendet cum eo gloria eius.
 
-19. Quia anima ejus in vita ipsius benedicetur ; confitebitur tibi cum benefeceris ei.
+19. Quia anima eius in vita ipsius benedicetur ; confitebitur tibi cum benefeceris ei.
 
 20. Introibit usque in progenies patrum suorum ; et usque in aeternum non videbit lumen.
 
-21. Homo, cum in honore esset, non intellexit. Comparatus est jumentis insipientibus, et similis factus est illis.
+21. Homo, cum in honore esset, non intellexit. Comparatus est iumentis insipientibus, et similis factus est illis.
 
 ---
 
@@ -1716,15 +1716,15 @@
 
 1. Psalmus Asaph. Deus deorum Dominus locutus est, et vocavit terram a solis ortu usque ad occasum.
 
-2. Ex Sion species decoris ejus :
+2. Ex Sion species decoris eius :
 
-3. Deus manifeste veniet ; Deus noster, et non silebit. Ignis in conspectu ejus exardescet ; et in circuitu ejus tempestas valida.
+3. Deus manifeste veniet ; Deus noster, et non silebit. Ignis in conspectu eius exardescet ; et in circuitu eius tempestas valida.
 
 4. Advocabit caelum desursum, et terram, discernere populum suum.
 
-5. Congregate illi sanctos ejus, qui ordinant testamentum ejus super sacrificia.
+5. Congregate illi sanctos eius, qui ordinant testamentum eius super sacrificia.
 
-6. Et annuntiabunt caeli justitiam ejus, quoniam Deus judex est.
+6. Et annuntiabunt caeli iustitiam eius, quoniam Deus iudex est.
 
 7. Audi, populus meus, et loquar ; Israël, et testificabor tibi : Deus, Deus tuus ego sum.
 
@@ -1732,11 +1732,11 @@
 
 9. Non accipiam de domo tua vitulos, neque de gregibus tuis hircos :
 
-10. quoniam meae sunt omnes ferae silvarum, jumenta in montibus, et boves.
+10. quoniam meae sunt omnes ferae silvarum, iumenta in montibus, et boves.
 
 11. Cognovi omnia volatilia caeli, et pulchritudo agri mecum est.
 
-12. Si esuriero, non dicam tibi : meus est enim orbis terrae et plenitudo ejus.
+12. Si esuriero, non dicam tibi : meus est enim orbis terrae et plenitudo eius.
 
 13. Numquid manducabo carnes taurorum ? aut sanguinem hircorum potabo ?
 
@@ -1744,9 +1744,9 @@
 
 15. Et invoca me in die tribulationis : eruam te, et honorificabis me.
 
-16. Peccatori autem dixit Deus : Quare tu enarras justitias meas ? et assumis testamentum meum per os tuum ?
+16. Peccatori autem dixit Deus : Quare tu enarras iustitias meas ? et assumis testamentum meum per os tuum ?
 
-17. Tu vero odisti disciplinam, et projecisti sermones meos retrorsum.
+17. Tu vero odisti disciplinam, et proiecisti sermones meos retrorsum.
 
 18. Si videbas furem, currebas cum eo ; et cum adulteris portionem tuam ponebas.
 
@@ -1774,7 +1774,7 @@
 
 5. Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me est semper.
 
-6. Tibi soli peccavi, et malum coram te feci ; ut justificeris in sermonibus tuis, et vincas cum judicaris.
+6. Tibi soli peccavi, et malum coram te feci ; ut iustificeris in sermonibus tuis, et vincas cum iudicaris.
 
 7. Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.
 
@@ -1788,13 +1788,13 @@
 
 12. Cor mundum crea in me, Deus, et spiritum rectum innova in visceribus meis.
 
-13. Ne projicias me a facie tua, et spiritum sanctum tuum ne auferas a me.
+13. Ne proiicias me a facie tua, et spiritum sanctum tuum ne auferas a me.
 
 14. Redde mihi laetitiam salutaris tui, et spiritu principali confirma me.
 
 15. Docebo iniquos vias tuas, et impii ad te convertentur.
 
-16. Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea justitiam tuam.
+16. Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea iustitiam tuam.
 
 17. Domine, labia mea aperies, et os meum annuntiabit laudem tuam.
 
@@ -1802,9 +1802,9 @@
 
 19. Sacrificium Deo spiritus contribulatus ; cor contritum et humiliatum, Deus, non despicies.
 
-20. Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem.
+20. Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Ierusalem.
 
-21. Tunc acceptabis sacrificium justitiae, oblationes et holocausta ; tunc imponent super altare tuum vitulos.
+21. Tunc acceptabis sacrificium iustitiae, oblationes et holocausta ; tunc imponent super altare tuum vitulos.
 
 ---
 
@@ -1816,7 +1816,7 @@
 
 3. Quid gloriaris in malitia, qui potens es in iniquitate ?
 
-4. Tota die injustitiam cogitavit lingua tua ; sicut novacula acuta fecisti dolum.
+4. Tota die iniustitiam cogitavit lingua tua ; sicut novacula acuta fecisti dolum.
 
 5. Dilexisti malitiam super benignitatem ; iniquitatem magis quam loqui aequitatem.
 
@@ -1824,9 +1824,9 @@
 
 7. Propterea Deus destruet te in finem ; evellet te, et emigrabit te de tabernaculo tuo, et radicem tuam de terra viventium.
 
-8. Videbunt justi, et timebunt ; et super eum ridebunt, et dicent :
+8. Videbunt iusti, et timebunt ; et super eum ridebunt, et dicent :
 
-9. Ecce homo qui non posuit Deum adjutorem suum ; sed speravit in multitudine divitiarum suarum, et praevaluit in vanitate sua.
+9. Ecce homo qui non posuit Deum adiutorem suum ; sed speravit in multitudine divitiarum suarum, et praevaluit in vanitate sua.
 
 10. Ego autem, sicut oliva fructifera in domo Dei ; speravi in misericordia Dei, in aeternum et in saeculum saeculi.
 
@@ -1848,7 +1848,7 @@
 
 6. Deum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent : confusi sunt, quoniam Deus sprevit eos.
 
-7. Quis dabit ex Sion salutare Israël ? cum converterit Deus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israël.
+7. Quis dabit ex Sion salutare Israël ? cum converterit Deus captivitatem plebis suae, exsultabit Iacob, et laetabitur Israël.
 
 ---
 
@@ -1858,13 +1858,13 @@
 
 2. cum venissent Ziphaei, et dixissent ad Saul : Nonne David absconditus est apud nos ?
 
-3. Deus, in nomine tuo salvum me fac, et in virtute tua judica me.
+3. Deus, in nomine tuo salvum me fac, et in virtute tua iudica me.
 
 4. Deus, exaudi orationem meam ; auribus percipe verba oris mei.
 
 5. Quoniam alieni insurrexerunt adversum me, et fortes quaesierunt animam meam, et non proposuerunt Deum ante conspectum suum.
 
-6. Ecce enim Deus adjuvat me, et Dominus susceptor est animae meae.
+6. Ecce enim Deus adiuvat me, et Dominus susceptor est animae meae.
 
 7. Averte mala inimicis meis ; et in veritate tua disperde illos.
 
@@ -1896,9 +1896,9 @@
 
 10. Praecipita, Domine ; divide linguas eorum : quoniam vidi iniquitatem et contradictionem in civitate.
 
-11. Die ac nocte circumdabit eam super muros ejus iniquitas ; et labor in medio ejus,
+11. Die ac nocte circumdabit eam super muros eius iniquitas ; et labor in medio eius,
 
-12. et injustitia : et non defecit de plateis ejus usura et dolus.
+12. et iniustitia : et non defecit de plateis eius usura et dolus.
 
 13. Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is qui oderat me super me magna locutus fuisset, abscondissem me forsitan ab eo.
 
@@ -1916,11 +1916,11 @@
 
 20. Exaudiet Deus, et humiliabit illos, qui est ante saecula. Non enim est illis commutatio, et non timuerunt Deum.
 
-21. Extendit manum suam in retribuendo ; contaminaverunt testamentum ejus :
+21. Extendit manum suam in retribuendo ; contaminaverunt testamentum eius :
 
-22. divisi sunt ab ira vultus ejus, et appropinquavit cor illius. Molliti sunt sermones ejus super oleum ; et ipsi sunt jacula.
+22. divisi sunt ab ira vultus eius, et appropinquavit cor illius. Molliti sunt sermones eius super oleum ; et ipsi sunt iacula.
 
-23. Jacta super Dominum curam tuam, et ipse te enutriet ; non dabit in aeternum fluctuationem justo.
+23. Iacta super Dominum curam tuam, et ipse te enutriet ; non dabit in aeternum fluctuationem iusto.
 
 24. Tu vero, Deus, deduces eos in puteum interitus. Viri sanguinum et dolosi non dimidiabunt dies suos ; ego autem sperabo in te, Domine.
 
@@ -1988,9 +1988,9 @@
 
 1. In finem, ne disperdas. David in tituli inscriptionem.
 
-2. Si vere utique justitiam loquimini, recta judicate, filii hominum.
+2. Si vere utique iustitiam loquimini, recta iudicate, filii hominum.
 
-3. Etenim in corde iniquitates operamini ; in terra injustitias manus vestrae concinnant.
+3. Etenim in corde iniquitates operamini ; in terra iniustitias manus vestrae concinnant.
 
 4. Alienati sunt peccatores a vulva ; erraverunt ab utero : locuti sunt falsa.
 
@@ -2006,15 +2006,15 @@
 
 10. Priusquam intelligerent spinae vestrae rhamnum, sicut viventes sic in ira absorbet eos.
 
-11. Laetabitur justus cum viderit vindictam ; manus suas lavabit in sanguine peccatoris.
+11. Laetabitur iustus cum viderit vindictam ; manus suas lavabit in sanguine peccatoris.
 
-12. Et dicet homo : Si utique est fructus justo, utique est Deus judicans eos in terra.
+12. Et dicet homo : Si utique est fructus iusto, utique est Deus iudicans eos in terra.
 
 ---
 
 ## Psalmus 58
 
-1. In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul et custodivit domum ejus ut eum interficeret.
+1. In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul et custodivit domum eius ut eum interficeret.
 
 2. Eripe me de inimicis meis, Deus meus, et ab insurgentibus in me libera me.
 
@@ -2034,13 +2034,13 @@
 
 10. Fortitudinem meam ad te custodiam, quia, Deus, susceptor meus es :
 
-11. Deus meus misericordia ejus praeveniet me.
+11. Deus meus misericordia eius praeveniet me.
 
 12. Deus ostendet mihi super inimicos meos : ne occidas eos, nequando obliviscantur populi mei. Disperge illos in virtute tua, et depone eos, protector meus, Domine :
 
 13. delictum oris eorum, sermonem labiorum ipsorum ; et comprehendantur in superbia sua. Et de execratione et mendacio annuntiabuntur
 
-14. in consummatione : in ira consummationis, et non erunt. Et scient quia Deus dominabitur Jacob, et finium terrae.
+14. in consummatione : in ira consummationis, et non erunt. Et scient quia Deus dominabitur Iacob, et finium terrae.
 
 15. Convertentur ad vesperam, et famem patientur ut canes : et circuibunt civitatem.
 
@@ -2048,7 +2048,7 @@
 
 17. Ego autem cantabo fortitudinem tuam, et exsultabo mane misericordiam tuam : quia factus es susceptor meus, et refugium meum in die tribulationis meae.
 
-18. Adjutor meus, tibi psallam, quia Deus susceptor meus es ; Deus meus, misericordia mea.
+18. Adiutor meus, tibi psallam, quia Deus susceptor meus es ; Deus meus, misericordia mea.
 
 ---
 
@@ -2056,11 +2056,11 @@
 
 1. In finem, pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam,
 
-2. cum succendit Mesopotamiam Syriae et Sobal, et convertit Joab, et percussit Idumaeam in valle Salinarum duodecim millia.
+2. cum succendit Mesopotamiam Syriae et Sobal, et convertit Ioab, et percussit Idumaeam in valle Salinarum duodecim millia.
 
 3. Deus, repulisti nos, et destruxisti nos ; iratus es, et misertus es nobis.
 
-4. Commovisti terram, et conturbasti eam ; sana contritiones ejus, quia commota est.
+4. Commovisti terram, et conturbasti eam ; sana contritiones eius, quia commota est.
 
 5. Ostendisti populo tuo dura ; potasti nos vino compunctionis.
 
@@ -2070,7 +2070,7 @@
 
 8. Deus locutus est in sancto suo : laetabor, et partibor Sichimam ; et convallem tabernaculorum metibor.
 
-9. Meus est Galaad, et meus est Manasses ; et Ephraim fortitudo capitis mei. Juda rex meus ;
+9. Meus est Galaad, et meus est Manasses ; et Ephraim fortitudo capitis mei. Iuda rex meus ;
 
 10. Moab olla spei meae. In Idumaeam extendam calceamentum meum : mihi alienigenae subditi sunt.
 
@@ -2098,9 +2098,9 @@
 
 6. Quoniam tu, Deus meus, exaudisti orationem meam ; dedisti haereditatem timentibus nomen tuum.
 
-7. Dies super dies regis adjicies ; annos ejus usque in diem generationis et generationis.
+7. Dies super dies regis adiicies ; annos eius usque in diem generationis et generationis.
 
-8. Permanet in aeternum in conspectu Dei : misericordiam et veritatem ejus quis requiret ?
+8. Permanet in aeternum in conspectu Dei : misericordiam et veritatem eius quis requiret ?
 
 9. Sic psalmum dicam nomini tuo in saeculum saeculi, ut reddam vota mea de die in diem.
 
@@ -2110,7 +2110,7 @@
 
 1. In finem, pro Idithun. Psalmus David.
 
-2. Nonne Deo subjecta erit anima mea ? ab ipso enim salutare meum.
+2. Nonne Deo subiecta erit anima mea ? ab ipso enim salutare meum.
 
 3. Nam et ipse Deus meus et salutaris meus ; susceptor meus, non movebor amplius.
 
@@ -2118,13 +2118,13 @@
 
 5. Verumtamen pretium meum cogitaverunt repellere ; cucurri in siti : ore suo benedicebant, et corde suo maledicebant.
 
-6. Verumtamen Deo subjecta esto, anima mea, quoniam ab ipso patientia mea :
+6. Verumtamen Deo subiecta esto, anima mea, quoniam ab ipso patientia mea :
 
-7. quia ipse Deus meus et salvator meus, adjutor meus, non emigrabo.
+7. quia ipse Deus meus et salvator meus, adiutor meus, non emigrabo.
 
 8. In Deo salutare meum et gloria mea ; Deus auxilii mei, et spes mea in Deo est.
 
-9. Sperate in eo, omnis congregatio populi ; effundite coram illo corda vestra : Deus adjutor noster in aeternum.
+9. Sperate in eo, omnis congregatio populi ; effundite coram illo corda vestra : Deus adiutor noster in aeternum.
 
 10. Verumtamen vani filii hominum, mendaces filii hominum in stateris, ut decipiant ipsi de vanitate in idipsum.
 
@@ -2132,7 +2132,7 @@
 
 12. Semel locutus est Deus ; duo haec audivi : quia potestas Dei est,
 
-13. et tibi, Domine, misericordia : quia tu reddes unicuique juxta opera sua.
+13. et tibi, Domine, misericordia : quia tu reddes unicuique iuxta opera sua.
 
 ---
 
@@ -2152,7 +2152,7 @@
 
 7. Si memor fui tui super stratum meum, in matutinis meditabor in te.
 
-8. Quia fuisti adjutor meus, et in velamento alarum tuarum exsultabo.
+8. Quia fuisti adiutor meus, et in velamento alarum tuarum exsultabo.
 
 9. Adhaesit anima mea post te ; me suscepit dextera tua.
 
@@ -2160,7 +2160,7 @@
 
 11. tradentur in manus gladii : partes vulpium erunt.
 
-12. Rex vero laetabitur in Deo ; laudabuntur omnes qui jurant in eo : quia obstructum est os loquentium iniqua.
+12. Rex vero laetabitur in Deo ; laudabuntur omnes qui iurant in eo : quia obstructum est os loquentium iniqua.
 
 ---
 
@@ -2184,17 +2184,17 @@
 
 9. et infirmatae sunt contra eos linguae eorum. Conturbati sunt omnes qui videbant eos,
 
-10. et timuit omnis homo. Et annuntiaverunt opera Dei, et facta ejus intellexerunt.
+10. et timuit omnis homo. Et annuntiaverunt opera Dei, et facta eius intellexerunt.
 
-11. Laetabitur justus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
+11. Laetabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
 
 ---
 
 ## Psalmus 64
 
-1. In finem. Psalmus David, canticum Jeremiae et Ezechielis populo transmigrationis, cum inciperent exire.
+1. In finem. Psalmus David, canticum Ieremiae et Ezechielis populo transmigrationis, cum inciperent exire.
 
-2. Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Jerusalem.
+2. Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Ierusalem.
 
 3. Exaudi orationem meam ; ad te omnis caro veniet.
 
@@ -2206,13 +2206,13 @@
 
 7. Praeparans montes in virtute tua, accinctus potentia ;
 
-8. qui conturbas profundum maris, sonum fluctuum ejus. Turbabuntur gentes,
+8. qui conturbas profundum maris, sonum fluctuum eius. Turbabuntur gentes,
 
 9. et timebunt qui habitant terminos a signis tuis ; exitus matutini et vespere delectabis.
 
-10. Visitasti terram, et inebriasti eam ; multiplicasti locupletare eam. Flumen Dei repletum est aquis ; parasti cibum illorum : quoniam ita est praeparatio ejus.
+10. Visitasti terram, et inebriasti eam ; multiplicasti locupletare eam. Flumen Dei repletum est aquis ; parasti cibum illorum : quoniam ita est praeparatio eius.
 
-11. Rivos ejus inebria ; multiplica genimina ejus : in stillicidiis ejus laetabitur germinans.
+11. Rivos eius inebria ; multiplica genimina eius : in stillicidiis eius laetabitur germinans.
 
 12. Benedices coronae anni benignitatis tuae, et campi tui replebuntur ubertate.
 
@@ -2224,9 +2224,9 @@
 
 ## Psalmus 65
 
-1. In finem. Canticum psalmi resurrectionis. Jubilate Deo, omnis terra ;
+1. In finem. Canticum psalmi resurrectionis. Iubilate Deo, omnis terra ;
 
-2. psalmum dicite nomini ejus ; date gloriam laudi ejus.
+2. psalmum dicite nomini eius ; date gloriam laudi eius.
 
 3. Dicite Deo : Quam terribilia sunt opera tua, Domine ! in multitudine virtutis tuae mentientur tibi inimici tui.
 
@@ -2236,9 +2236,9 @@
 
 6. Qui convertit mare in aridam ; in flumine pertransibunt pede : ibi laetabimur in ipso.
 
-7. Qui dominatur in virtute sua in aeternum ; oculi ejus super gentes respiciunt : qui exasperant non exaltentur in semetipsis.
+7. Qui dominatur in virtute sua in aeternum ; oculi eius super gentes respiciunt : qui exasperant non exaltentur in semetipsis.
 
-8. Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis ejus :
+8. Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis eius :
 
 9. qui posuit animam meam ad vitam, et non dedit in commotionem pedes meos.
 
@@ -2276,7 +2276,7 @@
 
 4. Confiteantur tibi populi, Deus : confiteantur tibi populi omnes.
 
-5. Laetentur et exsultent gentes, quoniam judicas populos in aequitate, et gentes in terra dirigis.
+5. Laetentur et exsultent gentes, quoniam iudicas populos in aequitate, et gentes in terra dirigis.
 
 6. Confiteantur tibi populi, Deus : confiteantur tibi populi omnes.
 
@@ -2290,15 +2290,15 @@
 
 1. In finem. Psalmus cantici ipsi David.
 
-2. Exsurgat Deus, et dissipentur inimici ejus ; et fugiant qui oderunt eum a facie ejus.
+2. Exsurgat Deus, et dissipentur inimici eius ; et fugiant qui oderunt eum a facie eius.
 
 3. Sicut deficit fumus, deficiant ; sicut fluit cera a facie ignis, sic pereant peccatores a facie Dei.
 
-4. Et justi epulentur, et exsultent in conspectu Dei, et delectentur in laetitia.
+4. Et iusti epulentur, et exsultent in conspectu Dei, et delectentur in laetitia.
 
-5. Cantate Deo ; psalmum dicite nomini ejus : iter facite ei qui ascendit super occasum. Dominus nomen illi ; exsultate in conspectu ejus. Turbabuntur a facie ejus,
+5. Cantate Deo ; psalmum dicite nomini eius : iter facite ei qui ascendit super occasum. Dominus nomen illi ; exsultate in conspectu eius. Turbabuntur a facie eius,
 
-6. patris orphanorum, et judicis viduarum ; Deus in loco sancto suo.
+6. patris orphanorum, et iudicis viduarum ; Deus in loco sancto suo.
 
 7. Deus qui inhabitare facit unius moris in domo ; qui educit vinctos in fortitudine, similiter eos qui exasperant, qui habitant in sepulchris.
 
@@ -2314,7 +2314,7 @@
 
 13. Rex virtutum dilecti, dilecti ; et speciei domus dividere spolia.
 
-14. Si dormiatis inter medios cleros, pennae columbae deargentatae, et posteriora dorsi ejus in pallore auri.
+14. Si dormiatis inter medios cleros, pennae columbae deargentatae, et posteriora dorsi eius in pallore auri.
 
 15. Dum discernit caelestis reges super eam, nive dealbabuntur in Selmon.
 
@@ -2338,25 +2338,25 @@
 
 25. Viderunt ingressus tuos, Deus, ingressus Dei mei, regis mei, qui est in sancto.
 
-26. Praevenerunt principes conjuncti psallentibus, in medio juvencularum tympanistriarum.
+26. Praevenerunt principes coniuncti psallentibus, in medio iuvencularum tympanistriarum.
 
 27. In ecclesiis benedicite Deo Domino de fontibus Israël.
 
-28. Ibi Benjamin adolescentulus, in mentis excessu ; principes Juda, duces eorum ; principes Zabulon, principes Nephthali.
+28. Ibi Beniamin adolescentulus, in mentis excessu ; principes Iuda, duces eorum ; principes Zabulon, principes Nephthali.
 
 29. Manda, Deus, virtuti tuae ; confirma hoc, Deus, quod operatus es in nobis.
 
-30. A templo tuo in Jerusalem, tibi offerent reges munera.
+30. A templo tuo in Ierusalem, tibi offerent reges munera.
 
 31. Increpa feras arundinis ; congregatio taurorum in vaccis populorum : ut excludant eos qui probati sunt argento. Dissipa gentes quae bella volunt.
 
-32. Venient legati ex Aegypto ; Aethiopia praeveniet manus ejus Deo.
+32. Venient legati ex Aegypto ; Aethiopia praeveniet manus eius Deo.
 
 33. Regna terrae, cantate Deo ; psallite Domino ; psallite Deo.
 
 34. Qui ascendit super caelum caeli, ad orientem : ecce dabit voci suae vocem virtutis.
 
-35. Date gloriam Deo super Israël ; magnificentia ejus et virtus ejus in nubibus.
+35. Date gloriam Deo super Israël ; magnificentia eius et virtus eius in nubibus.
 
 36. Mirabilis Deus in sanctis suis ; Deus Israël ipse dabit virtutem et fortitudinem plebi suae. Benedictus Deus !
 
@@ -2372,7 +2372,7 @@
 
 4. Laboravi clamans, raucae factae sunt fauces meae ; defecerunt oculi mei, dum spero in Deum meum.
 
-5. Multiplicati sunt super capillos capitis mei qui oderunt me gratis. Confortati sunt qui persecuti sunt me inimici mei injuste ; quae non rapui, tunc exsolvebam.
+5. Multiplicati sunt super capillos capitis mei qui oderunt me gratis. Confortati sunt qui persecuti sunt me inimici mei iniuste ; quae non rapui, tunc exsolvebam.
 
 6. Deus, tu scis insipientiam meam ; et delicta mea a te non sunt abscondita.
 
@@ -2384,7 +2384,7 @@
 
 10. Quoniam zelus domus tuae comedit me, et opprobria exprobrantium tibi ceciderunt super me.
 
-11. Et operui in jejunio animam meam, et factum est in opprobrium mihi.
+11. Et operui in ieiunio animam meam, et factum est in opprobrium mihi.
 
 12. Et posui vestimentum meum cilicium ; et factus sum illis in parabolam.
 
@@ -2418,9 +2418,9 @@
 
 27. Quoniam quem tu percussisti persecuti sunt, et super dolorem vulnerum meorum addiderunt.
 
-28. Appone iniquitatem super iniquitatem eorum, et non intrent in justitiam tuam.
+28. Appone iniquitatem super iniquitatem eorum, et non intrent in iustitiam tuam.
 
-29. Deleantur de libro viventium, et cum justis non scribantur.
+29. Deleantur de libro viventium, et cum iustis non scribantur.
 
 30. Ego sum pauper et dolens ; salus tua, Deus, suscepit me.
 
@@ -2434,9 +2434,9 @@
 
 35. Laudent illum caeli et terra ; mare, et omnia reptilia in eis.
 
-36. Quoniam Deus salvam faciet Sion, et aedificabuntur civitates Juda, et inhabitabunt ibi, et haereditate acquirent eam.
+36. Quoniam Deus salvam faciet Sion, et aedificabuntur civitates Iuda, et inhabitabunt ibi, et haereditate acquirent eam.
 
-37. Et semen servorum ejus possidebit eam ; et qui diligunt nomen ejus habitabunt in ea.
+37. Et semen servorum eius possidebit eam ; et qui diligunt nomen eius habitabunt in ea.
 
 ---
 
@@ -2444,7 +2444,7 @@
 
 1. In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus.
 
-2. Deus, in adjutorium meum intende ; Domine, ad adjuvandum me festina.
+2. Deus, in adiutorium meum intende ; Domine, ad adiuvandum me festina.
 
 3. Confundantur, et revereantur, qui quaerunt animam meam.
 
@@ -2452,29 +2452,29 @@
 
 5. Exsultent et laetentur in te omnes qui quaerunt te ; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.
 
-6. Ego vero egenus et pauper sum ; Deus, adjuva me. Adjutor meus et liberator meus es tu ; Domine, ne moreris.
+6. Ego vero egenus et pauper sum ; Deus, adiuva me. Adiutor meus et liberator meus es tu ; Domine, ne moreris.
 
 ---
 
 ## Psalmus 70
 
-1. Psalmus David, filiorum Jonadab, et priorum captivorum. In te, Domine, speravi ; non confundar in aeternum.
+1. Psalmus David, filiorum Ionadab, et priorum captivorum. In te, Domine, speravi ; non confundar in aeternum.
 
-2. In justitia tua libera me, et eripe me : inclina ad me aurem tuam, et salva me.
+2. In iustitia tua libera me, et eripe me : inclina ad me aurem tuam, et salva me.
 
 3. Esto mihi in Deum protectorem, et in locum munitum, ut salvum me facias : quoniam firmamentum meum et refugium meum es tu.
 
 4. Deus meus, eripe me de manu peccatoris, et de manu contra legem agentis, et iniqui :
 
-5. quoniam tu es patientia mea, Domine ; Domine, spes mea a juventute mea.
+5. quoniam tu es patientia mea, Domine ; Domine, spes mea a iuventute mea.
 
 6. In te confirmatus sum ex utero ; de ventre matris meae tu es protector meus ; in te cantatio mea semper.
 
-7. Tamquam prodigium factus sum multis ; et tu adjutor fortis.
+7. Tamquam prodigium factus sum multis ; et tu adiutor fortis.
 
 8. Repleatur os meum laude, ut cantem gloriam tuam, tota die magnitudinem tuam.
 
-9. Ne projicias me in tempore senectutis ; cum defecerit virtus mea, ne derelinquas me.
+9. Ne proiicias me in tempore senectutis ; cum defecerit virtus mea, ne derelinquas me.
 
 10. Quia dixerunt inimici mei mihi, et qui custodiebant animam meam consilium fecerunt in unum,
 
@@ -2484,17 +2484,17 @@
 
 13. Confundantur et deficiant detrahentes animae meae ; operiantur confusione et pudore qui quaerunt mala mihi.
 
-14. Ego autem semper sperabo, et adjiciam super omnem laudem tuam.
+14. Ego autem semper sperabo, et adiiciam super omnem laudem tuam.
 
-15. Os meum annuntiabit justitiam tuam, tota die salutare tuum. Quoniam non cognovi litteraturam,
+15. Os meum annuntiabit iustitiam tuam, tota die salutare tuum. Quoniam non cognovi litteraturam,
 
-16. introibo in potentias Domini ; Domine, memorabor justitiae tuae solius.
+16. introibo in potentias Domini ; Domine, memorabor iustitiae tuae solius.
 
-17. Deus, docuisti me a juventute mea ; et usque nunc pronuntiabo mirabilia tua.
+17. Deus, docuisti me a iuventute mea ; et usque nunc pronuntiabo mirabilia tua.
 
 18. Et usque in senectam et senium, Deus, ne derelinquas me, donec annuntiem brachium tuum generationi omni quae ventura est, potentiam tuam,
 
-19. et justitiam tuam, Deus, usque in altissima ; quae fecisti magnalia, Deus : quis similis tibi ?
+19. et iustitiam tuam, Deus, usque in altissima ; quae fecisti magnalia, Deus : quis similis tibi ?
 
 20. Quantas ostendisti mihi tribulationes multas et malas ! et conversus vivificasti me, et de abyssis terrae iterum reduxisti me.
 
@@ -2504,7 +2504,7 @@
 
 23. Exsultabunt labia mea cum cantavero tibi ; et anima mea quam redemisti.
 
-24. Sed et lingua mea tota die meditabitur justitiam tuam, cum confusi et reveriti fuerint qui quaerunt mala mihi.
+24. Sed et lingua mea tota die meditabitur iustitiam tuam, cum confusi et reveriti fuerint qui quaerunt mala mihi.
 
 ---
 
@@ -2512,27 +2512,27 @@
 
 1. Psalmus, in Salomonem.
 
-2. Deus, judicium tuum regi da, et justitiam tuam filio regis ; judicare populum tuum in justitia, et pauperes tuos in judicio.
+2. Deus, iudicium tuum regi da, et iustitiam tuam filio regis ; iudicare populum tuum in iustitia, et pauperes tuos in iudicio.
 
-3. Suscipiant montes pacem populo, et colles justitiam.
+3. Suscipiant montes pacem populo, et colles iustitiam.
 
-4. Judicabit pauperes populi, et salvos faciet filios pauperum, et humiliabit calumniatorem.
+4. Iudicabit pauperes populi, et salvos faciet filios pauperum, et humiliabit calumniatorem.
 
 5. Et permanebit cum sole, et ante lunam, in generatione et generationem.
 
 6. Descendet sicut pluvia in vellus, et sicut stillicidia stillantia super terram.
 
-7. Orietur in diebus ejus justitia, et abundantia pacis, donec auferatur luna.
+7. Orietur in diebus eius iustitia, et abundantia pacis, donec auferatur luna.
 
 8. Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis terrarum.
 
-9. Coram illo procident Aethiopes, et inimici ejus terram lingent.
+9. Coram illo procident Aethiopes, et inimici eius terram lingent.
 
 10. Reges Tharsis et insulae munera offerent ; reges Arabum et Saba dona adducent :
 
 11. et adorabunt eum omnes reges terrae ; omnes gentes servient ei.
 
-12. Quia liberabit pauperem a potente, et pauperem cui non erat adjutor.
+12. Quia liberabit pauperem a potente, et pauperem cui non erat adiutor.
 
 13. Parcet pauperi et inopi, et animas pauperum salvas faciet.
 
@@ -2540,15 +2540,15 @@
 
 15. Et vivet, et dabitur ei de auro Arabiae ; et adorabunt de ipso semper, tota die benedicent ei.
 
-16. Et erit firmamentum in terra in summis montium ; superextolletur super Libanum fructus ejus, et florebunt de civitate sicut foenum terrae.
+16. Et erit firmamentum in terra in summis montium ; superextolletur super Libanum fructus eius, et florebunt de civitate sicut foenum terrae.
 
-17. Sit nomen ejus benedictum in saecula ; ante solem permanet nomen ejus. Et benedicentur in ipso omnes tribus terrae ; omnes gentes magnificabunt eum.
+17. Sit nomen eius benedictum in saecula ; ante solem permanet nomen eius. Et benedicentur in ipso omnes tribus terrae ; omnes gentes magnificabunt eum.
 
 18. Benedictus Dominus Deus Israël, qui facit mirabilia solus.
 
-19. Et benedictum nomen majestatis ejus in aeternum, et replebitur majestate ejus omnis terra. Fiat, fiat.
+19. Et benedictum nomen maiestatis eius in aeternum, et replebitur maiestate eius omnis terra. Fiat, fiat.
 
-20. Defecerunt laudes David, filii Jesse.
+20. Defecerunt laudes David, filii Iesse.
 
 ---
 
@@ -2578,7 +2578,7 @@
 
 12. Ecce ipsi peccatores, et abundantes in saeculo obtinuerunt divitias.
 
-13. Et dixi : Ergo sine causa justificavi cor meum, et lavi inter innocentes manus meas,
+13. Et dixi : Ergo sine causa iustificavi cor meum, et lavi inter innocentes manus meas,
 
 14. et fui flagellatus tota die, et castigatio mea in matutinis.
 
@@ -2588,7 +2588,7 @@
 
 17. donec intrem in sanctuarium Dei, et intelligam in novissimis eorum.
 
-18. Verumtamen propter dolos posuisti eis ; dejecisti eos dum allevarentur.
+18. Verumtamen propter dolos posuisti eis ; deiecisti eos dum allevarentur.
 
 19. Quomodo facti sunt in desolationem ? subito defecerunt : perierunt propter iniquitatem suam.
 
@@ -2598,7 +2598,7 @@
 
 22. et ego ad nihilum redactus sum, et nescivi :
 
-23. ut jumentum factus sum apud te, et ego semper tecum.
+23. ut iumentum factus sum apud te, et ego semper tecum.
 
 24. Tenuisti manum dexteram meam, et in voluntate tua deduxisti me, et cum gloria suscepisti me.
 
@@ -2624,13 +2624,13 @@
 
 5. et non cognoverunt sicut in exitu super summum. Quasi in silva lignorum securibus
 
-6. exciderunt januas ejus in idipsum ; in securi et ascia dejecerunt eam.
+6. exciderunt ianuas eius in idipsum ; in securi et ascia deiecerunt eam.
 
 7. Incenderunt igni sanctuarium tuum ; in terra polluerunt tabernaculum nominis tui.
 
 8. Dixerunt in corde suo cognatio eorum simul : Quiescere faciamus omnes dies festos Dei a terra.
 
-9. Signa nostra non vidimus ; jam non est propheta ; et nos non cognoscet amplius.
+9. Signa nostra non vidimus ; iam non est propheta ; et nos non cognoscet amplius.
 
 10. Usquequo, Deus, improperabit inimicus ? irritat adversarius nomen tuum in finem ?
 
@@ -2648,7 +2648,7 @@
 
 17. Tu fecisti omnes terminos terrae ; aestatem et ver tu plasmasti ea.
 
-18. Memor esto hujus : inimicus improperavit Domino, et populus insipiens incitavit nomen tuum.
+18. Memor esto huius : inimicus improperavit Domino, et populus insipiens incitavit nomen tuum.
 
 19. Ne tradas bestiis animas confitentes tibi, et animas pauperum tuorum ne obliviscaris in finem.
 
@@ -2656,7 +2656,7 @@
 
 21. Ne avertatur humilis factus confusus ; pauper et inops laudabunt nomen tuum.
 
-22. Exsurge, Deus, judica causam tuam ; memor esto improperiorum tuorum, eorum quae ab insipiente sunt tota die.
+22. Exsurge, Deus, iudica causam tuam ; memor esto improperiorum tuorum, eorum quae ab insipiente sunt tota die.
 
 23. Ne obliviscaris voces inimicorum tuorum : superbia eorum qui te oderunt ascendit semper.
 
@@ -2668,9 +2668,9 @@
 
 2. Confitebimur tibi, Deus, confitebimur, et invocabimus nomen tuum ; narrabimus mirabilia tua.
 
-3. Cum accepero tempus, ego justitias judicabo.
+3. Cum accepero tempus, ego iustitias iudicabo.
 
-4. Liquefacta est terra et omnes qui habitant in ea : ego confirmavi columnas ejus.
+4. Liquefacta est terra et omnes qui habitant in ea : ego confirmavi columnas eius.
 
 5. Dixi iniquis : Nolite inique agere : et delinquentibus : Nolite exaltare cornu :
 
@@ -2678,13 +2678,13 @@
 
 7. Quia neque ab oriente, neque ab occidente, neque a desertis montibus :
 
-8. quoniam Deus judex est. Hunc humiliat, et hunc exaltat :
+8. quoniam Deus iudex est. Hunc humiliat, et hunc exaltat :
 
-9. quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc ; verumtamen faex ejus non est exinanita : bibent omnes peccatores terrae.
+9. quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc ; verumtamen faex eius non est exinanita : bibent omnes peccatores terrae.
 
-10. Ego autem annuntiabo in saeculum ; cantabo Deo Jacob :
+10. Ego autem annuntiabo in saeculum ; cantabo Deo Iacob :
 
-11. et omnia cornua peccatorum confringam, et exaltabuntur cornua justi.
+11. et omnia cornua peccatorum confringam, et exaltabuntur cornua iusti.
 
 ---
 
@@ -2692,9 +2692,9 @@
 
 1. In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios.
 
-2. Notus in Judaea Deus ; in Israël magnum nomen ejus.
+2. Notus in Iudaea Deus ; in Israël magnum nomen eius.
 
-3. Et factus est in pace locus ejus, et habitatio ejus in Sion.
+3. Et factus est in pace locus eius, et habitatio eius in Sion.
 
 4. Ibi confregit potentias arcuum, scutum, gladium, et bellum.
 
@@ -2702,17 +2702,17 @@
 
 6. turbati sunt omnes insipientes corde. Dormierunt somnum suum, et nihil invenerunt omnes viri divitiarum in manibus suis.
 
-7. Ab increpatione tua, Deus Jacob, dormitaverunt qui ascenderunt equos.
+7. Ab increpatione tua, Deus Iacob, dormitaverunt qui ascenderunt equos.
 
 8. Tu terribilis es ; et quis resistet tibi ? ex tunc ira tua.
 
-9. De caelo auditum fecisti judicium : terra tremuit et quievit
+9. De caelo auditum fecisti iudicium : terra tremuit et quievit
 
-10. cum exsurgeret in judicium Deus, ut salvos faceret omnes mansuetos terrae.
+10. cum exsurgeret in iudicium Deus, ut salvos faceret omnes mansuetos terrae.
 
 11. Quoniam cogitatio hominis confitebitur tibi, et reliquiae cogitationis diem festum agent tibi.
 
-12. Vovete et reddite Domino Deo vestro, omnes qui in circuitu ejus affertis munera : terribili,
+12. Vovete et reddite Domino Deo vestro, omnes qui in circuitu eius affertis munera : terribili,
 
 13. et ei qui aufert spiritum principum : terribili apud reges terrae.
 
@@ -2734,7 +2734,7 @@
 
 7. Et meditatus sum nocte cum corde meo, et exercitabar, et scopebam spiritum meum.
 
-8. Numquid in aeternum projiciet Deus ? aut non apponet ut complacitior sit adhuc ?
+8. Numquid in aeternum proiiciet Deus ? aut non apponet ut complacitior sit adhuc ?
 
 9. aut in finem misericordiam suam abscindet, a generatione in generationem ?
 
@@ -2750,7 +2750,7 @@
 
 15. Tu es Deus qui facis mirabilia : notam fecisti in populis virtutem tuam.
 
-16. Redemisti in brachio tuo populum tuum, filios Jacob et Joseph.
+16. Redemisti in brachio tuo populum tuum, filios Iacob et Ioseph.
 
 17. Viderunt te aquae, Deus ; viderunt te aquae, et timuerunt : et turbatae sunt abyssi.
 
@@ -2772,21 +2772,21 @@
 
 3. Quanta audivimus, et cognovimus ea, et patres nostri narraverunt nobis.
 
-4. Non sunt occultata a filiis eorum in generatione altera, narrantes laudes Domini et virtutes ejus, et mirabilia ejus quae fecit.
+4. Non sunt occultata a filiis eorum in generatione altera, narrantes laudes Domini et virtutes eius, et mirabilia eius quae fecit.
 
-5. Et suscitavit testimonium in Jacob, et legem posuit in Israël, quanta mandavit patribus nostris nota facere ea filiis suis :
+5. Et suscitavit testimonium in Iacob, et legem posuit in Israël, quanta mandavit patribus nostris nota facere ea filiis suis :
 
 6. ut cognoscat generatio altera : filii qui nascentur et exsurgent, et narrabunt filiis suis,
 
-7. ut ponant in Deo spem suam, et non obliviscantur operum Dei, et mandata ejus exquirant :
+7. ut ponant in Deo spem suam, et non obliviscantur operum Dei, et mandata eius exquirant :
 
-8. ne fiant, sicut patres eorum, generatio prava et exasperans ; generatio quae non direxit cor suum, et non est creditus cum Deo spiritus ejus.
+8. ne fiant, sicut patres eorum, generatio prava et exasperans ; generatio quae non direxit cor suum, et non est creditus cum Deo spiritus eius.
 
 9. Filii Ephrem, intendentes et mittentes arcum, conversi sunt in die belli.
 
-10. Non custodierunt testamentum Dei, et in lege ejus noluerunt ambulare.
+10. Non custodierunt testamentum Dei, et in lege eius noluerunt ambulare.
 
-11. Et obliti sunt benefactorum ejus, et mirabilium ejus quae ostendit eis.
+11. Et obliti sunt benefactorum eius, et mirabilium eius quae ostendit eis.
 
 12. Coram patribus eorum fecit mirabilia in terra Aegypti, in campo Taneos.
 
@@ -2806,11 +2806,11 @@
 
 20. quoniam percussit petram, et fluxerunt aquae, et torrentes inundaverunt. Numquid et panem poterit dare, aut parare mensam populo suo ?
 
-21. Ideo audivit Dominus et distulit ; et ignis accensus est in Jacob, et ira ascendit in Israël :
+21. Ideo audivit Dominus et distulit ; et ignis accensus est in Iacob, et ira ascendit in Israël :
 
-22. quia non crediderunt in Deo, nec speraverunt in salutari ejus.
+22. quia non crediderunt in Deo, nec speraverunt in salutari eius.
 
-23. Et mandavit nubibus desuper, et januas caeli aperuit.
+23. Et mandavit nubibus desuper, et ianuas caeli aperuit.
 
 24. Et pluit illis manna ad manducandum, et panem caeli dedit eis.
 
@@ -2828,17 +2828,17 @@
 
 31. et ira Dei ascendit super eos : et occidit pingues eorum, et electos Israël impedivit.
 
-32. In omnibus his peccaverunt adhuc, et non crediderunt in mirabilibus ejus.
+32. In omnibus his peccaverunt adhuc, et non crediderunt in mirabilibus eius.
 
 33. Et defecerunt in vanitate dies eorum, et anni eorum cum festinatione.
 
 34. Cum occideret eos, quaerebant eum et revertebantur, et diluculo veniebant ad eum.
 
-35. Et rememorati sunt quia Deus adjutor est eorum, et Deus excelsus redemptor eorum est.
+35. Et rememorati sunt quia Deus adiutor est eorum, et Deus excelsus redemptor eorum est.
 
 36. Et dilexerunt eum in ore suo, et lingua sua mentiti sunt ei ;
 
-37. cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento ejus.
+37. cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento eius.
 
 38. Ipse autem est misericors, et propitius fiet peccatis eorum, et non disperdet eos. Et abundavit ut averteret iram suam, et non accendit omnem iram suam.
 
@@ -2848,7 +2848,7 @@
 
 41. Et conversi sunt, et tentaverunt Deum, et sanctum Israël exacerbaverunt.
 
-42. Non sunt recordati manus ejus, die qua redemit eos de manu tribulantis :
+42. Non sunt recordati manus eius, die qua redemit eos de manu tribulantis :
 
 43. sicut posuit in Aegypto signa sua, et prodigia sua in campo Taneos ;
 
@@ -2860,11 +2860,11 @@
 
 47. et occidit in grandine vineas eorum, et moros eorum in pruina ;
 
-48. et tradidit grandini jumenta eorum, et possessionem eorum igni ;
+48. et tradidit grandini iumenta eorum, et possessionem eorum igni ;
 
 49. misit in eos iram indignationis suae, indignationem, et iram, et tribulationem, immissiones per angelos malos.
 
-50. Viam fecit semitae irae suae : non pepercit a morte animabus eorum, et jumenta eorum in morte conclusit :
+50. Viam fecit semitae irae suae : non pepercit a morte animabus eorum, et iumenta eorum in morte conclusit :
 
 51. et percussit omne primogenitum in terra Aegypti ; primitias omnis laboris eorum in tabernaculis Cham :
 
@@ -2872,11 +2872,11 @@
 
 53. et deduxit eos in spe, et non timuerunt, et inimicos eorum operuit mare.
 
-54. Et induxit eos in montem sanctificationis suae, montem quem acquisivit dextera ejus ; et ejecit a facie eorum gentes, et sorte divisit eis terram in funiculo distributionis ;
+54. Et induxit eos in montem sanctificationis suae, montem quem acquisivit dextera eius ; et eiecit a facie eorum gentes, et sorte divisit eis terram in funiculo distributionis ;
 
 55. et habitare fecit in tabernaculis eorum tribus Israël.
 
-56. Et tentaverunt, et exacerbaverunt Deum excelsum, et testimonia ejus non custodierunt.
+56. Et tentaverunt, et exacerbaverunt Deum excelsum, et testimonia eius non custodierunt.
 
 57. Et averterunt se, et non servaverunt pactum : quemadmodum patres eorum, conversi sunt in arcum pravum.
 
@@ -2890,7 +2890,7 @@
 
 62. Et conclusit in gladio populum suum, et haereditatem suam sprevit.
 
-63. Juvenes eorum comedit ignis, et virgines eorum non sunt lamentatae.
+63. Iuvenes eorum comedit ignis, et virgines eorum non sunt lamentatae.
 
 64. Sacerdotes eorum in gladio ceciderunt, et viduae eorum non plorabantur.
 
@@ -2898,15 +2898,15 @@
 
 66. Et percussit inimicos suos in posteriora ; opprobrium sempiternum dedit illis.
 
-67. Et repulit tabernaculum Joseph, et tribum Ephraim non elegit :
+67. Et repulit tabernaculum Ioseph, et tribum Ephraim non elegit :
 
-68. sed elegit tribum Juda, montem Sion, quem dilexit.
+68. sed elegit tribum Iuda, montem Sion, quem dilexit.
 
 69. Et aedificavit sicut unicornium sanctificium suum, in terra quam fundavit in saecula.
 
 70. Et elegit David, servum suum, et sustulit eum de gregibus ovium ; de post foetantes accepit eum :
 
-71. pascere Jacob servum suum, et Israël haereditatem suam.
+71. pascere Iacob servum suum, et Israël haereditatem suam.
 
 72. Et pavit eos in innocentia cordis sui, et in intellectibus manuum suarum deduxit eos.
 
@@ -2914,11 +2914,11 @@
 
 ## Psalmus 78
 
-1. Psalmus Asaph. Deus, venerunt gentes in haereditatem tuam ; polluerunt templum sanctum tuum ; posuerunt Jerusalem in pomorum custodiam.
+1. Psalmus Asaph. Deus, venerunt gentes in haereditatem tuam ; polluerunt templum sanctum tuum ; posuerunt Ierusalem in pomorum custodiam.
 
 2. Posuerunt morticina servorum tuorum escas volatilibus caeli ; carnes sanctorum tuorum bestiis terrae.
 
-3. Effuderunt sanguinem eorum tamquam aquam in circuitu Jerusalem, et non erat qui sepeliret.
+3. Effuderunt sanguinem eorum tamquam aquam in circuitu Ierusalem, et non erat qui sepeliret.
 
 4. Facti sumus opprobrium vicinis nostris ; subsannatio et illusio his qui in circuitu nostro sunt.
 
@@ -2926,11 +2926,11 @@
 
 6. Effunde iram tuam in gentes quae te non noverunt, et in regna quae nomen tuum non invocaverunt :
 
-7. quia comederunt Jacob, et locum ejus desolaverunt.
+7. quia comederunt Iacob, et locum eius desolaverunt.
 
 8. Ne memineris iniquitatum nostrarum antiquarum ; cito anticipent nos misericordiae tuae, quia pauperes facti sumus nimis.
 
-9. Adjuva nos, Deus salutaris noster, et propter gloriam nominis tui, Domine, libera nos : et propitius esto peccatis nostris, propter nomen tuum.
+9. Adiuva nos, Deus salutaris noster, et propter gloriam nominis tui, Domine, libera nos : et propitius esto peccatis nostris, propter nomen tuum.
 
 10. Ne forte dicant in gentibus : Ubi est Deus eorum ? et innotescat in nationibus coram oculis nostris ultio sanguinis servorum tuorum qui effusus est.
 
@@ -2946,9 +2946,9 @@
 
 1. In finem, pro iis qui commutabuntur. Testimonium Asaph, psalmus.
 
-2. Qui regis Israël, intende ; qui deducis velut ovem Joseph. Qui sedes super cherubim, manifestare
+2. Qui regis Israël, intende ; qui deducis velut ovem Ioseph. Qui sedes super cherubim, manifestare
 
-3. coram Ephraim, Benjamin, et Manasse. Excita potentiam tuam, et veni, ut salvos facias nos.
+3. coram Ephraim, Beniamin, et Manasse. Excita potentiam tuam, et veni, ut salvos facias nos.
 
 4. Deus, converte nos, et ostende faciem tuam, et salvi erimus.
 
@@ -2960,15 +2960,15 @@
 
 8. Deus virtutum, converte nos, et ostende faciem tuam, et salvi erimus.
 
-9. Vineam de Aegypto transtulisti : ejecisti gentes, et plantasti eam.
+9. Vineam de Aegypto transtulisti : eiecisti gentes, et plantasti eam.
 
-10. Dux itineris fuisti in conspectu ejus ; plantasti radices ejus, et implevit terram.
+10. Dux itineris fuisti in conspectu eius ; plantasti radices eius, et implevit terram.
 
-11. Operuit montes umbra ejus, et arbusta ejus cedros Dei.
+11. Operuit montes umbra eius, et arbusta eius cedros Dei.
 
-12. Extendit palmites suos usque ad mare, et usque ad flumen propagines ejus.
+12. Extendit palmites suos usque ad mare, et usque ad flumen propagines eius.
 
-13. Ut quid destruxisti maceriam ejus, et vindemiant eam omnes qui praetergrediuntur viam ?
+13. Ut quid destruxisti maceriam eius, et vindemiant eam omnes qui praetergrediuntur viam ?
 
 14. Exterminavit eam aper de silva, et singularis ferus depastus est eam.
 
@@ -2990,17 +2990,17 @@
 
 1. In finem, pro torcularibus. Psalmus ipsi Asaph.
 
-2. Exsultate Deo adjutori nostro ; jubilate Deo Jacob.
+2. Exsultate Deo adiutori nostro ; iubilate Deo Iacob.
 
-3. Sumite psalmum, et date tympanum ; psalterium jucundum cum cithara.
+3. Sumite psalmum, et date tympanum ; psalterium iucundum cum cithara.
 
 4. Buccinate in neomenia tuba, in insigni die solemnitatis vestrae :
 
-5. quia praeceptum in Israël est, et judicium Deo Jacob.
+5. quia praeceptum in Israël est, et iudicium Deo Iacob.
 
-6. Testimonium in Joseph posuit illud, cum exiret de terra Aegypti ; linguam quam non noverat, audivit.
+6. Testimonium in Ioseph posuit illud, cum exiret de terra Aegypti ; linguam quam non noverat, audivit.
 
-7. Divertit ab oneribus dorsum ejus ; manus ejus in cophino servierunt.
+7. Divertit ab oneribus dorsum eius ; manus eius in cophino servierunt.
 
 8. In tribulatione invocasti me, et liberavi te. Exaudivi te in abscondito tempestatis ; probavi te apud aquam contradictionis.
 
@@ -3026,11 +3026,11 @@
 
 ## Psalmus 81
 
-1. Psalmus Asaph. Deus stetit in synagoga deorum ; in medio autem deos dijudicat.
+1. Psalmus Asaph. Deus stetit in synagoga deorum ; in medio autem deos diiudicat.
 
-2. Usquequo judicatis iniquitatem, et facies peccatorum sumitis ?
+2. Usquequo iudicatis iniquitatem, et facies peccatorum sumitis ?
 
-3. Judicate egeno et pupillo ; humilem et pauperem justificate.
+3. Iudicate egeno et pupillo ; humilem et pauperem iustificate.
 
 4. Eripite pauperem, et egenum de manu peccatoris liberate.
 
@@ -3040,7 +3040,7 @@
 
 7. Vos autem sicut homines moriemini, et sicut unus de principibus cadetis.
 
-8. Surge, Deus, judica terram, quoniam tu haereditabis in omnibus gentibus.
+8. Surge, Deus, iudica terram, quoniam tu haereditabis in omnibus gentibus.
 
 ---
 
@@ -3062,9 +3062,9 @@
 
 8. Gebal, et Ammon, et Amalec ; alienigenae cum habitantibus Tyrum.
 
-9. Etenim Assur venit cum illis : facti sunt in adjutorium filiis Lot.
+9. Etenim Assur venit cum illis : facti sunt in adiutorium filiis Lot.
 
-10. Fac illis sicut Madian et Sisarae, sicut Jabin in torrente Cisson.
+10. Fac illis sicut Madian et Sisarae, sicut Iabin in torrente Cisson.
 
 11. Disperierunt in Endor ; facti sunt ut stercus terrae.
 
@@ -3098,17 +3098,17 @@
 
 5. Beati qui habitant in domo tua, Domine ; in saecula saeculorum laudabunt te.
 
-6. Beatus vir cujus est auxilium abs te : ascensiones in corde suo disposuit,
+6. Beatus vir cuius est auxilium abs te : ascensiones in corde suo disposuit,
 
 7. in valle lacrimarum, in loco quem posuit.
 
 8. Etenim benedictionem dabit legislator ; ibunt de virtute in virtutem : videbitur Deus deorum in Sion.
 
-9. Domine Deus virtutum, exaudi orationem meam ; auribus percipe, Deus Jacob.
+9. Domine Deus virtutum, exaudi orationem meam ; auribus percipe, Deus Iacob.
 
 10. Protector noster, aspice, Deus, et respice in faciem christi tui.
 
-11. Quia melior est dies una in atriis tuis super millia ; elegi abjectus esse in domo Dei mei magis quam habitare in tabernaculis peccatorum.
+11. Quia melior est dies una in atriis tuis super millia ; elegi abiectus esse in domo Dei mei magis quam habitare in tabernaculis peccatorum.
 
 12. Quia misericordiam et veritatem diligit Deus : gratiam et gloriam dabit Dominus.
 
@@ -3120,7 +3120,7 @@
 
 1. In finem, filiis Core. Psalmus.
 
-2. Benedixisti, Domine, terram tuam ; avertisti captivitatem Jacob.
+2. Benedixisti, Domine, terram tuam ; avertisti captivitatem Iacob.
 
 3. Remisisti iniquitatem plebis tuae ; operuisti omnia peccata eorum.
 
@@ -3138,13 +3138,13 @@
 
 10. Verumtamen prope timentes eum salutare ipsius, ut inhabitet gloria in terra nostra.
 
-11. Misericordia et veritas obviaverunt sibi ; justitia et pax osculatae sunt.
+11. Misericordia et veritas obviaverunt sibi ; iustitia et pax osculatae sunt.
 
-12. Veritas de terra orta est, et justitia de caelo prospexit.
+12. Veritas de terra orta est, et iustitia de caelo prospexit.
 
 13. Etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum.
 
-14. Justitia ante eum ambulabit, et ponet in via gressus suos.
+14. Iustitia ante eum ambulabit, et ponet in via gressus suos.
 
 ---
 
@@ -3182,15 +3182,15 @@
 
 16. Respice in me, et miserere mei ; da imperium tuum puero tuo, et salvum fac filium ancillae tuae.
 
-17. Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur : quoniam tu, Domine, adjuvisti me, et consolatus es me.
+17. Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur : quoniam tu, Domine, adiuvisti me, et consolatus es me.
 
 ---
 
 ## Psalmus 86
 
-1. Filiis Core. Psalmus cantici. Fundamenta ejus in montibus sanctis ;
+1. Filiis Core. Psalmus cantici. Fundamenta eius in montibus sanctis ;
 
-2. diligit Dominus portas Sion super omnia tabernacula Jacob.
+2. diligit Dominus portas Sion super omnia tabernacula Iacob.
 
 3. Gloriosa dicta sunt de te, civitas Dei !
 
@@ -3214,7 +3214,7 @@
 
 4. Quia repleta est malis anima mea, et vita mea inferno appropinquavit.
 
-5. Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adjutorio,
+5. Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adiutorio,
 
 6. inter mortuos liber ; sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt.
 
@@ -3230,13 +3230,13 @@
 
 12. Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione ?
 
-13. Numquid cognoscentur in tenebris mirabilia tua ? et justitia tua in terra oblivionis ?
+13. Numquid cognoscentur in tenebris mirabilia tua ? et iustitia tua in terra oblivionis ?
 
 14. Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te.
 
 15. Ut quid, Domine, repellis orationem meam ; avertis faciem tuam a me ?
 
-16. Pauper sum ego, et in laboribus a juventute mea ; exaltatus autem, humiliatus sum et conturbatus.
+16. Pauper sum ego, et in laboribus a iuventute mea ; exaltatus autem, humiliatus sum et conturbatus.
 
 17. In me transierunt irae tuae, et terrores tui conturbaverunt me :
 
@@ -3254,7 +3254,7 @@
 
 3. Quoniam dixisti : In aeternum misericordia aedificabitur in caelis ; praeparabitur veritas tua in eis.
 
-4. Disposui testamentum electis meis ; juravi David servo meo :
+4. Disposui testamentum electis meis ; iuravi David servo meo :
 
 5. Usque in aeternum praeparabo semen tuum, et aedificabo in generationem et generationem sedem tuam.
 
@@ -3262,31 +3262,31 @@
 
 7. Quoniam quis in nubibus aequabitur Domino ; similis erit Deo in filiis Dei ?
 
-8. Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu ejus sunt.
+8. Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu eius sunt.
 
 9. Domine Deus virtutum, quis similis tibi ? potens es, Domine, et veritas tua in circuitu tuo.
 
-10. Tu dominaris potestati maris ; motum autem fluctuum ejus tu mitigas.
+10. Tu dominaris potestati maris ; motum autem fluctuum eius tu mitigas.
 
 11. Tu humiliasti, sicut vulneratum, superbum ; in brachio virtutis tuae dispersisti inimicos tuos.
 
-12. Tui sunt caeli, et tua est terra : orbem terrae, et plenitudinem ejus tu fundasti ;
+12. Tui sunt caeli, et tua est terra : orbem terrae, et plenitudinem eius tu fundasti ;
 
 13. aquilonem et mare tu creasti. Thabor et Hermon in nomine tuo exsultabunt :
 
 14. tuum brachium cum potentia. Firmetur manus tua, et exaltetur dextera tua :
 
-15. justitia et judicium praeparatio sedis tuae : misericordia et veritas praecedent faciem tuam.
+15. iustitia et iudicium praeparatio sedis tuae : misericordia et veritas praecedent faciem tuam.
 
-16. Beatus populus qui scit jubilationem : Domine, in lumine vultus tui ambulabunt,
+16. Beatus populus qui scit iubilationem : Domine, in lumine vultus tui ambulabunt,
 
-17. et in nomine tuo exsultabunt tota die, et in justitia tua exaltabuntur.
+17. et in nomine tuo exsultabunt tota die, et in iustitia tua exaltabuntur.
 
 18. Quoniam gloria virtutis eorum tu es, et in beneplacito tuo exaltabitur cornu nostrum.
 
 19. Quia Domini est assumptio nostra, et sancti Israël regis nostri.
 
-20. Tunc locutus es in visione sanctis tuis, et dixisti : Posui adjutorium in potente, et exaltavi electum de plebe mea.
+20. Tunc locutus es in visione sanctis tuis, et dixisti : Posui adiutorium in potente, et exaltavi electum de plebe mea.
 
 21. Inveni David, servum meum ; oleo sancto meo unxi eum.
 
@@ -3294,11 +3294,11 @@
 
 23. Nihil proficiet inimicus in eo, et filius iniquitatis non apponet nocere ei.
 
-24. Et concidam a facie ipsius inimicos ejus, et odientes eum in fugam convertam.
+24. Et concidam a facie ipsius inimicos eius, et odientes eum in fugam convertam.
 
-25. Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu ejus.
+25. Et veritas mea et misericordia mea cum ipso, et in nomine meo exaltabitur cornu eius.
 
-26. Et ponam in mari manum ejus, et in fluminibus dexteram ejus.
+26. Et ponam in mari manum eius, et in fluminibus dexteram eius.
 
 27. Ipse invocabit me : Pater meus es tu, Deus meus, et susceptor salutis meae.
 
@@ -3306,11 +3306,11 @@
 
 29. In aeternum servabo illi misericordiam meam, et testamentum meum fidele ipsi.
 
-30. Et ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli.
+30. Et ponam in saeculum saeculi semen eius, et thronum eius sicut dies caeli.
 
-31. Si autem dereliquerint filii ejus legem meam, et in judiciis meis non ambulaverint ;
+31. Si autem dereliquerint filii eius legem meam, et in iudiciis meis non ambulaverint ;
 
-32. si justitias meas profanaverint, et mandata mea non custodierint :
+32. si iustitias meas profanaverint, et mandata mea non custodierint :
 
 33. visitabo in virga iniquitates eorum, et in verberibus peccata eorum ;
 
@@ -3318,27 +3318,27 @@
 
 35. neque profanabo testamentum meum : et quae procedunt de labiis meis non faciam irrita.
 
-36. Semel juravi in sancto meo, si David mentiar :
+36. Semel iuravi in sancto meo, si David mentiar :
 
-37. semen ejus in aeternum manebit.
+37. semen eius in aeternum manebit.
 
-38. Et thronus ejus sicut sol in conspectu meo, et sicut luna perfecta in aeternum, et testis in caelo fidelis.
+38. Et thronus eius sicut sol in conspectu meo, et sicut luna perfecta in aeternum, et testis in caelo fidelis.
 
 39. Tu vero repulisti et despexisti ; distulisti christum tuum.
 
-40. Evertisti testamentum servi tui ; profanasti in terra sanctuarium ejus.
+40. Evertisti testamentum servi tui ; profanasti in terra sanctuarium eius.
 
-41. Destruxisti omnes sepes ejus ; posuisti firmamentum ejus formidinem.
+41. Destruxisti omnes sepes eius ; posuisti firmamentum eius formidinem.
 
 42. Diripuerunt eum omnes transeuntes viam ; factus est opprobrium vicinis suis.
 
-43. Exaltasti dexteram deprimentium eum ; laetificasti omnes inimicos ejus.
+43. Exaltasti dexteram deprimentium eum ; laetificasti omnes inimicos eius.
 
-44. Avertisti adjutorium gladii ejus, et non es auxiliatus ei in bello.
+44. Avertisti adiutorium gladii eius, et non es auxiliatus ei in bello.
 
-45. Destruxisti eum ab emundatione, et sedem ejus in terram collisisti.
+45. Destruxisti eum ab emundatione, et sedem eius in terram collisisti.
 
-46. Minorasti dies temporis ejus ; perfudisti eum confusione.
+46. Minorasti dies temporis eius ; perfudisti eum confusione.
 
 47. Usquequo, Domine, avertis in finem ? exardescet sicut ignis ira tua ?
 
@@ -3346,7 +3346,7 @@
 
 49. Quis est homo qui vivet et non videbit mortem ? eruet animam suam de manu inferi ?
 
-50. Ubi sunt misericordiae tuae antiquae, Domine, sicut jurasti David in veritate tua ?
+50. Ubi sunt misericordiae tuae antiquae, Domine, sicut iurasti David in veritate tua ?
 
 51. Memor esto, Domine, opprobrii servorum tuorum, quod continui in sinu meo, multarum gentium :
 
@@ -3396,15 +3396,15 @@
 
 ## Psalmus 90
 
-1. Laus cantici David. Qui habitat in adjutorio Altissimi, in protectione Dei caeli commorabitur.
+1. Laus cantici David. Qui habitat in adiutorio Altissimi, in protectione Dei caeli commorabitur.
 
 2. Dicet Domino : Susceptor meus es tu, et refugium meum ; Deus meus, sperabo in eum.
 
 3. Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero.
 
-4. Scapulis suis obumbrabit tibi, et sub pennis ejus sperabis.
+4. Scapulis suis obumbrabit tibi, et sub pennis eius sperabis.
 
-5. Scuto circumdabit te veritas ejus : non timebis a timore nocturno ;
+5. Scuto circumdabit te veritas eius : non timebis a timore nocturno ;
 
 6. a sagitta volante in die, a negotio perambulante in tenebris, ab incursu, et daemonio meridiano.
 
@@ -3456,7 +3456,7 @@
 
 12. Et despexit oculus meus inimicos meos, et in insurgentibus in me malignantibus audiet auris mea.
 
-13. Justus ut palma florebit ; sicut cedrus Libani multiplicabitur.
+13. Iustus ut palma florebit ; sicut cedrus Libani multiplicabitur.
 
 14. Plantati in domo Domini, in atriis domus Dei nostri florebunt.
 
@@ -3484,17 +3484,17 @@
 
 1. Psalmus ipsi David, quarta sabbati. Deus ultionum Dominus ; Deus ultionum libere egit.
 
-2. Exaltare, qui judicas terram ; redde retributionem superbis.
+2. Exaltare, qui iudicas terram ; redde retributionem superbis.
 
 3. Usquequo peccatores, Domine, usquequo peccatores gloriabuntur ;
 
-4. effabuntur et loquentur iniquitatem ; loquentur omnes qui operantur injustitiam ?
+4. effabuntur et loquentur iniquitatem ; loquentur omnes qui operantur iniustitiam ?
 
 5. Populum tuum, Domine, humiliaverunt, et haereditatem tuam vexaverunt.
 
 6. Viduam et advenam interfecerunt, et pupillos occiderunt.
 
-7. Et dixerunt : Non videbit Dominus, nec intelliget Deus Jacob.
+7. Et dixerunt : Non videbit Dominus, nec intelliget Deus Iacob.
 
 8. Intelligite, insipientes in populo ; et stulti, aliquando sapite.
 
@@ -3510,21 +3510,21 @@
 
 14. Quia non repellet Dominus plebem suam, et haereditatem suam non derelinquet,
 
-15. quoadusque justitia convertatur in judicium : et qui juxta illam, omnes qui recto sunt corde.
+15. quoadusque iustitia convertatur in iudicium : et qui iuxta illam, omnes qui recto sunt corde.
 
 16. Quis consurget mihi adversus malignantes ? aut quis stabit mecum adversus operantes iniquitatem ?
 
-17. Nisi quia Dominus adjuvit me, paulominus habitasset in inferno anima mea.
+17. Nisi quia Dominus adiuvit me, paulominus habitasset in inferno anima mea.
 
-18. Si dicebam : Motus est pes meus : misericordia tua, Domine, adjuvabat me.
+18. Si dicebam : Motus est pes meus : misericordia tua, Domine, adiuvabat me.
 
 19. Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam.
 
 20. Numquid adhaeret tibi sedes iniquitatis, qui fingis laborem in praecepto ?
 
-21. Captabunt in animam justi, et sanguinem innocentem condemnabunt.
+21. Captabunt in animam iusti, et sanguinem innocentem condemnabunt.
 
-22. Et factus est mihi Dominus in refugium, et Deus meus in adjutorium spei meae.
+22. Et factus est mihi Dominus in refugium, et Deus meus in adiutorium spei meae.
 
 23. Et reddet illis iniquitatem ipsorum, et in malitia eorum disperdet eos : disperdet illos Dominus Deus noster.
 
@@ -3532,27 +3532,27 @@
 
 ## Psalmus 94
 
-1. Laus cantici ipsi David. Venite, exsultemus Domino ; jubilemus Deo salutari nostro ;
+1. Laus cantici ipsi David. Venite, exsultemus Domino ; iubilemus Deo salutari nostro ;
 
-2. praeoccupemus faciem ejus in confessione, et in psalmis jubilemus ei :
+2. praeoccupemus faciem eius in confessione, et in psalmis iubilemus ei :
 
 3. quoniam Deus magnus Dominus, et rex magnus super omnes deos.
 
-4. Quia in manu ejus sunt omnes fines terrae, et altitudines montium ipsius sunt ;
+4. Quia in manu eius sunt omnes fines terrae, et altitudines montium ipsius sunt ;
 
-5. quoniam ipsius est mare, et ipse fecit illud, et siccam manus ejus formaverunt.
+5. quoniam ipsius est mare, et ipse fecit illud, et siccam manus eius formaverunt.
 
 6. Venite, adoremus, et procidamus, et ploremus ante Dominum qui fecit nos :
 
-7. quia ipse est Dominus Deus noster, et nos populus pascuae ejus, et oves manus ejus.
+7. quia ipse est Dominus Deus noster, et nos populus pascuae eius, et oves manus eius.
 
-8. Hodie si vocem ejus audieritis, nolite obdurare corda vestra
+8. Hodie si vocem eius audieritis, nolite obdurare corda vestra
 
 9. sicut in irritatione, secundum diem tentationis in deserto, ubi tentaverunt me patres vestri : probaverunt me, et viderunt opera mea.
 
 10. Quadraginta annis offensus fui generationi illi, et dixi : Semper hi errant corde.
 
-11. Et isti non cognoverunt vias meas : ut juravi in ira mea : Si introibunt in requiem meam.
+11. Et isti non cognoverunt vias meas : ut iuravi in ira mea : Si introibunt in requiem meam.
 
 ---
 
@@ -3560,79 +3560,79 @@
 
 1. Canticum ipsi David, quando domus aedificabatur post captivitatem. Cantate Domino canticum novum ; cantate Domino omnis terra.
 
-2. Cantate Domino, et benedicite nomini ejus ; annuntiate de die in diem salutare ejus.
+2. Cantate Domino, et benedicite nomini eius ; annuntiate de die in diem salutare eius.
 
-3. Annuntiate inter gentes gloriam ejus ; in omnibus populis mirabilia ejus.
+3. Annuntiate inter gentes gloriam eius ; in omnibus populis mirabilia eius.
 
 4. Quoniam magnus Dominus, et laudabilis nimis : terribilis est super omnes deos.
 
 5. Quoniam omnes dii gentium daemonia ; Dominus autem caelos fecit.
 
-6. Confessio et pulchritudo in conspectu ejus ; sanctimonia et magnificentia in sanctificatione ejus.
+6. Confessio et pulchritudo in conspectu eius ; sanctimonia et magnificentia in sanctificatione eius.
 
 7. Afferte Domino, patriae gentium, afferte Domino gloriam et honorem ;
 
-8. afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus ;
+8. afferte Domino gloriam nomini eius. Tollite hostias, et introite in atria eius ;
 
-9. adorate Dominum in atrio sancto ejus. Commoveatur a facie ejus universa terra ;
+9. adorate Dominum in atrio sancto eius. Commoveatur a facie eius universa terra ;
 
-10. dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur ; judicabit populos in aequitate.
+10. dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur ; iudicabit populos in aequitate.
 
-11. Laetentur caeli, et exsultet terra ; commoveatur mare et plenitudo ejus ;
+11. Laetentur caeli, et exsultet terra ; commoveatur mare et plenitudo eius ;
 
 12. gaudebunt campi, et omnia quae in eis sunt. Tunc exsultabunt omnia ligna silvarum
 
-13. a facie Domini, quia venit, quoniam venit judicare terram. Judicabit orbem terrae in aequitate, et populos in veritate sua.
+13. a facie Domini, quia venit, quoniam venit iudicare terram. Iudicabit orbem terrae in aequitate, et populos in veritate sua.
 
 ---
 
 ## Psalmus 96
 
-1. Huic David, quando terra ejus restituta est. Dominus regnavit : exsultet terra ; laetentur insulae multae.
+1. Huic David, quando terra eius restituta est. Dominus regnavit : exsultet terra ; laetentur insulae multae.
 
-2. Nubes et caligo in circuitu ejus ; justitia et judicium correctio sedis ejus.
+2. Nubes et caligo in circuitu eius ; iustitia et iudicium correctio sedis eius.
 
-3. Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos ejus.
+3. Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos eius.
 
-4. Illuxerunt fulgura ejus orbi terrae ; vidit, et commota est terra.
+4. Illuxerunt fulgura eius orbi terrae ; vidit, et commota est terra.
 
 5. Montes sicut cera fluxerunt a facie Domini ; a facie Domini omnis terra.
 
-6. Annuntiaverunt caeli justitiam ejus, et viderunt omnes populi gloriam ejus.
+6. Annuntiaverunt caeli iustitiam eius, et viderunt omnes populi gloriam eius.
 
-7. Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli ejus.
+7. Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli eius.
 
-8. Audivit, et laetata est Sion, et exsultaverunt filiae Judae propter judicia tua, Domine.
+8. Audivit, et laetata est Sion, et exsultaverunt filiae Iudae propter iudicia tua, Domine.
 
 9. Quoniam tu Dominus altissimus super omnem terram ; nimis exaltatus es super omnes deos.
 
 10. Qui diligitis Dominum, odite malum : custodit Dominus animas sanctorum suorum ; de manu peccatoris liberabit eos.
 
-11. Lux orta est justo, et rectis corde laetitia.
+11. Lux orta est iusto, et rectis corde laetitia.
 
-12. Laetamini, justi, in Domino, et confitemini memoriae sanctificationis ejus.
+12. Laetamini, iusti, in Domino, et confitemini memoriae sanctificationis eius.
 
 ---
 
 ## Psalmus 97
 
-1. Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera ejus, et brachium sanctum ejus.
+1. Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera eius, et brachium sanctum eius.
 
-2. Notum fecit Dominus salutare suum ; in conspectu gentium revelavit justitiam suam.
+2. Notum fecit Dominus salutare suum ; in conspectu gentium revelavit iustitiam suam.
 
 3. Recordatus est misericordiae suae, et veritatis suae domui Israël. Viderunt omnes termini terrae salutare Dei nostri.
 
-4. Jubilate Deo, omnis terra ; cantate, et exsultate, et psallite.
+4. Iubilate Deo, omnis terra ; cantate, et exsultate, et psallite.
 
 5. Psallite Domino in cithara ; in cithara et voce psalmi ;
 
-6. in tubis ductilibus, et voce tubae corneae. Jubilate in conspectu regis Domini :
+6. in tubis ductilibus, et voce tubae corneae. Iubilate in conspectu regis Domini :
 
-7. moveatur mare, et plenitudo ejus ; orbis terrarum, et qui habitant in eo.
+7. moveatur mare, et plenitudo eius ; orbis terrarum, et qui habitant in eo.
 
 8. Flumina plaudent manu ; simul montes exsultabunt
 
-9. a conspectu Domini : quoniam venit judicare terram. Judicabit orbem terrarum in justitia, et populos in aequitate.
+9. a conspectu Domini : quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in aequitate.
 
 ---
 
@@ -3644,17 +3644,17 @@
 
 3. Confiteantur nomini tuo magno, quoniam terribile et sanctum est,
 
-4. et honor regis judicium diligit. Tu parasti directiones ; judicium et justitiam in Jacob tu fecisti.
+4. et honor regis iudicium diligit. Tu parasti directiones ; iudicium et iustitiam in Iacob tu fecisti.
 
-5. Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus, quoniam sanctum est.
+5. Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius, quoniam sanctum est.
 
-6. Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus : invocabant Dominum, et ipse exaudiebat eos ;
+6. Moyses et Aaron in sacerdotibus eius, et Samuel inter eos qui invocant nomen eius : invocabant Dominum, et ipse exaudiebat eos ;
 
-7. in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et praeceptum quod dedit illis.
+7. in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et praeceptum quod dedit illis.
 
 8. Domine Deus noster, tu exaudiebas eos ; Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.
 
-9. Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus, quoniam sanctus Dominus Deus noster.
+9. Exaltate Dominum Deum nostrum, et adorate in monte sancto eius, quoniam sanctus Dominus Deus noster.
 
 ---
 
@@ -3662,23 +3662,23 @@
 
 1. Psalmus in confessione.
 
-2. Jubilate Deo, omnis terra ; servite Domino in laetitia. Introite in conspectu ejus in exsultatione.
+2. Iubilate Deo, omnis terra ; servite Domino in laetitia. Introite in conspectu eius in exsultatione.
 
-3. Scitote quoniam Dominus ipse est Deus ; ipse fecit nos, et non ipsi nos : populus ejus, et oves pascuae ejus.
+3. Scitote quoniam Dominus ipse est Deus ; ipse fecit nos, et non ipsi nos : populus eius, et oves pascuae eius.
 
-4. Introite portas ejus in confessione ; atria ejus in hymnis : confitemini illi. Laudate nomen ejus,
+4. Introite portas eius in confessione ; atria eius in hymnis : confitemini illi. Laudate nomen eius,
 
-5. quoniam suavis est Dominus, in aeternum misericordia ejus, et usque in generationem et generationem veritas ejus.
+5. quoniam suavis est Dominus, in aeternum misericordia eius, et usque in generationem et generationem veritas eius.
 
 ---
 
 ## Psalmus 100
 
-1. Psalmus ipsi David. Misericordiam et judicium cantabo tibi, Domine ; psallam,
+1. Psalmus ipsi David. Misericordiam et iudicium cantabo tibi, Domine ; psallam,
 
 2. et intelligam in via immaculata : quando venies ad me ? Perambulabam in innocentia cordis mei, in medio domus meae.
 
-3. Non proponebam ante oculos meos rem injustam ; facientes praevaricationes odivi ; non adhaesit mihi
+3. Non proponebam ante oculos meos rem iniustam ; facientes praevaricationes odivi ; non adhaesit mihi
 
 4. cor pravum ; declinantem a me malignum non cognoscebam.
 
@@ -3710,7 +3710,7 @@
 
 8. Vigilavi, et factus sum sicut passer solitarius in tecto.
 
-9. Tota die exprobrabant mihi inimici mei, et qui laudabant me adversum me jurabant :
+9. Tota die exprobrabant mihi inimici mei, et qui laudabant me adversum me iurabant :
 
 10. quia cinerem tamquam panem manducabam, et potum meum cum fletu miscebam,
 
@@ -3720,9 +3720,9 @@
 
 13. Tu autem, Domine, in aeternum permanes, et memoriale tuum in generationem et generationem.
 
-14. Tu exsurgens misereberis Sion, quia tempus miserendi ejus, quia venit tempus :
+14. Tu exsurgens misereberis Sion, quia tempus miserendi eius, quia venit tempus :
 
-15. quoniam placuerunt servis tuis lapides ejus, et terrae ejus miserebuntur.
+15. quoniam placuerunt servis tuis lapides eius, et terrae eius miserebuntur.
 
 16. Et timebunt gentes nomen tuum, Domine, et omnes reges terrae gloriam tuam :
 
@@ -3736,7 +3736,7 @@
 
 21. ut audiret gemitus compeditorum ; ut solveret filios interemptorum :
 
-22. ut annuntient in Sion nomen Domini, et laudem ejus in Jerusalem :
+22. ut annuntient in Sion nomen Domini, et laudem eius in Ierusalem :
 
 23. in conveniendo populos in unum, et reges, ut serviant Domino.
 
@@ -3756,17 +3756,17 @@
 
 ## Psalmus 102
 
-1. Ipsi David. Benedic, anima mea, Domino, et omnia quae intra me sunt nomini sancto ejus.
+1. Ipsi David. Benedic, anima mea, Domino, et omnia quae intra me sunt nomini sancto eius.
 
-2. Benedic, anima mea, Domino, et noli oblivisci omnes retributiones ejus.
+2. Benedic, anima mea, Domino, et noli oblivisci omnes retributiones eius.
 
 3. Qui propitiatur omnibus iniquitatibus tuis ; qui sanat omnes infirmitates tuas :
 
 4. qui redimit de interitu vitam tuam ; qui coronat te in misericordia et miserationibus :
 
-5. qui replet in bonis desiderium tuum ; renovabitur ut aquilae juventus tua :
+5. qui replet in bonis desiderium tuum ; renovabitur ut aquilae iuventus tua :
 
-6. faciens misericordias Dominus, et judicium omnibus injuriam patientibus.
+6. faciens misericordias Dominus, et iudicium omnibus iniuriam patientibus.
 
 7. Notas fecit vias suas Moysi ; filiis Israël voluntates suas.
 
@@ -3784,21 +3784,21 @@
 
 14. Quoniam ipse cognovit figmentum nostrum ; recordatus est quoniam pulvis sumus.
 
-15. Homo, sicut foenum dies ejus ; tamquam flos agri, sic efflorebit :
+15. Homo, sicut foenum dies eius ; tamquam flos agri, sic efflorebit :
 
 16. quoniam spiritus pertransibit in illo, et non subsistet, et non cognoscet amplius locum suum.
 
-17. Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et justitia illius in filios filiorum,
+17. Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et iustitia illius in filios filiorum,
 
-18. his qui servant testamentum ejus, et memores sunt mandatorum ipsius ad faciendum ea.
+18. his qui servant testamentum eius, et memores sunt mandatorum ipsius ad faciendum ea.
 
 19. Dominus in caelo paravit sedem suam, et regnum ipsius omnibus dominabitur.
 
-20. Benedicite Domino, omnes angeli ejus : potentes virtute, facientes verbum illius, ad audiendam vocem sermonum ejus.
+20. Benedicite Domino, omnes angeli eius : potentes virtute, facientes verbum illius, ad audiendam vocem sermonum eius.
 
-21. Benedicite Domino, omnes virtutes ejus ; ministri ejus, qui facitis voluntatem ejus.
+21. Benedicite Domino, omnes virtutes eius ; ministri eius, qui facitis voluntatem eius.
 
-22. Benedicite Domino, omnia opera ejus : in omni loco dominationis ejus, benedic, anima mea, Domino.
+22. Benedicite Domino, omnia opera eius : in omni loco dominationis eius, benedic, anima mea, Domino.
 
 ---
 
@@ -3808,13 +3808,13 @@
 
 2. amictus lumine sicut vestimento. Extendens caelum sicut pellem,
 
-3. qui tegis aquis superiora ejus : qui ponis nubem ascensum tuum ; qui ambulas super pennas ventorum :
+3. qui tegis aquis superiora eius : qui ponis nubem ascensum tuum ; qui ambulas super pennas ventorum :
 
 4. qui facis angelos tuos spiritus, et ministros tuos ignem urentem.
 
 5. Qui fundasti terram super stabilitatem suam : non inclinabitur in saeculum saeculi.
 
-6. Abyssus sicut vestimentum amictus ejus ; super montes stabunt aquae.
+6. Abyssus sicut vestimentum amictus eius ; super montes stabunt aquae.
 
 7. Ab increpatione tua fugient ; a voce tonitrui tui formidabunt.
 
@@ -3830,7 +3830,7 @@
 
 13. Rigans montes de superioribus suis ; de fructu operum tuorum satiabitur terra :
 
-14. producens foenum jumentis, et herbam servituti hominum, ut educas panem de terra,
+14. producens foenum iumentis, et herbam servituti hominum, ut educas panem de terra,
 
 15. et vinum laetificet cor hominis : ut exhilaret faciem in oleo, et panis cor hominis confirmet.
 
@@ -3870,7 +3870,7 @@
 
 33. Cantabo Domino in vita mea ; psallam Deo meo quamdiu sum.
 
-34. Jucundum sit ei eloquium meum ; ego vero delectabor in Domino.
+34. Iucundum sit ei eloquium meum ; ego vero delectabor in Domino.
 
 35. Deficiant peccatores a terra, et iniqui, ita ut non sint. Benedic, anima mea, Domino.
 
@@ -3878,29 +3878,29 @@
 
 ## Psalmus 104
 
-1. Alleluja. Confitemini Domino, et invocate nomen ejus ; annuntiate inter gentes opera ejus.
+1. Alleluia. Confitemini Domino, et invocate nomen eius ; annuntiate inter gentes opera eius.
 
-2. Cantate ei, et psallite ei ; narrate omnia mirabilia ejus.
+2. Cantate ei, et psallite ei ; narrate omnia mirabilia eius.
 
-3. Laudamini in nomine sancto ejus ; laetetur cor quaerentium Dominum.
+3. Laudamini in nomine sancto eius ; laetetur cor quaerentium Dominum.
 
-4. Quaerite Dominum, et confirmamini ; quaerite faciem ejus semper.
+4. Quaerite Dominum, et confirmamini ; quaerite faciem eius semper.
 
-5. Mementote mirabilium ejus quae fecit ; prodigia ejus, et judicia oris ejus :
+5. Mementote mirabilium eius quae fecit ; prodigia eius, et iudicia oris eius :
 
-6. semen Abraham servi ejus ; filii Jacob electi ejus.
+6. semen Abraham servi eius ; filii Iacob electi eius.
 
-7. Ipse Dominus Deus noster ; in universa terra judicia ejus.
+7. Ipse Dominus Deus noster ; in universa terra iudicia eius.
 
 8. Memor fuit in saeculum testamenti sui ; verbi quod mandavit in mille generationes :
 
-9. quod disposuit ad Abraham, et juramenti sui ad Isaac :
+9. quod disposuit ad Abraham, et iuramenti sui ad Isaac :
 
-10. et statuit illud Jacob in praeceptum, et Israël in testamentum aeternum,
+10. et statuit illud Iacob in praeceptum, et Israël in testamentum aeternum,
 
 11. dicens : Tibi dabo terram Chanaan, funiculum haereditatis vestrae :
 
-12. cum essent numero brevi, paucissimi, et incolae ejus.
+12. cum essent numero brevi, paucissimi, et incolae eius.
 
 13. Et pertransierunt de gente in gentem, et de regno ad populum alterum.
 
@@ -3910,23 +3910,23 @@
 
 16. Et vocavit famem super terram, et omne firmamentum panis contrivit.
 
-17. Misit ante eos virum : in servum venundatus est, Joseph.
+17. Misit ante eos virum : in servum venundatus est, Ioseph.
 
-18. Humiliaverunt in compedibus pedes ejus ; ferrum pertransiit animam ejus :
+18. Humiliaverunt in compedibus pedes eius ; ferrum pertransiit animam eius :
 
-19. donec veniret verbum ejus. Eloquium Domini inflammavit eum.
+19. donec veniret verbum eius. Eloquium Domini inflammavit eum.
 
 20. Misit rex, et solvit eum ; princeps populorum, et dimisit eum.
 
 21. Constituit eum dominum domus suae, et principem omnis possessionis suae :
 
-22. ut erudiret principes ejus sicut semetipsum, et senes ejus prudentiam doceret.
+22. ut erudiret principes eius sicut semetipsum, et senes eius prudentiam doceret.
 
-23. Et intravit Israël in Aegyptum, et Jacob accola fuit in terra Cham.
+23. Et intravit Israël in Aegyptum, et Iacob accola fuit in terra Cham.
 
-24. Et auxit populum suum vehementer, et firmavit eum super inimicos ejus.
+24. Et auxit populum suum vehementer, et firmavit eum super inimicos eius.
 
-25. Convertit cor eorum, ut odirent populum ejus, et dolum facerent in servos ejus.
+25. Convertit cor eorum, ut odirent populum eius, et dolum facerent in servos eius.
 
 26. Misit Moysen servum suum ; Aaron quem elegit ipsum.
 
@@ -3944,7 +3944,7 @@
 
 33. Et percussit vineas eorum, et ficulneas eorum, et contrivit lignum finium eorum.
 
-34. Dixit, et venit locusta, et bruchus cujus non erat numerus :
+34. Dixit, et venit locusta, et bruchus cuius non erat numerus :
 
 35. et comedit omne foenum in terra eorum, et comedit omnem fructum terrae eorum.
 
@@ -3966,23 +3966,23 @@
 
 44. Et dedit illis regiones gentium, et labores populorum possederunt :
 
-45. ut custodiant justificationes ejus, et legem ejus requirant.
+45. ut custodiant iustificationes eius, et legem eius requirant.
 
 ---
 
 ## Psalmus 105
 
-1. Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.
+1. Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.
 
-2. Quis loquetur potentias Domini ; auditas faciet omnes laudes ejus ?
+2. Quis loquetur potentias Domini ; auditas faciet omnes laudes eius ?
 
-3. Beati qui custodiunt judicium, et faciunt justitiam in omni tempore.
+3. Beati qui custodiunt iudicium, et faciunt iustitiam in omni tempore.
 
 4. Memento nostri, Domine, in beneplacito populi tui ; visita nos in salutari tuo :
 
 5. ad videndum in bonitate electorum tuorum ; ad laetandum in laetitia gentis tuae : ut lauderis cum haereditate tua.
 
-6. Peccavimus cum patribus nostris : injuste egimus ; iniquitatem fecimus.
+6. Peccavimus cum patribus nostris : iniuste egimus ; iniquitatem fecimus.
 
 7. Patres nostri in Aegypto non intellexerunt mirabilia tua ; non fuerunt memores multitudinis misericordiae tuae. Et irritaverunt ascendentes in mare, mare Rubrum ;
 
@@ -3994,9 +3994,9 @@
 
 11. Et operuit aqua tribulantes eos ; unus ex eis non remansit.
 
-12. Et crediderunt verbis ejus, et laudaverunt laudem ejus.
+12. Et crediderunt verbis eius, et laudaverunt laudem eius.
 
-13. Cito fecerunt ; obliti sunt operum ejus : et non sustinuerunt consilium ejus.
+13. Cito fecerunt ; obliti sunt operum eius : et non sustinuerunt consilium eius.
 
 14. Et concupierunt concupiscentiam in deserto, et tentaverunt Deum in inaquoso.
 
@@ -4016,15 +4016,15 @@
 
 22. mirabilia in terra Cham, terribilia in mari Rubro.
 
-23. Et dixit ut disperderet eos, si non Moyses, electus ejus, stetisset in confractione in conspectu ejus, ut averteret iram ejus, ne disperderet eos.
+23. Et dixit ut disperderet eos, si non Moyses, electus eius, stetisset in confractione in conspectu eius, ut averteret iram eius, ne disperderet eos.
 
-24. Et pro nihilo habuerunt terram desiderabilem ; non crediderunt verbo ejus.
+24. Et pro nihilo habuerunt terram desiderabilem ; non crediderunt verbo eius.
 
 25. Et murmuraverunt in tabernaculis suis ; non exaudierunt vocem Domini.
 
 26. Et elevavit manum suam super eos ut prosterneret eos in deserto :
 
-27. et ut dejiceret semen eorum in nationibus, et dispergeret eos in regionibus.
+27. et ut deiiceret semen eorum in nationibus, et dispergeret eos in regionibus.
 
 28. Et initiati sunt Beelphegor, et comederunt sacrificia mortuorum.
 
@@ -4032,11 +4032,11 @@
 
 30. Et stetit Phinees, et placavit, et cessavit quassatio.
 
-31. Et reputatum est ei in justitiam, in generationem et generationem usque in sempiternum.
+31. Et reputatum est ei in iustitiam, in generationem et generationem usque in sempiternum.
 
 32. Et irritaverunt eum ad aquas contradictionis, et vexatus est Moyses propter eos :
 
-33. quia exacerbaverunt spiritum ejus, et distinxit in labiis suis.
+33. quia exacerbaverunt spiritum eius, et distinxit in labiis suis.
 
 34. Non disperdiderunt gentes quas dixit Dominus illis :
 
@@ -4072,7 +4072,7 @@
 
 ## Psalmus 106
 
-1. Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.
+1. Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.
 
 2. Dicant qui redempti sunt a Domino, quos redemit de manu inimici, et de regionibus congregavit eos,
 
@@ -4086,7 +4086,7 @@
 
 7. et deduxit eos in viam rectam, ut irent in civitatem habitationis.
 
-8. Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.
+8. Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.
 
 9. Quia satiavit animam inanem, et animam esurientem satiavit bonis.
 
@@ -4094,17 +4094,17 @@
 
 11. Quia exacerbaverunt eloquia Dei, et consilium Altissimi irritaverunt.
 
-12. Et humiliatum est in laboribus cor eorum ; infirmati sunt, nec fuit qui adjuvaret.
+12. Et humiliatum est in laboribus cor eorum ; infirmati sunt, nec fuit qui adiuvaret.
 
 13. Et clamaverunt ad Dominum cum tribularentur ; et de necessitatibus eorum liberavit eos.
 
 14. Et eduxit eos de tenebris et umbra mortis, et vincula eorum dirupit.
 
-15. Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.
+15. Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.
 
 16. Quia contrivit portas aereas, et vectes ferreos confregit.
 
-17. Suscepit eos de via iniquitatis eorum ; propter injustitias enim suas humiliati sunt.
+17. Suscepit eos de via iniquitatis eorum ; propter iniustitias enim suas humiliati sunt.
 
 18. Omnem escam abominata est anima eorum, et appropinquaverunt usque ad portas mortis.
 
@@ -4112,15 +4112,15 @@
 
 20. Misit verbum suum, et sanavit eos, et eripuit eos de interitionibus eorum.
 
-21. Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.
+21. Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.
 
-22. Et sacrificent sacrificium laudis, et annuntient opera ejus in exsultatione.
+22. Et sacrificent sacrificium laudis, et annuntient opera eius in exsultatione.
 
 23. Qui descendunt mare in navibus, facientes operationem in aquis multis :
 
-24. ipsi viderunt opera Domini, et mirabilia ejus in profundo.
+24. ipsi viderunt opera Domini, et mirabilia eius in profundo.
 
-25. Dixit, et stetit spiritus procellae, et exaltati sunt fluctus ejus.
+25. Dixit, et stetit spiritus procellae, et exaltati sunt fluctus eius.
 
 26. Ascendunt usque ad caelos, et descendunt usque ad abyssos ; anima eorum in malis tabescebat.
 
@@ -4128,11 +4128,11 @@
 
 28. Et clamaverunt ad Dominum cum tribularentur ; et de necessitatibus eorum eduxit eos.
 
-29. Et statuit procellam ejus in auram, et siluerunt fluctus ejus.
+29. Et statuit procellam eius in auram, et siluerunt fluctus eius.
 
 30. Et laetati sunt quia siluerunt ; et deduxit eos in portum voluntatis eorum.
 
-31. Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum.
+31. Confiteantur Domino misericordiae eius, et mirabilia eius filiis hominum.
 
 32. Et exaltent eum in ecclesia plebis, et in cathedra seniorum laudent eum.
 
@@ -4146,13 +4146,13 @@
 
 37. et seminaverunt agros et plantaverunt vineas, et fecerunt fructum nativitatis.
 
-38. Et benedixit eis, et multiplicati sunt nimis ; et jumenta eorum non minoravit.
+38. Et benedixit eis, et multiplicati sunt nimis ; et iumenta eorum non minoravit.
 
 39. Et pauci facti sunt et vexati sunt, a tribulatione malorum et dolore.
 
 40. Effusa est contemptio super principes : et errare fecit eos in invio, et non in via.
 
-41. Et adjuvit pauperem de inopia, et posuit sicut oves familias.
+41. Et adiuvit pauperem de inopia, et posuit sicut oves familias.
 
 42. Videbunt recti, et laetabuntur ; et omnis iniquitas oppilabit os suum.
 
@@ -4178,7 +4178,7 @@
 
 8. Deus locutus est in sancto suo : Exsultabo, et dividam Sichimam ; et convallem tabernaculorum dimetiar.
 
-9. Meus est Galaad, et meus est Manasses, et Ephraim susceptio capitis mei. Juda rex meus ;
+9. Meus est Galaad, et meus est Manasses, et Ephraim susceptio capitis mei. Iuda rex meus ;
 
 10. Moab lebes spei meae : in Idumaeam extendam calceamentum meum ; mihi alienigenae amici facti sunt.
 
@@ -4204,23 +4204,23 @@
 
 5. Et posuerunt adversum me mala pro bonis, et odium pro dilectione mea.
 
-6. Constitue super eum peccatorem, et diabolus stet a dextris ejus.
+6. Constitue super eum peccatorem, et diabolus stet a dextris eius.
 
-7. Cum judicatur, exeat condemnatus ; et oratio ejus fiat in peccatum.
+7. Cum iudicatur, exeat condemnatus ; et oratio eius fiat in peccatum.
 
-8. Fiant dies ejus pauci, et episcopatum ejus accipiat alter.
+8. Fiant dies eius pauci, et episcopatum eius accipiat alter.
 
-9. Fiant filii ejus orphani, et uxor ejus vidua.
+9. Fiant filii eius orphani, et uxor eius vidua.
 
-10. Nutantes transferantur filii ejus et mendicent, et ejiciantur de habitationibus suis.
+10. Nutantes transferantur filii eius et mendicent, et eiiciantur de habitationibus suis.
 
-11. Scrutetur foenerator omnem substantiam ejus, et diripiant alieni labores ejus.
+11. Scrutetur foenerator omnem substantiam eius, et diripiant alieni labores eius.
 
-12. Non sit illi adjutor, nec sit qui misereatur pupillis ejus.
+12. Non sit illi adiutor, nec sit qui misereatur pupillis eius.
 
-13. Fiant nati ejus in interitum ; in generatione una deleatur nomen ejus.
+13. Fiant nati eius in interitum ; in generatione una deleatur nomen eius.
 
-14. In memoriam redeat iniquitas patrum ejus in conspectu Domini, et peccatum matris ejus non deleatur.
+14. In memoriam redeat iniquitas patrum eius in conspectu Domini, et peccatum matris eius non deleatur.
 
 15. Fiant contra Dominum semper, et dispereat de terra memoria eorum :
 
@@ -4228,7 +4228,7 @@
 
 17. et persecutus est hominem inopem et mendicum, et compunctum corde, mortificare.
 
-18. Et dilexit maledictionem, et veniet ei ; et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum ; et intravit sicut aqua in interiora ejus, et sicut oleum in ossibus ejus.
+18. Et dilexit maledictionem, et veniet ei ; et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum ; et intravit sicut aqua in interiora eius, et sicut oleum in ossibus eius.
 
 19. Fiat ei sicut vestimentum quo operitur, et sicut zona qua semper praecingitur.
 
@@ -4240,11 +4240,11 @@
 
 23. Sicut umbra cum declinat ablatus sum, et excussus sum sicut locustae.
 
-24. Genua mea infirmata sunt a jejunio, et caro mea immutata est propter oleum.
+24. Genua mea infirmata sunt a ieiunio, et caro mea immutata est propter oleum.
 
 25. Et ego factus sum opprobrium illis ; viderunt me, et moverunt capita sua.
 
-26. Adjuva me, Domine Deus meus ; salvum me fac secundum misericordiam tuam.
+26. Adiuva me, Domine Deus meus ; salvum me fac secundum misericordiam tuam.
 
 27. Et sciant quia manus tua haec, et tu, Domine, fecisti eam.
 
@@ -4266,11 +4266,11 @@
 
 3. Tecum principium in die virtutis tuae in splendoribus sanctorum : ex utero, ante luciferum, genui te.
 
-4. Juravit Dominus, et non poenitebit eum : Tu es sacerdos in aeternum secundum ordinem Melchisedech.
+4. Iuravit Dominus, et non poenitebit eum : Tu es sacerdos in aeternum secundum ordinem Melchisedech.
 
 5. Dominus a dextris tuis ; confregit in die irae suae reges.
 
-6. Judicabit in nationibus, implebit ruinas ; conquassabit capita in terra multorum.
+6. Iudicabit in nationibus, implebit ruinas ; conquassabit capita in terra multorum.
 
 7. De torrente in via bibet ; propterea exaltabit caput.
 
@@ -4278,11 +4278,11 @@
 
 ## Psalmus 110
 
-1. Alleluja. Confitebor tibi, Domine, in toto corde meo, in consilio justorum, et congregatione.
+1. Alleluia. Confitebor tibi, Domine, in toto corde meo, in consilio iustorum, et congregatione.
 
-2. Magna opera Domini : exquisita in omnes voluntates ejus.
+2. Magna opera Domini : exquisita in omnes voluntates eius.
 
-3. Confessio et magnificentia opus ejus, et justitia ejus manet in saeculum saeculi.
+3. Confessio et magnificentia opus eius, et iustitia eius manet in saeculum saeculi.
 
 4. Memoriam fecit mirabilium suorum, misericors et miserator Dominus.
 
@@ -4290,35 +4290,35 @@
 
 6. Virtutem operum suorum annuntiabit populo suo,
 
-7. ut det illis haereditatem gentium. Opera manuum ejus veritas et judicium.
+7. ut det illis haereditatem gentium. Opera manuum eius veritas et iudicium.
 
-8. Fidelia omnia mandata ejus, confirmata in saeculum saeculi, facta in veritate et aequitate.
+8. Fidelia omnia mandata eius, confirmata in saeculum saeculi, facta in veritate et aequitate.
 
-9. Redemptionem misit populo suo ; mandavit in aeternum testamentum suum. Sanctum et terribile nomen ejus.
+9. Redemptionem misit populo suo ; mandavit in aeternum testamentum suum. Sanctum et terribile nomen eius.
 
-10. Initium sapientiae timor Domini ; intellectus bonus omnibus facientibus eum : laudatio ejus manet in saeculum saeculi.
+10. Initium sapientiae timor Domini ; intellectus bonus omnibus facientibus eum : laudatio eius manet in saeculum saeculi.
 
 ---
 
 ## Psalmus 111
 
-1. Alleluja, reversionis Aggaei et Zachariae. Beatus vir qui timet Dominum : in mandatis ejus volet nimis.
+1. Alleluia, reversionis Aggaei et Zachariae. Beatus vir qui timet Dominum : in mandatis eius volet nimis.
 
-2. Potens in terra erit semen ejus ; generatio rectorum benedicetur.
+2. Potens in terra erit semen eius ; generatio rectorum benedicetur.
 
-3. Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi.
+3. Gloria et divitiae in domo eius, et iustitia eius manet in saeculum saeculi.
 
-4. Exortum est in tenebris lumen rectis : misericors, et miserator, et justus.
+4. Exortum est in tenebris lumen rectis : misericors, et miserator, et iustus.
 
-5. Jucundus homo qui miseretur et commodat ; disponet sermones suos in judicio :
+5. Iucundus homo qui miseretur et commodat ; disponet sermones suos in iudicio :
 
 6. quia in aeternum non commovebitur.
 
-7. In memoria aeterna erit justus ; ab auditione mala non timebit. Paratum cor ejus sperare in Domino,
+7. In memoria aeterna erit iustus ; ab auditione mala non timebit. Paratum cor eius sperare in Domino,
 
-8. confirmatum est cor ejus ; non commovebitur donec despiciat inimicos suos.
+8. confirmatum est cor eius ; non commovebitur donec despiciat inimicos suos.
 
-9. Dispersit, dedit pauperibus ; justitia ejus manet in saeculum saeculi : cornu ejus exaltabitur in gloria.
+9. Dispersit, dedit pauperibus ; iustitia eius manet in saeculum saeculi : cornu eius exaltabitur in gloria.
 
 10. Peccator videbit, et irascetur ; dentibus suis fremet et tabescet : desiderium peccatorum peribit.
 
@@ -4326,13 +4326,13 @@
 
 ## Psalmus 112
 
-1. Alleluja. Laudate, pueri, Dominum ; laudate nomen Domini.
+1. Alleluia. Laudate, pueri, Dominum ; laudate nomen Domini.
 
 2. Sit nomen Domini benedictum ex hoc nunc et usque in saeculum.
 
 3. A solis ortu usque ad occasum laudabile nomen Domini.
 
-4. Excelsus super omnes gentes Dominus, et super caelos gloria ejus.
+4. Excelsus super omnes gentes Dominus, et super caelos gloria eius.
 
 5. Quis sicut Dominus Deus noster, qui in altis habitat,
 
@@ -4348,19 +4348,19 @@
 
 ## Psalmus 113
 
-1. Alleluja. In exitu Israël de Aegypto, domus Jacob de populo barbaro,
+1. Alleluia. In exitu Israël de Aegypto, domus Iacob de populo barbaro,
 
-2. facta est Judaea sanctificatio ejus ; Israël potestas ejus.
+2. facta est Iudaea sanctificatio eius ; Israël potestas eius.
 
-3. Mare vidit, et fugit ; Jordanis conversus est retrorsum.
+3. Mare vidit, et fugit ; Iordanis conversus est retrorsum.
 
 4. Montes exsultaverunt ut arietes, et colles sicut agni ovium.
 
-5. Quid est tibi, mare, quod fugisti ? et tu, Jordanis, quia conversus es retrorsum ?
+5. Quid est tibi, mare, quod fugisti ? et tu, Iordanis, quia conversus es retrorsum ?
 
 6. montes, exsultastis sicut arietes ? et colles, sicut agni ovium ?
 
-7. A facie Domini mota est terra, a facie Dei Jacob :
+7. A facie Domini mota est terra, a facie Dei Iacob :
 
 8. qui convertit petram in stagna aquarum, et rupem in fontes aquarum.
 
@@ -4380,17 +4380,17 @@
 
 16. Similes illis fiant qui faciunt ea, et omnes qui confidunt in eis.
 
-17. Domus Israël speravit in Domino ; adjutor eorum et protector eorum est.
+17. Domus Israël speravit in Domino ; adiutor eorum et protector eorum est.
 
-18. Domus Aaron speravit in Domino ; adjutor eorum et protector eorum est.
+18. Domus Aaron speravit in Domino ; adiutor eorum et protector eorum est.
 
-19. Qui timent Dominum speraverunt in Domino ; adjutor eorum et protector eorum est.
+19. Qui timent Dominum speraverunt in Domino ; adiutor eorum et protector eorum est.
 
 20. Dominus memor fuit nostri, et benedixit nobis. Benedixit domui Israël ; benedixit domui Aaron.
 
-21. Benedixit omnibus qui timent Dominum, pusillis cum majoribus.
+21. Benedixit omnibus qui timent Dominum, pusillis cum maioribus.
 
-22. Adjiciat Dominus super vos, super vos et super filios vestros.
+22. Adiiciat Dominus super vos, super vos et super filios vestros.
 
 23. Benedicti vos a Domino, qui fecit caelum et terram.
 
@@ -4404,7 +4404,7 @@
 
 ## Psalmus 114
 
-1. Alleluja. Dilexi, quoniam exaudiet Dominus vocem orationis meae.
+1. Alleluia. Dilexi, quoniam exaudiet Dominus vocem orationis meae.
 
 2. Quia inclinavit aurem suam mihi, et in diebus meis invocabo.
 
@@ -4412,7 +4412,7 @@
 
 4. et nomen Domini invocavi : o Domine, libera animam meam.
 
-5. Misericors Dominus et justus, et Deus noster miseretur.
+5. Misericors Dominus et iustus, et Deus noster miseretur.
 
 6. Custodiens parvulos Dominus ; humiliatus sum, et liberavit me.
 
@@ -4426,7 +4426,7 @@
 
 ## Psalmus 115
 
-1. Alleluja. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis.
+1. Alleluia. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis.
 
 2. Ego dixi in excessu meo : Omnis homo mendax.
 
@@ -4434,43 +4434,43 @@
 
 4. Calicem salutaris accipiam, et nomen Domini invocabo.
 
-5. Vota mea Domino reddam coram omni populo ejus.
+5. Vota mea Domino reddam coram omni populo eius.
 
-6. Pretiosa in conspectu Domini mors sanctorum ejus.
+6. Pretiosa in conspectu Domini mors sanctorum eius.
 
 7. O Domine, quia ego servus tuus ; ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea :
 
 8. tibi sacrificabo hostiam laudis, et nomen Domini invocabo.
 
-9. Vota mea Domino reddam in conspectu omnis populi ejus ;
+9. Vota mea Domino reddam in conspectu omnis populi eius ;
 
-10. in atriis domus Domini, in medio tui, Jerusalem.
+10. in atriis domus Domini, in medio tui, Ierusalem.
 
 ---
 
 ## Psalmus 116
 
-1. Alleluja. Laudate Dominum, omnes gentes ; laudate eum, omnes populi.
+1. Alleluia. Laudate Dominum, omnes gentes ; laudate eum, omnes populi.
 
-2. Quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum.
+2. Quoniam confirmata est super nos misericordia eius, et veritas Domini manet in aeternum.
 
 ---
 
 ## Psalmus 117
 
-1. Alleluja. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.
+1. Alleluia. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.
 
-2. Dicat nunc Israël : Quoniam bonus, quoniam in saeculum misericordia ejus.
+2. Dicat nunc Israël : Quoniam bonus, quoniam in saeculum misericordia eius.
 
-3. Dicat nunc domus Aaron : Quoniam in saeculum misericordia ejus.
+3. Dicat nunc domus Aaron : Quoniam in saeculum misericordia eius.
 
-4. Dicant nunc qui timent Dominum : Quoniam in saeculum misericordia ejus.
+4. Dicant nunc qui timent Dominum : Quoniam in saeculum misericordia eius.
 
 5. De tribulatione invocavi Dominum, et exaudivit me in latitudine Dominus.
 
-6. Dominus mihi adjutor ; non timebo quid faciat mihi homo.
+6. Dominus mihi adiutor ; non timebo quid faciat mihi homo.
 
-7. Dominus mihi adjutor, et ego despiciam inimicos meos.
+7. Dominus mihi adiutor, et ego despiciam inimicos meos.
 
 8. Bonum est confidere in Domino, quam confidere in homine.
 
@@ -4486,7 +4486,7 @@
 
 14. Fortitudo mea et laus mea Dominus, et factus est mihi in salutem.
 
-15. Vox exsultationis et salutis in tabernaculis justorum.
+15. Vox exsultationis et salutis in tabernaculis iustorum.
 
 16. Dextera Domini fecit virtutem ; dextera Domini exaltavit me : dextera Domini fecit virtutem.
 
@@ -4494,9 +4494,9 @@
 
 18. Castigans castigavit me Dominus, et morti non tradidit me.
 
-19. Aperite mihi portas justitiae : ingressus in eas confitebor Domino.
+19. Aperite mihi portas iustitiae : ingressus in eas confitebor Domino.
 
-20. Haec porta Domini : justi intrabunt in eam.
+20. Haec porta Domini : iusti intrabunt in eam.
 
 21. Confitebor tibi quoniam exaudisti me, et factus es mihi in salutem.
 
@@ -4514,27 +4514,27 @@
 
 28. Deus meus es tu, et confitebor tibi ; Deus meus es tu, et exaltabo te. Confitebor tibi quoniam exaudisti me, et factus es mihi in salutem.
 
-29. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia ejus.
+29. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.
 
 ---
 
 ## Psalmus 118
 
-1. Alleluja. <Aleph>Beati immaculati in via, qui ambulant in lege Domini.
+1. Alleluia. <Aleph>Beati immaculati in via, qui ambulant in lege Domini.
 
-2. Beati qui scrutantur testimonia ejus ; in toto corde exquirunt eum.
+2. Beati qui scrutantur testimonia eius ; in toto corde exquirunt eum.
 
-3. Non enim qui operantur iniquitatem in viis ejus ambulaverunt.
+3. Non enim qui operantur iniquitatem in viis eius ambulaverunt.
 
 4. Tu mandasti mandata tua custodiri nimis.
 
-5. Utinam dirigantur viae meae ad custodiendas justificationes tuas.
+5. Utinam dirigantur viae meae ad custodiendas iustificationes tuas.
 
 6. Tunc non confundar, cum perspexero in omnibus mandatis tuis.
 
-7. Confitebor tibi in directione cordis, in eo quod didici judicia justitiae tuae.
+7. Confitebor tibi in directione cordis, in eo quod didici iudicia iustitiae tuae.
 
-8. Justificationes tuas custodiam ; non me derelinquas usquequaque.
+8. Iustificationes tuas custodiam ; non me derelinquas usquequaque.
 
 9. <Beth>In quo corrigit adolescentior viam suam ? in custodiendo sermones tuos.
 
@@ -4542,15 +4542,15 @@
 
 11. In corde meo abscondi eloquia tua, ut non peccem tibi.
 
-12. Benedictus es, Domine ; doce me justificationes tuas.
+12. Benedictus es, Domine ; doce me iustificationes tuas.
 
-13. In labiis meis pronuntiavi omnia judicia oris tui.
+13. In labiis meis pronuntiavi omnia iudicia oris tui.
 
 14. In via testimoniorum tuorum delectatus sum, sicut in omnibus divitiis.
 
 15. In mandatis tuis exercebor, et considerabo vias tuas.
 
-16. In justificationibus tuis meditabor : non obliviscar sermones tuos.
+16. In iustificationibus tuis meditabor : non obliviscar sermones tuos.
 
 17. <Ghimel>Retribue servo tuo, vivifica me, et custodiam sermones tuos.
 
@@ -4558,33 +4558,33 @@
 
 19. Incola ego sum in terra : non abscondas a me mandata tua.
 
-20. Concupivit anima mea desiderare justificationes tuas in omni tempore.
+20. Concupivit anima mea desiderare iustificationes tuas in omni tempore.
 
 21. Increpasti superbos ; maledicti qui declinant a mandatis tuis.
 
 22. Aufer a me opprobrium et contemptum, quia testimonia tua exquisivi.
 
-23. Etenim sederunt principes, et adversum me loquebantur ; servus autem tuus exercebatur in justificationibus tuis.
+23. Etenim sederunt principes, et adversum me loquebantur ; servus autem tuus exercebatur in iustificationibus tuis.
 
-24. Nam et testimonia tua meditatio mea est, et consilium meum justificationes tuae.
+24. Nam et testimonia tua meditatio mea est, et consilium meum iustificationes tuae.
 
 25. <Daleth>Adhaesit pavimento anima mea : vivifica me secundum verbum tuum.
 
-26. Vias meas enuntiavi, et exaudisti me ; doce me justificationes tuas.
+26. Vias meas enuntiavi, et exaudisti me ; doce me iustificationes tuas.
 
-27. Viam justificationum tuarum instrue me, et exercebor in mirabilibus tuis.
+27. Viam iustificationum tuarum instrue me, et exercebor in mirabilibus tuis.
 
 28. Dormitavit anima mea prae taedio : confirma me in verbis tuis.
 
 29. Viam iniquitatis amove a me, et de lege tua miserere mei.
 
-30. Viam veritatis elegi ; judicia tua non sum oblitus.
+30. Viam veritatis elegi ; iudicia tua non sum oblitus.
 
 31. Adhaesi testimoniis tuis, Domine ; noli me confundere.
 
 32. Viam mandatorum tuorum cucurri, cum dilatasti cor meum.
 
-33. <He>Legem pone mihi, Domine, viam justificationum tuarum, et exquiram eam semper.
+33. <He>Legem pone mihi, Domine, viam iustificationum tuarum, et exquiram eam semper.
 
 34. Da mihi intellectum, et scrutabor legem tuam, et custodiam illam in toto corde meo.
 
@@ -4596,7 +4596,7 @@
 
 38. Statue servo tuo eloquium tuum in timore tuo.
 
-39. Amputa opprobrium meum quod suspicatus sum, quia judicia tua jucunda.
+39. Amputa opprobrium meum quod suspicatus sum, quia iudicia tua iucunda.
 
 40. Ecce concupivi mandata tua : in aequitate tua vivifica me.
 
@@ -4604,7 +4604,7 @@
 
 42. Et respondebo exprobrantibus mihi verbum, quia speravi in sermonibus tuis.
 
-43. Et ne auferas de ore meo verbum veritatis usquequaque, quia in judiciis tuis supersperavi.
+43. Et ne auferas de ore meo verbum veritatis usquequaque, quia in iudiciis tuis supersperavi.
 
 44. Et custodiam legem tuam semper, in saeculum et in saeculum saeculi.
 
@@ -4614,7 +4614,7 @@
 
 47. Et meditabar in mandatis tuis, quae dilexi.
 
-48. Et levavi manus meas ad mandata tua, quae dilexi, et exercebar in justificationibus tuis.
+48. Et levavi manus meas ad mandata tua, quae dilexi, et exercebar in iustificationibus tuis.
 
 49. <Zain>Memor esto verbi tui servo tuo, in quo mihi spem dedisti.
 
@@ -4622,15 +4622,15 @@
 
 51. Superbi inique agebant usquequaque ; a lege autem tua non declinavi.
 
-52. Memor fui judiciorum tuorum a saeculo, Domine, et consolatus sum.
+52. Memor fui iudiciorum tuorum a saeculo, Domine, et consolatus sum.
 
 53. Defectio tenuit me, pro peccatoribus derelinquentibus legem tuam.
 
-54. Cantabiles mihi erant justificationes tuae in loco peregrinationis meae.
+54. Cantabiles mihi erant iustificationes tuae in loco peregrinationis meae.
 
 55. Memor fui nocte nominis tui, Domine, et custodivi legem tuam.
 
-56. Haec facta est mihi, quia justificationes tuas exquisivi.
+56. Haec facta est mihi, quia iustificationes tuas exquisivi.
 
 57. <Heth>Portio mea, Domine, dixi custodire legem tuam.
 
@@ -4642,11 +4642,11 @@
 
 61. Funes peccatorum circumplexi sunt me, et legem tuam non sum oblitus.
 
-62. Media nocte surgebam ad confitendum tibi, super judicia justificationis tuae.
+62. Media nocte surgebam ad confitendum tibi, super iudicia iustificationis tuae.
 
 63. Particeps ego sum omnium timentium te, et custodientium mandata tua.
 
-64. Misericordia tua, Domine, plena est terra ; justificationes tuas doce me.
+64. Misericordia tua, Domine, plena est terra ; iustificationes tuas doce me.
 
 65. <Teth>Bonitatem fecisti cum servo tuo, Domine, secundum verbum tuum.
 
@@ -4654,43 +4654,43 @@
 
 67. Priusquam humiliarer ego deliqui : propterea eloquium tuum custodivi.
 
-68. Bonus es tu, et in bonitate tua doce me justificationes tuas.
+68. Bonus es tu, et in bonitate tua doce me iustificationes tuas.
 
 69. Multiplicata est super me iniquitas superborum ; ego autem in toto corde meo scrutabor mandata tua.
 
 70. Coagulatum est sicut lac cor eorum ; ego vero legem tuam meditatus sum.
 
-71. Bonum mihi quia humiliasti me, ut discam justificationes tuas.
+71. Bonum mihi quia humiliasti me, ut discam iustificationes tuas.
 
 72. Bonum mihi lex oris tui, super millia auri et argenti.
 
-73. <Jod>Manus tuae fecerunt me, et plasmaverunt me : da mihi intellectum, et discam mandata tua.
+73. <Iod>Manus tuae fecerunt me, et plasmaverunt me : da mihi intellectum, et discam mandata tua.
 
 74. Qui timent te videbunt me et laetabuntur, quia in verba tua supersperavi.
 
-75. Cognovi, Domine, quia aequitas judicia tua, et in veritate tua humiliasti me.
+75. Cognovi, Domine, quia aequitas iudicia tua, et in veritate tua humiliasti me.
 
 76. Fiat misericordia tua ut consoletur me, secundum eloquium tuum servo tuo.
 
 77. Veniant mihi miserationes tuae, et vivam, quia lex tua meditatio mea est.
 
-78. Confundantur superbi, quia injuste iniquitatem fecerunt in me ; ego autem exercebor in mandatis tuis.
+78. Confundantur superbi, quia iniuste iniquitatem fecerunt in me ; ego autem exercebor in mandatis tuis.
 
 79. Convertantur mihi timentes te, et qui noverunt testimonia tua.
 
-80. Fiat cor meum immaculatum in justificationibus tuis, ut non confundar.
+80. Fiat cor meum immaculatum in iustificationibus tuis, ut non confundar.
 
 81. <Caph>Defecit in salutare tuum anima mea, et in verbum tuum supersperavi.
 
 82. Defecerunt oculi mei in eloquium tuum, dicentes : Quando consolaberis me ?
 
-83. Quia factus sum sicut uter in pruina ; justificationes tuas non sum oblitus.
+83. Quia factus sum sicut uter in pruina ; iustificationes tuas non sum oblitus.
 
-84. Quot sunt dies servi tui ? quando facies de persequentibus me judicium ?
+84. Quot sunt dies servi tui ? quando facies de persequentibus me iudicium ?
 
 85. Narraverunt mihi iniqui fabulationes, sed non ut lex tua.
 
-86. Omnia mandata tua veritas : inique persecuti sunt me, adjuva me.
+86. Omnia mandata tua veritas : inique persecuti sunt me, adiuva me.
 
 87. Paulominus consummaverunt me in terra ; ego autem non dereliqui mandata tua.
 
@@ -4704,9 +4704,9 @@
 
 92. Nisi quod lex tua meditatio mea est, tunc forte periissem in humilitate mea.
 
-93. In aeternum non obliviscar justificationes tuas, quia in ipsis vivificasti me.
+93. In aeternum non obliviscar iustificationes tuas, quia in ipsis vivificasti me.
 
-94. Tuus sum ego ; salvum me fac : quoniam justificationes tuas exquisivi.
+94. Tuus sum ego ; salvum me fac : quoniam iustificationes tuas exquisivi.
 
 95. Me exspectaverunt peccatores ut perderent me ; testimonia tua intellexi.
 
@@ -4722,7 +4722,7 @@
 
 101. Ab omni via mala prohibui pedes meos, ut custodiam verba tua.
 
-102. A judiciis tuis non declinavi, quia tu legem posuisti mihi.
+102. A iudiciis tuis non declinavi, quia tu legem posuisti mihi.
 
 103. Quam dulcia faucibus meis eloquia tua ! super mel ori meo.
 
@@ -4730,11 +4730,11 @@
 
 105. <Nun>Lucerna pedibus meis verbum tuum, et lumen semitis meis.
 
-106. Juravi et statui custodire judicia justitiae tuae.
+106. Iuravi et statui custodire iudicia iustitiae tuae.
 
 107. Humiliatus sum usquequaque, Domine ; vivifica me secundum verbum tuum.
 
-108. Voluntaria oris mei beneplacita fac, Domine, et judicia tua doce me.
+108. Voluntaria oris mei beneplacita fac, Domine, et iudicia tua doce me.
 
 109. Anima mea in manibus meis semper, et legem tuam non sum oblitus.
 
@@ -4742,31 +4742,31 @@
 
 111. Haereditate acquisivi testimonia tua in aeternum, quia exsultatio cordis mei sunt.
 
-112. Inclinavi cor meum ad faciendas justificationes tuas in aeternum, propter retributionem.
+112. Inclinavi cor meum ad faciendas iustificationes tuas in aeternum, propter retributionem.
 
 113. <Samech>Iniquos odio habui, et legem tuam dilexi.
 
-114. Adjutor et susceptor meus es tu, et in verbum tuum supersperavi.
+114. Adiutor et susceptor meus es tu, et in verbum tuum supersperavi.
 
 115. Declinate a me, maligni, et scrutabor mandata Dei mei.
 
 116. Suscipe me secundum eloquium tuum, et vivam, et non confundas me ab exspectatione mea.
 
-117. Adjuva me, et salvus ero, et meditabor in justificationibus tuis semper.
+117. Adiuva me, et salvus ero, et meditabor in iustificationibus tuis semper.
 
-118. Sprevisti omnes discedentes a judiciis tuis, quia injusta cogitatio eorum.
+118. Sprevisti omnes discedentes a iudiciis tuis, quia iniusta cogitatio eorum.
 
 119. Praevaricantes reputavi omnes peccatores terrae ; ideo dilexi testimonia tua.
 
-120. Confige timore tuo carnes meas ; a judiciis enim tuis timui.
+120. Confige timore tuo carnes meas ; a iudiciis enim tuis timui.
 
-121. <Ain>Feci judicium et justitiam : non tradas me calumniantibus me.
+121. <Ain>Feci iudicium et iustitiam : non tradas me calumniantibus me.
 
 122. Suscipe servum tuum in bonum : non calumnientur me superbi.
 
-123. Oculi mei defecerunt in salutare tuum, et in eloquium justitiae tuae.
+123. Oculi mei defecerunt in salutare tuum, et in eloquium iustitiae tuae.
 
-124. Fac cum servo tuo secundum misericordiam tuam, et justificationes tuas doce me.
+124. Fac cum servo tuo secundum misericordiam tuam, et iustificationes tuas doce me.
 
 125. Servus tuus sum ego : da mihi intellectum, ut sciam testimonia tua.
 
@@ -4782,33 +4782,33 @@
 
 131. Os meum aperui, et attraxi spiritum : quia mandata tua desiderabam.
 
-132. Aspice in me, et miserere mei, secundum judicium diligentium nomen tuum.
+132. Aspice in me, et miserere mei, secundum iudicium diligentium nomen tuum.
 
-133. Gressus meos dirige secundum eloquium tuum, et non dominetur mei omnis injustitia.
+133. Gressus meos dirige secundum eloquium tuum, et non dominetur mei omnis iniustitia.
 
 134. Redime me a calumniis hominum ut custodiam mandata tua.
 
-135. Faciem tuam illumina super servum tuum, et doce me justificationes tuas.
+135. Faciem tuam illumina super servum tuum, et doce me iustificationes tuas.
 
 136. Exitus aquarum deduxerunt oculi mei, quia non custodierunt legem tuam.
 
-137. <Sade>Justus es, Domine, et rectum judicium tuum.
+137. <Sade>Iustus es, Domine, et rectum iudicium tuum.
 
-138. Mandasti justitiam testimonia tua, et veritatem tuam nimis.
+138. Mandasti iustitiam testimonia tua, et veritatem tuam nimis.
 
 139. Tabescere me fecit zelus meus, quia obliti sunt verba tua inimici mei.
 
 140. Ignitum eloquium tuum vehementer, et servus tuus dilexit illud.
 
-141. Adolescentulus sum ego et contemptus ; justificationes tuas non sum oblitus.
+141. Adolescentulus sum ego et contemptus ; iustificationes tuas non sum oblitus.
 
-142. Justitia tua, justitia in aeternum, et lex tua veritas.
+142. Iustitia tua, iustitia in aeternum, et lex tua veritas.
 
 143. Tribulatio et angustia invenerunt me ; mandata tua meditatio mea est.
 
 144. Aequitas testimonia tua in aeternum : intellectum da mihi, et vivam.
 
-145. <Coph>Clamavi in toto corde meo : exaudi me, Domine ; justificationes tuas requiram.
+145. <Coph>Clamavi in toto corde meo : exaudi me, Domine ; iustificationes tuas requiram.
 
 146. Clamavi ad te ; salvum me fac : ut custodiam mandata tua.
 
@@ -4816,7 +4816,7 @@
 
 148. Praevenerunt oculi mei ad te diluculo, ut meditarer eloquia tua.
 
-149. Vocem meam audi secundum misericordiam tuam, Domine, et secundum judicium tuum vivifica me.
+149. Vocem meam audi secundum misericordiam tuam, Domine, et secundum iudicium tuum vivifica me.
 
 150. Appropinquaverunt persequentes me iniquitati : a lege autem tua longe facti sunt.
 
@@ -4826,11 +4826,11 @@
 
 153. <Res>Vide humilitatem meam, et eripe me, quia legem tuam non sum oblitus.
 
-154. Judica judicium meum, et redime me : propter eloquium tuum vivifica me.
+154. Iudica iudicium meum, et redime me : propter eloquium tuum vivifica me.
 
-155. Longe a peccatoribus salus, quia justificationes tuas non exquisierunt.
+155. Longe a peccatoribus salus, quia iustificationes tuas non exquisierunt.
 
-156. Misericordiae tuae multae, Domine ; secundum judicium tuum vivifica me.
+156. Misericordiae tuae multae, Domine ; secundum iudicium tuum vivifica me.
 
 157. Multi qui persequuntur me, et tribulant me ; a testimoniis tuis non declinavi.
 
@@ -4838,7 +4838,7 @@
 
 159. Vide quoniam mandata tua dilexi, Domine : in misericordia tua vivifica me.
 
-160. Principium verborum tuorum veritas ; in aeternum omnia judicia justitiae tuae.
+160. Principium verborum tuorum veritas ; in aeternum omnia iudicia iustitiae tuae.
 
 161. <Sin>Principes persecuti sunt me gratis, et a verbis tuis formidavit cor meum.
 
@@ -4846,7 +4846,7 @@
 
 163. Iniquitatem odio habui, et abominatus sum, legem autem tuam dilexi.
 
-164. Septies in die laudem dixi tibi, super judicia justitiae tuae.
+164. Septies in die laudem dixi tibi, super iudicia iustitiae tuae.
 
 165. Pax multa diligentibus legem tuam, et non est illis scandalum.
 
@@ -4856,11 +4856,11 @@
 
 168. Servavi mandata tua et testimonia tua, quia omnes viae meae in conspectu tuo.
 
-169. <Tau>Appropinquet deprecatio mea in conspectu tuo, Domine ; juxta eloquium tuum da mihi intellectum.
+169. <Tau>Appropinquet deprecatio mea in conspectu tuo, Domine ; iuxta eloquium tuum da mihi intellectum.
 
 170. Intret postulatio mea in conspectu tuo ; secundum eloquium tuum eripe me.
 
-171. Eructabunt labia mea hymnum, cum docueris me justificationes tuas.
+171. Eructabunt labia mea hymnum, cum docueris me iustificationes tuas.
 
 172. Pronuntiabit lingua mea eloquium tuum, quia omnia mandata tua aequitas.
 
@@ -4868,7 +4868,7 @@
 
 174. Concupivi salutare tuum, Domine, et lex tua meditatio mea est.
 
-175. Vivet anima mea, et laudabit te, et judicia tua adjuvabunt me.
+175. Vivet anima mea, et laudabit te, et iudicia tua adiuvabunt me.
 
 176. Erravi sicut ovis quae periit : quaere servum tuum, quia mandata tua non sum oblitus.
 
@@ -4916,15 +4916,15 @@
 
 1. Canticum graduum. Laetatus sum in his quae dicta sunt mihi : In domum Domini ibimus.
 
-2. Stantes erant pedes nostri in atriis tuis, Jerusalem.
+2. Stantes erant pedes nostri in atriis tuis, Ierusalem.
 
-3. Jerusalem, quae aedificatur ut civitas, cujus participatio ejus in idipsum.
+3. Ierusalem, quae aedificatur ut civitas, cuius participatio eius in idipsum.
 
 4. Illuc enim ascenderunt tribus, tribus Domini : testimonium Israël, ad confitendum nomini Domini.
 
-5. Quia illic sederunt sedes in judicio, sedes super domum David.
+5. Quia illic sederunt sedes in iudicio, sedes super domum David.
 
-6. Rogate quae ad pacem sunt Jerusalem, et abundantia diligentibus te.
+6. Rogate quae ad pacem sunt Ierusalem, et abundantia diligentibus te.
 
 7. Fiat pax in virtute tua, et abundantia in turribus tuis.
 
@@ -4962,7 +4962,7 @@
 
 7. Anima nostra sicut passer erepta est de laqueo venantium ; laqueus contritus est, et nos liberati sumus.
 
-8. Adjutorium nostrum in nomine Domini, qui fecit caelum et terram.
+8. Adiutorium nostrum in nomine Domini, qui fecit caelum et terram.
 
 ---
 
@@ -4970,9 +4970,9 @@
 
 1. Canticum graduum. Qui confidunt in Domino, sicut mons Sion : non commovebitur in aeternum, qui habitat
 
-2. in Jerusalem. Montes in circuitu ejus ; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum.
+2. in Ierusalem. Montes in circuitu eius ; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum.
 
-3. Quia non relinquet Dominus virgam peccatorum super sortem justorum : ut non extendant justi ad iniquitatem manus suas,
+3. Quia non relinquet Dominus virgam peccatorum super sortem iustorum : ut non extendant iusti ad iniquitatem manus suas,
 
 4. benefac, Domine, bonis, et rectis corde.
 
@@ -5012,7 +5012,7 @@
 
 ## Psalmus 127
 
-1. Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis ejus.
+1. Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis eius.
 
 2. Labores manuum tuarum quia manducabis : beatus es, et bene tibi erit.
 
@@ -5020,7 +5020,7 @@
 
 4. Ecce sic benedicetur homo qui timet Dominum.
 
-5. Benedicat tibi Dominus ex Sion, et videas bona Jerusalem omnibus diebus vitae tuae.
+5. Benedicat tibi Dominus ex Sion, et videas bona Ierusalem omnibus diebus vitae tuae.
 
 6. Et videas filios filiorum tuorum : pacem super Israël.
 
@@ -5028,13 +5028,13 @@
 
 ## Psalmus 128
 
-1. Canticum graduum. Saepe expugnaverunt me a juventute mea, dicat nunc Israël ;
+1. Canticum graduum. Saepe expugnaverunt me a iuventute mea, dicat nunc Israël ;
 
-2. saepe expugnaverunt me a juventute mea : etenim non potuerunt mihi.
+2. saepe expugnaverunt me a iuventute mea : etenim non potuerunt mihi.
 
 3. Supra dorsum meum fabricaverunt peccatores ; prolongaverunt iniquitatem suam.
 
-4. Dominus justus concidit cervices peccatorum.
+4. Dominus iustus concidit cervices peccatorum.
 
 5. Confundantur, et convertantur retrorsum omnes qui oderunt Sion.
 
@@ -5054,7 +5054,7 @@
 
 3. Si iniquitates observaveris, Domine, Domine, quis sustinebit ?
 
-4. Quia apud te propitiatio est ; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus :
+4. Quia apud te propitiatio est ; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo eius :
 
 5. speravit anima mea in Domino.
 
@@ -5062,7 +5062,7 @@
 
 7. Quia apud Dominum misericordia, et copiosa apud eum redemptio.
 
-8. Et ipse redimet Israël ex omnibus iniquitatibus ejus.
+8. Et ipse redimet Israël ex omnibus iniquitatibus eius.
 
 ---
 
@@ -5078,27 +5078,27 @@
 
 ## Psalmus 131
 
-1. Canticum graduum. Memento, Domine, David, et omnis mansuetudinis ejus :
+1. Canticum graduum. Memento, Domine, David, et omnis mansuetudinis eius :
 
-2. sicut juravit Domino ; votum vovit Deo Jacob :
+2. sicut iuravit Domino ; votum vovit Deo Iacob :
 
 3. Si introiero in tabernaculum domus meae ; si ascendero in lectum strati mei ;
 
 4. si dedero somnum oculis meis, et palpebris meis dormitationem,
 
-5. et requiem temporibus meis, donec inveniam locum Domino, tabernaculum Deo Jacob.
+5. et requiem temporibus meis, donec inveniam locum Domino, tabernaculum Deo Iacob.
 
 6. Ecce audivimus eam in Ephrata ; invenimus eam in campis silvae.
 
-7. Introibimus in tabernaculum ejus ; adorabimus in loco ubi steterunt pedes ejus.
+7. Introibimus in tabernaculum eius ; adorabimus in loco ubi steterunt pedes eius.
 
 8. Surge, Domine, in requiem tuam, tu et arca sanctificationis tuae.
 
-9. Sacerdotes tui induantur justitiam, et sancti tui exsultent.
+9. Sacerdotes tui induantur iustitiam, et sancti tui exsultent.
 
 10. Propter David servum tuum non avertas faciem christi tui.
 
-11. Juravit Dominus David veritatem, et non frustrabitur eam : De fructu ventris tui ponam super sedem tuam.
+11. Iuravit Dominus David veritatem, et non frustrabitur eam : De fructu ventris tui ponam super sedem tuam.
 
 12. Si custodierint filii tui testamentum meum, et testimonia mea haec quae docebo eos, et filii eorum usque in saeculum sedebunt super sedem tuam.
 
@@ -5106,21 +5106,21 @@
 
 14. Haec requies mea in saeculum saeculi ; hic habitabo, quoniam elegi eam.
 
-15. Viduam ejus benedicens benedicam ; pauperes ejus saturabo panibus.
+15. Viduam eius benedicens benedicam ; pauperes eius saturabo panibus.
 
-16. Sacerdotes ejus induam salutari, et sancti ejus exsultatione exsultabunt.
+16. Sacerdotes eius induam salutari, et sancti eius exsultatione exsultabunt.
 
 17. Illuc producam cornu David ; paravi lucernam christo meo.
 
-18. Inimicos ejus induam confusione ; super ipsum autem efflorebit sanctificatio mea.
+18. Inimicos eius induam confusione ; super ipsum autem efflorebit sanctificatio mea.
 
 ---
 
 ## Psalmus 132
 
-1. Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum !
+1. Canticum graduum David. Ecce quam bonum et quam iucundum, habitare fratres in unum !
 
-2. Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus ;
+2. Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti eius ;
 
 3. sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum.
 
@@ -5138,13 +5138,13 @@
 
 ## Psalmus 134
 
-1. Alleluja. Laudate nomen Domini ; laudate, servi, Dominum :
+1. Alleluia. Laudate nomen Domini ; laudate, servi, Dominum :
 
 2. qui statis in domo Domini, in atriis domus Dei nostri.
 
-3. Laudate Dominum, quia bonus Dominus ; psallite nomini ejus, quoniam suave.
+3. Laudate Dominum, quia bonus Dominus ; psallite nomini eius, quoniam suave.
 
-4. Quoniam Jacob elegit sibi Dominus ; Israël in possessionem sibi.
+4. Quoniam Iacob elegit sibi Dominus ; Israël in possessionem sibi.
 
 5. Quia ego cognovi quod magnus est Dominus, et Deus noster prae omnibus diis.
 
@@ -5154,7 +5154,7 @@
 
 8. Qui percussit primogenita Aegypti, ab homine usque ad pecus.
 
-9. Et misit signa et prodigia in medio tui, Aegypte : in Pharaonem, et in omnes servos ejus.
+9. Et misit signa et prodigia in medio tui, Aegypte : in Pharaonem, et in omnes servos eius.
 
 10. Qui percussit gentes multas, et occidit reges fortes :
 
@@ -5164,7 +5164,7 @@
 
 13. Domine, nomen tuum in aeternum ; Domine, memoriale tuum in generationem et generationem.
 
-14. Quia judicabit Dominus populum suum, et in servis suis deprecabitur.
+14. Quia iudicabit Dominus populum suum, et in servis suis deprecabitur.
 
 15. Simulacra gentium argentum et aurum, opera manuum hominum.
 
@@ -5178,81 +5178,81 @@
 
 20. Domus Levi, benedicite Domino ; qui timetis Dominum, benedicite Domino.
 
-21. Benedictus Dominus ex Sion, qui habitat in Jerusalem.
+21. Benedictus Dominus ex Sion, qui habitat in Ierusalem.
 
 ---
 
 ## Psalmus 135
 
-1. Alleluja. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia ejus.
+1. Alleluia. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia eius.
 
-2. Confitemini Deo deorum, quoniam in aeternum misericordia ejus.
+2. Confitemini Deo deorum, quoniam in aeternum misericordia eius.
 
-3. Confitemini Domino dominorum, quoniam in aeternum misericordia ejus.
+3. Confitemini Domino dominorum, quoniam in aeternum misericordia eius.
 
-4. Qui facit mirabilia magna solus, quoniam in aeternum misericordia ejus.
+4. Qui facit mirabilia magna solus, quoniam in aeternum misericordia eius.
 
-5. Qui fecit caelos in intellectu, quoniam in aeternum misericordia ejus.
+5. Qui fecit caelos in intellectu, quoniam in aeternum misericordia eius.
 
-6. Qui firmavit terram super aquas, quoniam in aeternum misericordia ejus.
+6. Qui firmavit terram super aquas, quoniam in aeternum misericordia eius.
 
-7. Qui fecit luminaria magna, quoniam in aeternum misericordia ejus :
+7. Qui fecit luminaria magna, quoniam in aeternum misericordia eius :
 
-8. solem in potestatem diei, quoniam in aeternum misericordia ejus ;
+8. solem in potestatem diei, quoniam in aeternum misericordia eius ;
 
-9. lunam et stellas in potestatem noctis, quoniam in aeternum misericordia ejus.
+9. lunam et stellas in potestatem noctis, quoniam in aeternum misericordia eius.
 
-10. Qui percussit Aegyptum cum primogenitis eorum, quoniam in aeternum misericordia ejus.
+10. Qui percussit Aegyptum cum primogenitis eorum, quoniam in aeternum misericordia eius.
 
-11. Qui eduxit Israël de medio eorum, quoniam in aeternum misericordia ejus,
+11. Qui eduxit Israël de medio eorum, quoniam in aeternum misericordia eius,
 
-12. in manu potenti et brachio excelso, quoniam in aeternum misericordia ejus.
+12. in manu potenti et brachio excelso, quoniam in aeternum misericordia eius.
 
-13. Qui divisit mare Rubrum in divisiones, quoniam in aeternum misericordia ejus ;
+13. Qui divisit mare Rubrum in divisiones, quoniam in aeternum misericordia eius ;
 
-14. et eduxit Israël per medium ejus, quoniam in aeternum misericordia ejus ;
+14. et eduxit Israël per medium eius, quoniam in aeternum misericordia eius ;
 
-15. et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in aeternum misericordia ejus.
+15. et excussit Pharaonem et virtutem eius in mari Rubro, quoniam in aeternum misericordia eius.
 
-16. Qui traduxit populum suum per desertum, quoniam in aeternum misericordia ejus.
+16. Qui traduxit populum suum per desertum, quoniam in aeternum misericordia eius.
 
-17. Qui percussit reges magnos, quoniam in aeternum misericordia ejus ;
+17. Qui percussit reges magnos, quoniam in aeternum misericordia eius ;
 
-18. et occidit reges fortes, quoniam in aeternum misericordia ejus :
+18. et occidit reges fortes, quoniam in aeternum misericordia eius :
 
-19. Sehon, regem Amorrhaeorum, quoniam in aeternum misericordia ejus ;
+19. Sehon, regem Amorrhaeorum, quoniam in aeternum misericordia eius ;
 
-20. et Og, regem Basan, quoniam in aeternum misericordia ejus :
+20. et Og, regem Basan, quoniam in aeternum misericordia eius :
 
-21. et dedit terram eorum haereditatem, quoniam in aeternum misericordia ejus ;
+21. et dedit terram eorum haereditatem, quoniam in aeternum misericordia eius ;
 
-22. haereditatem Israël, servo suo, quoniam in aeternum misericordia ejus.
+22. haereditatem Israël, servo suo, quoniam in aeternum misericordia eius.
 
-23. Quia in humilitate nostra memor fuit nostri, quoniam in aeternum misericordia ejus ;
+23. Quia in humilitate nostra memor fuit nostri, quoniam in aeternum misericordia eius ;
 
-24. et redemit nos ab inimicis nostris, quoniam in aeternum misericordia ejus.
+24. et redemit nos ab inimicis nostris, quoniam in aeternum misericordia eius.
 
-25. Qui dat escam omni carni, quoniam in aeternum misericordia ejus.
+25. Qui dat escam omni carni, quoniam in aeternum misericordia eius.
 
-26. Confitemini Deo caeli, quoniam in aeternum misericordia ejus. Confitemini Domino dominorum, quoniam in aeternum misericordia ejus.
+26. Confitemini Deo caeli, quoniam in aeternum misericordia eius. Confitemini Domino dominorum, quoniam in aeternum misericordia eius.
 
 ---
 
 ## Psalmus 136
 
-1. Psalmus David, Jeremiae. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion.
+1. Psalmus David, Ieremiae. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion.
 
-2. In salicibus in medio ejus suspendimus organa nostra :
+2. In salicibus in medio eius suspendimus organa nostra :
 
 3. quia illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum ; et qui abduxerunt nos : Hymnum cantate nobis de canticis Sion.
 
 4. Quomodo cantabimus canticum Domini in terra aliena ?
 
-5. Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.
+5. Si oblitus fuero tui, Ierusalem, oblivioni detur dextera mea.
 
-6. Adhaereat lingua mea faucibus meis, si non meminero tui ; si non proposuero Jerusalem in principio laetitiae meae.
+6. Adhaereat lingua mea faucibus meis, si non meminero tui ; si non proposuero Ierusalem in principio laetitiae meae.
 
-7. Memor esto, Domine, filiorum Edom, in die Jerusalem : qui dicunt : Exinanite, exinanite usque ad fundamentum in ea.
+7. Memor esto, Domine, filiorum Edom, in die Ierusalem : qui dicunt : Exinanite, exinanite usque ad fundamentum in ea.
 
 8. Filia Babylonis misera ! beatus qui retribuet tibi retributionem tuam quam retribuisti nobis.
 
@@ -5304,7 +5304,7 @@
 
 11. Et dixi : Forsitan tenebrae conculcabunt me ; et nox illuminatio mea in deliciis meis.
 
-12. Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur : sicut tenebrae ejus, ita et lumen ejus.
+12. Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur : sicut tenebrae eius, ita et lumen eius.
 
 13. Quia tu possedisti renes meos ; suscepisti me de utero matris meae.
 
@@ -5344,7 +5344,7 @@
 
 5. Custodi me, Domine, de manu peccatoris, et ab hominibus iniquis eripe me. Qui cogitaverunt supplantare gressus meos :
 
-6. absconderunt superbi laqueum mihi. Et funes extenderunt in laqueum ; juxta iter, scandalum posuerunt mihi.
+6. absconderunt superbi laqueum mihi. Et funes extenderunt in laqueum ; iuxta iter, scandalum posuerunt mihi.
 
 7. Dixi Domino : Deus meus es tu ; exaudi, Domine, vocem deprecationis meae.
 
@@ -5354,13 +5354,13 @@
 
 10. Caput circuitus eorum : labor labiorum ipsorum operiet eos.
 
-11. Cadent super eos carbones ; in ignem dejicies eos : in miseriis non subsistent.
+11. Cadent super eos carbones ; in ignem deiicies eos : in miseriis non subsistent.
 
-12. Vir linguosus non dirigetur in terra ; virum injustum mala capient in interitu.
+12. Vir linguosus non dirigetur in terra ; virum iniustum mala capient in interitu.
 
-13. Cognovi quia faciet Dominus judicium inopis, et vindictam pauperum.
+13. Cognovi quia faciet Dominus iudicium inopis, et vindictam pauperum.
 
-14. Verumtamen justi confitebuntur nomini tuo, et habitabunt recti cum vultu tuo.
+14. Verumtamen iusti confitebuntur nomini tuo, et habitabunt recti cum vultu tuo.
 
 ---
 
@@ -5374,9 +5374,9 @@
 
 4. Non declines cor meum in verba malitiae, ad excusandas excusationes in peccatis ; cum hominibus operantibus iniquitatem, et non communicabo cum electis eorum.
 
-5. Corripiet me justus in misericordia, et increpabit me : oleum autem peccatoris non impinguet caput meum. Quoniam adhuc et oratio mea in beneplacitis eorum :
+5. Corripiet me iustus in misericordia, et increpabit me : oleum autem peccatoris non impinguet caput meum. Quoniam adhuc et oratio mea in beneplacitis eorum :
 
-6. absorpti sunt juncti petrae judices eorum. Audient verba mea, quoniam potuerunt.
+6. absorpti sunt iuncti petrae iudices eorum. Audient verba mea, quoniam potuerunt.
 
 7. Sicut crassitudo terrae erupta est super terram, dissipata sunt ossa nostra secus infernum.
 
@@ -5384,7 +5384,7 @@
 
 9. Custodi me a laqueo quem statuerunt mihi, et a scandalis operantium iniquitatem.
 
-10. Cadent in retiaculo ejus peccatores : singulariter sum ego, donec transeam.
+10. Cadent in retiaculo eius peccatores : singulariter sum ego, donec transeam.
 
 ---
 
@@ -5394,7 +5394,7 @@
 
 2. Voce mea ad Dominum clamavi, voce mea ad Dominum deprecatus sum.
 
-3. Effundo in conspectu ejus orationem meam, et tribulationem meam ante ipsum pronuntio :
+3. Effundo in conspectu eius orationem meam, et tribulationem meam ante ipsum pronuntio :
 
 4. in deficiendo ex me spiritum meum, et tu cognovisti semitas meas. In via hac qua ambulabam absconderunt laqueum mihi.
 
@@ -5404,15 +5404,15 @@
 
 7. Intende ad deprecationem meam, quia humiliatus sum nimis. Libera me a persequentibus me, quia confortati sunt super me.
 
-8. Educ de custodia animam meam ad confitendum nomini tuo ; me exspectant justi donec retribuas mihi.
+8. Educ de custodia animam meam ad confitendum nomini tuo ; me exspectant iusti donec retribuas mihi.
 
 ---
 
 ## Psalmus 142
 
-1. Psalmus David, quando persequebatur eum Absalom filius ejus. Domine, exaudi orationem meam ; auribus percipe obsecrationem meam in veritate tua ; exaudi me in tua justitia.
+1. Psalmus David, quando persequebatur eum Absalom filius eius. Domine, exaudi orationem meam ; auribus percipe obsecrationem meam in veritate tua ; exaudi me in tua iustitia.
 
-2. Et non intres in judicium cum servo tuo, quia non justificabitur in conspectu tuo omnis vivens.
+2. Et non intres in iudicium cum servo tuo, quia non iustificabitur in conspectu tuo omnis vivens.
 
 3. Quia persecutus est inimicus animam meam ; humiliavit in terra vitam meam ; collocavit me in obscuris, sicut mortuos saeculi.
 
@@ -5444,7 +5444,7 @@
 
 3. Domine, quid est homo, quia innotuisti ei ? aut filius hominis, quia reputas eum ?
 
-4. Homo vanitati similis factus est ; dies ejus sicut umbra praetereunt.
+4. Homo vanitati similis factus est ; dies eius sicut umbra praetereunt.
 
 5. Domine, inclina caelos tuos, et descende ; tange montes, et fumigabunt.
 
@@ -5460,13 +5460,13 @@
 
 11. eripe me, et erue me de manu filiorum alienorum, quorum os locutum est vanitatem, et dextera eorum dextera iniquitatis.
 
-12. Quorum filii sicut novellae plantationes in juventute sua ; filiae eorum compositae, circumornatae ut similitudo templi.
+12. Quorum filii sicut novellae plantationes in iuventute sua ; filiae eorum compositae, circumornatae ut similitudo templi.
 
 13. Promptuaria eorum plena, eructantia ex hoc in illud ; oves eorum foetosae, abundantes in egressibus suis ;
 
 14. boves eorum crassae. Non est ruina maceriae, neque transitus, neque clamor in plateis eorum.
 
-15. Beatum dixerunt populum cui haec sunt ; beatus populus cujus Dominus Deus ejus.
+15. Beatum dixerunt populum cui haec sunt ; beatus populus cuius Dominus Deus eius.
 
 ---
 
@@ -5476,7 +5476,7 @@
 
 2. Per singulos dies benedicam tibi, et laudabo nomen tuum in saeculum, et in saeculum saeculi.
 
-3. Magnus Dominus, et laudabilis nimis, et magnitudinis ejus non est finis.
+3. Magnus Dominus, et laudabilis nimis, et magnitudinis eius non est finis.
 
 4. Generatio et generatio laudabit opera tua, et potentiam tuam pronuntiabunt.
 
@@ -5484,11 +5484,11 @@
 
 6. Et virtutem terribilium tuorum dicent, et magnitudinem tuam narrabunt.
 
-7. Memoriam abundantiae suavitatis tuae eructabunt, et justitia tua exsultabunt.
+7. Memoriam abundantiae suavitatis tuae eructabunt, et iustitia tua exsultabunt.
 
 8. Miserator et misericors Dominus : patiens, et multum misericors.
 
-9. Suavis Dominus universis, et miserationes ejus super omnia opera ejus.
+9. Suavis Dominus universis, et miserationes eius super omnia opera eius.
 
 10. Confiteantur tibi, Domine, omnia opera tua, et sancti tui benedicant tibi.
 
@@ -5504,7 +5504,7 @@
 
 16. Aperis tu manum tuam, et imples omne animal benedictione.
 
-17. Justus Dominus in omnibus viis suis, et sanctus in omnibus operibus suis.
+17. Iustus Dominus in omnibus viis suis, et sanctus in omnibus operibus suis.
 
 18. Prope est Dominus omnibus invocantibus eum, omnibus invocantibus eum in veritate.
 
@@ -5512,27 +5512,27 @@
 
 20. Custodit Dominus omnes diligentes se, et omnes peccatores disperdet.
 
-21. Laudationem Domini loquetur os meum ; et benedicat omnis caro nomini sancto ejus in saeculum, et in saeculum saeculi.
+21. Laudationem Domini loquetur os meum ; et benedicat omnis caro nomini sancto eius in saeculum, et in saeculum saeculi.
 
 ---
 
 ## Psalmus 145
 
-1. Alleluja, Aggaei et Zachariae.
+1. Alleluia, Aggaei et Zachariae.
 
 2. Lauda, anima mea, Dominum. Laudabo Dominum in vita mea ; psallam Deo meo quamdiu fuero. Nolite confidere in principibus,
 
 3. in filiis hominum, in quibus non est salus.
 
-4. Exibit spiritus ejus, et revertetur in terram suam ; in illa die peribunt omnes cogitationes eorum.
+4. Exibit spiritus eius, et revertetur in terram suam ; in illa die peribunt omnes cogitationes eorum.
 
-5. Beatus cujus Deus Jacob adjutor ejus, spes ejus in Domino Deo ipsius :
+5. Beatus cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius :
 
 6. qui fecit caelum et terram, mare, et omnia quae in eis sunt.
 
-7. Qui custodit veritatem in saeculum ; facit judicium injuriam patientibus ; dat escam esurientibus. Dominus solvit compeditos ;
+7. Qui custodit veritatem in saeculum ; facit iudicium iniuriam patientibus ; dat escam esurientibus. Dominus solvit compeditos ;
 
-8. Dominus illuminat caecos. Dominus erigit elisos ; Dominus diligit justos.
+8. Dominus illuminat caecos. Dominus erigit elisos ; Dominus diligit iustos.
 
 9. Dominus custodit advenas, pupillum et viduam suscipiet, et vias peccatorum disperdet.
 
@@ -5542,15 +5542,15 @@
 
 ## Psalmus 146
 
-1. Alleluja. Laudate Dominum, quoniam bonus est psalmus ; Deo nostro sit jucunda, decoraque laudatio.
+1. Alleluia. Laudate Dominum, quoniam bonus est psalmus ; Deo nostro sit iucunda, decoraque laudatio.
 
-2. Aedificans Jerusalem Dominus, dispersiones Israëlis congregabit :
+2. Aedificans Ierusalem Dominus, dispersiones Israëlis congregabit :
 
 3. qui sanat contritos corde, et alligat contritiones eorum ;
 
 4. qui numerat multitudinem stellarum, et omnibus eis nomina vocat.
 
-5. Magnus Dominus noster, et magna virtus ejus, et sapientiae ejus non est numerus.
+5. Magnus Dominus noster, et magna virtus eius, et sapientiae eius non est numerus.
 
 6. Suscipiens mansuetos Dominus ; humilians autem peccatores usque ad terram.
 
@@ -5558,41 +5558,41 @@
 
 8. Qui operit caelum nubibus, et parat terrae pluviam ; qui producit in montibus foenum, et herbam servituti hominum ;
 
-9. qui dat jumentis escam ipsorum, et pullis corvorum invocantibus eum.
+9. qui dat iumentis escam ipsorum, et pullis corvorum invocantibus eum.
 
 10. Non in fortitudine equi voluntatem habebit, nec in tibiis viri beneplacitum erit ei.
 
-11. Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia ejus.
+11. Beneplacitum est Domino super timentes eum, et in eis qui sperant super misericordia eius.
 
 ---
 
 ## Psalmus 147
 
-1. Alleluja. Lauda, Jerusalem, Dominum ; lauda Deum tuum, Sion.
+1. Alleluia. Lauda, Ierusalem, Dominum ; lauda Deum tuum, Sion.
 
 2. Quoniam confortavit seras portarum tuarum ; benedixit filiis tuis in te.
 
 3. Qui posuit fines tuos pacem, et adipe frumenti satiat te.
 
-4. Qui emittit eloquium suum terrae : velociter currit sermo ejus.
+4. Qui emittit eloquium suum terrae : velociter currit sermo eius.
 
 5. Qui dat nivem sicut lanam ; nebulam sicut cinerem spargit.
 
-6. Mittit crystallum suam sicut buccellas : ante faciem frigoris ejus quis sustinebit ?
+6. Mittit crystallum suam sicut buccellas : ante faciem frigoris eius quis sustinebit ?
 
-7. Emittet verbum suum, et liquefaciet ea ; flabit spiritus ejus, et fluent aquae.
+7. Emittet verbum suum, et liquefaciet ea ; flabit spiritus eius, et fluent aquae.
 
-8. Qui annuntiat verbum suum Jacob, justitias et judicia sua Israël.
+8. Qui annuntiat verbum suum Iacob, iustitias et iudicia sua Israël.
 
-9. Non fecit taliter omni nationi, et judicia sua non manifestavit eis. Alleluja.
+9. Non fecit taliter omni nationi, et iudicia sua non manifestavit eis. Alleluia.
 
 ---
 
 ## Psalmus 148
 
-1. Alleluja. Laudate Dominum de caelis ; laudate eum in excelsis.
+1. Alleluia. Laudate Dominum de caelis ; laudate eum in excelsis.
 
-2. Laudate eum, omnes angeli ejus ; laudate eum, omnes virtutes ejus.
+2. Laudate eum, omnes angeli eius ; laudate eum, omnes virtutes eius.
 
 3. Laudate eum, sol et luna ; laudate eum, omnes stellae et lumen.
 
@@ -5604,29 +5604,29 @@
 
 7. Laudate Dominum de terra, dracones et omnes abyssi ;
 
-8. ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum ejus ;
+8. ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius ;
 
 9. montes, et omnes colles ; ligna fructifera, et omnes cedri ;
 
 10. bestiae, et universa pecora ; serpentes, et volucres pennatae ;
 
-11. reges terrae et omnes populi ; principes et omnes judices terrae ;
+11. reges terrae et omnes populi ; principes et omnes iudices terrae ;
 
-12. juvenes et virgines ; senes cum junioribus, laudent nomen Domini :
+12. iuvenes et virgines ; senes cum iunioribus, laudent nomen Domini :
 
-13. quia exaltatum est nomen ejus solius.
+13. quia exaltatum est nomen eius solius.
 
-14. Confessio ejus super caelum et terram ; et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus ; filiis Israël, populo appropinquanti sibi. Alleluja.
+14. Confessio eius super caelum et terram ; et exaltavit cornu populi sui. Hymnus omnibus sanctis eius ; filiis Israël, populo appropinquanti sibi. Alleluia.
 
 ---
 
 ## Psalmus 149
 
-1. Alleluja. Cantate Domino canticum novum ; laus ejus in ecclesia sanctorum.
+1. Alleluia. Cantate Domino canticum novum ; laus eius in ecclesia sanctorum.
 
 2. Laetetur Israël in eo qui fecit eum, et filii Sion exsultent in rege suo.
 
-3. Laudent nomen ejus in choro ; in tympano et psalterio psallant ei.
+3. Laudent nomen eius in choro ; in tympano et psalterio psallant ei.
 
 4. Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem.
 
@@ -5638,22 +5638,22 @@
 
 8. ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis ;
 
-9. ut faciant in eis judicium conscriptum : gloria haec est omnibus sanctis ejus. Alleluja.
+9. ut faciant in eis iudicium conscriptum : gloria haec est omnibus sanctis eius. Alleluia.
 
 ---
 
 ## Psalmus 150
 
-1. Alleluja. Laudate Dominum in sanctis ejus ; laudate eum in firmamento virtutis ejus.
+1. Alleluia. Laudate Dominum in sanctis eius ; laudate eum in firmamento virtutis eius.
 
-2. Laudate eum in virtutibus ejus ; laudate eum secundum multitudinem magnitudinis ejus.
+2. Laudate eum in virtutibus eius ; laudate eum secundum multitudinem magnitudinis eius.
 
 3. Laudate eum in sono tubae ; laudate eum in psalterio et cithara.
 
 4. Laudate eum in tympano et choro ; laudate eum in chordis et organo.
 
-5. Laudate eum in cymbalis benesonantibus ; laudate eum in cymbalis jubilationis.
+5. Laudate eum in cymbalis benesonantibus ; laudate eum in cymbalis iubilationis.
 
-6. Omnis spiritus laudet Dominum ! Alleluja.
+6. Omnis spiritus laudet Dominum ! Alleluia.
 
 ---
