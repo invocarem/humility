@@ -72,22 +72,30 @@ function notesFor(id: string): CruxNote[] {
   return findSegment(id)?.notes ?? [];
 }
 
-function segmentHtml(segment: Segment, field: "latin" | TranslationId): string {
+function segmentHtml(segment: Segment, field: "latin" | TranslationId, gutter: boolean): string {
   const selected = segment.id === state.selected ? " selected" : "";
   const flag = segment.notes?.length ? `<sup class="note-flag">n</sup>` : "";
+  const mark = gutter
+    ? `<span class="seg-gutter" data-id="${escapeHtml(segment.id)}" title="Select sentence"></span>`
+    : "";
   const body =
     field === "latin"
       ? latinTokenHtml(segment.latin)
       : escapeHtml(segment.translations[field] ?? "");
-  return `<span class="segment${selected}" data-id="${escapeHtml(segment.id)}">${body}${flag}</span> `;
+  return `<span class="segment${selected}" data-id="${escapeHtml(segment.id)}">${mark}${body}${flag}</span> `;
 }
 
 function pane(label: string, field: "latin" | TranslationId, extraClass: string): string {
   const chapter = currentChapter();
   const blocks = chapter.paragraphs
     .map((paragraph) => {
-      const n = paragraph.n ? `<span class="para-n">${escapeHtml(paragraph.n)}</span> ` : "";
-      const body = paragraph.segments.map((segment) => segmentHtml(segment, field)).join("");
+      const firstId = paragraph.segments[0]?.id;
+      const n = paragraph.n
+        ? `<span class="para-n" data-id="${escapeHtml(firstId ?? "")}" title="Select paragraph">${escapeHtml(paragraph.n)}</span> `
+        : "";
+      const body = paragraph.segments
+        .map((segment, index) => segmentHtml(segment, field, !paragraph.n || index > 0))
+        .join("");
       return `<p class="paragraph" id="${field}-${escapeHtml(paragraph.id)}">${n}${body}</p>`;
     })
     .join("");
@@ -191,6 +199,8 @@ function showDict(wordRaw: string, anchor: HTMLElement): void {
   if (!el) {
     return;
   }
+  root.querySelectorAll(".w.active").forEach((node) => node.classList.remove("active"));
+  anchor.classList.add("active");
   el.innerHTML = dictCardHtml(wordRaw);
   el.hidden = false;
   const margin = 10;
@@ -208,10 +218,31 @@ function showDict(wordRaw: string, anchor: HTMLElement): void {
 }
 
 function hideDict(): void {
+  root.querySelectorAll(".w.active").forEach((node) => node.classList.remove("active"));
   const el = root.querySelector<HTMLElement>("#dict");
   if (el) {
     el.hidden = true;
   }
+}
+
+/** Scroll each column so `id` is visible under the sticky pane label. */
+function alignPanes(id: string): void {
+  root.querySelectorAll<HTMLElement>(".pane").forEach((pane) => {
+    const match = pane.querySelector<HTMLElement>(`.segment[data-id="${CSS.escape(id)}"]`);
+    if (!match) {
+      return;
+    }
+    const paneRect = pane.getBoundingClientRect();
+    const matchRect = match.getBoundingClientRect();
+    const label = pane.querySelector<HTMLElement>(".pane-label");
+    const topGutter = (label?.offsetHeight ?? 0) + 8;
+    const visibleTop = paneRect.top + topGutter;
+    const visibleBottom = paneRect.bottom - 8;
+    if (matchRect.top >= visibleTop && matchRect.bottom <= visibleBottom) {
+      return;
+    }
+    pane.scrollTop += matchRect.top - visibleTop - 12;
+  });
 }
 
 function readerPanes(): string {
@@ -275,7 +306,7 @@ function render(): void {
       ${drawerHtml()}
       <aside class="dict" id="dict" hidden></aside>
       <footer class="statusbar">
-        Latin is the index. Click a sentence to align the English. Notes open only on a crux.
+        Latin is the index. Click a word for a gloss. Click a paragraph number (or the sentence mark) to align English.
       </footer>
     </div>
   `;
@@ -290,6 +321,7 @@ function applySelection(id: string | null): void {
     root.querySelectorAll(`.segment[data-id="${CSS.escape(id)}"]`).forEach((node) => {
       node.classList.add("selected");
     });
+    alignPanes(id);
   }
   const existing = root.querySelector(".drawer");
   const next = drawerHtml();
@@ -376,10 +408,12 @@ function bind(): void {
     });
   });
 
-  root.querySelectorAll<HTMLElement>(".segment").forEach((node) => {
-    node.addEventListener("click", () => {
-      const id = node.dataset.id ?? null;
-      applySelection(id === state.selected ? null : id);
+  root.querySelectorAll<HTMLElement>(".para-n[data-id], .seg-gutter").forEach((node) => {
+    node.addEventListener("click", (event) => {
+      event.stopPropagation();
+      hideDict();
+      const id = node.dataset.id || null;
+      applySelection(id && id === state.selected ? null : id);
     });
   });
 
@@ -435,6 +469,14 @@ document.addEventListener("keydown", (event) => {
     applySelection(null);
     hideDict();
   }
+});
+
+document.addEventListener("click", (event) => {
+  const target = event.target as HTMLElement | null;
+  if (target?.closest("#dict") || target?.closest(".w")) {
+    return;
+  }
+  hideDict();
 });
 
 render();

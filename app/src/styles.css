@@ -242,6 +242,33 @@ button[aria-pressed="true"] {
   font-size: 0.75rem;
   color: var(--accent);
   font-weight: 600;
+  cursor: pointer;
+  border-radius: 0.2rem;
+  padding: 0 0.12rem;
+}
+
+.para-n:hover {
+  background: rgba(240, 212, 138, 0.45);
+}
+
+.paragraph:has(.para-n:hover) .segment {
+  background: rgba(240, 212, 138, 0.28);
+}
+
+.seg-gutter {
+  display: inline-block;
+  width: 0.38rem;
+  height: 0.8em;
+  margin: 0 0.22rem 0 0.02rem;
+  border-radius: 1px;
+  background: var(--rule);
+  cursor: pointer;
+  vertical-align: 0.08em;
+}
+
+.seg-gutter:hover,
+.segment.selected > .seg-gutter {
+  background: var(--hi-edge);
 }
 
 .latin {
@@ -267,11 +294,10 @@ button[aria-pressed="true"] {
 .segment {
   display: inline;
   border-radius: 0.2rem;
-  cursor: pointer;
   box-decoration-break: clone;
 }
 
-.segment:hover {
+.segment:has(.seg-gutter:hover) {
   background: rgba(240, 212, 138, 0.35);
 }
 
@@ -344,6 +370,10 @@ button[aria-pressed="true"] {
 }
 .w:hover {
   background: color-mix(in srgb, var(--hi) 55%, transparent);
+}
+.w.active {
+  background: color-mix(in srgb, var(--hi) 85%, transparent);
+  box-shadow: inset 0 -1px 0 var(--hi-edge);
 }
 
 /* --- dictionary popup --- */

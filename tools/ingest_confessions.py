@@ -323,10 +323,33 @@ def partition(items: list[str], n: int) -> list[str]:
     return out
 
 
-def align_book(english: list[str], latin_ns: list[str]) -> tuple[list[str], str]:
+# Gutenberg #3296 splits the Terence and Juno verses in Book I onto their own
+# lines. Latin 1.16.26 keeps the Terence quote *and* its coda ("Not one whit…");
+# 1.17.27 keeps the Juno paraphrase *and* "Which words I had heard…". Joining
+# only short fragments left those codas as extra paragraphs and shifted every
+# later caput in the book.
+BOOK1_GROUPS = [
+    [0], [1], [2], [3], [4], [5], [6], [7], [8], [9],
+    [10], [11], [12], [13], [14], [15], [16], [17], [18], [19],
+    [20], [21], [22], [23], [24],
+    [25, 26, 27, 28, 29, 30],  # 1.16.26 hellish torrent + Terence + coda
+    [31, 32, 33],              # 1.17.27 Juno exercise
+    [34], [35], [36], [37],    # 1.18.28, 1.18.29, 1.19.30, 1.20.31
+]
+
+
+def group_paras(items: list[str], groups: list[list[int]]) -> list[str]:
+    return [" ".join(items[i] for i in g).strip() for g in groups]
+
+
+def align_book(english: list[str], latin_ns: list[str], book: int) -> tuple[list[str], str]:
     target = len(latin_ns)
     src = list(english)
     note = f"Pusey {len(src)} paras → Latin {target}"
+    if book == 1 and len(src) == 38 and target == 31:
+        src = group_paras(src, BOOK1_GROUPS)
+        note += " (Book I Terence/Juno verse lines joined onto PL §§26–27)"
+        return src, note
     if len(src) > target:
         src = merge_to_count(src, target)
         note += f" (merged to {len(src)})"
@@ -351,7 +374,7 @@ def write_pusey(latin: dict[str, dict[str, str]], english: dict[int, list[str]])
     notes: list[str] = []
     for book in range(1, 14):
         slots = by_book[book]
-        groups, note = align_book(english.get(book, []), [n for _k, n in slots])
+        groups, note = align_book(english.get(book, []), [n for _k, n in slots], book)
         notes.append(f"book {book}: {note}")
         for (key, n), text in zip(slots, groups):
             aligned[key][n] = text
