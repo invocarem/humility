@@ -57,6 +57,21 @@ function numbered(lo: number, hi: number): Chapter[] {
   );
 }
 
+// Thematic division of the Rule, in the spirit of De gradibus's editorial
+// parts (meaningful boundaries + titles rather than bare ranges). Chapter
+// headings themselves come from Verheyen's `titles` map (fed through
+// applyRenderings), so this table only groups them.
+const THEMATIC = [
+  ["prologus", "Prologus", undefined, undefined],
+  ["foundations", "Capitula 1–7 — The foundations of monastic life", 1, 7],
+  ["office", "Capitula 8–20 — The Divine Office", 8, 20],
+  ["discipline", "Capitula 21–30 — Community discipline and correction", 21, 30],
+  ["care", "Capitula 31–37 — The cellarer and care of the weak", 31, 37],
+  ["daily", "Capitula 38–57 — Reading, labour, and food", 38, 57],
+  ["reception", "Capitula 58–66 — Reception and rank in the community", 58, 66],
+  ["fraternal", "Capitula 67–73 — Fraternal correction and the epilogue", 67, 73],
+] as const;
+
 export const rule: Work = {
   id: "rule",
   title: "The Rule of St Benedict",
@@ -73,26 +88,12 @@ export const rule: Work = {
       note: "Boniface Verheyen, The Holy Rule of St. Benedict (1949). Public domain (CCEL / Project Gutenberg). English paragraphs are joined onto the coarser numbered blocks in latin.md; they are not a 1:1 sentence alignment.",
     },
   ],
-  parts: [
-    {
-      id: "prologus",
-      title: "Prologus",
-      chapters: renderedChapters.filter((chapter) => chapter.id === "rule:prologus"),
-    },
-    {
-      id: "foundations",
-      title: "Capitula 1–7",
-      chapters: numbered(1, 7),
-    },
-    {
-      id: "office",
-      title: "Capitula 8–20",
-      chapters: numbered(8, 20),
-    },
-    {
-      id: "community",
-      title: "Capitula 21–73",
-      chapters: numbered(21, 73),
-    },
-  ],
+  parts: THEMATIC.map(([id, title, lo, hi]) => ({
+    id,
+    title,
+    chapters:
+      lo === undefined
+        ? renderedChapters.filter((chapter) => chapter.id === "rule:prologus")
+        : numbered(lo!, hi!),
+  })),
 };
