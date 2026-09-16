@@ -147,6 +147,10 @@ def chapter_id(text: str, cfg: ParserCfg) -> tuple[str, int | None]:
             return "untitled", None
         return f"{cfg.id_prefix}{cfg.id_sep}{n}", n
     first = text.strip().split()[0].lower()
+    # Bernard's closing address was later printed as Mabillon's Admonitio;
+    # the working latin.md restores his own heading Conversio.
+    if first == "conversio":
+        first = "admonitio"
     if first in MATTER_WORDS:
         cid = first
     else:

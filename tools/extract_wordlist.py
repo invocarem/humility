@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
 
 SKIP_HEADING = re.compile(
-    r"^(Retractatio|Praefatio|Caput|Admonitio|Prologus|Capitulum|"
+    r"^(Retractatio|Praefatio|Caput|Admonitio|Conversio|Prologus|Capitulum|"
     r"Liber|Psalmus|Confessiones)\b",
     re.IGNORECASE,
 )
