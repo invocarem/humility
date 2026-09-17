@@ -13,7 +13,10 @@ superbiae*) into a small library of Latin + translation + analyses works:
    ancestor of Bernard's ladder).
 4. **Augustine, Confessions** (PL 32 + a public-domain English + close) —
    the big editorial lift, attempted after the machinery is hardened.
-5. **Bernard, Sermones in Cantica** (a big editorial effort; mostly `close`
+5. **Vulgate New Testament** (Clementine + Douay-Rheims) — biblical companion
+   to the Gallican Psalter; **Gospels first**, then Paul's letters, then the
+   rest, all one work.
+6. **Bernard, Sermones in Cantica** (a big editorial effort; mostly `close`
    renderings).
 
 The existing machinery already generalizes: the analyses pipeline
@@ -266,7 +269,73 @@ Verify:
 
 ---
 
-## Step 9 — Work #5: Bernard, Sermones in Cantica
+## Step 9 — Work #5: Vulgate New Testament (Gospels first)
+
+Biblical companion to the Gallican Psalter. Destination is the **whole
+Clementine New Testament** (27 books) as **one work**, not 27 works and not a
+separate Pauline work. **This step is only Wave 1 (the four Gospels).** Paul's
+letters are needed; they are Wave 2 of the same work, not a new `WorkId`.
+
+Locked for this work:
+- `WorkId`: `novum`. Add it to the union in `content/schema.ts` and append the
+  work to `content/works.ts` in roadmap order (after confessions, before
+  cantica).
+- Latin: **Vulgata Clementina**, same house as the Gallican psalter. Do not mix
+  Stuttgart Gospels with Clementine Psalms. Note provenance in `edition`.
+  `content/novum/latin.md` is authoritative; Wave 1 contains only the four
+  Gospels, and the file grows in later waves.
+- English: **Douay-Rheims Challoner** only (Project Gutenberg #8300, already
+  used for the psalter). It translates the Vulgate, so it is the 1:1 column.
+  **No `close` column.**
+- Structure: one work, Parts by traditional Vulgate groupings. Wave 1 fills
+  four Parts (Matthaeus, Marcus, Lucas, Ioannes). Later waves add Actus,
+  Epistulae Pauli (Romans–Philemon + Hebrews, Vulgate order), Epistulae
+  Catholicae, Apocalypsis. Chapter ids like `novum:mt:5`, verses as `p1`…
+  inside the chapter.
+- Ingest: today's parser handles `Psalmus N` or `Liber N Caput M`, not named
+  biblical books. Extend `tools/ingest_latin.py` / `content/novum/ingest.json`
+  for book + chapter + verse. Smoke-test the parser on Matthew, then ingest
+  all four Gospels. Do not register hollow Paul/remainder Parts in the
+  switcher.
+- Lexicon: one closed list for the whole work (`content/novum/lexicon/`).
+  Re-extract when `latin.md` grows. Starter Gospel cards in Wave 1
+  (*verbum*, *regnum*, *discipulus*, …); Pauline stems wait for Wave 2.
+- Old Testament stays out except the Psalter already in the library.
+- Bundle: this list will be Confessions-sized or larger. The inlined-lexicon
+  code-split in **Later** becomes more urgent once Wave 1 lands.
+
+**Wave 1 (this step) — Gospels.** Step 9 is done when the Wave 1 verify
+passes. Waves 2–3 stay on this page so Work #5 is not forgotten; they do
+**not** block Step 10.
+
+Verify (Wave 1):
+- [ ] `WorkId` `novum` is in the registry; the switcher lists one NT entry.
+- [ ] Matthew, Mark, Luke, and John open with Clementine Latin + Douay;
+      click-a-word and sentence alignment work end-to-end; *De gradibus*
+      unchanged.
+- [ ] A first pass of Gospel stem cards is curated in `overrides.json`.
+- [ ] `latin.md` has no Acts/Paul/remainder yet; TOC has no empty Parts.
+
+**Wave 2 (future, same work) — Paul's letters.** Needed; do not start until
+Wave 1 verify passes. Vulgate order: Romans–Philemon + Hebrews (traditional
+Pauline block; note authorship in `edition`, not in the TOC). This is where
+the NT lexicon earns its keep (*gratia*, *fides*, *lex*, *caro*,
+*iustificatio*).
+
+Verify (Wave 2):
+- [ ] All 14 letters render with Douay; ids like `novum:rom:8`; starter
+      Pauline stem cards curated; Gospel chapters still align.
+
+**Wave 3 (future, same work) — remainder of the NT.** Acts, Catholic
+epistles, Apocalypse. Same importer and Douay merge as Wave 2.
+
+Verify (Wave 3):
+- [ ] All 27 Clementine NT books are in `latin.md` and the TOC; Douay 1:1;
+      one lexicon; no `close` column.
+
+---
+
+## Step 10 — Work #6: Bernard, Sermones in Cantica
 
 - Latin: PL 183. The largest editorial task.
 - Translation: no widely-public-domain complete English exists (the classic
@@ -285,11 +354,12 @@ Verify:
 
 - Cross-work **global** search (currently search is within the active work).
 - Cross-references between works (e.g. a psalm Bernard quotes → the psalter
-  work; *De gradibus*'s *misericordia* → Confessions).
+  work; a Gospel pericope → `novum`; *De gradibus*'s *misericordia* →
+  Confessions).
 - Progressive enhancement per work: different fonts/columns, psalm numbering
   toggle (Hebrew vs LXX/Vulgate vs Septuagint), antiphon/office metadata.
 - Code-split the big inlined lexicon JSON in the bundle (currently ~1.25 MB raw
-  / 312 kB gzip) if it grows.
+  / 312 kB gzip) if it grows — Wave 1 of `novum` will make this real.
 
 ---
 

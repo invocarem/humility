@@ -9,10 +9,11 @@ Works in the library today:
 3. The Rule of St Benedict
 4. Augustine, *Confessiones*
 
-Bernard’s *Sermones in Cantica* are planned; see
-[`docs/roadmap.md`](docs/roadmap.md). That file is the working plan (current
-step, verify checklists). This README is the reader bookmark: how to run the
-app, where the texts live, and how to rebuild the lexicon.
+Planned next works (see [`docs/roadmap.md`](docs/roadmap.md)): the Vulgate
+New Testament (Gospels first, then Paul, one work) and Bernard’s *Sermones in
+Cantica*. That file is the working plan (current step, verify checklists).
+This README is the reader bookmark: how to run the app, where the texts live,
+and how to rebuild the lexicon.
 
 ## Do not edit
 
